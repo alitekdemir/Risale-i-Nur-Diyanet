@@ -4,6 +4,7 @@ Türkiye Cumhuriyeti Diyanet İşleri Başkanlığı tarafından hazırlanan tas
 
 **Buradaki dosyalar, yapılacak araştırmalarda kaynak dosyası olarak kullanılabilmesi için oluşturulmuştur.**
 
+---
 ### Risale-i Nur’un, Diyanet – asıl nüsha metni dijital ortamda!
 ![](/img/risale-i-nur-kulliyati.jpg)
 > Bedîüzzaman Said Nursî Hazretlerinin Risale-i Nur Külliyatı, tahrifattan muhafaza için Diyanet İşleri Başkanlığınca incelemeye alınmış ve bir tahkik heyeti kurularak “asıl nüsha metni” hazırlanmaya başlanmıştı.  
