@@ -1,11 +1,11 @@
-# Risale-i-Nur Diyanet Asıl Nüsha Metinleri
+# Risale-i-Nur Külliyatı Diyanet Asıl Nüsha Metinleri
 Türkiye Cumhuriyeti Diyanet İşleri Başkanlığı tarafından hazırlanan tashihli nüshaların metin dosyası olarak bir kopyasını içerir.
 Çalışma siteden metinlerin kopyalanmasıyla elde edilmiştir. Bu Risale-i Nur Külliyatı'nın metin dosyaları www.risaleinur.hizmetvakfi.org adresinden indirilmiştir. 
 
 **Buradaki dosyalar, yapılacak araştırmalarda kaynak dosyası olarak kullanılabilmesi için oluşturulmuştur.**
 
 ---
-### Risale-i Nur’un, Diyanet – asıl nüsha metni dijital ortamda!
+### Risale-i Nur Külliyatı’nın, Diyanet – asıl nüsha metni dijital ortamda!
 ![](/img/risale-i-nur-kulliyati.jpg)
 > Bedîüzzaman Said Nursî Hazretlerinin Risale-i Nur Külliyatı, tahrifattan muhafaza için Diyanet İşleri Başkanlığınca incelemeye alınmış ve bir tahkik heyeti kurularak “asıl nüsha metni” hazırlanmaya başlanmıştı.  
 > DİB, bu metnin hazırlanmasında, 1956-1960 seneleri arasında yeni yazıyla matbaalarda basılan eserleri esas aldı. Bu dönemde, basılacak her bir kitabın formaları Bediüzzaman’a getiriliyor ve müellifince gerekli tashihlerden sonra matbaaya gönderilip basılıyordu. Bediüzzaman’ın vefatına kadar Külliyat’ın ekseriyeti, bu şekilde yeni yazıyla matbaalarda basılıp neşredilmişti.  
