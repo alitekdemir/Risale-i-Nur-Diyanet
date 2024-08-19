@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "be10658cd27bd3e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7d4286ed9494064",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e53b73ba54513ca",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3f073f9b89b066e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8282262890ab6d67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0e35a25a2ee2bba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4600671c69aab2aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "src=\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "848b9d16c09cb3e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d31bf184dd6e8a2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6197e434825e5949",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f17bd5f7688b41d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80df6c9bd27b2ac2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Hızlı geçişi aç": false,
+      "graph:Grafik görünümünü aç": false,
+      "canvas:Yeni tuval oluşturun": false,
+      "daily-notes:Bugünün Notunu Aç": false,
+      "command-palette:Komut paletini aç": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "6e53b73ba54513ca",
+  "lastOpenFiles": [
+    "05 Tarihçe-i Hayat/05.10 Hariç Memleketler.md",
+    "01 Sözler/01.10 Onuncu Söz.md",
+    "01 Sözler/01.07 Yedinci Söz.md",
+    "08 Sikke-i Tasdik-i Gaybî/08.02 Birinci Şuâ.md",
+    "01 Sözler/01.13 On Üçüncü Söz.md",
+    "01 Sözler/01.12 On İkinci Söz.md",
+    "01 Sözler/01.11 On Birinci Söz.md",
+    "01 Sözler/01.10 Onuncu Söz 1.md",
+    "01 Sözler/01.08 Sekizinci Söz.md",
+    "01 Sözler/01.09 Dokuzuncu Söz.md",
+    "01 Sözler/01.05 Beşinci Söz.md",
+    "01 Sözler/01.06 Altıncı Söz.md",
+    "01 Sözler/01.04 Dördüncü Söz.md",
+    "01 Sözler/01.03 Üçüncü Söz.md",
+    "01 Sözler/01.02 İkinci Söz.md",
+    "01 Sözler/01.01 Birinci Söz.md",
+    "05 Tarihçe-i Hayat/05.09 Isparta Hayatı.md",
+    "05 Tarihçe-i Hayat/05.08 Afyon Hayatı.md",
+    "05 Tarihçe-i Hayat/05.06 Denizli Hayatı.md",
+    "05 Tarihçe-i Hayat/05.03 Barla Hayatı.md",
+    "05 Tarihçe-i Hayat/05.02 İlk Hayatı.md",
+    "dosyalar/ustad_1918.jpg",
+    "dosyalar/üstad_pasaport.jpg",
+    "05 Tarihçe-i Hayat/05.05 Kastamonu Hayatı.md",
+    "14 Küçük Kitaplar/14 KÜÇÜK KİTAPLAR.md",
+    "dosyalar/abdurrahman.jpg",
+    "05 Tarihçe-i Hayat/05 TARİHÇE-İ HAYAT.md",
+    "00 Bilgi.md",
+    "04 Şuâlar/04.18 İçindekiler (Şuâlar).md",
+    "dosyalar/kastamonu.jpg",
+    "dosyalar/ps4B7F.tmp",
+    "dosyalar/psD43B.tmp",
+    "dosyalar/ps5C4B.tmp",
+    "dosyalar/psEA37.tmp",
+    "dosyalar/kulliyat.jpg",
+    "dosyalar/kulliyat copy.jpg",
+    "dosyalar/psDE78.tmp",
+    "dosyalar/psB265.tmp",
+    "dosyalar/ps3AD3.tmp",
+    "dosyalar/psD93A.tmp",
+    "dosyalar/ps780E.tmp",
+    "dosyalar/ps1F5D.tmp",
+    "dosyalar/afyon.jpg",
+    "dosyalar/1952fatih.jpg",
+    "dosyalar/195son-OsmTarihce-bb-10.jpg",
+    "dosyalar/1_cihanharbi.jpg"
+  ]
+}

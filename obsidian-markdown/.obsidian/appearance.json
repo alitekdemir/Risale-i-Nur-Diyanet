@@ -1,0 +1,10 @@
+{
+  "accentColor": "#f55c5c",
+  "enabledCssSnippets": [
+    "font-ayar"
+  ],
+  "cssTheme": "Things",
+  "showViewHeader": true,
+  "theme": "moonstone",
+  "nativeMenus": false
+}
