@@ -1,0 +1,16 @@
+{
+  "glossary": [
+    {
+      "key": "API",
+      "value": "Application Programming Interface"
+    },
+    {
+      "key": "JSON",
+      "value": "JavaScript Object Notation"
+    },
+    {
+      "key": "CSS",
+      "value": "Cascading Style Sheets"
+    }
+  ]
+}

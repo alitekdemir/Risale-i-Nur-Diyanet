@@ -1,10 +1,12 @@
 {
   "accentColor": "#f55c5c",
   "enabledCssSnippets": [
-    "font-ayar"
+    "font-ayar",
+    "arabic"
   ],
-  "cssTheme": "Things",
+  "cssTheme": "Blue Topaz",
   "showViewHeader": true,
   "theme": "moonstone",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSize": 16
 }

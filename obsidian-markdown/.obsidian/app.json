@@ -2,7 +2,14 @@
   "spellcheck": false,
   "showRibbon": true,
   "readableLineLength": true,
-  "attachmentFolderPath": "dosyalar",
+  "attachmentFolderPath": "_dosyalar",
   "showInlineTitle": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Legal",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 90
+  }
 }

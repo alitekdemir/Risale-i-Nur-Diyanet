@@ -1,0 +1,17 @@
+/* EDIT MODE */
+
+.HyperMD-header.HyperMD-header-1,
+.HyperMD-header.HyperMD-header-2,
+.HyperMD-header.HyperMD-header-3,
+.HyperMD-header.HyperMD-header-4 {
+	text-align: center;
+}
+
+/* PREVIEW MODE */
+
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4 {
+	text-align: center;
+}

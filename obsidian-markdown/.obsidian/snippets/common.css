@@ -1,0 +1,52 @@
+/* https://docs.obsidian.md/Reference/CSS+variables/CSS+variables */
+
+/* Google Fonts için "Lateef" ve "Scheherazade New" fontlarını içe aktar */
+/* @import url('https://fonts.googleapis.com/css2?family=Amiri&family=Amiri+Quran&display=swap'); */
+
+
+/* desktop */
+/* @media (min-width: 768px) {
+    .cm-line {
+      font-size: 14px;
+    }
+  } */
+  
+body {
+    /* --file-line-width: 36.5vw */ /* orijinal değer */
+    --file-line-width: 44vw;
+    --line-height-normal: 1.3;
+    /* --heading-spacing: 55px; */
+    --p-spacing: 0.5em;
+    /* --font-text-size: 16px; */
+    
+  }
+
+
+small {
+    color: darkgrey;
+    font-style: italic;
+}
+
+/* ----------------------------------- */
+
+hr {
+	width: 50%;
+    margin:auto !important;
+}
+
+hr.dashed {
+    border-top: 1px dashed;
+}
+
+hr.dotted {
+    border-top: 1px dotted;
+}
+
+hr.double {
+    border-top: 2px double;
+}
+
+hr.solid {
+    border-top: 2px solid #999;
+}
+

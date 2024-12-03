@@ -1,0 +1,46 @@
+/* ----------------------------------- */
+/* Amiri ve Amiri Quran fontlarını çağırma */
+/* @import url('https://fonts.googleapis.com/css2?family=Amiri&family=Amiri+Quran&display=swap'); */
+
+/* Tek tek font çağırma */
+/* @import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap'); */
+
+/* Google Fonts için "Lateef" ve "Scheherazade New" fontlarını içe aktar */
+/* @import url('https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@400;500;600;700&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Lateef&display=swap'); */
+/* ----------------------------------- */
+
+
+/* Arapça metin için genel stil tanımları */
+.arabic {
+    font-size: 1.5em;
+    line-height: 1.8em;
+    direction: rtl;
+    unicode-bidi: isolate;
+    text-align: center;
+    /* font-family: 'Amiri', serif; */
+    /* font-family: 'Shaikh Hamdullah Mushaf', serif; */
+    font-family: 'Feyzul Furkan', serif;
+}
+
+/* Kuran metni için özel font tanımı */
+.arabic.diyanet {
+    /* Diyanetin kullandığı Mushaf fontu */
+    font-family: 'Feyzul Furkan', serif;
+    line-height: 2.2em;
+}
+
+p.arabic {
+    margin: 0;
+    padding: 1em;
+}
+
+/* span tagı içeren Arapça metin için margin ayarları */
+span.arabic {
+    margin-left: 0.3rem;
+    margin-right: 0.3rem;
+}
+
+
+

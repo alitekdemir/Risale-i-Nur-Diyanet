@@ -1,4 +1,7 @@
 [
   "obsidian-linter",
-  "editing-toolbar"
+  "editing-toolbar",
+  "file-order",
+  "obsidian-heading-shifter",
+  "novel-word-count"
 ]

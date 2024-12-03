@@ -1,0 +1,19 @@
+/* Sayfa numaralarının düzenlenmesi için CSS kodları */
+
+
+.page-number {
+    font-size: 0.75em;
+    color: var(--text-muted); /* Obsidian'ın tema uyumlu metin rengi */
+    background-color: var(--background-secondary); /* Tema uyumlu arka plan */
+    opacity: 0.7;
+
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); /* Hafif bir gölge efekti */
+    border: 1px solid rgba(0, 0, 0, 0.1); /* Hafif bir sınır çizgisi */
+    border-radius: 5px;
+
+    padding: 3px 5px;
+    margin: 2px auto; /* Yukarı ve aşağıdan boşluk */
+    
+    /* Sayfanın ortasına yerleştirme */
+    text-align: center; /* İçerik merkezde */
+}
