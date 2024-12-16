@@ -106,7 +106,7 @@ Eski hükemanın işrakiyyun kısmı dahi melaikenin manasında kabule muztar ka
 
 Bütün ehl-i edyan “melekü’l-cibal, melekü’l-bihar, melekü’l-emtar” gibi her nev’e göre birer melek-i müekkel, vahyin ilhamı ve irşadı ile bulunduğunu kabul ederek o namlarla tesmiye ediyorlar.
 
-Hattâ akılları gözlerine inmiş ve insaniyetten cemadat derecesine manen sukut etmiş olan maddiyyun ve tabiiyyun dahi melaikenin manasını inkâr edemeyerek [^Hâşiye1] “Kuva-yı Sâriye” namıyla bir cihette kabule mecbur olmuşlar.
+Hattâ akılları gözlerine inmiş ve insaniyetten cemadat derecesine manen sukut etmiş olan maddiyyun ve tabiiyyun dahi melaikenin manasını inkâr edemeyerek [^hâşiye1] “Kuva-yı Sâriye” namıyla bir cihette kabule mecbur olmuşlar.
 
 Ey melaike ve ruhaniyatın kabulünde tereddüt gösteren bîçare adam! Neye istinad ediyorsun? Hangi hakikate güveniyorsun ki bütün ehl-i akıl, bilerek bilmeyerek melaikenin manasının sübutuna ve tahakkukuna ve ruhanîlerin tahakkukları hakkında ittifaklarına karşı geliyorsun, kabul etmiyorsun? Mademki Birinci Esas’ta ispat edildiği gibi hayat mevcudatın keşşafıdır, belki neticesidir, zübdesidir. Bütün ehl-i akıl, mana-yı melaikenin kabulünde manen müttefiktirler ve şu zeminimiz, bu kadar zîhayat ve zîruhlarla şenlendirilmiştir. Şu halde hiç mümkün olur mu ki şu feza-yı vesîa sekenelerden, şu semavat-ı latîfe mutavattinînden hâlî kalsın?
 
@@ -508,4 +508,4 @@ gibi binler fermanları, Mâlikü’l-mülk’ten, Sahib-i Dünya ve Âhiret’t
 
 ***
 
-[^Hâşiye1]: Melaike manasını ve ruhaniyatın hakikatini inkâra mecal bulamamışlar, belki fıtratın namuslarından “Kuva-yı Sâriye” diye “cereyan eden kuvvetler” namını vererek yanlış bir surette tasvir ile bir cihetten tasdikine mecbur kalmışlar. (Ey kendini akıllı zanneden!..)
+[^hâşiye1]: Melaike manasını ve ruhaniyatın hakikatini inkâra mecal bulamamışlar, belki fıtratın namuslarından “Kuva-yı Sâriye” diye “cereyan eden kuvvetler” namını vererek yanlış bir surette tasvir ile bir cihetten tasdikine mecbur kalmışlar. (Ey kendini akıllı zanneden!..)

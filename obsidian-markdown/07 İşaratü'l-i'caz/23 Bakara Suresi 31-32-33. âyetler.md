@@ -17,7 +17,7 @@ Cenab-ı Hak dedi ki: “Size demedim mi semavat ve arzın gaybını bilirim ve 
 
 Bu talim-i esma meselesi ya Hazret-i Âdem aleyhisselâmın melaikenin inkârlarına karşı mu’cizesi olup melaikeyi inkârdan ikrara icbar etmiştir yahut melaikenin, hilafetine itiraz ettikleri nev-i beşerin hilafete liyakatini melaikeye kabul ettirmek için izhar ettiği bir mu’cizedir.
 
-Ey arkadaş! Her şeyin Kitab-ı Mübin’de mevcud olduğunu tasrih eden <span class="arabic" dir="rtl">وَلَا رَطْبٍ وَلَا يَابِسٍ اِلَّا فٖى كِتَابٍ مُبٖينٍ</span> âyet-i kerîmesinin hükmüne göre: Kur’an-ı Kerîm zahiren ve bâtınen, nassen ve delâleten, remzen ve işareten her zamanda vücuda gelmiş veya gelecek her şeyi ifade ediyor. Buna binaen gerek enbiyanın kıssa ve hikâyeleri gerek mu’cizeleri hakkında Kur’an-ı Kerîm’in işaratından fehmettiğime göre [^Hâşiye1] mu’cizat-ı enbiyadan iki gaye ve hikmet takip edilmiştir:
+Ey arkadaş! Her şeyin Kitab-ı Mübin’de mevcud olduğunu tasrih eden <span class="arabic" dir="rtl">وَلَا رَطْبٍ وَلَا يَابِسٍ اِلَّا فٖى كِتَابٍ مُبٖينٍ</span> âyet-i kerîmesinin hükmüne göre: Kur’an-ı Kerîm zahiren ve bâtınen, nassen ve delâleten, remzen ve işareten her zamanda vücuda gelmiş veya gelecek her şeyi ifade ediyor. Buna binaen gerek enbiyanın kıssa ve hikâyeleri gerek mu’cizeleri hakkında Kur’an-ı Kerîm’in işaratından fehmettiğime göre [^hâşiye1] mu’cizat-ı enbiyadan iki gaye ve hikmet takip edilmiştir:
 
 **Birincisi:** Nübüvvetlerini halka tasdik ve kabul ettirmektir.
 
@@ -86,7 +86,7 @@ Cümlelerin heyet ve nükteleri:
 
 <p class="arabic" dir="rtl">سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَلٖيمُ الْحَكٖيمُ<br/>وَاٰخِرُ دَعْوٰيهُمْ اَنِ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمٖينَ</p>
 
-[^Hâşiye2]
+[^hâşiye2]
 
 **Said Nursî**
 
@@ -98,6 +98,6 @@ Müellifin küçük kardeşi ve Nur talebesi
 
 ***
 
-[^Hâşiye1]: Eğer müellifin, Tenzil’in nazmından çıkardığı letaifte şüphen varsa ben derim ki: İbnü’l-Fârıd kitabından tefe’ül ederken şu beyit çıktı: <p class="arabic" dir="rtl">كَاَنَّ كِرَامَ الْكَاتِبٖينَ تَنَزَّلُوا عَلٰى قَلْبِهٖ وَحْيًا بِمَا فٖى صَحٖيفَةٍ</p> Habib
+[^hâşiye1]: Eğer müellifin, Tenzil’in nazmından çıkardığı letaifte şüphen varsa ben derim ki: İbnü’l-Fârıd kitabından tefe’ül ederken şu beyit çıktı: <p class="arabic" dir="rtl">كَاَنَّ كِرَامَ الْكَاتِبٖينَ تَنَزَّلُوا عَلٰى قَلْبِهٖ وَحْيًا بِمَا فٖى صَحٖيفَةٍ</p> Habib
 
-[^Hâşiye2]: İntihabım olmayarak ihtiyarsız bir tarzda, âdeta umum Sözlerin ve Mektupların âhirlerinde şu âyet <span class="arabic" dir="rtl">سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَلٖيمُ الْحَكٖيمُ</span> bana söylettirilmiş. Şimdi anladım ki tefsirim de şu âyet ile hitam buluyor. Demek inşâallah bütün Sözler, hakiki bir tefsir ve şu âyetin bahrinden birer cetveldir. En-nihayet yine o denize dökülüyorlar. Şu tefsirin hitamında, güya her Söz manen şu âyetten başlıyor. Demek o zamandan beri yirmi senedir daha şu âyeti tefsir ediyorum, bitiremedim ki tefsirin ikinci cildini yazayım.
+[^hâşiye2]: İntihabım olmayarak ihtiyarsız bir tarzda, âdeta umum Sözlerin ve Mektupların âhirlerinde şu âyet <span class="arabic" dir="rtl">سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَلٖيمُ الْحَكٖيمُ</span> bana söylettirilmiş. Şimdi anladım ki tefsirim de şu âyet ile hitam buluyor. Demek inşâallah bütün Sözler, hakiki bir tefsir ve şu âyetin bahrinden birer cetveldir. En-nihayet yine o denize dökülüyorlar. Şu tefsirin hitamında, güya her Söz manen şu âyetten başlıyor. Demek o zamandan beri yirmi senedir daha şu âyeti tefsir ediyorum, bitiremedim ki tefsirin ikinci cildini yazayım.

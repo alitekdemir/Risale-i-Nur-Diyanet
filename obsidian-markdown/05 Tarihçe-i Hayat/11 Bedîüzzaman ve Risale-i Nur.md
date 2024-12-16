@@ -149,13 +149,13 @@ Risale-i Nur hem aklı hem kalbi tenvir eder, nurlandırır hem nefsi musahhar e
 
 Ve ehl-i mektep ve felsefe anlıyorlar ki hakiki münevverlik; akıl ve kalp nurunun mezciyle kabildir. Yalnız akılla gitmek, aklı göze indiriyor. Bu hal ise bir kanadı kırık olanın mahkûm olduğu sukutu netice veriyor.
 
-İhlaslı, hâlis ehl-i tasavvuf idrak ediyor ki demek zaman eski zaman değildir; böyle bir zamanda hem kalp ile hem akıl ile bizi hakikat yolunda götürecek ve hakikate vâsıl edecek Kur’anî bir yol lâzımdır ki biz zülcenaheyn olabilelim [^Hâşiye1].
+İhlaslı, hâlis ehl-i tasavvuf idrak ediyor ki demek zaman eski zaman değildir; böyle bir zamanda hem kalp ile hem akıl ile bizi hakikat yolunda götürecek ve hakikate vâsıl edecek Kur’anî bir yol lâzımdır ki biz zülcenaheyn olabilelim [^hâşiye1].
 
 İntibaha gelmiş olan ehl-i medrese vâkıf oluyorlar ki eski zamanda medrese usûlü ile on beş senede elde edilebilen imanî ve İslâmî netice, bu zamanda Risale-i Nur’la on beş haftada elde edilebiliyor. Üstadımız buyuruyorlar ki: “Bir sene Risale-i Nur derslerini anlayarak ve kabul ederek okuyan kimse, bu zamanın mühim ve hakikatli bir âlimi olabilir.”
 
 Risale-i Nur, Resul-i Ekrem aleyhissalâtü vesselâm Efendimizin nurani meşrebini ve sahabe-i kiramın âlî seciyesini beyan eden bir nur ve feyiz hazinesidir. İşte bu mezkûr vaziyet, bugünkü dünyaya taptaze, nurani bir hayat ve yepyeni bir veche vererek şu hakikati gösteriyor ki çoktandır birbirine muarız zannedilen ehl-i mekteple ehl-i medreseyi ve ehl-i tekyeyi, Risale-i Nur tevhid ve telif ediyor. Hem de muaraza halinde olan Şark’la Garb’ı barıştırıyor.
 
-İttihad-ı İslâm’ı meydana getirmek için çalışan ehl-i İslâm’a yegâne çarenin Risale-i Nur olduğu, mütehassıs zatlar tarafından kabul ve tasdik edilmektedir. Hem bugünkü dünyadaki ihtilafları halledecek olan; aklen, fikren terakki etmiş yirminci asır insanlarına hak ve hakikati anlatabilecek yepyeni bir ilmî keşfiyatı ve bir teceddüdü Amerika’da, Avrupa’da hususan Almanya’da, taharri eden cereyanlar meydana gelmiş; eğer idrak edebilirler ve görebilirlerse işte Risale-i Nur Külliyatı… Nitekim bu hakikatin idrak edilmeye başlandığını gösteren emareler, bahtiyar Alman milleti içinde görülmektedir. [^Hâşiye2]
+İttihad-ı İslâm’ı meydana getirmek için çalışan ehl-i İslâm’a yegâne çarenin Risale-i Nur olduğu, mütehassıs zatlar tarafından kabul ve tasdik edilmektedir. Hem bugünkü dünyadaki ihtilafları halledecek olan; aklen, fikren terakki etmiş yirminci asır insanlarına hak ve hakikati anlatabilecek yepyeni bir ilmî keşfiyatı ve bir teceddüdü Amerika’da, Avrupa’da hususan Almanya’da, taharri eden cereyanlar meydana gelmiş; eğer idrak edebilirler ve görebilirlerse işte Risale-i Nur Külliyatı… Nitekim bu hakikatin idrak edilmeye başlandığını gösteren emareler, bahtiyar Alman milleti içinde görülmektedir. [^hâşiye2]
 
 Eski zaman garp feylesoflarının çözemedikleri ve yeni zaman feylesoflarının da “Felsefe henüz bunu halledememiştir.” dedikleri düğümler, Risale-i Nur’da Kur’an’ın feyziyle keşif ve halledilerek aklen ve mantıken ispat edilmiştir. Şark’ın dâhî hükemalarının kırk sahifede anlatmaya çalıştıkları müşküller, Risale-i Nur’un bir sahifesinde veciz bir şekilde ifade edilmiştir.
 
@@ -181,7 +181,7 @@ Bedîüzzaman Said Nursî’nin senelerden beri hapisten hapse, zindandan zindan
 
 Mesela, Hindistan’da sormuşlar: “Bedîüzzaman nasıl bir kimsedir?” Cevaben denilmiş ki: “Hasta, garib, fakir, mazlum, hediye ve sadakaları kabul etmeyen ve hâlen de çekmekte olduğu o kadar zulümlere rağmen altmış senedir davasından vazgeçmeyen bir ihtiyardır.” Onlar da: “Öyleyse o hakikat söylüyor ve küfr-ü mutlaka, dinsizlere, zındıklara boyun eğmiyor, riyakârlık etmiyor, dalkavukluk yapmıyor ve Kur’an ve İslâmiyet’e tesirli ve küllî bir hizmet yapıyor ki onlar da ona zulüm etmişler.” demişler.
 
-Üstadımız Bedîüzzaman hakkında, takdirkâr ve fazilet-perver zatların takdirleri bir senadan ibaret değildir; bir vakıadır, fiiliyat ve icraatının belki yüzden birisini kısaca âcizane ve noksan bir tarzda nakletmektir. Hem bu mevzuda Risale-i Nur talebelerinin takdirkâr makale, mektup ve fıkraları bir medih değildir; belki Üstadımızın dinî hizmetini hedef tutan, şahsına taarruz eden vicdansız ve insafsız din düşmanlarına karşı müsbet bir müdafaadır. [^Hâşiye3]
+Üstadımız Bedîüzzaman hakkında, takdirkâr ve fazilet-perver zatların takdirleri bir senadan ibaret değildir; bir vakıadır, fiiliyat ve icraatının belki yüzden birisini kısaca âcizane ve noksan bir tarzda nakletmektir. Hem bu mevzuda Risale-i Nur talebelerinin takdirkâr makale, mektup ve fıkraları bir medih değildir; belki Üstadımızın dinî hizmetini hedef tutan, şahsına taarruz eden vicdansız ve insafsız din düşmanlarına karşı müsbet bir müdafaadır. [^hâşiye3]
 
 Böyle olduğu halde Üstadımız öyle zatların ve Risale-i Nur talebelerinin hakikatli takdir ve beyanlarına karşı hiddetlenerek, çok defa da hatırlarını kırarak der ki:
 
@@ -236,11 +236,11 @@ Said Nursî
 
 ***
 
-[^Hâşiye1]: Yetmiş seksen senelik bir seyr-i sülûkla kutbiyete ve gavsiyete erişen pek ender zatların bir noktaya kadar gidip “Burası müntehadır, ilerisine gidilmez.” dedikleri mertebeleri, Bedîüzzaman Kur’an’dan bulduğu bir yolla, ilimle daha ilerisine gittiğini, Arabî Mesnevî-i Nuriye mecmuasını mütalaa eden zatlar söylüyorlar. Büyük bir şaheser olan bu Arabî eseri mütalaa eden o müdakkik ehl-i ilim “Bu eserdeki çok derin ve pek ince ve gayet derecede yüksek hakikatlerden ne kadar istifade edebilsek bize kârdır.” diyorlar.
+[^hâşiye1]: Yetmiş seksen senelik bir seyr-i sülûkla kutbiyete ve gavsiyete erişen pek ender zatların bir noktaya kadar gidip “Burası müntehadır, ilerisine gidilmez.” dedikleri mertebeleri, Bedîüzzaman Kur’an’dan bulduğu bir yolla, ilimle daha ilerisine gittiğini, Arabî Mesnevî-i Nuriye mecmuasını mütalaa eden zatlar söylüyorlar. Büyük bir şaheser olan bu Arabî eseri mütalaa eden o müdakkik ehl-i ilim “Bu eserdeki çok derin ve pek ince ve gayet derecede yüksek hakikatlerden ne kadar istifade edebilsek bize kârdır.” diyorlar.
 
-[^Hâşiye2]: Avrupa’da Hristiyanlar içinde bir tek kasabada altmış beş adet sarıklı genç Nur talebesinin çıkması, bunun bir numunesidir.
+[^hâşiye2]: Avrupa’da Hristiyanlar içinde bir tek kasabada altmış beş adet sarıklı genç Nur talebesinin çıkması, bunun bir numunesidir.
 
-[^Hâşiye3]: İns ve cin şeytanları ve dinsizlerin bir desisesi de budur ki bazen derler ve dedirtirler: “Üstadınız, şahsına kıymet vermiyor; siz ise onun hakkında takdirkâr mektuplar yazıp Üstadınızın rızasına uygun hareket etmiyorsunuz.” İşte onlar, Risale-i Nur ve Üstadımızı İslâmiyet düşmanlarına karşı müsbet ve nezih bir tarzda müdafaa etmekten men’etmek için safdillik damarlarından istifade ile böyle bir fikir ve mugalata ile Nur talebelerini aldatmaya, iğfal etmeye çalışırlar.
+[^hâşiye3]: İns ve cin şeytanları ve dinsizlerin bir desisesi de budur ki bazen derler ve dedirtirler: “Üstadınız, şahsına kıymet vermiyor; siz ise onun hakkında takdirkâr mektuplar yazıp Üstadınızın rızasına uygun hareket etmiyorsunuz.” İşte onlar, Risale-i Nur ve Üstadımızı İslâmiyet düşmanlarına karşı müsbet ve nezih bir tarzda müdafaa etmekten men’etmek için safdillik damarlarından istifade ile böyle bir fikir ve mugalata ile Nur talebelerini aldatmaya, iğfal etmeye çalışırlar.
 
 Evet Üstadımız Bedîüzzaman, ihlasının iktizası olarak şahsına kıymet vermeyebilir; bu hal, Üstadımızdaki yüksek bir kemalât ve âlî bir seciyenin timsalidir. O, şahsına ne kadar kıymet vermiyorsa bizim onda milyarlar derece fazla kıymet ve ehemmiyeti görmemiz, basîret ve insaniyetin muktezasıdır, bir lütf-u İlahîdir. Zira Risale-i Nur gibi parlak bir tefsir-i Kur’an olan şaheser, onun varlığından meydana gelmiş ve fışkırmıştır. Öyle bir eserin müellifiyle yalnız bugünkü âlem-i İslâm değil, yalnız asr-ı hazır beşeriyeti değil, nesl-i âtideki milyarlar kimsenin hayat ve memat davası Risale-i Nur’la alâkadardır.
 

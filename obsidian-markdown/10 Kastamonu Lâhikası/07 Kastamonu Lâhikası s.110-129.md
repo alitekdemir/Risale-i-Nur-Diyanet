@@ -100,7 +100,7 @@ Aziz, sıddık, sadık, hâlis ve muhlis kardeşlerim!
 
 Dört beş kardeşlerime ait birer kısacık konuşacağım:
 
-**Birincisi:** Medrese-i Nuriye’nin mürşidi, müessisi ve müdebbiri Hacı Hâfız kardeşimizin bu defa üçüncü olarak bir teberrükünü gördük. Tâ Barla’da iken tatlı lokmaların kerametli, acib bereketi ve Isparta’da İktisat Risalesi’ni tatlılaştıran iki buçuk okka balın hârika bir hâdiseye sebebiyet vermesi [^Hâşiye1] bu üçüncü defa da bin mübarek ve masum hatırlarını ve iltifatlarını temsil eden ve parçalanmayan bir hediyeyi göndermiş. Altmış senelik bir kaide-i hayatiyemi, o bin hatırın hatırı için o kaidemin hatırını kırdım.
+**Birincisi:** Medrese-i Nuriye’nin mürşidi, müessisi ve müdebbiri Hacı Hâfız kardeşimizin bu defa üçüncü olarak bir teberrükünü gördük. Tâ Barla’da iken tatlı lokmaların kerametli, acib bereketi ve Isparta’da İktisat Risalesi’ni tatlılaştıran iki buçuk okka balın hârika bir hâdiseye sebebiyet vermesi [^hâşiye1] bu üçüncü defa da bin mübarek ve masum hatırlarını ve iltifatlarını temsil eden ve parçalanmayan bir hediyeyi göndermiş. Altmış senelik bir kaide-i hayatiyemi, o bin hatırın hatırı için o kaidemin hatırını kırdım.
 
 **İkincisi:** Âtıf Hasan’ın hakikaten fevkalâde yazdığı tevafuklu Mu’cizat-ı Kur’aniye’yi, o gittikten sonra temaşa ettim. Elimden gelseydi her bir yaprağına mukabil bir lira verecektim. İnşâallah o nüsha ile binler adam istifade edip onun hayat-ı bâkiyesine bir çeşme hükmünde vâridat verecek. Hüsrev’in ve kahraman Tahirî’nin bir üçüncüsü oluyor.
 
@@ -124,7 +124,7 @@ Bugünlerde benimle altı adam, başta Marangoz Ahmed, âhirinde ben, manevî ih
 
 **Birincisi:** Faal, cidden çalışkan, Risale-i Nur ve Medrese-i Nuriye talebelerinden Marangoz Ahmed’in mektubunda, Eşref namında on yaşında bir masum çocuğun; köyünü, malını terk edip iki gün mesafeden gelip hiç yazı yazmadığı halde, on gün zarfında Risale-i Nur’u yazmaya muvaffak olması, Risale-i Nur’un bir kerameti olduğu gibi Medrese-i Nuriye’nin de hârika bir çiçeğidir deniliyor.
 
-Evet, biz de deriz ki: Maddî bir kışta güzel çiçeklerin açılması, bir hârika-i kudret olduğu gibi; bu asrın manevî ve dehşetli kışında, Sava karyesinin yani Sava şeceresi bin güzel çiçekler ve cennet meyveleri açması ve Isparta memleket bahçesi, binler gül-ü Muhammedî (asm) çiçekleri açması [^Hâşiye2] elbette hârika bir mu’cize-i rahmet ve bu memlekete hârika bir keramet-i inayet-i Rabbaniye ve Risale-i Nur talebelerine hârikulâde bir ikram-ı İlahîdir diye itikad edip Cenab-ı Hakk’a hadsiz şükrederiz.
+Evet, biz de deriz ki: Maddî bir kışta güzel çiçeklerin açılması, bir hârika-i kudret olduğu gibi; bu asrın manevî ve dehşetli kışında, Sava karyesinin yani Sava şeceresi bin güzel çiçekler ve cennet meyveleri açması ve Isparta memleket bahçesi, binler gül-ü Muhammedî (asm) çiçekleri açması [^hâşiye2] elbette hârika bir mu’cize-i rahmet ve bu memlekete hârika bir keramet-i inayet-i Rabbaniye ve Risale-i Nur talebelerine hârikulâde bir ikram-ı İlahîdir diye itikad edip Cenab-ı Hakk’a hadsiz şükrederiz.
 
 Marangoz Ahmed’in mektubunda, Darıviran köyünün eski zamanın çalışkan talebelerini andıran fedakâr talebeler, bizi ve eski zaman talebelerini tahassürle yâd eden medreseden yetişme, Risale-i Nur talebelerine derin bir sürur verdi. Medrese-i Nuriye’nin hanımlar talebeleri; evrad-ı Kur’aniye ile dualarıyla, evradlarıyla çalışkan kalemlere manevî yardımları çok güzeldir. Bu havalideki hanımlara da tam bir ders olur. Cenab-ı Hak onlardan ve o medresenin umum talebelerinden ve üstadlarından ebeden razı olsun.
 
@@ -300,7 +300,7 @@ Tahirî’nin Hizbü’l-Ekber ve Virdü’l-A’zam’ı tab için İstanbul’
 
 ***
 
-[^Hâşiye1]: Şimdi ben tahmin ediyorum, o bal da onun imiş fakat tam tahattur edemiyorum.
+[^hâşiye1]: Şimdi ben tahmin ediyorum, o bal da onun imiş fakat tam tahattur edemiyorum.
 
-[^Hâşiye2]: Ve her biri “sad berk” olarak yani her bir çiçekte yüz parça yaprak.
+[^hâşiye2]: Ve her biri “sad berk” olarak yani her bir çiçekte yüz parça yaprak.
 

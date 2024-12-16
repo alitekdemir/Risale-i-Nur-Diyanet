@@ -81,7 +81,7 @@ Mesela… Mesela… ilh.
 ##### Türkçesi
 **S-** Kimsin? Ölsen yine sen misin? Bedenin inhilali ruhun şahsiyetine tesir etmez mi?
 
-**C-** Ben bu anda, seksen Said’den telhis ile tezahür etmişim. Onlar müselsel şahsî kıyametler ve müteselsil [^Hâşiye1] istinsahlar ile çalkalanıp şu zamana beni fırlatmışlar.
+**C-** Ben bu anda, seksen Said’den telhis ile tezahür etmişim. Onlar müselsel şahsî kıyametler ve müteselsil [^hâşiye1] istinsahlar ile çalkalanıp şu zamana beni fırlatmışlar.
 
 Şu Said yetmiş dokuz meyyit, bir hayy-ı nâtıkın fihristesidir. Eğer zamanın suyu donup dursa mütemessil olan o Saidler birbirlerini görseler şiddet-i tehalüften birbirlerini tanımayacaklardır. Ben onların üstünde yuvarlandım; hasenat, lezzat dağıldı kaldı. Seyyiat, âlâm toplandı, yüklendi.
 
@@ -89,7 +89,7 @@ Nasıl ki şimdi o merhalelerde daima ben benim. Öyle de mevtimle gelecek menzi
 
 ***
 
-“İn’ikas [^Hâşiye2] ya hüviyeti veya hüviyetle hâsiyeti veya hüviyetle mahiyeti tutar.”
+“İn’ikas [^hâşiye2] ya hüviyeti veya hüviyetle hâsiyeti veya hüviyetle mahiyeti tutar.”
 
 Biri birinden eltaf ve eşeff, kudretin çok âyineleri vardır. Camdan suya, sudan havaya, havadan esîre, esîrden âlem-i misale hattâ zamana hattâ fikre ilâ âhir tenevvü ediyor. Suda kesifin aksi, aslın aynı değilse nuranide gayrı da değil, havada aynıdır.
 
@@ -123,7 +123,7 @@ Cennet olmasa cehennem tazip etmez. Zemherir olmasa ihrak etmez.
 ***
 
 ##### Nefis-perestlerin Nazar-ı Dikkatine
-[^Hâşiye3] Bir lokma kırk paraya. Bir lokma on kuruşa, ağza girmeden, boğaza geçtikten birdirler. Yalnız birkaç saniye, ağızda bir fark var. Müfettiş ve kapıcı olan zaikayı taltif ve memnun etmek için birden ona gitmek, israfın en sefihidir.
+[^hâşiye3] Bir lokma kırk paraya. Bir lokma on kuruşa, ağza girmeden, boğaza geçtikten birdirler. Yalnız birkaç saniye, ağızda bir fark var. Müfettiş ve kapıcı olan zaikayı taltif ve memnun etmek için birden ona gitmek, israfın en sefihidir.
 
 Eskide ekser İslâm aç değildi, tereffühe ihtiyar var idi. Şimdi açtır, telezzüze ihtiyar yoktur.
 
@@ -190,9 +190,9 @@ Hayat-ı din, nur-u hayattır.
 
 ***
 
-[^Hâşiye1]: Müstensih kalem-i kudrettir.
+[^hâşiye1]: Müstensih kalem-i kudrettir.
 
-[^Hâşiye2]: Tulûat’ın âhirine dikkat.
+[^hâşiye2]: Tulûat’ın âhirine dikkat.
 
-[^Hâşiye3]: Mugaddilikte ikisi bir iken hevesî sanatlar birinin kıymetine vergiler ilâve ediyor.
+[^hâşiye3]: Mugaddilikte ikisi bir iken hevesî sanatlar birinin kıymetine vergiler ilâve ediyor.
 

@@ -32,7 +32,7 @@ Hem siz birer perde yaratılmışsınız. Tâ güzelliği görülmeyen zahirî �
 
 Hem deme ki: “Ben mazharım. Güzele mazhar ise güzelleşir.” Zira, temessül etmediğinden mazhar değil, memer olursun.
 
-Hem deme ki: “Halk içinde ben intihab edildim. Bu meyveler benim ile gösteriliyor. Demek, bir meziyetim var.” Hayır, hâşâ! Belki herkesten evvel sana verildi, çünkü herkesten ziyade sen müflis ve muhtaç ve müteellim olduğundan en evvel senin eline verildi. [^Hâşiye1]
+Hem deme ki: “Halk içinde ben intihab edildim. Bu meyveler benim ile gösteriliyor. Demek, bir meziyetim var.” Hayır, hâşâ! Belki herkesten evvel sana verildi, çünkü herkesten ziyade sen müflis ve muhtaç ve müteellim olduğundan en evvel senin eline verildi. [^hâşiye1]
 
 ### İkinci Nokta
 
@@ -97,4 +97,4 @@ Bikün tövbe, bicû gufran zidergâh-ı İlahî.
 
 ***
 
-[^Hâşiye1]: Hakikaten ben de bu münazarada Yeni Said, nefsini bu derece ilzam ve iskât etmesini çok beğendim ve “Bin bârekellah!” dedim.
+[^hâşiye1]: Hakikaten ben de bu münazarada Yeni Said, nefsini bu derece ilzam ve iskât etmesini çok beğendim ve “Bin bârekellah!” dedim.

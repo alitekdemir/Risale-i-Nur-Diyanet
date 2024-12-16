@@ -18,7 +18,7 @@ Yirmi Sekizinci Mektup’un Dördüncü Mesele’sini dört gün evvel, İkinci 
 
 **Üçüncü hal ve hakiki şahsiyetim:** Bunu tarif etmeye cidden hicab duyarım. Hemen Cenab-ı Allah’tan dilerim, beni ve bütün kardeşlerimizi nefis ve cin ve ins ve şeytanların mekirlerinden muhafaza eylesin ve dalalete sapanlardan eylemesin, âmin!
 
-Benim kardeşlerim [^Hâşiye1] Üstadımın kardeş ve talebeleri olan zatlar şüphesiz birinci ve ikinci hali ruhlarında hissederler. Öyle ise beşerde bilhassa mü’minlerdeki hâsselerin inkişafı tahdid edilemeyeceği için tevfik-i Hudâ ile bir kere bu yola girenler, nefis ve şeytanlarına bu âciz, fakir ve bîçare kadar mağlup olmayacakları cihetle, terakki ve istifadeleri de o nisbette ziyade olur. Muhterem Üstadım bu kusurlu talebesine teveccühü; insanlara, mü’minlere, mü’minlerin bilhassa benim gibi muhtaçlarına derece-i şefkatine ve benim ihtiyacımın en çok olduğuna delil ve misaldir.
+Benim kardeşlerim [^hâşiye1] Üstadımın kardeş ve talebeleri olan zatlar şüphesiz birinci ve ikinci hali ruhlarında hissederler. Öyle ise beşerde bilhassa mü’minlerdeki hâsselerin inkişafı tahdid edilemeyeceği için tevfik-i Hudâ ile bir kere bu yola girenler, nefis ve şeytanlarına bu âciz, fakir ve bîçare kadar mağlup olmayacakları cihetle, terakki ve istifadeleri de o nisbette ziyade olur. Muhterem Üstadım bu kusurlu talebesine teveccühü; insanlara, mü’minlere, mü’minlerin bilhassa benim gibi muhtaçlarına derece-i şefkatine ve benim ihtiyacımın en çok olduğuna delil ve misaldir.
 
 **Hülâsa:** Bana liyakatimin çok fevkinde hüsn-ü zan eden ve teveccüh gösteren aziz ve muhterem ve mütevazi Sabri Kardeş! Bil ki çok günahkâr, çok âciz, fakir, müflis, ümmet-i Muhammed’den (asm) bir abdim. Dualarınıza çok muhtacım. Acz ve fakr arzuhalini kabul ettirerek hazine-i hâssa-i Kur’an’dan âleme muhtelif nam ve tarz ve şekillerde cevherler teşhirine muvaffak olan dellâl-ı Kur’an’ın kudsî hizmetinde kendisine yardım en büyük emelim ve en ciddi temennim, en mukaddes niyetimdir. Bu niyetim sebebiyle Nurlarla meşgul olmak saadetine mazhar olduğum dakikalarında, hilaf-ı me’mul bazı sözler kendiliğinden kalbime ve kalemime gelmektedir ki bu marifet benim değil elbet muhakkak ve mutlak Hazret-i Kur’an’dan lemean eden Nurlara aittir.
 
@@ -30,7 +30,7 @@ Benim kardeşlerim [^Hâşiye1] Üstadımın kardeş ve talebeleri olan zatlar �
 
 Birincisi; bana ait rüya hakkında kıymetli bir ders vermiş. <span class="arabic" dir="rtl">وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا</span> âyetine güzel bir tefsir, nihayet manası zahir olmuş rüyaya hoş bir tabir olmuştur. Nevme ait âyeti pek âlî ve münasip bir surette tefsirinizle, başta herkesten ziyade muhtaç Hulusi’niz olduğu halde bütün Risale-i Nur ve Mektubatü’n-Nur müstemilerine ve kārilerine faydalı, zevkli, esaslı, ciddi, veciz ve beliğ bir ders daha vermiş oldunuz.
 
-Şuraya bir işaret etmek isterim; Kur’an’ın kerametine bir nokta, bir zerre daha ilâve ediyorum: Gerek Eğirdir’de gerek burada bazen zihnime bir şey gelir ve kendisiyle hayli meşgul ettirir. Hemen ilk mektubunuzda benim zihnimi işgal eden bu şeyin cevabını bulurum [^Hâşiye2]. Bu birde, beşte kalmadı, çok taaddüd etti. Onun için diyorum ki keramet-i Kur’aniyedendir.
+Şuraya bir işaret etmek isterim; Kur’an’ın kerametine bir nokta, bir zerre daha ilâve ediyorum: Gerek Eğirdir’de gerek burada bazen zihnime bir şey gelir ve kendisiyle hayli meşgul ettirir. Hemen ilk mektubunuzda benim zihnimi işgal eden bu şeyin cevabını bulurum [^hâşiye2]. Bu birde, beşte kalmadı, çok taaddüd etti. Onun için diyorum ki keramet-i Kur’aniyedendir.
 
 İkinci Mesele; güzel ve ilmî bir ders olmakla beraber bir cihet daha hatıra geliyor. Hizbü’ş-şeytanın avenesi tâ buralardan dolaşarak sahte ve şaşırtıcı hareketlerle arkadan çevirmek istemeleridir. Bu sebeple şifahane-i Kur’an’ın anahtarı, inayet-i İlahî ile elinde bulunan sevgili Üstadımızın bu zehirlere de ilaç yetiştirmesi ve silahhane-i Kur’an’dan aldığı acib silahlarla mübareze etmesi nevinden güzel ve bedî’ üslup ile ve hârika temsilatla bulunuşu hakikaten şâyan-ı menn ü şükrandır. Allah sizden çok razı olsun.
 
@@ -94,7 +94,7 @@ Envar-ı Kur’aniye mizan ve bürhanlarından ve kıymeti takdir edilemeyen Sö
 
 Bahtiyar kardeşim Hüsrev!
 
-Şu risale [^Hâşiye3] bir meclis-i nuranidir ki Kur’an’ın şu münevver, mübarek şakirdleri, içinde birbiriyle manen müzakere ve müdavele-i efkâr ediyorlar. Ve yüksek bir medrese salonudur ki Kur’an’ın şakirdleri onda her biri aldığı dersi arkadaşlarına söylüyor. Ve Kur’an-ı Mu’cizü’l-Beyan’ın hazine-i kudsiyesinin sandukçaları olan risalelerin satıcı ve dellâllarına muhteşem ve müzeyyen bir dükkân ve bir menzildir. Her biri aldığı kıymettar mücevheratı birbirine ve müşterilerine orada gösteriyor. Bârekellah, sen de o menzili çok güzel süslendirmişsin.
+Şu risale [^hâşiye3] bir meclis-i nuranidir ki Kur’an’ın şu münevver, mübarek şakirdleri, içinde birbiriyle manen müzakere ve müdavele-i efkâr ediyorlar. Ve yüksek bir medrese salonudur ki Kur’an’ın şakirdleri onda her biri aldığı dersi arkadaşlarına söylüyor. Ve Kur’an-ı Mu’cizü’l-Beyan’ın hazine-i kudsiyesinin sandukçaları olan risalelerin satıcı ve dellâllarına muhteşem ve müzeyyen bir dükkân ve bir menzildir. Her biri aldığı kıymettar mücevheratı birbirine ve müşterilerine orada gösteriyor. Bârekellah, sen de o menzili çok güzel süslendirmişsin.
 
 Said Nursî
 
@@ -135,11 +135,11 @@ Bilhassa dest ü dâmen-i mübareklerinizi bûs edip her ân ve zaman muhtaç bu
 
 Âyinedir bu âlem, her şey Hak ile kaim
 
-Mir’at-ı Muhammed’den Allah görünür daim. [^Hâşiye4]
+Mir’at-ı Muhammed’den Allah görünür daim. [^hâşiye4]
 
 Şu iki mısra-ı manidarı, perişan arîzamı şereflendirmek niyetiyle dercediyorum. Bu fakir ve âciz talebeniz, şu hayret-feza keramet-i Kur’aniyeyi ve i’caz-ı Nebeviyeyi müşahede ettiğim günden beri, bu babda çok derin düşüncelere dalıyorum. Ve şu tevafukat-ı acibeye müşabih tevafukat, başka kitaplarda bulunur mu maksadıyla çok temaşa ediyorum, göremiyorum. Görülse de pek nadir bir haldedir. Şu halde tevafukat-ı gaybiye, bir keramet-i aleniye olarak endamını Nurlarda izhar ediyor. Ve lisan-ı hal ile beşere hitaben diyor ki:
 
-Ey benî-Âdem, şu sisli asırda dalaleti ref’ ve selbedip necat ve saadet bahşedecek ve dimağınızdaki semli kokuları, verd-i Muhammedîye[^Hâşiye5] tebdil edecek ve en kestirme ve son derece muhkem ve müstakim bir tarîk-i selâmet ve necata sevk edecek, pek çok keramat ve i’cazını gösteren, bizim bulunduğumuz derya-yı nuranidir. Ve âtiyen daha nice âsâr-ı hafiye tezahür edecektir, diye nida ediyor.
+Ey benî-Âdem, şu sisli asırda dalaleti ref’ ve selbedip necat ve saadet bahşedecek ve dimağınızdaki semli kokuları, verd-i Muhammedîye[^hâşiye5] tebdil edecek ve en kestirme ve son derece muhkem ve müstakim bir tarîk-i selâmet ve necata sevk edecek, pek çok keramat ve i’cazını gösteren, bizim bulunduğumuz derya-yı nuranidir. Ve âtiyen daha nice âsâr-ı hafiye tezahür edecektir, diye nida ediyor.
 
 Müsaade-i fâzılaneleriyle bir maruzatım daha var. Fakat bu cihette, şahsımı istisna ederek meramımı arz edeceğim. Bendeniz Nurların müştak müşterilerinde daha doğrusu yanık talebelerinde, bir tevafuk-u fevkalâde görüyorum. Çünkü enaniyet ve nefsaniyetin şiddetle hüküm-ferma olduğu şu asırda, hepsinin derece-i ihtiyaç ve iştiyakı bir, kâffesinin ahlâk ve etvarı bir, umumunun tarz-ı telakkisi bir ve yekdiğerine karşı ah-i lieb ve üm’den daha kavî bir rabıta-i hakikiye ile merbut, samimiyet ve hakikat-perverlikte, âdeta yekdiğerine müsabaka eder derecede ciddi ve hâlis, kardeşlikte takip ettikleri hatt u hareket bir ve daha pek ziyade birbirine benzeyen tullab-ı nuraniyenin bu hârika hallerini de ayrıca bir tevafukat-ı gaybiye sırasında görüyorum. Zira İstanbul’dan, İzmir’den, Aydın’dan, Kütahya’dan, Isparta’dan, Eğirdir’den ilh. muhtelif beldelerden seçilip bir safta mukayyed bulunan talebelerin aynı hâssaları haiz olmaları, câlib-i nazar-ı dikkat olsa gerektir, zannederim Efendim Hazretleri.
 
@@ -311,11 +311,11 @@ Hüsrev
 
 Ey Üstad!
 
-Kur’an’ın bir ma’kesi olan yazdığın risaleler, senin ne büyük üstad olduğunu kabul ve teslime kâfidir. Sen ki ey aziz Üstad! İslâmiyet üzerine çöken zulmet ve gaflet perdelerini risalelerinle yırttın. O mülevves perdeler altındaki en nurlu hakikatleri meydana çıkardın. Senin sarsılmaz azmin, kahraman metanetin, ârâmsız sa’yin semeresiz kalmadı. Anadolu’nun ortasına öyle bir âb-ı hayat çeşmesi açtın ki [^Hâşiye6] bu çeşmenin muslukları yazdığınız risalelerin, neşrettiğiniz eserlerin hakaikidir. Menba ve madeni, bâki olan Kur’an-ı Hakîm’in bahridir. Bir gün olup bu dâr-ı imtihandan saadet âlemlerine göçtüğün zaman, kıymettar eserlerin seni namınla beraber yaşatacaktır.
+Kur’an’ın bir ma’kesi olan yazdığın risaleler, senin ne büyük üstad olduğunu kabul ve teslime kâfidir. Sen ki ey aziz Üstad! İslâmiyet üzerine çöken zulmet ve gaflet perdelerini risalelerinle yırttın. O mülevves perdeler altındaki en nurlu hakikatleri meydana çıkardın. Senin sarsılmaz azmin, kahraman metanetin, ârâmsız sa’yin semeresiz kalmadı. Anadolu’nun ortasına öyle bir âb-ı hayat çeşmesi açtın ki [^hâşiye6] bu çeşmenin muslukları yazdığınız risalelerin, neşrettiğiniz eserlerin hakaikidir. Menba ve madeni, bâki olan Kur’an-ı Hakîm’in bahridir. Bir gün olup bu dâr-ı imtihandan saadet âlemlerine göçtüğün zaman, kıymettar eserlerin seni namınla beraber yaşatacaktır.
 
 Ne mutlu, senin açtığın çeşmenin kıymetini takdir ile ona muhafız ve müdafi olan ve icabında eserlerinin ahkâmını ilan ve telkin uğrunda bin can ile hayatını fedaya müheyya olan, candan sevdiğin talebelerin var. Uhrevîler diyarında olduğunuz zamanlarda dahi sizin ruhunuzu muazzeb edecek hareketlerde bulunmayacaklarına emin olunuz. Birçok esrar-ı Kur’aniyenin anahtarlarını şimdiden talebenize tevdi ettiğinize, onlar canla başla size minnettar ve müteşekkirdirler. Bugün saçmakta olduğunuz feyizli nurlar, beşeriyetin hakiki insan olanlarını pâyansız sürurlara istiğrak ederek, mükellef oldukları vezaifi bildiriyor. Hizmetiniz inkâr edilmez ve senin fedakârlığın azîmdir, azîmdir.
 
-Aziz Üstad! Hizmetin göklerde gezsin [^Hâşiye7] ve siz destanlarda geziniz. Fedakâr Üstad! Diyanetten meded almayan, ehl-i gafletin gafletini ziyadeleştiren edebiyat denilen müthiş sarhoşluk ancak ve ancak sizin âsâr ve telkinleriniz sayesinde mündefi oluyor. Dinsiz milletler pâyidar olamayacağı ve hattâ insaniyeti bile öğrenemeden dünyadan gelip geçeceklerini pek makul ve mantıkî delillerle ispat ettin. Eserlerin ruhun gibi ulvi ve ihatalı.
+Aziz Üstad! Hizmetin göklerde gezsin [^hâşiye7] ve siz destanlarda geziniz. Fedakâr Üstad! Diyanetten meded almayan, ehl-i gafletin gafletini ziyadeleştiren edebiyat denilen müthiş sarhoşluk ancak ve ancak sizin âsâr ve telkinleriniz sayesinde mündefi oluyor. Dinsiz milletler pâyidar olamayacağı ve hattâ insaniyeti bile öğrenemeden dünyadan gelip geçeceklerini pek makul ve mantıkî delillerle ispat ettin. Eserlerin ruhun gibi ulvi ve ihatalı.
 
 Sevgili Üstadım! Müsterih olmalısınız ki sizin sa’yiniz beyhude değildir. Lâyemut risalelerin ile’l-ebed kıymetli ellerde gezecek. Bugünkü dinsizlere haddini bildirecek ve belki iman dahi bahşedecek. Zaten sizin talebiniz bu değil mi? Emeliniz, gayeniz, iman dairesinde ikaz ve irşad hedeflerine yetişmek değil mi? Felsefe mezbelelerinde nâlân, sürünen edepsizler elbette hakiki edebi ve edebiyatı sizin eserlerinizde bulacaklarına aslâ şüphe yoktur ki böyle olacak.
 
@@ -339,21 +339,21 @@ Hüsrev
 
 ***
 
-[^Hâşiye1]: Sabri gibi talebelere hitap ediyor.
+[^hâşiye1]: Sabri gibi talebelere hitap ediyor.
 
-[^Hâşiye2]: Bu keramet-i Nuriye Hulusi’de olduğu gibi çoklarda dahi tezahür etmiş ve ediyor.
+[^hâşiye2]: Bu keramet-i Nuriye Hulusi’de olduğu gibi çoklarda dahi tezahür etmiş ve ediyor.
 
-[^Hâşiye3]: Yani Yirmi Yedinci Mektup’un umumu.
+[^hâşiye3]: Yani Yirmi Yedinci Mektup’un umumu.
 
-[^Hâşiye4]: Latîf bir tevafuktur ki: Hulusi-i Sâni Sabri Efendi bu beyti bana yazdığı zamanda, ya aynı zamanda veyahut az sonra, Hulusi Bey bir ay uzak bir yerde, aynı beyti bana yazmıştır. Bu iki zatın hem hizmet-i Kur’an’da hem bana karşı münasebetlerindeki tevafukları, alâmet-i muvaffakıyettir.
+[^hâşiye4]: Latîf bir tevafuktur ki: Hulusi-i Sâni Sabri Efendi bu beyti bana yazdığı zamanda, ya aynı zamanda veyahut az sonra, Hulusi Bey bir ay uzak bir yerde, aynı beyti bana yazmıştır. Bu iki zatın hem hizmet-i Kur’an’da hem bana karşı münasebetlerindeki tevafukları, alâmet-i muvaffakıyettir.
 
 Said
 
-[^Hâşiye5]: Gül demektir.
+[^hâşiye5]: Gül demektir.
 
-[^Hâşiye6]: Bu hizmet-i kudsiyedeki sevap ve şerefte benim gibi bîçarenin hissesi, tasavvur ettiğiniz miktardan binde bir düşse yine şükrederim. Ehl-i hüner, elmas kalemleriyle imdadıma yetişen sizin gibi Kur’an’ın hâlis şakirdleridir.
+[^hâşiye6]: Bu hizmet-i kudsiyedeki sevap ve şerefte benim gibi bîçarenin hissesi, tasavvur ettiğiniz miktardan binde bir düşse yine şükrederim. Ehl-i hüner, elmas kalemleriyle imdadıma yetişen sizin gibi Kur’an’ın hâlis şakirdleridir.
 
-[^Hâşiye7]: Bu kardeşimin bu hissine iştirak etmiyorum. Rıza-yı İlahî kâfidir. Eğer o yâr ise her şey yârdır. Eğer o yâr değilse bütün dünya alkışlasa beş para değmez. İnsanların takdiri, istihsanı, eğer böyle işte, böyle amel-i uhrevîde illet ise o ameli iptal eder. Eğer müreccih ise o ameldeki ihlası kırar. Eğer müşevvik ise safvetini izale eder. Eğer sırf alâmet-i makbuliyet olarak, istemeyerek Cenab-ı Hak ihsan etse o amelin ve ilmin insanlarda hüsn-ü tesiri namına kabul etmek güzeldir ki <span class="arabic" dir="rtl">وَ اجْعَلْ لٖى لِسَانَ صِدْقٍ فِى الْاٰخِرٖينَ</span> buna işarettir.
+[^hâşiye7]: Bu kardeşimin bu hissine iştirak etmiyorum. Rıza-yı İlahî kâfidir. Eğer o yâr ise her şey yârdır. Eğer o yâr değilse bütün dünya alkışlasa beş para değmez. İnsanların takdiri, istihsanı, eğer böyle işte, böyle amel-i uhrevîde illet ise o ameli iptal eder. Eğer müreccih ise o ameldeki ihlası kırar. Eğer müşevvik ise safvetini izale eder. Eğer sırf alâmet-i makbuliyet olarak, istemeyerek Cenab-ı Hak ihsan etse o amelin ve ilmin insanlarda hüsn-ü tesiri namına kabul etmek güzeldir ki <span class="arabic" dir="rtl">وَ اجْعَلْ لٖى لِسَانَ صِدْقٍ فِى الْاٰخِرٖينَ</span> buna işarettir.
 
 Said
 

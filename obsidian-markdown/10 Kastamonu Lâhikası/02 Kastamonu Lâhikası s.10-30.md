@@ -66,7 +66,7 @@ Eğer sair teellümat-ı ruhaniye ise sabra, mücahedeye alıştırmak için Rab
 
 Sabri kardeş! İmamet vazifesinde Risaletü’n-Nur’a zarar yok, ruhsatla amel niyetiyle şimdilik çekilme.
 
-Hüsrev kardeş! Beşinci Şuâ’nın kıymetini tam beyan ve takdirin beni çok mesrur etti. İkinci defa yaldızlı bir Kur’an’ı yazdığın, beni fevkalâde müferrah etti. Hem benim için de yeni risaleleri mübarek kaleminle [^Hâşiye1] istinsah ettiğin, beni minnettarlık hissinden mesrurane ağlattı.
+Hüsrev kardeş! Beşinci Şuâ’nın kıymetini tam beyan ve takdirin beni çok mesrur etti. İkinci defa yaldızlı bir Kur’an’ı yazdığın, beni fevkalâde müferrah etti. Hem benim için de yeni risaleleri mübarek kaleminle [^hâşiye1] istinsah ettiğin, beni minnettarlık hissinden mesrurane ağlattı.
 
 Rüşdü ve Re’fet’in sıhhatleri ve kemal-i sadakat ve sebatları, hazîn endişelerimi izale etti. Isparta talebeleri hatırları için ben Isparta’yı kendi karyem Nurs ile beraber duamda dâhil ediyorum. Hattâ emvatına, Nurs emvatı gibi dua ediyorum. Hakiki vatanım ve memleketim nazarıyla o vilayete bakıyorum.
 
@@ -88,7 +88,7 @@ Bu dünyada benim için medar-ı teselli sizlersiniz ve hakkınızda büyük üm
 
 Evet, bu asrın ehemmiyetli ve manevî ve ilmî bir mürşidi olan Risaletü’n-Nur’un heyet-i mecmuası, sair şahsî büyük mürşidler gibi kendine muvafık ve hakikat-i ilmiyeye münasip olarak, birkaç nevide ve bilhassa hakaik-i imaniyenin izharında, intişarında azîm kerametleri olduğu gibi; üç keramet-i zahiresi bulunan Mu’cizat-ı Ahmediye, Onuncu Söz ve Yirmi Dokuzuncu Söz ve Âyetü’l-Kübra gibi çok risaleleri dahi her biri kendine mahsus kerametleri bulunduğunu çok emareler ve vakıalar bana kat’î bir kanaat vermiş. Hattâ sekeratta bulunan talebelerine imanını kurtarmak için bir mürşid gibi yetiştiğine müteaddid vakıalar şüphe bırakmıyor.
 
-Bir saat tefekkür, bir sene ibadet-i nâfile hükmünde. Bir misali, Nur’un Hizb-i Ekber’idir diye müşahede ettim ve kanaat getirdim. [^Hâşiye2]
+Bir saat tefekkür, bir sene ibadet-i nâfile hükmünde. Bir misali, Nur’un Hizb-i Ekber’idir diye müşahede ettim ve kanaat getirdim. [^hâşiye2]
 
 Sizlere Risaletü’n-Nur’un Hizb-i Ekber’ini ve Kur’an’ın Hizb-i A’zamını göndermek isterdim. Fakat Hizb-i A’zam çok uzun olduğundan daha yazdıramadım. Hizb-i Ekber ise tercüme etmek istedim, şimdilik vazgeçtim. Sizin gibi kardeşlerin tercümeye muhtaç olmadığını düşünüp yalnız Arabî suretini göndereceğim, inşâallah.
 
@@ -337,7 +337,7 @@ Benimle hakikat meşrebinde sohbet etmek ve görüşmek isteyen adam, hangi risa
 
 ***
 
-[^Hâşiye1]: Medar-ı hayret bir lütf-u bereket: Gül Fabrikasının kâtipliğiyle Risaletü’n-Nur’a intisap eden Hüsrev, iki buçuk sene evvel bir küçük şişe gül yağı göndermişti. Mütemadiyen istimal ettiğim halde daha bitmedi, devam eder. Kardeşiniz Emin yanımdadır, bu berekete şehadet eder hem size selâm eder.
+[^hâşiye1]: Medar-ı hayret bir lütf-u bereket: Gül Fabrikasının kâtipliğiyle Risaletü’n-Nur’a intisap eden Hüsrev, iki buçuk sene evvel bir küçük şişe gül yağı göndermişti. Mütemadiyen istimal ettiğim halde daha bitmedi, devam eder. Kardeşiniz Emin yanımdadır, bu berekete şehadet eder hem size selâm eder.
 
-[^Hâşiye2]: Âyetü’l-Kübra’nın üçüncü menzilinin başında, Ahmed-i Farukî Risale-i Nur hakkında demiş ki: “Mütekellimînden biri gelecek, bütün hakaik-i imaniyeyi kemal-i vuzuh ile beyan ve ispat edecek.” Zaman ispat etti ki o adam, adam değil belki Risale-i Nur’dur. Ehl-i keşif Risale-i Nur’u, ehemmiyetsiz olan tercümanı suretinde keşiflerinde müşahede etmişler, bir adam demişler.
+[^hâşiye2]: Âyetü’l-Kübra’nın üçüncü menzilinin başında, Ahmed-i Farukî Risale-i Nur hakkında demiş ki: “Mütekellimînden biri gelecek, bütün hakaik-i imaniyeyi kemal-i vuzuh ile beyan ve ispat edecek.” Zaman ispat etti ki o adam, adam değil belki Risale-i Nur’dur. Ehl-i keşif Risale-i Nur’u, ehemmiyetsiz olan tercümanı suretinde keşiflerinde müşahede etmişler, bir adam demişler.
 

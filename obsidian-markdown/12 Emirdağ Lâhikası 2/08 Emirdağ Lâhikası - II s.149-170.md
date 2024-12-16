@@ -218,7 +218,7 @@ Nur talebelerinin ve İhvan-ı Müslimîn cemiyetinin gerçi maksatları, hakaik
 
 **İkinci Fark:** Nurcular, Üstadlarıyla içtima etmiyorlar ve etmeye de mecbur değiller. Kendilerini Üstadlarıyla içtimaya mecburiyet hissetmiyorlar. Ders almak için beraber bulunmaya lüzum görmüyorlar. Belki koca bir memleket, bir dershane hükmünde. Risale-i Nur kitapları onların eline geçmekle, Üstad yerine onlara bir ders verir. Her bir risale, bir Said hükmüne geçer.
 
-Hem ellerinden geldiği kadar ücretsiz istinsah ederler. Muhtaçlara mukabelesiz [^Hâşiye1] veriyorlar ki okusunlar ve dinlesinler. Bu suretle büyük bir memleket büyük bir dershane hükmünde oluyor.
+Hem ellerinden geldiği kadar ücretsiz istinsah ederler. Muhtaçlara mukabelesiz [^hâşiye1] veriyorlar ki okusunlar ve dinlesinler. Bu suretle büyük bir memleket büyük bir dershane hükmünde oluyor.
 
 İhvan-ı Müslimîn ise: Umumî merkezlerde mürşid ve reisleriyle görüşmek ve emirler ve dersler almak için ziyaretine giderler. Ve o umumî cemiyetin şubelerinde de o büyük üstadla ve nâibleriyle ve vekilleri hükmündeki zatlarla yine görüşürler, ders alırlar, emir alırlar. Hem umumî merkezlerde çıkan ceride ve mecellelerin fiyatını verip alıp onlardan ders alıyorlar.
 
@@ -242,5 +242,5 @@ Amma İhvan-ı Müslimîn ise: Onlar da hakikaten maksat itibarıyla aynı mahiy
 
 ***
 
-[^Hâşiye1]: Yirmi beş sene müddetle el yazması ile Anadolu’da neşri bu şekilde olmuştur.
+[^hâşiye1]: Yirmi beş sene müddetle el yazması ile Anadolu’da neşri bu şekilde olmuştur.
 

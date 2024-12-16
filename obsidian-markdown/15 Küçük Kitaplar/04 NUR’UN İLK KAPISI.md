@@ -308,7 +308,7 @@ Demiyor: “Rızkım için çalışıyorum.” Zira bilir ki o, vazife-i asliyes
 
 Ey Said-i şakî! Misali anladınsa dinle! Sen, o nefersin. Salât ve ibadatın, talimattır. Terk-i kebair ile nefis ve şeytan ile mücaheden, harptir. Senin vazife-i fıtratın budur. Fakat Cenab-ı Hak, senin vazifende muvaffık ve muîndir.
 
-Amma rızkın ve hayatın idamesi, emval ve evladın muhafazası, Hâlık’ına aittir. Fakat bazen seni şu vazifede istihdam eder ki hazain-i rahmetinin kapılarını kavil ve hal ve fiil ve sual ile dakk-ı bab etmek [^Hâşiye1] ile ubudiyet suretinde hizmet edersin.
+Amma rızkın ve hayatın idamesi, emval ve evladın muhafazası, Hâlık’ına aittir. Fakat bazen seni şu vazifede istihdam eder ki hazain-i rahmetinin kapılarını kavil ve hal ve fiil ve sual ile dakk-ı bab etmek [^hâşiye1] ile ubudiyet suretinde hizmet edersin.
 
 Hem nimetlerinin matbahlarına vâsıl edecek yollarda sülûk etmekle seni istimal eder. Tâ ki ya istidat veya ihtiyaç veya fiil veya kāl lisanıyla sen, kader ile tayin olunan tayinatını ve levazımatını alasın.
 
@@ -893,7 +893,7 @@ Hem <span class="arabic" dir="rtl">وَجَعَلْنَا</span> (<span class="a
 
 <p class="arabic" dir="rtl">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ<br/>فَلَا تَغُرَّنَّكُمُ الْحَيٰوةُ الدُّنْيَا وَلَايَغُرَّنَّكُمْ بِاللّٰهِ الْغَرُورُ</p>
 
-[^Hâşiye2]
+[^hâşiye2]
 
 Ey birader! Düşman hariçte olsa insan silahsız o düşmanla geçinebilir. Fakat düşman kale içine girse ve gizlense o vakit o düşmana karşı silahlanmak, zırh giymek ve gayet dikkat etmek hem pek ciddi sebat etmek lâzımdır. Tâ ki hayat-ı ebediyesini hafî darbelerden kurtarabilsin.
 
@@ -1587,7 +1587,7 @@ Daha bu çeşit meşhur çok feylesoflar var. Kur’an’ı tam tasdik ve takdir
 
 Said Nursî
 
-[^Hâşiye1]: Kapı çalmak demektir.
+[^hâşiye1]: Kapı çalmak demektir.
 
-[^Hâşiye2]: Bu kısım, Üçüncü Ders’ten tâ Sekizinci Ders’in nihayetine kadar tafsilen yazıldığı halde, ehemmiyeti için burada bir hülâsası tekrar yazılması münasiptir.
+[^hâşiye2]: Bu kısım, Üçüncü Ders’ten tâ Sekizinci Ders’in nihayetine kadar tafsilen yazıldığı halde, ehemmiyeti için burada bir hülâsası tekrar yazılması münasiptir.
 

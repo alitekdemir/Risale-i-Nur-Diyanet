@@ -105,13 +105,13 @@ Ve keza o kitabın her bir nazmı, kasidesi Kadîr, Alîm olan nâzımını takd
 
 Ve keza o kitabın bütün yazıları, noktaları, nakışları, esma-i hüsnanın tecelliyat ve cilvelerine ma’kes ve mazhar olmak cihetiyle o Zat-ı Akdes’i takdis, tahmid, temcid ile senahandır.
 
-**Dokuzuncu Nokta:** [^Hâşiye1] …<span class="arabic" dir="rtl">اَلْحَمْدُ مِنَ اللّٰهِ بِاللّٰهِ عَلَى اللّٰهِ لِلّٰهِ</span>
+**Dokuzuncu Nokta:** [^hâşiye1] …<span class="arabic" dir="rtl">اَلْحَمْدُ مِنَ اللّٰهِ بِاللّٰهِ عَلَى اللّٰهِ لِلّٰهِ</span>
 
 Said Nursî
 
 ***
 
-[^Hâşiye1]: Bu gibi şifrelerin anahtarı bende yoktur ki açayım. Maahâzâ oruçlu bir kafa, ne o şifreleri açabilir ve ne o darbları yapabilir. Kusura bakmayınız. Bu kadarı da ancak yine müellifinin manevî yardımıyla ve Leyle-i Kadrin bereketiyle ve Mevlana’nın komşuluğundan istifade ile yapabildim.
+[^hâşiye1]: Bu gibi şifrelerin anahtarı bende yoktur ki açayım. Maahâzâ oruçlu bir kafa, ne o şifreleri açabilir ve ne o darbları yapabilir. Kusura bakmayınız. Bu kadarı da ancak yine müellifinin manevî yardımıyla ve Leyle-i Kadrin bereketiyle ve Mevlana’nın komşuluğundan istifade ile yapabildim.
 
 Mütercim
 

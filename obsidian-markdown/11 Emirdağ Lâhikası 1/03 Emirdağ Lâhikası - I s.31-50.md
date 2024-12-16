@@ -254,7 +254,7 @@ Aziz, sıddık kardeşlerim!
 
 Âyetü’l-Kübra’nın matbu nüshaları perde altında çok hizmet görmüşler. Baştaki ihtarın âhirinde –beyaz yerde– bir hâşiye olarak size altı satır suretini gönderdik, siz münasip görürseniz yazdırırsınız hem ıslah ve tashih edersiniz.
 
-Benim kat’î kanaatim geldi ki: Bu defa Âyetü’l-Kübra’yı dikkatle ve muarızları nazara alıp okudum. Şüphem kalmadı ki Risale-i Nur’un çok şiddetli darbelerine karşı muarızlar zayıf bahaneler ve sinek kanadı kadar ehemmiyetsiz kusurları medar-ı mes’uliyet gördükleri halde; bu dehşetli darbeleri nazara almayıp hem beraetimizi hem Risale-i Nur’un serbestiyetini kabul etmelerinin sebebi: Başta Âyetü’l-Kübra olarak Risale-i Nur’un Meyve ve Hüccetü’l-Bâliğa gibi eczalarındaki hârikulâde ve sarsılmaz hakikatler, onların dehşetli inatlarını kırmasıdır. Çaresiz, mecburiyetle serbestiyetini; beraetimizi resmen kabul etmişler. Fakat yine gizli zındıka komitesi, elinden geldiği kadar nazar-ı millette kendilerini lanetten, nefretten bir derece kurtarmak için kusurlarımızı arıyorlar ve hükûmeti iğfal etmeye çalışıyorlar. Onun için biz, eskisi gibi ihtiyatımızı elden bırakmamalıyız. [^Hâşiye1]
+Benim kat’î kanaatim geldi ki: Bu defa Âyetü’l-Kübra’yı dikkatle ve muarızları nazara alıp okudum. Şüphem kalmadı ki Risale-i Nur’un çok şiddetli darbelerine karşı muarızlar zayıf bahaneler ve sinek kanadı kadar ehemmiyetsiz kusurları medar-ı mes’uliyet gördükleri halde; bu dehşetli darbeleri nazara almayıp hem beraetimizi hem Risale-i Nur’un serbestiyetini kabul etmelerinin sebebi: Başta Âyetü’l-Kübra olarak Risale-i Nur’un Meyve ve Hüccetü’l-Bâliğa gibi eczalarındaki hârikulâde ve sarsılmaz hakikatler, onların dehşetli inatlarını kırmasıdır. Çaresiz, mecburiyetle serbestiyetini; beraetimizi resmen kabul etmişler. Fakat yine gizli zındıka komitesi, elinden geldiği kadar nazar-ı millette kendilerini lanetten, nefretten bir derece kurtarmak için kusurlarımızı arıyorlar ve hükûmeti iğfal etmeye çalışıyorlar. Onun için biz, eskisi gibi ihtiyatımızı elden bırakmamalıyız. [^hâşiye1]
 
 Umum kardeşlerimizin gelecek mübarek ramazan-ı şerifinizi ve geçmiş Berat Gecelerinizi bütün ruh u canımızla tebrik ediyoruz. Cenab-ı Hak, onların ve bizlerin hakkımızda bu ramazandaki Leyle-i Kadrimizi bin aydan hayırlı ve bin ay kadar medar-ı sevap eylesin, ümmet-i Muhammediyeye saadet ve selâmet versin, âmin!
 
@@ -262,7 +262,7 @@ Hem cümlenize birer birer selâm eden kardeşiniz Said Nursî
 
 ***
 
-[^Hâşiye1]: Âyetü’l-Kübra’nın başındaki ihtarın âhirinde “Nazar-ı dikkati celbetmiş.” cümlesine hâşiyedir:
+[^hâşiye1]: Âyetü’l-Kübra’nın başındaki ihtarın âhirinde “Nazar-ı dikkati celbetmiş.” cümlesine hâşiyedir:
 
 Evet İmam-ı Ali’nin (ra) Âyetü’l-Kübra hakkında verdiği haberi, tam tamına Denizli Hâdisesi tasdik etti. Çünkü bu risalenin gizli tabı hapsimize bir vesile oldu. Ve onun kudsî ve çok kuvvetli hakikati galebesiyle, beraet ve necatımıza ehemmiyetli bir sebep oldu. İmam-ı Ali’nin (ra) keramet-i gaybiyesini körlere de gösterdi. <span class="arabic" dir="rtl">وَ بِالْاٰيَةِ الْكُبْرٰى اَمِنّٖى مِنَ الْفَجَتْ</span> hakkımızdaki duasının kabulünü ispat etti.
 

@@ -116,7 +116,7 @@ Evet <span class="arabic" dir="rtl">مِنَ النَّبِيّٖنَ</span> nas
 
 ***
 
-#### BU TETİMMEYE İKİNCİ BİR İZAH [^Hâşiye1]
+#### BU TETİMMEYE İKİNCİ BİR İZAH [^hâşiye1]
 Şu âhir-i Feth’in işaret-i gaybiyesini teyid eden hem Fatiha-i Şerife’deki sırat-ı müstakim ehli ve <span class="arabic" dir="rtl">صِرَاطَ الَّذٖينَ اَنْعَمْتَ عَلَيْهِمْ</span> âyetindeki murad kimler olduğunu beyan eden hem ebedü’l-âbâdın pek uzun yolunda en nurani, ünsiyetli, kesretli, cazibedar bir kafile-i rüfekayı gösteren ve ehl-i iman ve ashab-ı şuuru şiddetle o kafileye tebaiyet noktasında iltihak ve refakate mu’cizane sevk eden şu âyet <span class="arabic" dir="rtl">فَاُولٰٓئِكَ مَعَ الَّذٖينَ اَنْعَمَ اللّٰهُ عَلَيْهِمْ مِنَ النَّبِيّٖنَ وَ الصِّدّٖيقٖينَ وَ الشُّهَدَٓاءِ وَ الصَّالِحٖينَ وَ حَسُنَ اُولٰٓئِكَ رَفٖيقًا</span> yine âhir-i Feth’in âhirki âyeti gibi ilm-i belâgatta “maârîzu’l-kelâm” ve “müstetbeatü’t-terakib” tabir edilen mana-yı maksuddan başka işarî ve remzî manalarla hulefa-i erbaa ve beşinci halife olan Hazret-i Hasan’a (ra) işaret ediyor. Gaybî umûrdan birkaç cihette haber veriyor. Şöyle ki:
 
 Nasıl ki şu âyet, mana-yı sarîhi ile nev-i beşerde niam-ı âliye-i İlahiyeye mazhar olan ehl-i sırat-ı müstakim olan kafile-i enbiya ve taife-i sıddıkîn ve cemaat-i şüheda ve enva-ı salihîn ve sınıf-ı tabiîn “muhsinîn” olduğunu ifade ettiği gibi âlem-i İslâm’da dahi o taifelerin en ekmeli ve en efdali bulunduğunu ve Nebiyy-i âhir zaman’ın sırr-ı veraset-i nübüvvetten teselsül eden taife-i verese-i enbiya ve Sıddık-ı Ekber’in maden-i sıddıkıyetinden teselsül eden kafile-i sıddıkîn ve hulefa-yı selâsenin şehadet mertebesiyle merbut bulunan kafile-i şüheda <span class="arabic" dir="rtl">وَ الَّذٖينَ اٰمَنُوا وَ عَمِلُوا الصَّالِحَاتِ</span> sırrıyla bağlanan cemaat-i salihîn ve <span class="arabic" dir="rtl">اِنْ كُنْتُمْ تُحِبُّونَ اللّٰهَ فَاتَّبِعُونٖى يُحْبِبْكُمُ اللّٰهُ</span> sırrını imtisal eden ve sahabelerin ve Hulefa-yı Raşidîn’in refakatinde giden esnaf-ı tabiîni ihbar-ı gaybî nevinden gösterdiği gibi…
@@ -152,5 +152,5 @@ Acaba böyle latîf, zarif, muntazam, mevzun, i’cazlı bu tevafukat; nüktesiz
 
 ***
 
-[^Hâşiye1]: Kardeşlerim her ikisini faydalı bulmasından iki izahı beraber kaydetmişler, yoksa biri kâfi idi.
+[^hâşiye1]: Kardeşlerim her ikisini faydalı bulmasından iki izahı beraber kaydetmişler, yoksa biri kâfi idi.
 

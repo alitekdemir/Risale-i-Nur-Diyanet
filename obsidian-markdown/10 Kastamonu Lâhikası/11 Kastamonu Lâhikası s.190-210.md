@@ -55,7 +55,7 @@ Gerçi zındıka ve dinsizlik, o boğuşanların birisine dayanıp ehl-i diyanet
 
 Hem zındıka, nifak hâsiyetiyle her tarafa döner. Senin dostunu kendine dost edip sana düşman eder. Senin taraftarlık cihetiyle kazandığın günahlar, faydasız boynunda kalır.
 
-Risale-i Nur şakirdlerinin vazifeleri iman olduğundan hayat meseleleri onları çok alâkadar etmez ve merakla baktırmaz. İşte bu hakikate binaen, değil on üç ay belki on üç sene [^Hâşiye1] dahi bakmasam hakkım var. Sizler baktınız, günahlardan başka ne kazandınız? Ben bakmadım, ne kaybettim?
+Risale-i Nur şakirdlerinin vazifeleri iman olduğundan hayat meseleleri onları çok alâkadar etmez ve merakla baktırmaz. İşte bu hakikate binaen, değil on üç ay belki on üç sene [^hâşiye1] dahi bakmasam hakkım var. Sizler baktınız, günahlardan başka ne kazandınız? Ben bakmadım, ne kaybettim?
 
 **İkinci Sual:** İşarat-ı Kur’aniye Risalesi’nde, Fatiha’nın âhirinde sırat-ı müstakim ashabı ki <span class="arabic" dir="rtl">اَلَّذٖينَ اَنْعَمْتَ عَلَيْهِمْ</span> âyetiyle tarif edilen taife içinde hem <span class="arabic" dir="rtl">لَا تَزَالُ طَائِفَةٌ مِنْ اُمَّتٖى … الخ</span> hadîsinin âhir zamanda gösterdikleri mücahidler içinde ve hem Ve’l-Asrı Suresi’nin <span class="arabic" dir="rtl">اِلَّا الَّذٖينَ اٰمَنُوا</span> dan başlayan üç cümlenin mana-yı işarîsinde hususi bir surette bir ferdi, Risale-i Nur’un has şakirdleri olduğuna sebep nedir ve vech-i tahsisi nedir?
 
@@ -67,7 +67,7 @@ Risale-i Nur şakirdlerinin vazifeleri iman olduğundan hayat meseleleri onları
 
 Aziz, sıddık kardeşlerim!
 
-Kahraman Tahirî ve Hâfız Mustafa’nın yaptıkları hizmet çok güzeldir. Onların tedbirleri isabetlidir, haktır. Nur Fabrikasının divanında verdiğiniz kararlar, ne olursa kabulümüzdür. İşarat-ı Kur’aniye tevabileriyle beraber çok güzel. Yalnız Seyyid Şefik’e giden mektup, şahsına ait kısmı girmeyecekti. Lâhika’dan aldığınız parçalar da çok güzel. Büyük Ali sisteminde, küçük ve ikinci Ali’nin manidar fıkrası iyidir fakat muhtasardır. En evvel gençlere ait üç dört dersin ki –Hâfız Mustafa’ya vermiştik– el makinesiyle, mümkünse eski hurufla, değilse yeni hurufla [^Hâşiye2] Nur Fabrikasının divanındaki heyet münasip görse ve hal müsaade etse yazılsın. Bize de bazı nüshalar gönderilsin. Mübareklerin İşaratü’l-İ’cazlarına bedel bir nüshamı posta ile gönderdik. Cuma gününe rast gelen bu bayram, çok kıymettar olan haccü’l-ekber olduğundan hacca bu sene gidenler çok kazanmışlar. Cenab-ı Hak bizi de onların hayırlı dualarına hissedar eylesin, âmin! Tekrar be-tekrar o bayramınızı ve umum Risale-i Nur şakirdlerinin bayramlarını ve Nur ve Gül fabrikalarının heyetlerini ve medrese-i nuriye şakirdlerinin ve üstadlarının ve Barla sıddıklarının ve masumların ve ümmi ihtiyarların, ricalen ve nisaen umumunun birer birer bayramlarını tebrik ediyoruz.
+Kahraman Tahirî ve Hâfız Mustafa’nın yaptıkları hizmet çok güzeldir. Onların tedbirleri isabetlidir, haktır. Nur Fabrikasının divanında verdiğiniz kararlar, ne olursa kabulümüzdür. İşarat-ı Kur’aniye tevabileriyle beraber çok güzel. Yalnız Seyyid Şefik’e giden mektup, şahsına ait kısmı girmeyecekti. Lâhika’dan aldığınız parçalar da çok güzel. Büyük Ali sisteminde, küçük ve ikinci Ali’nin manidar fıkrası iyidir fakat muhtasardır. En evvel gençlere ait üç dört dersin ki –Hâfız Mustafa’ya vermiştik– el makinesiyle, mümkünse eski hurufla, değilse yeni hurufla [^hâşiye2] Nur Fabrikasının divanındaki heyet münasip görse ve hal müsaade etse yazılsın. Bize de bazı nüshalar gönderilsin. Mübareklerin İşaratü’l-İ’cazlarına bedel bir nüshamı posta ile gönderdik. Cuma gününe rast gelen bu bayram, çok kıymettar olan haccü’l-ekber olduğundan hacca bu sene gidenler çok kazanmışlar. Cenab-ı Hak bizi de onların hayırlı dualarına hissedar eylesin, âmin! Tekrar be-tekrar o bayramınızı ve umum Risale-i Nur şakirdlerinin bayramlarını ve Nur ve Gül fabrikalarının heyetlerini ve medrese-i nuriye şakirdlerinin ve üstadlarının ve Barla sıddıklarının ve masumların ve ümmi ihtiyarların, ricalen ve nisaen umumunun birer birer bayramlarını tebrik ediyoruz.
 
 Said Nursî
 
@@ -158,7 +158,7 @@ Hem bundan on dört, on beş sene evvel “Dinsizliği çevirenler müthiş sema
 
 Evet, Eski Said’in “Bir nur âlemi göreceğiz.” demesi, Risale-i Nur dairesinin manasını hissetmiş; geniş bir daire-i siyasiye tasavvur ettiği gibi Sırr-ı İnna A’tayna’nın remziyle, on üç on dört sene sonra “Dinsizliği, zındıklığı neşredenler, pek müthiş tokatlar yiyecekler.” deyip o hakikati dar bir dairede tasavvur etmiş. Şimdi zaman, o iki hakikati tam tabir ve tefsir etti.
 
-Evet, başta Isparta vilayeti olarak Risale-i Nur dairesi, birinci hakikati pek parlak ve güzel bir surette gösterdiği gibi; ikinci hakikati de medeniyet-i sefihenin tuğyanını ve maddiyyunluk [^Hâşiye3] taununun aşılamasını çeviren ve idare eden ervah-ı habîsenin başlarına gelen bu dehşetli, semavî tokatlar, geniş bir dairede o Sırr-ı İnna A’tayna’nın hakikatini tam tamına ispat etmiş.
+Evet, başta Isparta vilayeti olarak Risale-i Nur dairesi, birinci hakikati pek parlak ve güzel bir surette gösterdiği gibi; ikinci hakikati de medeniyet-i sefihenin tuğyanını ve maddiyyunluk [^hâşiye3] taununun aşılamasını çeviren ve idare eden ervah-ı habîsenin başlarına gelen bu dehşetli, semavî tokatlar, geniş bir dairede o Sırr-ı İnna A’tayna’nın hakikatini tam tamına ispat etmiş.
 
 Risale-i Nur kat’î bürhanlara istinaden hükümleri; sair hakaikte aynı aynına, tevilsiz, tabirsiz hakikat çıkması ve yalnız işarat-ı tevafukiye ve sünuhat-ı kalbiyeye itimaden beyanatı, böyle dünyevî olan mesail-i istikbaliyede neden bazen tabir ve tevile muhtaç oluyor, diye hatırıma geldi.
 
@@ -282,9 +282,9 @@ Hem kahraman Tahir’in bana yazdığı Müdafaat Risalesi’nde, İhtiyar Lem�
 
 ***
 
-[^Hâşiye1]: Hem tam yedi senedir aynı hal devam etti. Ne merak etti ve ne de sordu ve ne de bildi.
+[^hâşiye1]: Hem tam yedi senedir aynı hal devam etti. Ne merak etti ve ne de sordu ve ne de bildi.
 
-[^Hâşiye2]: Risale-i Nur’un bir vazifesi; huruf-u Kur’aniyeyi muhafaza olduğundan yeni hurufa, zaruret derecesinde inşâallah müsaade olur.
+[^hâşiye2]: Risale-i Nur’un bir vazifesi; huruf-u Kur’aniyeyi muhafaza olduğundan yeni hurufa, zaruret derecesinde inşâallah müsaade olur.
 
-[^Hâşiye3]: Evet, maddiyyunluk taununun hastalığı nev-i beşere bu dehşetli sıtmayı ve küre-i arza bu titremeyi vermiştir.
+[^hâşiye3]: Evet, maddiyyunluk taununun hastalığı nev-i beşere bu dehşetli sıtmayı ve küre-i arza bu titremeyi vermiştir.
 

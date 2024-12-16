@@ -19,7 +19,7 @@ Bu büyük kazancı elden kaçırmamak gerektir. Bazı melaikenin kırk bin dil 
 
 **İkincisi:** Eski zamanda, on dört yaşında iken icazet almanın alâmeti olan, üstad tarafından bir cübbe bana giydirmek vaziyetine maniler bulundu. Yaşımın küçüklüğüyle, memleketimizde büyük hocalara mahsus kisve giymek yakışmadığını…
 
-Sâniyen: O zaman büyük âlimler, bana karşı üstadlık vaziyetini değil, ya rakip veyahut teslimiyet derecesine girdikleri için bana bir cübbe giydirmek ve üstadlık vaziyetini alacak kendilerine güvenenler bulunmadı. Ve evliya-yı azîmeden dört beş zatın da vefat etmeleri cihetiyle, elli altı senedir icazetin zahir alâmeti olan cübbeyi giymek, bir üstadın elini öpmek, üstadlığını kabul etmek hakkımı bugünlerde, yüz senelik bir mesafede Hazret-i Mevlana Zülcenaheyn Hâlid Ziyaeddin kendi cübbesini, pek garib bir tarzda bana giydirmek için gönderdiğini bazı emarelerle bana kanaat geldi. Ben de o mübarek yüz yaşında [^Hâşiye1] cübbeyi giyiyorum. Cenab-ı Hakk’a şükrediyorum.
+Sâniyen: O zaman büyük âlimler, bana karşı üstadlık vaziyetini değil, ya rakip veyahut teslimiyet derecesine girdikleri için bana bir cübbe giydirmek ve üstadlık vaziyetini alacak kendilerine güvenenler bulunmadı. Ve evliya-yı azîmeden dört beş zatın da vefat etmeleri cihetiyle, elli altı senedir icazetin zahir alâmeti olan cübbeyi giymek, bir üstadın elini öpmek, üstadlığını kabul etmek hakkımı bugünlerde, yüz senelik bir mesafede Hazret-i Mevlana Zülcenaheyn Hâlid Ziyaeddin kendi cübbesini, pek garib bir tarzda bana giydirmek için gönderdiğini bazı emarelerle bana kanaat geldi. Ben de o mübarek yüz yaşında [^hâşiye1] cübbeyi giyiyorum. Cenab-ı Hakk’a şükrediyorum.
 
 Said Nursî
 
@@ -176,7 +176,7 @@ Said Nursî
 ##### Latîf bir tevafuka işaret eden bir fıkradır
 Otuz altı yapraktan ibaret ve İmam-ı Ali’nin fevkalâde takdirine mazhar olan Otuz İkinci Söz’ün kendi kendine gelen beş bin yedi yüz on beş (5715) tevafuku, Risaletü’n-Nur’un bu havalideki gayet mühim bir talebesi olan Ahmed Nazif’in nüshasında çıkmıştır. Demek o risalenin hatt-ı hakikisine rast gelmiş ki bu hârika kerameti göstermişler.
 
-Hem iki Hüsrev’i Risale-i Nur dairesine ve Bekir Sıdkı’ya kerametini gösterip imana getiren ve tılsım-ı kâinatın üçte birisini halleden, on beş yapraktan ibaret olan Otuzuncu Söz, yine kahraman Nazif’in nüshasında tekellüfsüz üç bin sekiz yüz otuz beş (3835) tevafuku; biz gözümüzle bu keramet-i tevafukiye-i Nuriyeyi gördük. [^Hâşiye2]
+Hem iki Hüsrev’i Risale-i Nur dairesine ve Bekir Sıdkı’ya kerametini gösterip imana getiren ve tılsım-ı kâinatın üçte birisini halleden, on beş yapraktan ibaret olan Otuzuncu Söz, yine kahraman Nazif’in nüshasında tekellüfsüz üç bin sekiz yüz otuz beş (3835) tevafuku; biz gözümüzle bu keramet-i tevafukiye-i Nuriyeyi gördük. [^hâşiye2]
 
 Halil, Hilmi, Salahaddin, Emin, Feyzi, Said Nursî
 
@@ -284,7 +284,7 @@ Risale-i Nur’un mensupları, şuur ve ihtiyarları haricinde birbiriyle münas
 
 Oradaki hâdisenin vukuundan bugüne kadar, buradaki muhtelif tabakalardaki talebelerin vaziyetleri, ehemmiyetli bir hâdise yüzünden değişmiş gibi çekinmek ve münafıkların nazarını kendilerine ve bizlere celbetmemek için tevakkuf devresi geçti. Hem Nazif gibi birçok zatın rüyalarının tabirleriyle, sizin hâdiseniz olduğunu anladık.
 
-Umum kardeşlerimize birer birer hususan musibetzedelere selâm ve dua ediyoruz. Cenab-ı Hak onları çabuk kurtarıp [^Hâşiye3] vazifelerinin başlarına geçirsin, âmin!
+Umum kardeşlerimize birer birer hususan musibetzedelere selâm ve dua ediyoruz. Cenab-ı Hak onları çabuk kurtarıp [^hâşiye3] vazifelerinin başlarına geçirsin, âmin!
 
 Kardeşiniz
 Said Nursî
@@ -496,7 +496,7 @@ Hem bundan on dört, on beş sene evvel “Dinsizliği çevirenler müthiş sema
 
 Eski Said’in “Bir nur âlemi göreceğiz.” demesi, Risale-i Nur’un dairesinin manasını hissetmiş; geniş bir daire-i siyasiye tasavvur ettiği gibi Sırr-ı İnna A’tayna’da, on üç on dört sene sonra “Dinsizliği, zındıkayı neşredenler, müthiş tokatlar yiyecekler.” deyip geniş bir hakikati dar bir dairede tasavvur etmiş. İstikbal, o iki hakikati tabir ve tefsir eyledi.
 
-Başta Isparta olarak Risale-i Nur dairesi, evvelki hakikati pek parlak ve güzel bir surette gösterdiği gibi ikinci hakikati de medeniyet-i sefihenin tuğyanının ve maddiyyunluk [^Hâşiye4] taununun aşılamasını çeviren ve idare eden ervah-ı habîsenin başlarına gelen bu dehşetli semavî tokatlar, geniş bir dairede, Sırr-ı İnna A’tayna’nın hakikatini, tam tamına ispat etmiş.
+Başta Isparta olarak Risale-i Nur dairesi, evvelki hakikati pek parlak ve güzel bir surette gösterdiği gibi ikinci hakikati de medeniyet-i sefihenin tuğyanının ve maddiyyunluk [^hâşiye4] taununun aşılamasını çeviren ve idare eden ervah-ı habîsenin başlarına gelen bu dehşetli semavî tokatlar, geniş bir dairede, Sırr-ı İnna A’tayna’nın hakikatini, tam tamına ispat etmiş.
 
 **Sual:** Risale-i Nur kat’î bürhanlara istinaden hükümleri aynı aynına, tevilsiz, tabirsiz hakikat çıkması ve yalnız işaret-i tevafukiye ve sünuhat-ı kalbiyeye itimaden beyanatı, böyle dünyevî olan mesail-i istikbaliyede neden tabire ve tevile muhtaç oluyor? Diye hatırıma geldi.
 
@@ -576,7 +576,7 @@ Said Nursî
 
 **Beşinci Nokta:** Risale-i Nur, bu Anadolu memleketine belaların def’ine ehemmiyetli bir vesiledir. Sadaka nasıl belayı def’ediyor, onun intişarı ve okunması küllî bir sadaka nevinde semavî ve arzî belaların def’ine vesile olduğu çok emareler ve çok hâdiselerle tebeyyün etmiş. Hattâ Kur’an’ın işaretiyle tahakkuk etmiş. Ve yazmasını ve intişarını men’etmek zamanlarında dört defa zelzelelerin başlaması ve intişarıyla durmaları ve Anadolu’da ekser yerlerde okunması, Harb-i Umumî’nin Anadolu’ya girmemesine bir vesile olduğu Sure-i Ve’l-Asr işaret ettiği halde, bu iki ay kuraklık zamanında mahkemenin Risale-i Nur’un beraetine ve vatana menfaatli olduğuna dair kararını Mahkeme-i Temyiz tasdik ederek tam bir serbestiyetle Risale-i Nur’un intişarı ve okunmasını beklerken, bütün bütün aksine olarak men’edilmesi ve mahkemedeki risaleleri sahiplerine iade edildiği halde, bizi de o cihetçe konuşmaktan men’etmeleri cihetiyle, belaların def’ine vesile olan bu küllî sadaka-i maneviye belaya karşı çıkamadı, günahımız neticesi kuraklık başladı.
 
-Biz Risale-i Nur şakirdleri dünyaya çok ehemmiyet vermediğimizden, dünyaya yalnız Risale-i Nur için baktığımızdan, bu yağmursuzlukta dahi o noktadan bakıyoruz. İşte Denizli’de mahkemeye verilen cüz’î bir kısım Risale-i Nur, sahiplerine iadesinin aynı zamanında, burada dahi bir kısım zatlar yazmaya başlamaları aynı vakitte, bu yağmursuzlukta bir derece rahmet yağdı fakat Risale-i Nur’un serbestiyeti cüz’î olmasından rahmet dahi cüz’î kaldı. İnşâallah yakında benim de risalelerim iade edilecek, tam serbest ve intişarı küllîleşecek ve rahmet dahi tam olacak. [^Hâşiye5]
+Biz Risale-i Nur şakirdleri dünyaya çok ehemmiyet vermediğimizden, dünyaya yalnız Risale-i Nur için baktığımızdan, bu yağmursuzlukta dahi o noktadan bakıyoruz. İşte Denizli’de mahkemeye verilen cüz’î bir kısım Risale-i Nur, sahiplerine iadesinin aynı zamanında, burada dahi bir kısım zatlar yazmaya başlamaları aynı vakitte, bu yağmursuzlukta bir derece rahmet yağdı fakat Risale-i Nur’un serbestiyeti cüz’î olmasından rahmet dahi cüz’î kaldı. İnşâallah yakında benim de risalelerim iade edilecek, tam serbest ve intişarı küllîleşecek ve rahmet dahi tam olacak. [^hâşiye5]
 
 ***
 
@@ -586,7 +586,7 @@ Aziz kardeşlerim!
 
 Size iki pusulayı Leyle-i Regaibden altı saat evvel yazdım. “Hizb-i Nuriye” ve Hüsrev’in kâğıdı ile teslimden sonra, kat’iyen benim kanaatimde bir nevi mu’cize-i Ahmediye olarak, iki aydan beri mütemadiyen kuraklık ve yağmursuzluk ve her tarafta daima namazlardan sonra pek çok duaların akîm kaldığı ve herkes meyusiyetinden derd-i maişet endişesiyle kalben ağlarken, birden Leyle-i Regaib –bütün ömrümde hiç işitmediğim ve başkaları da işitmediği– üç saatte yüz defa belki fazla tekrarla melek-i ra’dın bu yüksek ve şiddetli tesbihatıyla öyle bir rahmet yağdı ki en muannide dahi Leyle-i Regaibin kudsiyetini ve Hazret-i Risalet’in bir derece, bir cihette âlem-i şehadete teşrifinin umum kâinatça ve bütün asırlarda nazar-ı ehemmiyette ve Rahmeten li’l-âlemîn olduğunu ispat etti ve kâinat o geceyi alkışlıyor diye gösterdi.
 
-Acaba dualarımızda Isparta bu memleketle beraberdi, bu yağmurda hissesi var mı, merak ediyorum. Şimdiye kadar çok emarelerle Risale-i Nur bir vesile-i rahmet olmasından, bu rahmet îma eder ki her halde bir fütuhatı perde altında vardır ve belki serbestiyetine bir işarettir. [^Hâşiye6] Hem burada Lem’aların verdikleri iştiyak cihetiyle yazıcıların çoğalması, inşâallah bir nevi makbul dua hükmüne geçti.
+Acaba dualarımızda Isparta bu memleketle beraberdi, bu yağmurda hissesi var mı, merak ediyorum. Şimdiye kadar çok emarelerle Risale-i Nur bir vesile-i rahmet olmasından, bu rahmet îma eder ki her halde bir fütuhatı perde altında vardır ve belki serbestiyetine bir işarettir. [^hâşiye6] Hem burada Lem’aların verdikleri iştiyak cihetiyle yazıcıların çoğalması, inşâallah bir nevi makbul dua hükmüne geçti.
 
 Risale-i Nur talebeleri namına
 Evet, Evet
@@ -653,7 +653,7 @@ Ve en latîf bir emare de şudur ki dün birdenbire bir serçe kuşu pencereye g
 
 Sonra bana hizmet eden çocuk geldi, dedi ki: “Ben bu gece gördüm ki merhum Hâfız Ali’nin (rh) kardeşi yanımıza gelmiş.” Ben de dedim: Hâfız Ali ve Hüsrev gibi bir kardeşimiz buraya gelecek. Aynı günde, iki saat sonra çocuk geldi dedi: “Hâfız Mustafa geldi.” Hem Risale-i Nur’un serbestiyetinin müjdesini hem mahkemedeki kitaplarını da kısmen getirdi hem serçe kuşunun ve benim rüyamın hem kuddüs kuşunun tabirini ispat etti ki tesadüf olmadığını gösterdi.
 
-Acaba emsalsiz bir tarzda hem serçe kuşu acib bir surette hem kuddüs kuşu garib bir surette gelip bakması, sonra kaybolması ve masum çocuğun rüyası tam tamına çıkması hem Risale-i Nur’un Hâfız Ali gibi bir zatın eliyle buraya gelmesinin aynı zamanına tevafuku hiç tesadüf olabilir mi? Hiçbir ihtimali var mı ki bir beşaret-i gaybiye olmasın? [^Hâşiye7]
+Acaba emsalsiz bir tarzda hem serçe kuşu acib bir surette hem kuddüs kuşu garib bir surette gelip bakması, sonra kaybolması ve masum çocuğun rüyası tam tamına çıkması hem Risale-i Nur’un Hâfız Ali gibi bir zatın eliyle buraya gelmesinin aynı zamanına tevafuku hiç tesadüf olabilir mi? Hiçbir ihtimali var mı ki bir beşaret-i gaybiye olmasın? [^hâşiye7]
 
 Evet bu mesele, küçük bir mesele değil; kâinat ve hayvanat ile dahi alâkadardır. Evet, Risalei’n-Nur serbestiyetinden ben Risale-i Nur’un bir şakirdi olmak itibarıyla, kendi hisseme düşen bu kâr ve neticeyi, binler altın lira kadar kazancım var kanaat ediyorum. Başka yüz binler Risale-i Nur şakirdleri ve takviye-i imana muhtaç ehl-i imanın istifadeleri buna kıyas edilsin.
 
@@ -1815,7 +1815,7 @@ Evet, bu yolda yürüyecek olanların; sizdeki sarsılmak bilmeyen imanla, yüks
 
 İman ve Kur’an nuru ile tertemiz gönlünü fethettiğiniz gençlik, İlahî zaferinizin en parlak delilini teşkil eden en mühim varlık ve en kıymetli cevherdir. “Nurdan Sesler”in hemen her mısraında, asil ve şuurlu ruhuna hitap ettiğim tertemiz gençlik, işte bu hak ve hakikatin bağrı yanık âşığı olan gençliktir.
 
-Nurlu davanın kazanmış olduğu bu son zaferin verdiği vecdle dolu bir ilhamla yazdığım şu manzumeyi [^Hâşiye8] takdim ediyorum. Kabulünü rica ve istirham eylerim.
+Nurlu davanın kazanmış olduğu bu son zaferin verdiği vecdle dolu bir ilhamla yazdığım şu manzumeyi [^hâşiye8] takdim ediyorum. Kabulünü rica ve istirham eylerim.
 
 Tekrar tekrar ellerinizden öper, kıymetli dualarınızı beklerim, pek muhterem Üstadım Hazretleri.
 
@@ -1825,19 +1825,19 @@ Ali Ulvi
 
 ***
 
-[^Hâşiye1]: Risale-i Nur şakirdlerinden ve âhiret hemşiremizden “Âsiye” namında bir hanım eliyle o mübarek emaneti aldım.
+[^hâşiye1]: Risale-i Nur şakirdlerinden ve âhiret hemşiremizden “Âsiye” namında bir hanım eliyle o mübarek emaneti aldım.
 
-[^Hâşiye2]: Bu risalede eliflerin mecmuu yüz kırk dört çıkmış, tam tamına “Said” olup müellifinin imzasını gösteriyor.
+[^hâşiye2]: Bu risalede eliflerin mecmuu yüz kırk dört çıkmış, tam tamına “Said” olup müellifinin imzasını gösteriyor.
 
-[^Hâşiye3]: Bu dua hârika bir surette kabul oldu, pek çabuk kurtuldular.
+[^hâşiye3]: Bu dua hârika bir surette kabul oldu, pek çabuk kurtuldular.
 
-[^Hâşiye4]: Evet, maddiyyunluk taununun hastalığı nev-i beşere bu dehşetli sıtmayı ve küre-i arza bu titremeyi vermiştir.
+[^hâşiye4]: Evet, maddiyyunluk taununun hastalığı nev-i beşere bu dehşetli sıtmayı ve küre-i arza bu titremeyi vermiştir.
 
-[^Hâşiye5]: Hem aynen öyle oldu, biz gördük.
+[^hâşiye5]: Hem aynen öyle oldu, biz gördük.
 
-[^Hâşiye6]: Sonra tahakkuk etti ki aynı zamanda hem fütuhatı hem serbestiyeti perde altında tahakkuk etmiş.
+[^hâşiye6]: Sonra tahakkuk etti ki aynı zamanda hem fütuhatı hem serbestiyeti perde altında tahakkuk etmiş.
 
-[^Hâşiye7]: Hem bu kuşların Risale-i Nur’la alâkadarlıklarını teyid eden çok emareler var. Ezcümle: O kuşların alâkadarlığını gösteren mektup Milas’a gittiği aynı vakitte garib bir tarzda kuddüs kuşu o mektubun mealini vaziyetiyle teyid ettiği gibi; aynı mektup İnebolu’da geceleyin okunurken büyük bir gece kuşu hârika bir tarzda pencereye gelip kanadıyla vurup durup dinlemesi; aynı mektup Sava’da okunurken bir defa iki çekirge üstüne gelip durup neticeye kadar durmaları; bir defa da serçe ve bülbül kuşları aynı mektubun okunmasında pervane gibi uçup alâkadarlık göstermeleri ve Isparta’da Hüsrev’in evinde aynı mektup okunurken bülbül kuşu hilaf-ı âdet salona gelmesi, alâkadarlığını göstermesi gibi çok emareler, bu keramet-i Nuriyeyi teyid ediyor.
+[^hâşiye7]: Hem bu kuşların Risale-i Nur’la alâkadarlıklarını teyid eden çok emareler var. Ezcümle: O kuşların alâkadarlığını gösteren mektup Milas’a gittiği aynı vakitte garib bir tarzda kuddüs kuşu o mektubun mealini vaziyetiyle teyid ettiği gibi; aynı mektup İnebolu’da geceleyin okunurken büyük bir gece kuşu hârika bir tarzda pencereye gelip kanadıyla vurup durup dinlemesi; aynı mektup Sava’da okunurken bir defa iki çekirge üstüne gelip durup neticeye kadar durmaları; bir defa da serçe ve bülbül kuşları aynı mektubun okunmasında pervane gibi uçup alâkadarlık göstermeleri ve Isparta’da Hüsrev’in evinde aynı mektup okunurken bülbül kuşu hilaf-ı âdet salona gelmesi, alâkadarlığını göstermesi gibi çok emareler, bu keramet-i Nuriyeyi teyid ediyor.
 
-[^Hâşiye8]: “Gönüller Fatihi Büyük Üstada” başlıklı olan bu manzume, Mektubat’ın ve İhlas Risaleleri’nin âhirindedir.
+[^hâşiye8]: “Gönüller Fatihi Büyük Üstada” başlıklı olan bu manzume, Mektubat’ın ve İhlas Risaleleri’nin âhirindedir.
 

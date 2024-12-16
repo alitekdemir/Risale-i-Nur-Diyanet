@@ -51,7 +51,7 @@ Evet, münasebet var ve ihtiyaç var. Hem o derece büyük bir münasebet ve ehe
 
 Evet, i’caz-ı Kur’an’ın bir esası olan îcaz hem hidayet-i Kur’an’ın bir nuru olan lütf-u irşad ve hüsn-ü ifham, iktiza ediyorlar ki Kur’an’ın muhatapları içinde ekseriyeti teşkil eden avama karşı küllî hakikatleri ve derin ve umumî düsturları, me’luf ve cüz’î suretler ile gösterilsin ve fikirleri basit olan umumî avama karşı, muazzam hakikatlerin yalnız uçları ve basit bir sureti gösterilsin. Hem âdet perdesi tahtında ve zeminin altında hârikulâde olan tasarrufat-ı İlahiye, icmalen gösterilsin. İşte bu sırra binaendir ki Kur’an-ı Hakîm şu âyetle diyor:
 
-Ey Benî-İsrail ve ey benî-Âdem! Sizlere ne olmuş ki kalpleriniz taştan daha camid ve daha ziyade katılaşmıştır. Zira görmüyor musunuz ki o pek sert ve pek camid ve toprak altında bir tabaka-i azîme teşkil eden o koca taşlar, o kadar evamir-i İlahiyeye karşı mutî ve musahhar ve icraat-ı Rabbaniye altında o kadar yumuşak ve emirberdir ki havada ağaçların teşkilinde tasarrufat-ı İlahiye ne derece suhuletle cereyan ediyor. Öyle de tahte’z-zemin ve o sert, sağır taşlarda o derece suhulet ve intizam ile hattâ damarlara karşı kanın cevelanı gibi muntazam su cetvelleri [^Hâşiye1] ve su damarları, kemal-i hikmetle o taşlarda mukavemet görmeyerek cereyan ediyor. Hem havada nebatat ve ağaçların dallarının suhuletle suret-i intişarı gibi o derece suhuletle köklerin nazik damarları, yer altındaki taşlarda mümanaat görmeyerek evamir-i İlahî ile muntazaman intişar ettiğini Kur’an işaret ediyor ve geniş bir hakikati, şu âyetle ders veriyor ve o ders ile o kasavetli kalplere bu manayı veriyor ve remzen diyor:
+Ey Benî-İsrail ve ey benî-Âdem! Sizlere ne olmuş ki kalpleriniz taştan daha camid ve daha ziyade katılaşmıştır. Zira görmüyor musunuz ki o pek sert ve pek camid ve toprak altında bir tabaka-i azîme teşkil eden o koca taşlar, o kadar evamir-i İlahiyeye karşı mutî ve musahhar ve icraat-ı Rabbaniye altında o kadar yumuşak ve emirberdir ki havada ağaçların teşkilinde tasarrufat-ı İlahiye ne derece suhuletle cereyan ediyor. Öyle de tahte’z-zemin ve o sert, sağır taşlarda o derece suhulet ve intizam ile hattâ damarlara karşı kanın cevelanı gibi muntazam su cetvelleri [^hâşiye1] ve su damarları, kemal-i hikmetle o taşlarda mukavemet görmeyerek cereyan ediyor. Hem havada nebatat ve ağaçların dallarının suhuletle suret-i intişarı gibi o derece suhuletle köklerin nazik damarları, yer altındaki taşlarda mümanaat görmeyerek evamir-i İlahî ile muntazaman intişar ettiğini Kur’an işaret ediyor ve geniş bir hakikati, şu âyetle ders veriyor ve o ders ile o kasavetli kalplere bu manayı veriyor ve remzen diyor:
 
 Ey Benî-İsrail ve ey benî-Âdem! Zaaf ve acziniz içinde nasıl bir kalp taşıyorsunuz ki öyle bir zatın evamirine karşı o kalp kasavetle mukavemet ediyor. Halbuki o koca sert taşların tabaka-i muazzaması, o zatın evamiri önünde kemal-i inkıyadla karanlıkta nazik vazifelerini mükemmel îfa ediyorlar. İtaatsizlik göstermiyorlar. Belki o taşlar, toprak üstünde bulunan bütün zevi’l-hayata, âb-ı hayatla beraber sair medar-ı hayatlarına öyle bir hazinedarlık ediyor ve öyle bir adaletle taksimata vesiledir ve öyle bir hikmetle tevziata vasıta oluyor ki Hakîm-i Zülcelal’in dest-i kudretinde, bal mumu gibi ve belki hava gibi yumuşaktır, mukavemetsizdir ve azamet-i kudretine karşı secdededir.
 
@@ -89,7 +89,7 @@ Demek ki şu enharın nebeanları, âdi ve tabiî ve tesadüfî bir iş değildi
 
 İşte Kur’an-ı Hakîm, şu manayı ihtar ile şöyle bir ders veriyor ki der:
 
-Ey Benî-İsrail ve ey benî-Âdem! Kalp katılığı ve kasavetinizle öyle bir Zat-ı Zülcelal’in evamirine karşı itaatsizlik ediyorsunuz ve öyle bir Şems-i sermedî’nin ziya-yı marifetine gafletle gözlerinizi yumuyorsunuz ki Mısır’ınızı cennet suretine çeviren Nil-i Mübarek gibi koca nehirleri; âdi, camid taşların ağızlarından akıtıp mu’cizat-ı kudretini, şevahid-i vahdaniyetini o koca nehirlerin kuvvet ve zuhur ve ifazaları derecesinde kâinatın kalbine ve zeminin dimağına vererek cin ve insin kulûb ve ukûlüne isale ediyor. Hem hissiz, camid bazı taşları böyle acib bir tarzda [^Hâşiye2] mu’cizat-ı kudretine mazhar etmesi, güneşin ziyası güneşi gösterdiği gibi o Fâtır-ı Zülcelal’i gösterdiği halde, nasıl onun o nur-u marifetine karşı kör olup görmüyorsunuz?
+Ey Benî-İsrail ve ey benî-Âdem! Kalp katılığı ve kasavetinizle öyle bir Zat-ı Zülcelal’in evamirine karşı itaatsizlik ediyorsunuz ve öyle bir Şems-i sermedî’nin ziya-yı marifetine gafletle gözlerinizi yumuyorsunuz ki Mısır’ınızı cennet suretine çeviren Nil-i Mübarek gibi koca nehirleri; âdi, camid taşların ağızlarından akıtıp mu’cizat-ı kudretini, şevahid-i vahdaniyetini o koca nehirlerin kuvvet ve zuhur ve ifazaları derecesinde kâinatın kalbine ve zeminin dimağına vererek cin ve insin kulûb ve ukûlüne isale ediyor. Hem hissiz, camid bazı taşları böyle acib bir tarzda [^hâşiye2] mu’cizat-ı kudretine mazhar etmesi, güneşin ziyası güneşi gösterdiği gibi o Fâtır-ı Zülcelal’i gösterdiği halde, nasıl onun o nur-u marifetine karşı kör olup görmüyorsunuz?
 
 İşte şu üç hakikate nasıl bir belâgat giydirilmiş, gör ve belâgat-ı irşadiyeye dikkat et. Acaba hangi kasavet ve katılık vardır ki böyle hararetli şu belâgat-ı irşada karşı dayanabilsin, ezilmesin?
 
@@ -117,13 +117,13 @@ Beşerin sanat ve fen cihetindeki terakkiyatlarının neticesi olan havârık-ı
 
 **İkinci kısım** şudur ki: Bazı hâdisat-ı tarihiye suretinde işaret eder. Ezcümle:
 
-<span class="arabic" dir="rtl">قُتِلَ اَصْحَابُ الْاُخْدُودِ ۞ اَلنَّارِ ذَاتِ الْوَقُودِ ۞ اِذْ هُمْ عَلَيْهَا قُعُودٌ ۞ وَهُمْ عَلٰى مَا يَفْعَلُونَ بِالْمُؤْمِنٖينَ شُهُودٌ</span> [^Hâşiye3] <span class="arabic" dir="rtl">۞ وَمَا نَقَمُوا مِنْهُمْ اِلَّٓا اَنْ يُؤْمِنُوا بِاللّٰهِ الْعَزٖيزِ الْحَمٖيدِ</span>
+<span class="arabic" dir="rtl">قُتِلَ اَصْحَابُ الْاُخْدُودِ ۞ اَلنَّارِ ذَاتِ الْوَقُودِ ۞ اِذْ هُمْ عَلَيْهَا قُعُودٌ ۞ وَهُمْ عَلٰى مَا يَفْعَلُونَ بِالْمُؤْمِنٖينَ شُهُودٌ</span> [^hâşiye3] <span class="arabic" dir="rtl">۞ وَمَا نَقَمُوا مِنْهُمْ اِلَّٓا اَنْ يُؤْمِنُوا بِاللّٰهِ الْعَزٖيزِ الْحَمٖيدِ</span>
 
 Keza <span class="arabic" dir="rtl">فِى الْفُلْكِ الْمَشْحُونِ ۞ وَخَلَقْنَا لَهُمْ مِنْ مِثْلِهٖ مَا يَرْكَبُونَ</span>
 
 gibi âyetlerle şimendifere işaret ettiği gibi
 
-<span class="arabic" dir="rtl">اَللّٰهُ نُورُ السَّمٰوَاتِ وَالْاَرْضِ مَثَلُ نُورِهٖ كَمِشْكٰوةٍ فٖيهَا مِصْبَاحٌ اَلْمِصْبَاحُ فٖى زُجَاجَةٍ اَلزُّجَاجَةُ كَاَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ زَيْتُونَةٍ لَا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضٖٓىءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُورٌ عَلٰى نُورٍ</span> [^Hâşiye4] <span class="arabic" dir="rtl">يَهْدِى اللّٰهُ لِنُورِهٖ مَنْ يَشَٓاءُ</span>
+<span class="arabic" dir="rtl">اَللّٰهُ نُورُ السَّمٰوَاتِ وَالْاَرْضِ مَثَلُ نُورِهٖ كَمِشْكٰوةٍ فٖيهَا مِصْبَاحٌ اَلْمِصْبَاحُ فٖى زُجَاجَةٍ اَلزُّجَاجَةُ كَاَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ زَيْتُونَةٍ لَا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضٖٓىءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُورٌ عَلٰى نُورٍ</span> [^hâşiye4] <span class="arabic" dir="rtl">يَهْدِى اللّٰهُ لِنُورِهٖ مَنْ يَشَٓاءُ</span>
 
 âyeti, pek çok envara, esrara işaretle beraber elektriğe dahi remzediyor.
 
@@ -227,7 +227,7 @@ Madem hakikat böyledir. Manasız bir eğlence hükmünde olan fonoğraf işlett
 
 **Birincisi:** Ateş dahi sair esbab-ı tabiiye gibi kendi keyfiyle, tabiatıyla, körü körüne hareket etmiyor. Belki emir tahtında bir vazife yapıyor ki Hazret-i İbrahim’i aleyhisselâm yakmadı ve ona “Yakma!” emrediliyor.
 
-**İkincisi:** Ateşin bir derecesi var ki bürudetiyle ihrak eder. Yani ihrak gibi bir tesir yapar. Cenab-ı Hak <span class="arabic" dir="rtl">سَلَامًا</span> [^Hâşiye5] lafzıyla bürudete diyor ki: “Sen de hararet gibi bürudetinle ihrak etme.” Demek, o mertebedeki ateş, soğukluğuyla yandırır gibi tesir gösteriyor. Hem ateştir hem berddir. Evet, hikmet-i tabiiyede nâr-ı beyza halinde ateşin bir derecesi var ki harareti etrafına neşretmiyor ve etrafındaki harareti kendine celbettiği için şu tarz bürudetle, etrafındaki su gibi mayi şeyleri incimad ettirip manen bürudetiyle ihrak eder. İşte zemherir, bürudetiyle ihrak eden bir sınıf ateştir. Öyle ise ateşin bütün derecatına ve umum envaına câmi’ olan cehennem içinde elbette zemheririn bulunması zarurîdir.
+**İkincisi:** Ateşin bir derecesi var ki bürudetiyle ihrak eder. Yani ihrak gibi bir tesir yapar. Cenab-ı Hak <span class="arabic" dir="rtl">سَلَامًا</span> [^hâşiye5] lafzıyla bürudete diyor ki: “Sen de hararet gibi bürudetinle ihrak etme.” Demek, o mertebedeki ateş, soğukluğuyla yandırır gibi tesir gösteriyor. Hem ateştir hem berddir. Evet, hikmet-i tabiiyede nâr-ı beyza halinde ateşin bir derecesi var ki harareti etrafına neşretmiyor ve etrafındaki harareti kendine celbettiği için şu tarz bürudetle, etrafındaki su gibi mayi şeyleri incimad ettirip manen bürudetiyle ihrak eder. İşte zemherir, bürudetiyle ihrak eden bir sınıf ateştir. Öyle ise ateşin bütün derecatına ve umum envaına câmi’ olan cehennem içinde elbette zemheririn bulunması zarurîdir.
 
 **Üçüncüsü:** Cehennem ateşinin tesirini men’edecek ve eman verecek iman gibi bir madde-i maneviye, İslâmiyet gibi bir zırh olduğu misillü dünyevî ateşinin dahi tesirini men’edecek bir madde-i maddiye vardır. Çünkü Cenab-ı Hak, ism-i Hakîm iktizasıyla bu dünya dârü’l-hikmet olmak hasebiyle, esbab perdesi altında icraat yapıyor. Öyle ise Hazret-i İbrahim’in cismi gibi gömleğini de ateş yakmadı ve ateşe karşı mukavemet haletini vermiştir. İbrahim’i yakmadığı gibi gömleğini de yakmıyor.
 
@@ -277,7 +277,7 @@ Hem o Kur’an-ı Mu’cizü’l-Beyan, cezalet ve belâgat-ı Kur’aniyeyi mü
 
 ***Elhasıl:*** Kur’an’ın ekser âyetleri, her biri birer hazine-i kemalâtın anahtarı ve birer define-i ilmin miftahıdır.
 
-Eğer istersen Kur’an’ın semavatına ve âyâtının nücumlarına yetişesin; geçmiş olan yirmi adet Sözleri, yirmi basamaklı [^Hâşiye6] bir merdiven yaparak çık. Onunla gör ki Kur’an ne kadar parlak bir güneştir. Hakaik-i İlahiyeye ve hakaik-i mümkinat üstüne nasıl safi bir nur serpiyor ve parlak bir ziya neşrediyor bak.
+Eğer istersen Kur’an’ın semavatına ve âyâtının nücumlarına yetişesin; geçmiş olan yirmi adet Sözleri, yirmi basamaklı [^hâşiye6] bir merdiven yaparak çık. Onunla gör ki Kur’an ne kadar parlak bir güneştir. Hakaik-i İlahiyeye ve hakaik-i mümkinat üstüne nasıl safi bir nur serpiyor ve parlak bir ziya neşrediyor bak.
 
 ***Netice:*** Madem enbiyaya dair olan âyetler, şimdiki terakkiyat-ı beşeriyenin hârikalarına birer nevi işaretle beraber, daha ilerideki hududunu çiziyor gibi bir tarz-ı ifadesi var ve madem her bir âyetin müteaddid manalara delâleti muhakkaktır, belki müttefekun aleyhtir ve madem enbiyaya ittiba etmek ve iktida etmeye dair evamir-i mutlaka var. Öyle ise şu geçmiş âyetlerin maânî-i sarîhalarına delâletle beraber, sanat ve fünun-u beşeriyenin mühimlerine işarî bir tarzda delâlet hem teşvik ediliyor, denilebilir.
 
@@ -287,7 +287,7 @@ Eğer istersen Kur’an’ın semavatına ve âyâtının nücumlarına yetişes
 
 ***Elcevap:*** Çünkü medeniyet-i beşeriye hârikalarının hakları, bahs-i Kur’anîde o kadar olabilir. Zira Kur’an’ın vazife-i asliyesi, daire-i rububiyetin kemalât ve şuunatını ve daire-i ubudiyetin vezaif ve ahvalini talim etmektir. Öyle ise şu havârık-ı beşeriyenin o iki dairede hakları; yalnız bir zayıf remiz, bir hafif işaret ancak düşer. Çünkü onlar, daire-i rububiyetten haklarını isteseler o vakit pek az hak alabilirler.
 
-Mesela, tayyare-i beşer [^Hâşiye7] Kur’an’a dese: “Bana bir hakk-ı kelâm ver, âyâtında bir mevki ver.” Elbette o daire-i rububiyetin tayyareleri olan seyyarat, arz, kamer; Kur’an namına diyecekler: “Burada cirmin kadar bir mevki alabilirsin.”
+Mesela, tayyare-i beşer [^hâşiye7] Kur’an’a dese: “Bana bir hakk-ı kelâm ver, âyâtında bir mevki ver.” Elbette o daire-i rububiyetin tayyareleri olan seyyarat, arz, kamer; Kur’an namına diyecekler: “Burada cirmin kadar bir mevki alabilirsin.”
 
 Eğer beşerin tahte’l-bahirleri, âyât-ı Kur’aniyeden mevki isteseler o dairenin tahte’l-bahirleri yani, bahr-i muhit-i havaîde ve esîr denizinde yüzen zemin ve yıldızlar ona diyecekler: “Yanımızda senin yerin, görünmeyecek derecede azdır.”
 
@@ -309,7 +309,7 @@ Halbuki siz ekseriyet itibarıyla şu fâni dünyayı bir makarr-ı ebedî nokta
 
 ***Elcevap:*** Din bir imtihandır. Teklif-i İlahî bir tecrübedir. Tâ ervah-ı âliye ile ervah-ı safile, müsabaka meydanında birbirinden ayrılsın. Nasıl ki bir madene ateş veriliyor; tâ elmasla kömür, altınla toprak birbirinden ayrılsın. Öyle de bu dâr-ı imtihanda olan teklifat-ı İlahiye bir ibtiladır ve bir müsabakaya sevktir ki istidad-ı beşer madeninde olan cevahir-i âliye ile mevadd-ı süfliye, birbirinden tefrik edilsin.
 
-Madem Kur’an, bu dâr-ı imtihanda bir tecrübe suretinde, bir müsabaka meydanında beşerin tekemmülü için nâzil olmuştur. Elbette şu dünyevî ve herkese görünecek umûr-u gaybiye-i istikbaliyeye yalnız işaret edecek ve hüccetini ispat edecek derecede akla kapı açacak. Eğer sarahaten zikretse sırr-ı teklif bozulur. Âdeta gökyüzündeki yıldızlarla vâzıhan <span class="arabic" dir="rtl">لَا اِلٰهَ اِلَّا اللّٰهُ</span>‌ yazmak misillü bir bedahete girecek. O zaman herkes ister istemez tasdik edecek. Müsabaka olmaz, imtihan fevt olur. Kömür gibi bir ruh ile elmas gibi bir ruh [^Hâşiye8] beraber kalacaklar.
+Madem Kur’an, bu dâr-ı imtihanda bir tecrübe suretinde, bir müsabaka meydanında beşerin tekemmülü için nâzil olmuştur. Elbette şu dünyevî ve herkese görünecek umûr-u gaybiye-i istikbaliyeye yalnız işaret edecek ve hüccetini ispat edecek derecede akla kapı açacak. Eğer sarahaten zikretse sırr-ı teklif bozulur. Âdeta gökyüzündeki yıldızlarla vâzıhan <span class="arabic" dir="rtl">لَا اِلٰهَ اِلَّا اللّٰهُ</span>‌ yazmak misillü bir bedahete girecek. O zaman herkes ister istemez tasdik edecek. Müsabaka olmaz, imtihan fevt olur. Kömür gibi bir ruh ile elmas gibi bir ruh [^hâşiye8] beraber kalacaklar.
 
 ***Elhasıl:*** Kur’an-ı Hakîm, hakîmdir. Her şeye, kıymeti nisbetinde bir makam verir. İşte Kur’an, bin üç yüz sene evvel, istikbalin zulümatında müstetir ve gaybî olan semerat ve terakkiyat-ı insaniyeyi görüyor ve gördüğümüzden ve göreceğimizden daha güzel bir surette gösterir.
 
@@ -321,7 +321,7 @@ Demek Kur’an, öyle bir zatın kelâmıdır ki bütün zamanları ve içindeki
 
 ***
 
-[^Hâşiye1]: Evet, zemin denilen muhteşem ve seyyar sarayın temel taşı olan taş tabakasının Fâtır-ı Zülcelal tarafından tavzif edilen en mühim üç vazifeyi beyan etmek ancak Kur’an’a yakışır.
+[^hâşiye1]: Evet, zemin denilen muhteşem ve seyyar sarayın temel taşı olan taş tabakasının Fâtır-ı Zülcelal tarafından tavzif edilen en mühim üç vazifeyi beyan etmek ancak Kur’an’a yakışır.
 
 **İşte birinci vazifesi:** Toprağın kudret-i Rabbaniye ile nebatata analık edip yetiştirdiği gibi kudret-i İlahiye ile taş dahi toprağa dâyelik edip yetiştiriyor.
 
@@ -329,18 +329,18 @@ Demek Kur’an, öyle bir zatın kelâmıdır ki bütün zamanları ve içindeki
 
 **Üçüncü vazife-i fıtriyesi:** Çeşmelerin ve ırmakların, uyûn ve enharın muntazam bir mizan ile zuhur ve devamlarına hazinedarlık etmektir. Evet taşlar, bütün kuvvetiyle ve ağızlarının dolusuyla akıttıkları âb-ı hayat suretinde, delail-i vahdaniyeti zemin yüzüne yazıp serpiyor.
 
-[^Hâşiye2]: Nil-i Mübarek, Cebel-i Kamer’den çıktığı gibi Dicle’nin en mühim bir şubesi, Van vilayetinden Müküs nahiyesinde bir kayanın mağarasından çıkıyor. Fırat’ın da mühim bir şubesi, Diyadin taraflarında bir dağın eteğinden çıkıyor. Dağların aslı, hilkaten bir madde-i mayiadan incimad etmiş taşlar olduğu fennen sabittir. Tesbihat-ı Nebeviyeden olan <span class="arabic" dir="rtl">سُبْحَانَ مَنْ بَسَطَ الْاَرْضَ عَلٰى مَاءٍ جَمَدْ</span> kat’î delâlet ediyor ki asl-ı hilkat-i arz şöyledir ki:
+[^hâşiye2]: Nil-i Mübarek, Cebel-i Kamer’den çıktığı gibi Dicle’nin en mühim bir şubesi, Van vilayetinden Müküs nahiyesinde bir kayanın mağarasından çıkıyor. Fırat’ın da mühim bir şubesi, Diyadin taraflarında bir dağın eteğinden çıkıyor. Dağların aslı, hilkaten bir madde-i mayiadan incimad etmiş taşlar olduğu fennen sabittir. Tesbihat-ı Nebeviyeden olan <span class="arabic" dir="rtl">سُبْحَانَ مَنْ بَسَطَ الْاَرْضَ عَلٰى مَاءٍ جَمَدْ</span> kat’î delâlet ediyor ki asl-ı hilkat-i arz şöyledir ki:
 
 Su gibi bir madde, emr-i İlahî ile incimad eder, taş olur. Taş, izn-i İlahî ile toprak olur. Tesbihteki “arz” lafzı, toprak demektir. Demek o su çok yumuşaktır, üstünde durulmaz. Taş çok serttir, ondan istifade edilmez. Onun için Hakîm-i Rahîm, toprağı taş üstünde serer, zevi’l-hayata makar eder.
 
-[^Hâşiye3]: Şu cümle işaret ediyor ki şimendiferdir. Âlem-i İslâm’ı esaret altına almıştır. Kâfirler onunla İslâm’ı mağlup etmiştir.
+[^hâşiye3]: Şu cümle işaret ediyor ki şimendiferdir. Âlem-i İslâm’ı esaret altına almıştır. Kâfirler onunla İslâm’ı mağlup etmiştir.
 
-[^Hâşiye4]: <span class="arabic" dir="rtl">يَكَادُ زَيْتُهَا يُضٖٓىءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُورٌ عَلٰى نُورٍ</span> cümlesi, o remzi ışıklandırıyor.
+[^hâşiye4]: <span class="arabic" dir="rtl">يَكَادُ زَيْتُهَا يُضٖٓىءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُورٌ عَلٰى نُورٍ</span> cümlesi, o remzi ışıklandırıyor.
 
-[^Hâşiye5]: Bir tefsir diyor: <span class="arabic" dir="rtl">سَلَامًا</span> demese idi, bürudetiyle ihrak edecekti.
+[^hâşiye5]: Bir tefsir diyor: <span class="arabic" dir="rtl">سَلَامًا</span> demese idi, bürudetiyle ihrak edecekti.
 
-[^Hâşiye6]: Belki otuz üç adet Sözleri, otuz üç adet Mektupları, otuz bir Lem’aları, on üç Şuâları; yüz yirmi basamaklı bir merdivendir.
+[^hâşiye6]: Belki otuz üç adet Sözleri, otuz üç adet Mektupları, otuz bir Lem’aları, on üç Şuâları; yüz yirmi basamaklı bir merdivendir.
 
-[^Hâşiye7]: Şu ciddi meseleyi yazarken ihtiyarsız olarak kalemim üslubunu, şu latîf latîfeye çevirdi. Ben de kalemimi serbest bıraktım. Ümit ederim ki üslubun latîfeliği, meselenin ciddiyetine halel vermesin.
+[^hâşiye7]: Şu ciddi meseleyi yazarken ihtiyarsız olarak kalemim üslubunu, şu latîf latîfeye çevirdi. Ben de kalemimi serbest bıraktım. Ümit ederim ki üslubun latîfeliği, meselenin ciddiyetine halel vermesin.
 
-[^Hâşiye8]: Ebucehil-i Laîn ile Ebubekir-i Sıddık müsavi görünecek. Sırr-ı teklif zayi olacak.
+[^hâşiye8]: Ebucehil-i Laîn ile Ebubekir-i Sıddık müsavi görünecek. Sırr-ı teklif zayi olacak.

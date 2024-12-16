@@ -106,9 +106,9 @@ Bu küçük mektupları hususi bir surette, hususi bazı kardeşlerime yazmışt
 
 âyetinin bir sırrını tefsir ile vesvese-i şeytana müptela olan adamlara mühim bir ilaç ve merhemdir.
 
-**İkinci Mebhas: **Barla Yaylası, Tepelice, çam, katran, karakavağın bir meyvesi olup Sözler mecmuasına yazıldığı için buraya yazılmamıştır.
+**İkinci Mebhas:** Barla Yaylası, Tepelice, çam, katran, karakavağın bir meyvesi olup Sözler mecmuasına yazıldığı için buraya yazılmamıştır.
 
-**Üçüncü ve Dördüncü Mebhasları: **İ’caz-ı Kur’an’a karşı medeniyetin aczini gösteren yüzer misallerden iki misaldir. Kur’an’a muhalif olan hukuk-u medeniyet ne kadar haksız olduğunu ispat eden iki numunedir.
+**Üçüncü ve Dördüncü Mebhasları:** İ’caz-ı Kur’an’a karşı medeniyetin aczini gösteren yüzer misallerden iki misaldir. Kur’an’a muhalif olan hukuk-u medeniyet ne kadar haksız olduğunu ispat eden iki numunedir.
 
 Birinci Misal: <span class="arabic" dir="rtl">فَلِلذَّكَرِ مِثْلُ حَظِّ الْاُنْثَيَيْنِ</span> Mahz-ı adalet olan hükm-ü Kur’anî, kıza nısıf veriyor. Medeniyet, irsiyet hususunda kızın hakkında fazla hak vermekle büyük bir haksızlık etmiş ve merhamete muhtaç kıza zulmetmiş olduğunu kat’î bir surette ispat ediyor.
 
@@ -152,7 +152,7 @@ Altı mühim suale, altı ehemmiyetli cevaptır.
 
 **Beşinci Sual:** “Kıyametin hâdisatından ervah-ı bâkiye müteessir olacaklar mı?” cevabında, mühim bir hakikat beyan ediliyor.
 
-**Altıncı Sual: **“ <span class="arabic" dir="rtl">كُلُّ شَىْءٍ هَالِكٌ اِلَّا وَجْهَهُ</span> âyetinin hükmü; âhirete, cennete ve cehenneme ve ehillerine şümulü var mı, yok mu?” cevabında, gayet mühim ve merak-âver ve kuvvetli bir cevap verilir.
+**Altıncı Sual:** “ <span class="arabic" dir="rtl">كُلُّ شَىْءٍ هَالِكٌ اِلَّا وَجْهَهُ</span> âyetinin hükmü; âhirete, cennete ve cehenneme ve ehillerine şümulü var mı, yok mu?” cevabında, gayet mühim ve merak-âver ve kuvvetli bir cevap verilir.
 
 Bu risaledeki sualleri merak edenlere bu risale bir iksir-i a’zamdır.
 
@@ -162,15 +162,15 @@ Bu risaledeki sualleri merak edenlere bu risale bir iksir-i a’zamdır.
 
 âyetinin bir sırrını, başıma gelen bir hâdise münasebetiyle **beş nokta** ile tefsir ediyor.
 
-**Birinci Nokta: **Hak ve hakikat olan hizmet-i Kur’aniye, şimdiki zamanda çoğu yalancılıktan ibaret ve bid’a ve dalalet olan siyasetten beni kat’iyen men’ettiğine dairdir.
+**Birinci Nokta:** Hak ve hakikat olan hizmet-i Kur’aniye, şimdiki zamanda çoğu yalancılıktan ibaret ve bid’a ve dalalet olan siyasetten beni kat’iyen men’ettiğine dairdir.
 
-**İkinci Nokta: **Hayat-ı ebediyeye ciddi çalışmak ve zararsız ve müstakim yol ile Kur’an’a hizmet etmek, elbette dağdağa-i siyasetten çekilmeyi iktiza ettiğinden; ehl-i dünyanın hata ve harekâtlarını hoş görmek değil belki kalplerimizi bulandırmamak için bakmamaktayız.
+**İkinci Nokta:** Hayat-ı ebediyeye ciddi çalışmak ve zararsız ve müstakim yol ile Kur’an’a hizmet etmek, elbette dağdağa-i siyasetten çekilmeyi iktiza ettiğinden; ehl-i dünyanın hata ve harekâtlarını hoş görmek değil belki kalplerimizi bulandırmamak için bakmamaktayız.
 
-**Üçüncü Nokta: **Başıma gelen ağır tazyikat ve musibetlere karşı tahammülümün mühim bir sebebini iki vakıa ile beyan eder.
+**Üçüncü Nokta:** Başıma gelen ağır tazyikat ve musibetlere karşı tahammülümün mühim bir sebebini iki vakıa ile beyan eder.
 
-**Dördüncü Nokta: **Ehl-i dünyanın evhamlı suallerine karşı cevaptır. O cevapta bilmecburiye hizmet-i Kur’aniyeye ait bir keramet olarak hakkımızda göz ile görülen ve hiçbir cihette inkâr edilemeyen birkaç inayet-i İlahiyeyi beyan ediyor.
+**Dördüncü Nokta:** Ehl-i dünyanın evhamlı suallerine karşı cevaptır. O cevapta bilmecburiye hizmet-i Kur’aniyeye ait bir keramet olarak hakkımızda göz ile görülen ve hiçbir cihette inkâr edilemeyen birkaç inayet-i İlahiyeyi beyan ediyor.
 
-**Beşinci Nokta: **Ehl-i dünyanın katmerli bir zulüm ile bana teklif ettikleri bid’akârane kaidelerine karşı, onları tam susturacak bir cevaptır.
+**Beşinci Nokta:** Ehl-i dünyanın katmerli bir zulüm ile bana teklif ettikleri bid’akârane kaidelerine karşı, onları tam susturacak bir cevaptır.
 
 BU ON ALTINCI MEKTUP’UN ZEYLİ:
 
@@ -184,21 +184,21 @@ Has bir kardeşime yazılmış küçük bir taziyenamedir. Çendan bu mektup sur
 
 Üç mesele-i mühimmedir.
 
-**Birincisi: **Muhakkikîn-i evliyanın keşif ile hak gördüğü ve büyük mikyasta müşahede ettikleri hâdiseler, âlem-i şehadette bazen hilaf-ı vaki ve bazen küçük bir mikyasta tezahür etmesinin sırrını, şirin ve güzel bir temsil ile beyan eder.
+**Birincisi:** Muhakkikîn-i evliyanın keşif ile hak gördüğü ve büyük mikyasta müşahede ettikleri hâdiseler, âlem-i şehadette bazen hilaf-ı vaki ve bazen küçük bir mikyasta tezahür etmesinin sırrını, şirin ve güzel bir temsil ile beyan eder.
 
-**İkinci Meselesi: **Vahdetü’l-vücud meşrebine dair gayet mühim bir hakikat ve güzel bir izahtır. Vahdetü’l-vücuddan dem vuran ve o meseleyi merak eden, bu İkinci Mesele’yi dikkatle okumalı. Çünkü bu vahdetü’l-vücud meselesi, medar-ı iltibas olmuş mühim bir meşreptir. Ve ehl-i hakikatin medar-ı ihtilafı olmuş bir acib meslektir. Bu İkinci Mesele, onun mahiyetini gösterir ve ispat eder ki o meşrep, ehl-i sahvın meşrebi değil hem en yüksek değil. Ve ehl-i sahv olan sahabe ve sıddıkîn ve veresenin meşrepleri, vahdetü’l-vücud meşrebinden daha yüksek daha selâmetli daha makbul olduğunu ispat eder.
+**İkinci Meselesi:** Vahdetü’l-vücud meşrebine dair gayet mühim bir hakikat ve güzel bir izahtır. Vahdetü’l-vücuddan dem vuran ve o meseleyi merak eden, bu İkinci Mesele’yi dikkatle okumalı. Çünkü bu vahdetü’l-vücud meselesi, medar-ı iltibas olmuş mühim bir meşreptir. Ve ehl-i hakikatin medar-ı ihtilafı olmuş bir acib meslektir. Bu İkinci Mesele, onun mahiyetini gösterir ve ispat eder ki o meşrep, ehl-i sahvın meşrebi değil hem en yüksek değil. Ve ehl-i sahv olan sahabe ve sıddıkîn ve veresenin meşrepleri, vahdetü’l-vücud meşrebinden daha yüksek daha selâmetli daha makbul olduğunu ispat eder.
 
-**Üçüncü Meselesi: **Tılsım-ı kâinatın üç muamma-yı mühimmesinden birisinin halline muhtasar bir işarettir ki: O muammalardan birisi Yirmi Dokuzuncu Söz’de, ikincisi Otuzuncu Söz’de, bu üçüncüsü ise Yirmi Dördüncü Mektup’ta Kur’an-ı Hakîm’in sırrıyla tamamıyla keşfedilmiş ve o muamma açılmıştır.
+**Üçüncü Meselesi:** Tılsım-ı kâinatın üç muamma-yı mühimmesinden birisinin halline muhtasar bir işarettir ki: O muammalardan birisi Yirmi Dokuzuncu Söz’de, ikincisi Otuzuncu Söz’de, bu üçüncüsü ise Yirmi Dördüncü Mektup’ta Kur’an-ı Hakîm’in sırrıyla tamamıyla keşfedilmiş ve o muamma açılmıştır.
 
 ## ON DOKUZUNCU MEKTUP
 
 Mu’cizat-ı Ahmediyeye (asm) dairdir. Üç yüzden fazla mu’cizatı beyan eder. Bu risale, risalet-i Ahmediyenin (asm) mu’cizesini beyan ettiği gibi kendisi de o mu’cizenin bir kerametidir ki üç dört nevi ile hârika olmuştur.
 
-**Birincisi:** Nakil ve rivayet olmakla beraber, yüz elli sahifeden [^Hâşiye1] fazla olduğu halde, kitaplara müracaat edilmeden ezber olarak dağ ve bağ köşelerinde, üç dört gün zarfında, her günde iki üç saat çalışmak şartıyla mecmuu on iki saatte telif edilmesi hârika bir vakıadır ki bu risaledeki mu’cizat-ı Ahmediyenin (asm) bir şule-i kerameti olmuştur.
+**Birincisi:** Nakil ve rivayet olmakla beraber, yüz elli sahifeden [^hâşiye1] fazla olduğu halde, kitaplara müracaat edilmeden ezber olarak dağ ve bağ köşelerinde, üç dört gün zarfında, her günde iki üç saat çalışmak şartıyla mecmuu on iki saatte telif edilmesi hârika bir vakıadır ki bu risaledeki mu’cizat-ı Ahmediyenin (asm) bir şule-i kerameti olmuştur.
 
 **İkincisi:** Şu risale, uzunluğuyla beraber ne yazması usanç verir ve ne de okuması halâvetini kaybeder. Tembel ehl-i kalemi öyle bir şevk ve gayrete getirdi ki bu sıkıntılı ve usançlı zamanda, bir sene zarfında civarımızda yetmiş adede yakın nüshaları yazıldı. O mu’cize-i risaletin bir kerameti olduğunu, muttali olanlara kanaat verdi.
 
-**Üçüncüsü:** Acemi ve tevafuktan haberi yok ve bize de daha tevafuk tezahür etmeden evvel yazdıkları nüshalarda, lafz-ı “Resul-i Ekrem aleyhissalâtü vesselâm” kelimesi bütün risalelerde ve lafz-ı “Kur’an” beşinci parçasında öyle bir tarzda tevafuk [^Hâşiye2] etmeleri göründü ki zerre miktar insafı olan, tesadüfe veremez. Kim görmüş ise kat’î hükmediyor ki: “Bu bir sırr-ı gaybîdir, mu’cizat-ı Ahmediyenin (asm) bir kerametidir.”
+**Üçüncüsü:** Acemi ve tevafuktan haberi yok ve bize de daha tevafuk tezahür etmeden evvel yazdıkları nüshalarda, lafz-ı “Resul-i Ekrem aleyhissalâtü vesselâm” kelimesi bütün risalelerde ve lafz-ı “Kur’an” beşinci parçasında öyle bir tarzda tevafuk [^hâşiye2] etmeleri göründü ki zerre miktar insafı olan, tesadüfe veremez. Kim görmüş ise kat’î hükmediyor ki: “Bu bir sırr-ı gaybîdir, mu’cizat-ı Ahmediyenin (asm) bir kerametidir.”
 
 Şu risalenin başındaki esaslar çok mühimdirler.
 
@@ -304,7 +304,7 @@ Hem Hazret-i Yusuf aleyhisselâmın âlî sıddıkıyetini gösteriyor ve diyor:
 
 ## YİRMİ DÖRDÜNCÜ MEKTUP
 
-[^Hâşiye3] Kâinatın tılsım-ı acibini ve müşkül muammasının en mühim bir sırrını keşif ve halleden bir mektuptur ve en mühim bir sualin cevabıdır. Şöyle ki:
+[^hâşiye3] Kâinatın tılsım-ı acibini ve müşkül muammasının en mühim bir sırrını keşif ve halleden bir mektuptur ve en mühim bir sualin cevabıdır. Şöyle ki:
 
 “Esma-i İlahiyenin a’zamlarından olan Rahîm, Kerîm, Vedud’un iktiza ettikleri şefkat-perverane ve maslahatkârane ve muhabbettarane taltifleri; ne suretle pek müthiş ve muvahhiş olan mevt ve adem ile zeval ve firak ile musibet ve meşakkat ile tevfik edilir?” diye sualin cevabında, tılsım-ı kâinatın üçüncü muammasını halleden ve kâinattaki daimî faaliyetin muktezasını ve esbab-ı mûcibesini gösteren **beş remiz** ile ve gayelerini ve faydalarını ispat eden **beş işaret** ile cevap veriyor.
 
@@ -368,13 +368,13 @@ Sure-i Yâsin’in yirmi beş âyetine dair **yirmi beş nükte** olmak üzere r
 
 Bu mektubun **dört mebhas**ı var.
 
-**Birinci Mebhas: **Şeytanın en müthiş hücumunu def’etmekle, şeytanı öyle bir surette ilzam eder ki içine girerek saklanıp vesvese edecek bir yer bırakmıyor. Ve o kadar kuvvetli delail-i akliye ile ve kat’î bürhanlarla şeytanı ve şeytanın şakirdlerini ilzam eder ki şeytan olmasa idiler imana gelecektiler.
+**Birinci Mebhas:** Şeytanın en müthiş hücumunu def’etmekle, şeytanı öyle bir surette ilzam eder ki içine girerek saklanıp vesvese edecek bir yer bırakmıyor. Ve o kadar kuvvetli delail-i akliye ile ve kat’î bürhanlarla şeytanı ve şeytanın şakirdlerini ilzam eder ki şeytan olmasa idiler imana gelecektiler.
 
 Fakat maatteessüf şeytan-ı cin ve insin, gayet çirkin davalarını ve desiselerini bütün bütün iptal ve def’etmek için farazî bir surette onların çirkin fikirlerini zikredip öyle iptal ediyor. Mesela, der ki: “Eğer faraza dediğiniz gibi Kur’an kelâmullah olmazsa en âdi ve sahte bir kitap olurdu. Halbuki meydandaki âsârıyla göstermiş ki en âlî bir kitaptır.” İşte bu gibi farazî tabiratın, titreyerek yazılmasına mecburiyet hasıl olmuştur.
 
 Şu mebhasın âhirinde, şeytanın Sure-i <span class="arabic" dir="rtl">قٓ وَ الْقُرْاٰنِ الْمَجٖيدِ</span> in fesahat ve selasetine dair bir vesvese ve itirazını reddediyor.
 
-**İkinci Mebhas: **Bir insanda, vazife ve ubudiyet ve zat itibarıyla üç şahsiyet bulunduğunu ve o şahsiyetlerin ahlâkı ve âsârı bazen birbirine muhalif olduğunu beyan eder.
+**İkinci Mebhas:** Bir insanda, vazife ve ubudiyet ve zat itibarıyla üç şahsiyet bulunduğunu ve o şahsiyetlerin ahlâkı ve âsârı bazen birbirine muhalif olduğunu beyan eder.
 
 **Üçüncü Mebhas:**
 
@@ -384,31 +384,31 @@ Fakat maatteessüf şeytan-ı cin ve insin, gayet çirkin davalarını ve desise
 
 Bu mebhas, milliyetçilere mühim bir tiryaktır. Bu zamanın en müthiş marazına gayet nâfi’ bir ilaçtır. Ve sahtekâr hamiyet-füruşların ve yalancı milliyet-perverlerin yüzlerindeki perdeyi açar, sahtekârlıklarını gösterir.
 
-**Dördüncü Mebhas: **Altı sualin cevabında **on mesele**dir.
+**Dördüncü Mebhas:** Altı sualin cevabında **on mesele**dir.
 
-**Birincisi: **“Rabbü’l-âlemîn” kelimesinin tefsirinde on sekiz bin âlem dediklerinin hikmeti münasebetiyle, birkaç nükte-i Kur’aniye beyan edilir.
+**Birincisi:** “Rabbü’l-âlemîn” kelimesinin tefsirinde on sekiz bin âlem dediklerinin hikmeti münasebetiyle, birkaç nükte-i Kur’aniye beyan edilir.
 
-**İkinci Mesele: **“Allah’ı bilmek, varlığını bilmenin gayrıdır.” Muhyiddin-i Arabî, Fahreddin-i Râzî’ye demiş. Ondan murad nedir? Cevabında, gayet mühim bir mesele-i marifetullah beyan edilmiştir.
+**İkinci Mesele:** “Allah’ı bilmek, varlığını bilmenin gayrıdır.” Muhyiddin-i Arabî, Fahreddin-i Râzî’ye demiş. Ondan murad nedir? Cevabında, gayet mühim bir mesele-i marifetullah beyan edilmiştir.
 
-**Üçüncü Mesele: **“<span class="arabic" dir="rtl">وَلَقَدْ كَرَّمْنَا بَنٖى اٰدَمَ</span> âyetiyle <span class="arabic" dir="rtl">اِنَّهُ كَانَ ظَلُومًا جَهُولًا</span> âyetinin vech-i tevfiki nedir?” diye sualine, gayet güzel ve nurlu mühim bir cevaptır.
+**Üçüncü Mesele:** “<span class="arabic" dir="rtl">وَلَقَدْ كَرَّمْنَا بَنٖى اٰدَمَ</span> âyetiyle <span class="arabic" dir="rtl">اِنَّهُ كَانَ ظَلُومًا جَهُولًا</span> âyetinin vech-i tevfiki nedir?” diye sualine, gayet güzel ve nurlu mühim bir cevaptır.
 
-**Dördüncü Mesele: **“ <span class="arabic" dir="rtl">جَدِّدُوا اٖيمَانَكُمْ بِلَا اِلٰهَ اِلَّا اللّٰهُ</span> hikmeti nedir?” diye suale, gayet güzel ve nurlu bir cevaptır.
+**Dördüncü Mesele:** “ <span class="arabic" dir="rtl">جَدِّدُوا اٖيمَانَكُمْ بِلَا اِلٰهَ اِلَّا اللّٰهُ</span> hikmeti nedir?” diye suale, gayet güzel ve nurlu bir cevaptır.
 
 Dördüncü Meselenin Zeyli’nde, vahdaniyetin gayet azîm bir hüccetine ve geniş ve uzun bir bürhanına muhtasar bir işarettir.
 
-**Beşinci Mesele: **“Yalnız ‌<span class="arabic" dir="rtl">لَا اِلٰهَ اِلَّا اللّٰهُ</span> diyen ‌<span class="arabic" dir="rtl">مُحَمَّدٌ رَسُولُ اللّٰهِ</span>‌ demeyen ehl-i necat olabilir mi?” sualine karşı mühim bir cevaptır.
+**Beşinci Mesele:** “Yalnız ‌<span class="arabic" dir="rtl">لَا اِلٰهَ اِلَّا اللّٰهُ</span> diyen ‌<span class="arabic" dir="rtl">مُحَمَّدٌ رَسُولُ اللّٰهِ</span>‌ demeyen ehl-i necat olabilir mi?” sualine karşı mühim bir cevaptır.
 
-**Altıncısı: **Birinci Mebhas’taki şeytanla münazaranın çirkin tabiratlarının sebeb-i zikrini bildiriyor. Hem mühim bir temsil ile hizbü’ş-şeytanı en dar ve en muhal ve en menfur bir mevkiye sıkıştırıyor. Meydanı Hizbü’l-Kur’an hesabına zapt ederek, her bir hal-i Ahmediye (asm) her bir haslet-i Muhammediye (asm) her bir tavr-ı Nebevî (asm) o kuvvetli temsile göre birer mu’cize hükmüne geçip nübüvvetini ispat ettiğini gösterir.
+**Altıncısı:** Birinci Mebhas’taki şeytanla münazaranın çirkin tabiratlarının sebeb-i zikrini bildiriyor. Hem mühim bir temsil ile hizbü’ş-şeytanı en dar ve en muhal ve en menfur bir mevkiye sıkıştırıyor. Meydanı Hizbü’l-Kur’an hesabına zapt ederek, her bir hal-i Ahmediye (asm) her bir haslet-i Muhammediye (asm) her bir tavr-ı Nebevî (asm) o kuvvetli temsile göre birer mu’cize hükmüne geçip nübüvvetini ispat ettiğini gösterir.
 
-**Yedincisi: **Vehham ve zarardan sakınmak için bizden uzaklaşan bazı dostların kuvve-i maneviyelerini teyid için ve hizmetimizden bazı maksatlarla çekilen ve maksatlarının aksiyle tokat yiyenleri, çok misallerden yedi küçük misal ile gösterir ki siperini bırakıp kaçanlar, daha ziyade yaralanırlar.
+**Yedincisi:** Vehham ve zarardan sakınmak için bizden uzaklaşan bazı dostların kuvve-i maneviyelerini teyid için ve hizmetimizden bazı maksatlarla çekilen ve maksatlarının aksiyle tokat yiyenleri, çok misallerden yedi küçük misal ile gösterir ki siperini bırakıp kaçanlar, daha ziyade yaralanırlar.
 
-**Sekizincisi: **Diyorlar ki: “Elfaz-ı Kur’aniye ve zikriye ve tesbihatların her birinden, bütün letaif-i insaniye hisselerini istiyorlar. Manaları bilinmezse hisse alınmaz, öyle ise tercüme edilse daha iyi değil mi?” diye olan müthiş ve mugalatalı şu suale karşı, gayet mühim ve ibretli ve zevkli bir cevaptır.
+**Sekizincisi:** Diyorlar ki: “Elfaz-ı Kur’aniye ve zikriye ve tesbihatların her birinden, bütün letaif-i insaniye hisselerini istiyorlar. Manaları bilinmezse hisse alınmaz, öyle ise tercüme edilse daha iyi değil mi?” diye olan müthiş ve mugalatalı şu suale karşı, gayet mühim ve ibretli ve zevkli bir cevaptır.
 
 Elfaz-ı Kur’aniye ve Nebeviye (asm) manalara, camid ve ruhsuz libas değiller; belki hayattar feyiz-âver ciltlerdir. Zîhayat bir ceset soyulsa elbette ölür. Hem lisan-ı nahvî olan elfaz-ı Kur’aniyedeki i’caz ve îcaz, hakiki tercümeye mani olduğunu gösterir.
 
-**Dokuzuncusu: **“Ehl-i Sünnet ve Cemaat olan ehl-i hak dairesinin haricinde ehl-i velayet bulunabilir mi?” sualine, mühim ve merak-âver bir cevaptır.
+**Dokuzuncusu:** “Ehl-i Sünnet ve Cemaat olan ehl-i hak dairesinin haricinde ehl-i velayet bulunabilir mi?” sualine, mühim ve merak-âver bir cevaptır.
 
-**Onuncusu: **Kur’an-ı Hakîm’in hizmetinde bulunan bu bîçare Said ile görüşen ve görüşmek arzu eden dostlara mühim bir düsturdur.
+**Onuncusu:** Kur’an-ı Hakîm’in hizmetinde bulunan bu bîçare Said ile görüşen ve görüşmek arzu eden dostlara mühim bir düsturdur.
 
 ## YİRMİ YEDİNCİ MEKTUP
 
@@ -454,7 +454,7 @@ Hatt-ı Kur’an Mektubat mecmuasında neşredildiğinden buraya dercedilmedi.
 
 <p class="arabic" dir="rtl">قُلْ بِفَضْلِ اللّٰهِ وَبِرَحْمَتِهٖ فَبِذٰلِكَ فَلْيَفْرَحُوا هُوَ خَيْرٌ مِمَّا يَجْمَعُونَ</p>
 
-âyetinin, Risale-i Nur ve hâdimleri hakkındaki mühim bir sırrını “Yedi İşaret” namıyla, yedi inayet-i Rabbaniyeyi beyan ediyor. Ve tahdis-i nimet suretinde bu inayet-i seb’anın izharına, yedi makul sebebini beyan ediyor. Bu inayet-i seb’a-i külliyenin hârikalarına işareten, kendi kendine telif vaktinde iki sahifenin bütün satırları başlarında yirmi sekiz elif gelerek, Yirmi Sekizinci Mektup’un mertebesine tevafuk ettiğini [^Hâşiye4] teliften bir zaman sonra muttali olduk.
+âyetinin, Risale-i Nur ve hâdimleri hakkındaki mühim bir sırrını “Yedi İşaret” namıyla, yedi inayet-i Rabbaniyeyi beyan ediyor. Ve tahdis-i nimet suretinde bu inayet-i seb’anın izharına, yedi makul sebebini beyan ediyor. Bu inayet-i seb’a-i külliyenin hârikalarına işareten, kendi kendine telif vaktinde iki sahifenin bütün satırları başlarında yirmi sekiz elif gelerek, Yirmi Sekizinci Mektup’un mertebesine tevafuk ettiğini [^hâşiye4] teliften bir zaman sonra muttali olduk.
 
 Bu inayet-i seb’ayı okuyan adam, Risale-i Nur eczalarının ne kadar ehemmiyetli ve nazar-ı inayet-i İlahiyede bulunduğunu ve himayet-i Rabbaniyede olduğunu bilecek. Bu yedi inayet külliyedir, cüz’iyatları yetmişi geçer.
 
@@ -530,7 +530,7 @@ Bu Üçüncü Kısmın mütebâki meseleleri ile Dördüncü Kısım tevafukata 
 
 **Birinci Nükte:** Kur’an’da “Kur’an” kelimesinin çok sırlarından bir sırrını, altmış dokuz âyât-ı azîmede latîf ve manidar, sahifeler arkasında birbirine tevafukla baktıklarını ve o âyât-ı azîmenin manen birbirinin hakikatini teyid ettiklerini göstermek ve tilavet-i Kur’an sevabını ve zikir faziletini ve tefekkür ubudiyetini birden kazanmak isteyenlere, evrad nevinden gayet güzel bir hizb-i Kur’anî olarak yazılmıştır.
 
-**İkinci Nükte:** Kur’an-ı Hakîm’de “Resul” kelimesinin tekrarındaki esrarın tevafuk cihetiyle birisine işaret için yüz altmış âyâttaki “Resul” kelimesi birbirine tevafukla manidar bakması gibi [^Hâşiye5] o yüz altmış muazzam âyetler de birbirine bakıyor. Birbirini teyid ve ispat ettiğine işareten ve Kur’an’dan hem kıraat hem zikir hem fikir olmak üzere bir hizb-i mahsustur. Kendine âlî ve tatlı ve çok kıymetli ve çok faziletli bir vird arzu edenlere mühim bir virddir.
+**İkinci Nükte:** Kur’an-ı Hakîm’de “Resul” kelimesinin tekrarındaki esrarın tevafuk cihetiyle birisine işaret için yüz altmış âyâttaki “Resul” kelimesi birbirine tevafukla manidar bakması gibi [^hâşiye5] o yüz altmış muazzam âyetler de birbirine bakıyor. Birbirini teyid ve ispat ettiğine işareten ve Kur’an’dan hem kıraat hem zikir hem fikir olmak üzere bir hizb-i mahsustur. Kendine âlî ve tatlı ve çok kıymetli ve çok faziletli bir vird arzu edenlere mühim bir virddir.
 
 **Üçüncü Nükte:** Lafzullahın iki bin sekiz yüz altı defa zikrinin çok nükteleri var. İ’caz-ı Kur’an’ın çok şuâlarını gösteriyor. Bu Üçüncü Nükte de onun dört şuâ-ı i’cazını gösteriyor.
 
@@ -564,7 +564,7 @@ Bu Üçüncü Kısmın mütebâki meseleleri ile Dördüncü Kısım tevafukata 
 
 Bu dokuz defa dokuzların sırrının, dokuzuncu sene-i esaretimde zuhuru ise inşâallah esaretin dokuzuncu senesinde biteceğine işarî bir beşarettir. Dokuzuncu sene-i esaretimde sıkıntıdan o sene dokuz dişim düştüler, o münasebetle Isparta’ya mezuniyetle gitmek o senede oldu.
 
-Hem latîf bir tevafuktur; bu parça dahi bu sahifede [^Hâşiye6] dokuz, on dokuz defa gelmiştir. Hem fihristenin Dördüncü Kısmında ve bu İkinci Kısmın bazı nüshalarında, aşağıdaki gösterilen tevafuk vardır:
+Hem latîf bir tevafuktur; bu parça dahi bu sahifede [^hâşiye6] dokuz, on dokuz defa gelmiştir. Hem fihristenin Dördüncü Kısmında ve bu İkinci Kısmın bazı nüshalarında, aşağıdaki gösterilen tevafuk vardır:
 
 Umum elif yüz on dokuz, umum risaleler dahi yüz on dokuzdur. Demek, elifler de bir nevi fihristeye işarettir.
 
@@ -656,14 +656,14 @@ HAKİKAT IŞIKLARI:
 
 ***
 
-[^Hâşiye1]: Asıl nüshasına göredir.
+[^hâşiye1]: Asıl nüshasına göredir.
 
-[^Hâşiye2]: Asıl nüshasına göredir.
+[^hâşiye2]: Asıl nüshasına göredir.
 
-[^Hâşiye3]: Bu Mektup’un mesailini bir derece ihsas etmek arzu edildiğinden fihristiyet ihtisarı muhafaza edilmedi, uzun oldu.
+[^hâşiye3]: Bu Mektup’un mesailini bir derece ihsas etmek arzu edildiğinden fihristiyet ihtisarı muhafaza edilmedi, uzun oldu.
 
-[^Hâşiye4]: Asıl nüshasına göredir.
+[^hâşiye4]: Asıl nüshasına göredir.
 
-[^Hâşiye5]: Bu risalenin, o mukaddes iki kelimenin i’cazî tevafuklarından bahsi ayn-ı hakikat olduğuna delil, o dördüncü risalede bütün o iki kelimenin tevafuk etmesidir. Her bir âyet ayrı ve satır başında yazılmasından, umum o iki mukaddes kelimeler tevafuk etmişlerdir.
+[^hâşiye5]: Bu risalenin, o mukaddes iki kelimenin i’cazî tevafuklarından bahsi ayn-ı hakikat olduğuna delil, o dördüncü risalede bütün o iki kelimenin tevafuk etmesidir. Her bir âyet ayrı ve satır başında yazılmasından, umum o iki mukaddes kelimeler tevafuk etmişlerdir.
 
-[^Hâşiye6]: Asıl nüshasına göredir.
+[^hâşiye6]: Asıl nüshasına göredir.

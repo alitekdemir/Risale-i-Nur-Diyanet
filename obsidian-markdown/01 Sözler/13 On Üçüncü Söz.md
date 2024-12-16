@@ -22,7 +22,7 @@ Felsefe hikmeti ise bütün hârikulâde olan mu’cizat-ı kudreti, âdet perde
 
 Mesela, en câmi’ bir mu’cize-i kudret olan insanın hilkatini âdi deyip lâkaytlıkla bakar. Fakat insanın kemal-i hilkatinden huruç etmiş, üç ayaklı yahut iki başlı bir insanı bir velvele-i istiğrabla nazar-ı ibrete teşhir eder.
 
-Mesela, en latîf ve umumî bir mu’cize-i rahmet olan bütün yavruların hazine-i gaybdan muntazam iaşelerini âdi görüp küfran perdesini üstüne çeker. Fakat intizamdan şüzuz etmiş, kabilesinden cüda olmuş, yalnız olarak gurbete düşmüş, denizin altında olan bir böceğin bir yeşil yaprakla iaşesini görür, ondan tecelli eden lütf u keremle hazır balıkçıları ağlatmak ister .[^Hâşiye1]
+Mesela, en latîf ve umumî bir mu’cize-i rahmet olan bütün yavruların hazine-i gaybdan muntazam iaşelerini âdi görüp küfran perdesini üstüne çeker. Fakat intizamdan şüzuz etmiş, kabilesinden cüda olmuş, yalnız olarak gurbete düşmüş, denizin altında olan bir böceğin bir yeşil yaprakla iaşesini görür, ondan tecelli eden lütf u keremle hazır balıkçıları ağlatmak ister .[^hâşiye1]
 
 İşte Kur’an-ı Kerîm’in ilim ve hikmet ve marifet-i İlahiye cihetiyle servet ve gınası ve felsefenin ilim ve ibret ve marifet-i Sâni’ cihetindeki fakr ve iflasını gör, ibret al!
 
@@ -90,7 +90,7 @@ Kabir var, hiç kimse inkâr edemez. Herkes ister istemez oraya girecek. Ve oray
 
 Madem ecel gizlidir; her vakit ölüm, başını kesmek için gelebiliyor ve genç ihtiyar farkı yoktur. Elbette daima gözü önünde öyle büyük dehşetli bir mesele karşısında bîçare insan; o idam-ı ebedî, o dipsiz, nihayetsiz haps-i münferidden kurtulmak çaresini aramak ve kabir kapısını bir âlem-i bâkiye, bir saadet-i ebediyeye ve âlem-i nura açılan bir kapıya kendi hakkında çevirmek hâdisesi; o insanın dünya kadar büyük bir meselesidir.
 
-Bu kat’î hakikat, bu üç yol ile bulunduğunda ve bu üç yolun da mezkûr üç hakikat ile olacağını ihbar eden yüz yirmi dört bin muhbir-i sadık, ellerinde nişane-i tasdik olan mu’cizeler bulunan enbiyalar ve o enbiyaların haber verdikleri aynı haberleri, keşif ve zevk ve şuhud ile tasdik eden ve imza basan yüz yirmi dört milyon evliyanın aynı hakikate şehadetleri ve hadd ü hesaba gelmeyen muhakkiklerin kat’î delilleriyle o enbiya ve evliyanın verdikleri aynı haberleri aklen, ilmelyakîn derecesinde [^Hâşiye2] ispat ettikleri ve yüzde doksan dokuz ihtimal-i kat’î ile “İdam ve zindan-ı ebedîden kurtulmak ve o yolu saadet-i ebediyeye çevirmek, yalnız iman ve itaat iledir.” diye ittifaken haber veriyorlar.
+Bu kat’î hakikat, bu üç yol ile bulunduğunda ve bu üç yolun da mezkûr üç hakikat ile olacağını ihbar eden yüz yirmi dört bin muhbir-i sadık, ellerinde nişane-i tasdik olan mu’cizeler bulunan enbiyalar ve o enbiyaların haber verdikleri aynı haberleri, keşif ve zevk ve şuhud ile tasdik eden ve imza basan yüz yirmi dört milyon evliyanın aynı hakikate şehadetleri ve hadd ü hesaba gelmeyen muhakkiklerin kat’î delilleriyle o enbiya ve evliyanın verdikleri aynı haberleri aklen, ilmelyakîn derecesinde [^hâşiye2] ispat ettikleri ve yüzde doksan dokuz ihtimal-i kat’î ile “İdam ve zindan-ı ebedîden kurtulmak ve o yolu saadet-i ebediyeye çevirmek, yalnız iman ve itaat iledir.” diye ittifaken haber veriyorlar.
 
 Acaba yüzde bir ihtimal-i helâket bulunan bir tehlike yolunda gitmemek için bir tek muhbirin sözü nazara alınsa ve onun sözünü dinlemeyip o yolda giden adamın, endişe-i helâketten gelen elem-i manevî, onun yemek iştihasını kaçırdığı halde; böyle yüz binler sadık ve musaddak muhbirlerin yüzde yüz ihtimal ile dalalet ve sefahet göz önündeki kabir darağacına ve ebedî haps-i münferidine kat’î sebep olduğunu ve iman, ubudiyet yüzde yüz ihtimal ile o darağacını kaldırıp o haps-i münferidi kapatıp şu göz önündeki kabri, bir hazine-i ebediyeye, bir saray-ı saadete açılan bir kapıya çeviriyor diye ihbar eden ve emarelerini ve âsârlarını gösterdikleri halde, bu acib ve garib ve dehşetli ve azametli mesele karşısında bulunan bîçare insan ve bâhusus Müslüman eğer iman ve ubudiyeti olmazsa, bütün dünya saltanatı ve lezzeti bir tek insana verilse; acaba o göz önündeki, her vakit oraya çağrılmasına nöbetini bekleyen bir insana verdiği o endişeden gelen elîm elemi kaldırabilir mi? Sizden soruyorum.
 
@@ -342,6 +342,6 @@ Umuma binler selâm…
 
 ***
 
-[^Hâşiye1]: Amerika’da aynen bu vakıa olmuştur.
+[^hâşiye1]: Amerika’da aynen bu vakıa olmuştur.
 
-[^Hâşiye2]: Onlardan birisi Risale-i Nur’dur, meydandadır.
+[^hâşiye2]: Onlardan birisi Risale-i Nur’dur, meydandadır.

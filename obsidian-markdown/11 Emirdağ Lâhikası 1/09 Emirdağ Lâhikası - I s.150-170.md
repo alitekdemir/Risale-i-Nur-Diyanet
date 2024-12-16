@@ -65,7 +65,7 @@ El-ân Afyon’un Emirdağı kazasında ikamete memur olan Molla Said, doğumund
 
 Sayın beyim! Cumhuriyet serbestiyetinden, Teşkilat-ı Esasiye Kanunu’nun hürriyetinden mahrum kalan bu zavallı ihtiyar adam, her suretle himayeye lâyık, bakılmaya muhtaç, akraba ve taallukatı olmayıp sırf bir İslâm hükûmetin himayesine muhtaç bir İslâm mütefekkiridir. Şair-i meşhur Âkif Bey merhumun rivayetine nazaran, Mısır’ın en maruf ulemasından olan ve garbın müteaddid lisan ve felsefesine aşina bulunan üstad-ı a’zam Abdülaziz Çaviş’in yirmi küsur sene evvelisi “El-Ehram” ceridesindeki Said hakkında yazdığı “Fatînü’l-asır” başlıklı makalesini okuyan ve kendisiyle bizzat görüşen ilim adamları, bu zatın fıtraten ilmî kudretini ve İlahî mesleğini takdir edebilirler.
 
-Sayın beyim! Kürtlük sözüyle türlü hakarete hedef olan Molla Said, seciyeten takdire şâyan bir Türk âşığı ve İslâmiyet hâdimidir. [^Hâşiye1] Bundan memleketimiz içtimaen zarar değil, manen fayda görecektir. Ben namus ve şerefim namına şehadet ederim ki Molla Said, kat’iyen temiz bir adamdır. Onun için sizin gibi milletin dâhilen idare ve mukadderatına el koyan dirayetli zatlardan insaniyet namına temenniyatım şudur:
+Sayın beyim! Kürtlük sözüyle türlü hakarete hedef olan Molla Said, seciyeten takdire şâyan bir Türk âşığı ve İslâmiyet hâdimidir. [^hâşiye1] Bundan memleketimiz içtimaen zarar değil, manen fayda görecektir. Ben namus ve şerefim namına şehadet ederim ki Molla Said, kat’iyen temiz bir adamdır. Onun için sizin gibi milletin dâhilen idare ve mukadderatına el koyan dirayetli zatlardan insaniyet namına temenniyatım şudur:
 
 Yanlış anlayışlı jurnalcilerin sözleriyle hürriyet nimetinden, saf hava teneffüsünden, herhangi bir Türk kardeşiyle görüşmeden mahrum kalan bu adamı; hükûmetin adaleti, makamınızın ehemmiyeti namına ve adl ve ihsan kaziyesine tevfikan olsun, bu adam hakkında dahi adalet ve kendisiyle de hiç olmazsa bir defa olsun hüsn-ü niyetle görüştükten sonra onun hakkında ibka veya ifna kararını vermek lütfunda bulunursanız, elbette ehemmiyetli vazifenizi kanun dairesinde îfa etmiş olacağınızdan dolayı tarihçe-i hayatınıza takdire değer bir fasıl derc buyurmuş, adalet-perverliğinizi halka ve âcizleri gibi bacağı kesilmiş, köşede kalmış hür fikirli vak’a-nüvislere duyurmuş olursunuz efendim.
 
@@ -135,7 +135,7 @@ Aziz, sıddık kardeşlerim!
 
 **Evvela:** Sualleri çok nurlu hakikatlerin zuhuruna vesile olan Re’fet’in hem masumlara Kur’an ve Nurları ders vermesi hem kendisi Nur Lem’alarıyla meşgul olması hem tashihatta bana ve Hüsrev’e yardım etmesi hem İstanbul’da Asâ-yı Musa’nın insaflı âlimlerin ellerine geçmesine çalışması, çok şâyan-ı tebriktir. Ve yeni sualine şimdi cevap verilmez, daha zamanı gelmemiş.
 
-Kahraman Burhan’ın Serbest Fırkasının reisine verdiği cevap güzeldir. Evet Nurcular, siyasetlerle alâkaları olmaz. Yalnız iman hakikatleriyle bütün hayatları bağlıdır. Şimdiye kadar gizli komiteden, siyaseti dinsizliğe ve zındıkaya âlet edenler, istibdad-ı mutlakla Nurcuları ezdiler. İnşâallah bir sebep çıkar [^Hâşiye2] o istibdadı kıracak, masum ve mazlum Nurcuları kurtaracak.
+Kahraman Burhan’ın Serbest Fırkasının reisine verdiği cevap güzeldir. Evet Nurcular, siyasetlerle alâkaları olmaz. Yalnız iman hakikatleriyle bütün hayatları bağlıdır. Şimdiye kadar gizli komiteden, siyaseti dinsizliğe ve zındıkaya âlet edenler, istibdad-ı mutlakla Nurcuları ezdiler. İnşâallah bir sebep çıkar [^hâşiye2] o istibdadı kıracak, masum ve mazlum Nurcuları kurtaracak.
 
 Fakat çok dikkat ve ihtiyat lâzımdır. Risale-i Nur, dünyada her cereyanın fevkinde bulunması ve umumun malı olması cihetiyle, bir tarafa tabi ve dâhil olmaz. Belki mütecaviz dinsizlere karşı haklı tarafa yardımcı olur ve dost olur ve ihtiyat kuvveti hükmünde onlara bir nokta-i istinad olur. Fakat siyaset hesabına değil belki Nurların intişarı ve maslahatı hesabına bazı kardeşler, Nurlar namına değil belki kendi şahısları namına girebilir. Hususan mübarek Isparta’nın şimdiye kadar Nurlar medresesi olması ve muarızların dahi ona çok ilişmemesi noktasında, dâhilde tarafgirane vaziyet almamak, muterizlerin nedametine ve hakikate dönmelerine bir vesile olabilir. Siz daha iyi bilirsiniz.
 
@@ -314,7 +314,7 @@ Ben dedim: Madem şimdi her tarafta Nurlara kuvvetli ve kesretli eller sahip ç�
 
 ***
 
-[^Hâşiye1]: Evet her biri yüze mukabil binler Türk gençleri, masumları, ihtiyarları Risale-i Nur’a şakird olmalarından bu acib asırda, Türk milletinin Devlet-i Abbasiye inkırazından İslâm yardımına koşmaları gibi bu şakirdler dahi aynen koştular. Değil yalnız Said belki bütün ehl-i hakikat tahsin eder, Türk’e dost olur.
+[^hâşiye1]: Evet her biri yüze mukabil binler Türk gençleri, masumları, ihtiyarları Risale-i Nur’a şakird olmalarından bu acib asırda, Türk milletinin Devlet-i Abbasiye inkırazından İslâm yardımına koşmaları gibi bu şakirdler dahi aynen koştular. Değil yalnız Said belki bütün ehl-i hakikat tahsin eder, Türk’e dost olur.
 
-[^Hâşiye2]: Demokrat çıktı, bir derece kırdı.
+[^hâşiye2]: Demokrat çıktı, bir derece kırdı.
 

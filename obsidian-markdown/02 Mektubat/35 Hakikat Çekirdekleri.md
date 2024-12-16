@@ -47,7 +47,7 @@ source_url: https://www.risaleinur.hizmetvakfi.org/
 26. İnsan fıtraten mükerrem olduğundan hakkı arıyor. Bazen bâtıl eline gelir, hak zannederek koynunda saklar. Hakikati kazarken ihtiyarsız dalalet başına düşer, hakikat zannederek kafasına giydiriyor.
 27. Birbirinden eşeff ve eltaf, kudretin çok âyineleri vardır; sudan havaya, havadan esîre, esîrden âlem-i misale, âlem-i misalden âlem-i ervaha, hattâ zamana, fikre tenevvü ediyor. Hava âyinesinde bir kelime milyonlar kelimat olur. Kalem-i kudret, şu sırr-ı tenasülü pek acib istinsah ediyor. İn’ikas, ya hüviyeti veya hüviyetle mahiyeti tutar. Kesifin timsalleri birer meyyit-i müteharriktir. Bir ruh-u nuraninin kendi âyinelerinde olan timsalleri, birer hayy-ı murtabıttır; aynı olmasa da gayrı da değildir.
 28. Şems, hareket-i mihveriyesiyle silkinse meyveleri düşmez; silkinmezse yemişleri olan seyyarat düşüp dağılacaktır.
-29. Nur-u fikir, ziya-yı kalp ile ışıklanıp mezcolmazsa zulmettir, zulüm fışkırır. Gözün muzlim nehar-ı ebyazı, muzii [^Hâşiye1] leyle-i süveyda ile mezcolmazsa basarsız olduğu gibi fikret-i beyzada süveyda-i kalp bulunmazsa basîretsizdir.
+29. Nur-u fikir, ziya-yı kalp ile ışıklanıp mezcolmazsa zulmettir, zulüm fışkırır. Gözün muzlim nehar-ı ebyazı, muzii [^hâşiye1] leyle-i süveyda ile mezcolmazsa basarsız olduğu gibi fikret-i beyzada süveyda-i kalp bulunmazsa basîretsizdir.
 30. İlimde iz’an-ı kalp olmazsa cehildir. İltizam başka, itikad başkadır.
 31. Bâtıl şeyleri iyice tasvir, safi zihinleri idlâldir.
 32. Âlim-i mürşid, koyun olmalı; kuş olmamalı. Koyun, kuzusuna süt; kuş, yavrusuna kay verir.
@@ -77,7 +77,7 @@ source_url: https://www.risaleinur.hizmetvakfi.org/
 45. Maziye, mesaibe kader nazarıyla ve müstakbele, maâsiye teklif noktasında bakmak lâzımdır. Cebir ve İtizal, burada barışırlar.
 46. Çaresi bulunan şeyde acze, çaresi bulunmayan şeyde cez’a iltica etmemek gerektir.
 47. Hayatın yarası iltiyam bulur. İzzet-i İslâmiyenin ve namusun ve izzet-i milliyenin yaraları pek derindir.
-48. Öyle zaman olur ki bir kelime bir orduyu batırır, bir gülle otuz milyonun mahvına sebep olur. [^Hâşiye2] Öyle şerait tahtında olur ki küçük bir hareket, insanı a’lâ-yı illiyyîne çıkarır ve öyle hal olur ki küçük bir fiil, insanı esfel-i safilîne indirir.
+48. Öyle zaman olur ki bir kelime bir orduyu batırır, bir gülle otuz milyonun mahvına sebep olur. [^hâşiye2] Öyle şerait tahtında olur ki küçük bir hareket, insanı a’lâ-yı illiyyîne çıkarır ve öyle hal olur ki küçük bir fiil, insanı esfel-i safilîne indirir.
 49. Bir tane sıdk, bir harman yalanları yakar. Bir tane hakikat, bir harman hayalata müreccahtır.
 
   <p class="arabic" dir="rtl">لَا يَلْزَمُ مِنْ لُزُومِ صِدْقِ كُلِّ قَوْلٍ قَوْلُ كُلِّ صِدْقٍ</p>
@@ -120,7 +120,7 @@ source_url: https://www.risaleinur.hizmetvakfi.org/
 70. İnadın işi, şeytan birisine yardım etse “Melektir.” der, rahmet okur; muhalifinde melek görse “Libasını değiştirmiş şeytandır.” der, lanet eder.
 71. Bir derdin dermanı, başka bir derde zehir olabilir. Bir derman, haddinden geçse dert getirir.
 72. <span class="arabic" dir="rtl">اَلْجَمْعِيَّةُ الَّتٖى فٖيهَا التَّسَانُدُ اٰلَةٌ خُلِقَتْ لِتَحْرٖيكِ السَّكَنَاتِ وَالْجَمَاعَةُ الَّتٖى فٖيهَا التَّحَاسُدُ اٰلَةٌ خُلِقَتْ لِتَسْكٖينِ الْحَرَكَاتِ</span>
-73. Cemaatte vâhid-i sahih olmazsa; cem’ ve zam, kesir darbı gibi küçültür. [^Hâşiye3]
+73. Cemaatte vâhid-i sahih olmazsa; cem’ ve zam, kesir darbı gibi küçültür. [^hâşiye3]
 74. Adem-i kabul, kabul-ü ademle iltibas olunur. Adem-i kabul; adem-i delil-i sübut, onun delilidir. Kabul-ü adem, delil-i adem ister. Biri şek, biri inkârdır.
 75. İmanî meselelerde şüphe, bir delili, hattâ yüz delili atsa da medlûle îras-ı zarar edemez. Çünkü binler delil var.
 76. Sevad-ı a’zama ittiba edilmeli. Ekseriyete ve sevad-ı a’zama dayandığı zaman, lâkayt Emevîlik, en nihayet Ehl-i Sünnet cemaatine girdi. Adetçe ekalliyette kalan salabetli Alevîlik, en nihayet az bir kısmı Râfızîliğe dayandı.
@@ -177,8 +177,8 @@ source_url: https://www.risaleinur.hizmetvakfi.org/
 
 ***
 
-[^Hâşiye1]: Meali: Gözün gündüze benzeyen beyazı, geceye benzeyen siyahlığıyla beraber olmazsa göz, göz olmaz.
+[^hâşiye1]: Meali: Gözün gündüze benzeyen beyazı, geceye benzeyen siyahlığıyla beraber olmazsa göz, göz olmaz.
 
-[^Hâşiye2]: Sırp bir neferin Avusturya Veliahdine attığı bir tek gülle, Eski Harb-i Umumî’yi patlattırdı; otuz milyon nüfusun mahvına sebep oldu.
+[^hâşiye2]: Sırp bir neferin Avusturya Veliahdine attığı bir tek gülle, Eski Harb-i Umumî’yi patlattırdı; otuz milyon nüfusun mahvına sebep oldu.
 
-[^Hâşiye3]: Hesapta malûmdur ki darb ve cem’, ziyadeleştirir. Dört kere dört, on altı olur. Fakat kesirlerde darb ve cem’, bilakis küçültür. Sülüsü sülüs ile darbetmek, tüsü’ olur; yani dokuzda bir olur. Aynen onun gibi insanlarda sıhhat ve istikamet ile vahdet olmazsa ziyadeleşmekle küçülür, bozuk olur, kıymetsiz olur.
+[^hâşiye3]: Hesapta malûmdur ki darb ve cem’, ziyadeleştirir. Dört kere dört, on altı olur. Fakat kesirlerde darb ve cem’, bilakis küçültür. Sülüsü sülüs ile darbetmek, tüsü’ olur; yani dokuzda bir olur. Aynen onun gibi insanlarda sıhhat ve istikamet ile vahdet olmazsa ziyadeleşmekle küçülür, bozuk olur, kıymetsiz olur.

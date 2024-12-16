@@ -3,14 +3,14 @@ source_name: Hizmet Vakfı & DİB asıl nüsha metni 2016
 source_url: https://www.risaleinur.hizmetvakfi.org/
 ---
 ## Zühre
-(On Yedinci Lem’a) [^Hâşiye1]
+(On Yedinci Lem’a) [^hâşiye1]
 
 Zühre’den gelmiş ve On Yedi Nota’dan ibarettir.
 
 <p class="arabic" dir="rtl">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ</p>
 
 ##### Mukaddime
-Bu risalenin telifinden on iki sene evvel [^Hâşiye2] inayet-i Rabbaniye ile marifet-i İlahiyede bir hareket-i fikriye ve bir seyahat-i kalbiye ve bir inkişafat-ı ruhiyede tezahür eden bazı lemaat-ı tevhidiyeyi Arabî olarak Notalar suretinde Zühre, Şule, Habbe, Şemme, Zerre, Katre gibi risalelerde kaydetmiştim.
+Bu risalenin telifinden on iki sene evvel [^hâşiye2] inayet-i Rabbaniye ile marifet-i İlahiyede bir hareket-i fikriye ve bir seyahat-i kalbiye ve bir inkişafat-ı ruhiyede tezahür eden bazı lemaat-ı tevhidiyeyi Arabî olarak Notalar suretinde Zühre, Şule, Habbe, Şemme, Zerre, Katre gibi risalelerde kaydetmiştim.
 
 Uzun bir hakikatin yalnız bir ucunu göstermek ve parlak bir nurun yalnız bir şuâını irae etmek tarzında yazıldığından, yalnız kendi kendime birer hatıra ve birer ihtar şeklinde olduğundan, başkalarının istifadesi mahdud kalmıştı. Hususan en mümtaz ve en has kardeşlerimin kısm-ı a’zamı Arabî okumamışlar. Bunların ısrar ve ilhahıyla o Notaların, o Lem’aların kısmen izahlı ve kısmen kısa bir mealini Türkçe olarak yazmaya mecbur oldum.
 
@@ -415,11 +415,11 @@ Evet bu ehemmiyetsiz, zâil, fâni tavırlarda bu derece kusursuz, galatsız haf
 
 ***
 
-[^Hâşiye1]: Bu Zühre Risalesi Mesnevî-yi Arabî’nin çok mühim bir risalesidir. Her ne kadar tercüme etmeye çalışmış isem de müellifin vaktiyle Nur şakirdlerinin ricakârane ısrarları üzerine yaptığı tercümeyi aynen dercetmeyi daha münasip gördüm. Risale-i Nur’un On Yedinci Lem’a’sı namını alan bu risale ile Arabî Zühre arasında, bir icmal-tafsil ve takdim-tehir farkı vardır.
+[^hâşiye1]: Bu Zühre Risalesi Mesnevî-yi Arabî’nin çok mühim bir risalesidir. Her ne kadar tercüme etmeye çalışmış isem de müellifin vaktiyle Nur şakirdlerinin ricakârane ısrarları üzerine yaptığı tercümeyi aynen dercetmeyi daha münasip gördüm. Risale-i Nur’un On Yedinci Lem’a’sı namını alan bu risale ile Arabî Zühre arasında, bir icmal-tafsil ve takdim-tehir farkı vardır.
 
 Mütercim
 
 ABDÜLMECİD
 
-[^Hâşiye2]: On iki sene evvel denilen tarih hicrî 1340, miladî 1921 seneleridir. (Nâşir)
+[^hâşiye2]: On iki sene evvel denilen tarih hicrî 1340, miladî 1921 seneleridir. (Nâşir)
 

@@ -40,7 +40,7 @@ Said Nursî
 ### Yirmi Yedinci Mektup ve Zeylleri
 Otuz Üçüncü Söz’ün Yirmi Yedinci Mektup’udur ki: Mektubatü’n-Nur’un birinci muhatabı olan Hulusi Bey’in hususi mektuplarından Risaletü’n-Nur hakkındaki takdiratını gösteren fıkralardır.
 
-Yirmi Yedinci Mektup’un ikinci kısmı olan “Zeyl”i dahi elhak bir Hulusi-i Sânî olan Sabri Efendi’nin Risaletü’n-Nur hakkındaki takdiratını gösteren hususi mektuplarındaki fıkralardır. [^Hâşiye1]
+Yirmi Yedinci Mektup’un ikinci kısmı olan “Zeyl”i dahi elhak bir Hulusi-i Sânî olan Sabri Efendi’nin Risaletü’n-Nur hakkındaki takdiratını gösteren hususi mektuplarındaki fıkralardır. [^hâşiye1]
 
 ***
 
@@ -122,7 +122,7 @@ Bunu küçük bir misal ile teyid etmek isterim. Mülhidler çok ileri gidiyorla
 
 İşte bu ahmakların hezeyanına ve her nevi iğfallerine ve zahiren süslü laflarına kanmayarak, iman ve itikadlarında sabit-kadem olmaları için erbab-ı imana kuvvet ve zümre-i tuğyana kahr ve şiddetle ders-i ibret verecek pek münasebetli sözler, mevzubahis âsârda ayân beyan görülmektedir.
 
-Hayfâ ki bu Nurlar şimdilik [^Hâşiye2] lihikmetin pek mahdud sahada ve ancak mü’minler içinde neşredilebilir.
+Hayfâ ki bu Nurlar şimdilik [^hâşiye2] lihikmetin pek mahdud sahada ve ancak mü’minler içinde neşredilebilir.
 
 <p class="arabic" dir="rtl">اَلصَّبْرُ مِفْتَاحُ الْفَرَجِ ۞ اِنَّ اللّٰهَ مَعَ الصَّابِرٖينَ</p>
 
@@ -270,7 +270,7 @@ Abdülmecid
 
 Ellerinizden öper, duanızı dilemekteyim. Sıhhat haberinizi, irşad edici olan Onuncu Söz risalenizle beraber Tahsin Efendi vasıtasıyla aldım. Çok teşekkür ederim. Evvelce gerçi emrinize muhalefet ederek muhterem ve değerli amcamdan ayrıldığıma pişman olmuş isem de ve itabınıza müstahak olmuş isem de bu da mukadder imiş. Ve Cenab-ı Hakk’ın emir ve iradesiyle ve belki de bizim için hayırlı olduğu için oldu. Binaenaleyh ben cehalet sâikasıyla bir kusur yaptım ve belasını da çektim. Bundan sonra çekmemek için affınızı rica ve duanızı dilerim.
 
-Aziz mamo [^Hâşiye3]! Şunu da şurada arz edeyim ki: Himaye ve himmetiniz sayesinde, din ve âhiretime dokunacak ef’al ve harekâttan kendimi muhafaza ettim ve etmekte berdevamım. Gerçi dünyanın değersiz çok musibetlerini gördüm ve çektim ve birçok da lezaiz ve safasını gördüm, geçirdim. Hiçbir vakit ve hiçbir zaman unutmadım ki bunların hepsi heba olduğu ve dünyanın Allah için olmayan lezaiz ve safası neticesi zillet ve şedit azap olduğu ve dünyada Allah için ve Allah’ın emir buyurduğu yollarda çekilen ve çekilmekte olan mezahim neticesi, sonu lezzet ve mükâfat verildiğini bildiğim ve iman ettiğimden, fena şeylerin irtikâbından kendimi muhafaza edebildim. Bu his ve bu fikir ise terbiye ve himmetinizle zihnimde ve hayalimde yer yapmıştır. Hakikat böyle olduğunu bildiğim için bütün meşakkatlere şükür ile beraber sabretmekteyim.
+Aziz mamo [^hâşiye3]! Şunu da şurada arz edeyim ki: Himaye ve himmetiniz sayesinde, din ve âhiretime dokunacak ef’al ve harekâttan kendimi muhafaza ettim ve etmekte berdevamım. Gerçi dünyanın değersiz çok musibetlerini gördüm ve çektim ve birçok da lezaiz ve safasını gördüm, geçirdim. Hiçbir vakit ve hiçbir zaman unutmadım ki bunların hepsi heba olduğu ve dünyanın Allah için olmayan lezaiz ve safası neticesi zillet ve şedit azap olduğu ve dünyada Allah için ve Allah’ın emir buyurduğu yollarda çekilen ve çekilmekte olan mezahim neticesi, sonu lezzet ve mükâfat verildiğini bildiğim ve iman ettiğimden, fena şeylerin irtikâbından kendimi muhafaza edebildim. Bu his ve bu fikir ise terbiye ve himmetinizle zihnimde ve hayalimde yer yapmıştır. Hakikat böyle olduğunu bildiğim için bütün meşakkatlere şükür ile beraber sabretmekteyim.
 
 Şimdi amcacığım ve büyük üstadım! Habîs olan nefsimle mücadele edebilmek ve onun hevaî ve bilâhare elem verici olan arzularını yapmamak ve dinlememek için teehhül etmek mecburiyetinde kaldım ve şimdi artık her cihetle Cenab-ı Hakk’ın lütf u keremiyle rahatım. Kimsenin dediğini şer ise duymamazlığa gelir ve kimse ile fena hasletleri kapmamak için ihtilat etmemekteyim. Dairede müddet-i mesaiden hariç zamanlarımı kendi evimde Cenab-ı Hakk’ın şükrü ile geçiriyorum.
 
@@ -278,15 +278,15 @@ Bundan başka ey amca, sizden sonra şimdiye kadar en çok beni ikaz ve fena şe
 
 <p class="arabic" dir="rtl">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ<br/>اَلْيَوْمَ نَخْتِمُ عَلٰٓى اَفْوَاهِهِمْ وَتُكَلِّمُنَٓا اَيْدٖيهِمْ وَتَشْهَدُ اَرْجُلُهُمْ بِمَا كَانُوا يَكْسِبُونَ</p>
 
-Ve öyle biliyorum ki o gün de pek yakındır. [^Hâşiye4]
+Ve öyle biliyorum ki o gün de pek yakındır. [^hâşiye4]
 
 <p class="arabic" dir="rtl">اَللّٰهُمَّ لَا تُخْرِجْنَا مِنَ الدُّنْيَا اِلَّا مَعَ الشَّهَادَةِ وَ الْاٖيمَانِ</p>
 
-duam bu ve itikadım böyledir ve böyle de iman ederim: [^Hâşiye5]
+duam bu ve itikadım böyledir ve böyle de iman ederim: [^hâşiye5]
 
 <p class="arabic" dir="rtl">اٰمَنْتُ بِاللّٰهِ وَ مَلٰئِكَتِهٖ وَ كُتُبِهٖ وَ رُسُلِهٖ وَ الْيَوْمِ الْاٰخِرِ وَ بِالْقَدَرِ خَيْرِهٖ وَ شَرِّهٖ مِنَ اللّٰهِ تَعَالٰى وَ الْبَعْثُ بَعْدَ الْمَوْتِ حَقٌّ اَشْهَدُ اَنْ لَا اِلٰهَ اِلَّا اللّٰهُ وَ اَشْهَدُ اَنَّ مُحَمَّدًا رَسُولُ اللّٰهِ</p>
 
-[^Hâşiye6]
+[^hâşiye6]
 
 Biraderzadeniz Abdurrahman
 
@@ -298,15 +298,15 @@ Said Nursî
 
 ***
 
-[^Hâşiye1]: Üstadımız Yirmi Yedinci Mektup’u ilk defa bu şekilde tensib buyurmuşlar, sonradan ikinci, üçüncü, dördüncü zeyller eklemek suretiyle genişletmişlerdir. En son şeklinde ise Kastamonu ve Emirdağ Lâhikaları da Üstadımız tarafından Yirmi Yedinci Mektup’a idhal edilerek, Yirmi Yedinci Mektup ikmal edilmiştir. Bu itibarla Hulusi Bey ve Sabri Efendi’nin mektupları, Yirmi Yedinci Mektup’un başlangıcını teşkil etmiştir.
+[^hâşiye1]: Üstadımız Yirmi Yedinci Mektup’u ilk defa bu şekilde tensib buyurmuşlar, sonradan ikinci, üçüncü, dördüncü zeyller eklemek suretiyle genişletmişlerdir. En son şeklinde ise Kastamonu ve Emirdağ Lâhikaları da Üstadımız tarafından Yirmi Yedinci Mektup’a idhal edilerek, Yirmi Yedinci Mektup ikmal edilmiştir. Bu itibarla Hulusi Bey ve Sabri Efendi’nin mektupları, Yirmi Yedinci Mektup’un başlangıcını teşkil etmiştir.
 
-[^Hâşiye2]: Bundan otuz beş sene evvel.
+[^hâşiye2]: Bundan otuz beş sene evvel.
 
-[^Hâşiye3]: Kürtçe “amcacığım” demektir.
+[^hâşiye3]: Kürtçe “amcacığım” demektir.
 
-[^Hâşiye4]: Cây-ı dikkattir, vefatını haber veriyor.
+[^hâşiye4]: Cây-ı dikkattir, vefatını haber veriyor.
 
-[^Hâşiye5]: Hem iman ile gideceğini haber veriyor.
+[^hâşiye5]: Hem iman ile gideceğini haber veriyor.
 
-[^Hâşiye6]: Âhir nefesteki kelimat-ı imaniyeyi âhir-i mektubunda zikretmesi, dünyadan kahramancasına imanını kurtarıp öyle gideceğine işaret eder.
+[^hâşiye6]: Âhir nefesteki kelimat-ı imaniyeyi âhir-i mektubunda zikretmesi, dünyadan kahramancasına imanını kurtarıp öyle gideceğine işaret eder.
 

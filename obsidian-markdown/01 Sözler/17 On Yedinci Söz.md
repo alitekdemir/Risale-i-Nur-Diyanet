@@ -59,7 +59,7 @@ Veyl o kimseye ki şu beş vecihten bir hissesi olmaya…
 
 ***
 
-## On Yedinci Söz’ün İkinci Makamı [^Hâşiye1]
+## On Yedinci Söz’ün İkinci Makamı [^hâşiye1]
 
 Bırak bîçare feryadı, beladan gel tevekkül kıl!
 Zira feryat, bela-ender, hata-ender beladır bil!
@@ -106,9 +106,9 @@ Kabre gülerekten girerim, sen gibi ürkmem.
 Ejder ağzı, vahşet yatağı, hiçlik boğazı; sen gibi görmem.
 Ahbaba kavuşturur beni, kabirden darılmam, sen gibi kızmam.
 Rahmet kapısı, nur kapısı, hak kapısı, ondan sıkılmam, geri çekilmem.
-Bismillah diyerek çalıyorum [^Hâşiye2] arkama bakmam, dehşet de almam.
+Bismillah diyerek çalıyorum [^hâşiye2] arkama bakmam, dehşet de almam.
 Elhamdülillah diyerek rahat bulup yatacağım, zahmeti çekmem, vahşette kalmam.
-Allahu ekber diyerek ezan-ı haşri işitip kalkacağım [^Hâşiye3] mahşer-i ekberden çekinmem, mescid-i a’zamdan çekilmem.
+Allahu ekber diyerek ezan-ı haşri işitip kalkacağım [^hâşiye3] mahşer-i ekberden çekinmem, mescid-i a’zamdan çekilmem.
 Lütf-u Yezdan, nur-u Kur’an, feyz-i iman sayesinde hiç üzülmem.
 Durmayıp koşacağım, arş-ı Rahman zılline uçacağım, sen gibi şaşmam inşâallah.
 
@@ -322,7 +322,7 @@ Evet, masnuatta hiçbir eser yok ki çok manalı bir lafz-ı mücessem olmasın,
 
 Fıtratı aşkla yoğrulmuş gibi sermest-i câm-ı aşk olan Mevlana Câmî, kesretten vahdete yüzleri çevirmek için bak ne güzel söylemiş:
 
-<span class="arabic" dir="rtl">يَكٖى خٰواهْ يَكٖى خٰوانْ يَكٖى جُوىْ يَكٖى بٖينْ يَكٖى دَانْ يَكٖى گُوىْ</span> demiştir. [^Hâşiye4]
+<span class="arabic" dir="rtl">يَكٖى خٰواهْ يَكٖى خٰوانْ يَكٖى جُوىْ يَكٖى بٖينْ يَكٖى دَانْ يَكٖى گُوىْ</span> demiştir. [^hâşiye4]
 
 1. Yani yalnız biri iste, başkaları istenmeye değmiyor.
 2. Biri çağır, başkaları imdada gelmiyor.
@@ -452,17 +452,17 @@ Ders aldıktan sonra her bir ağaç, yüksek bir taş üstünde arşa başını 
 
 <p class="arabic" dir="rtl">دِرَازْ كَرْدَسْتْ دَسْتْهَارَا بَدَرْگَاهِ اِلٰهٖى هَمْ چُو شَهْبَازٖى</p>
 
-Her birisi, yüzler ellerini Şehbaz-ı Kalender [^Hâşiye5] gibi dergâh-ı İlahîye uzatıp muhteşem bir ibadet vaziyetini almışlar.
+Her birisi, yüzler ellerini Şehbaz-ı Kalender [^hâşiye5] gibi dergâh-ı İlahîye uzatıp muhteşem bir ibadet vaziyetini almışlar.
 
 <p class="arabic" dir="rtl">بِجُنْبٖيدَسْتْ زُلْفْهَارَا بَشَوْقْ اَنْگٖيزِ شَهْنَازٖى</p>
 
-[^Hâşiye6]
+[^hâşiye6]
 
 Oynattırıyorlar, zülüfvari küçük dallarını ve onunla, temaşa edenlere de latîf şevklerini ve ulvi zevklerini ihtar ediyorlar.
 
 <p class="arabic" dir="rtl">بَبَالَا مٖيزَنَنْدْ اَزْ پَرْدَه هَاىِ هَاىِ هُوىِ عِشْقْ بَازٖى</p>
 
-Aşkın “Hây Hûy” perdelerinden en hassas tellere, damarlara dokunuyor gibi sadâ veriyorlar. [^Hâşiye7]
+Aşkın “Hây Hûy” perdelerinden en hassas tellere, damarlara dokunuyor gibi sadâ veriyorlar. [^hâşiye7]
 
 <p class="arabic" dir="rtl">مٖيدِهَدْ هُوشَه گِرٖينْهَاىِ دَرٖينْهَاىِ زَوَالٖى اَزْ حُبِّ مَجَازٖى</p>
 
@@ -535,7 +535,7 @@ Hem vahdete hem kudrete şahitleriz biz.
 Şu zeminin yüzünü yaldızlayan
 Nâzenin mu’cizatı çün melek seyranına.
 Bu semanın arza bakan, cennete dikkat eden
-Binler müdakkik gözleriz biz. [^Hâşiye8]
+Binler müdakkik gözleriz biz. [^hâşiye8]
 Tûba-i hilkatten semavat şıkkına, hep Kehkeşan ağsanına
 Bir Cemil-i Zülcelal’in, dest-i hikmetle takılmış pek güzel meyveleriyiz biz.
 Şu semavat ehline birer mescid-i seyyar, birer hane-i devvar, birer ulvi âşiyane
@@ -549,20 +549,20 @@ Kehkeşan’ın halka-i kübrasına mensup birer meczuplarız biz.” dediklerin
 
 ***
 
-[^Hâşiye1]: Bu İkinci Makam’daki parçalar şiire benzer fakat şiir değiller. Kasdî nazmedilmemişler. Belki hakikatlerin kemal-i intizamı cihetinde, bir derece manzum suretini almışlar.
+[^hâşiye1]: Bu İkinci Makam’daki parçalar şiire benzer fakat şiir değiller. Kasdî nazmedilmemişler. Belki hakikatlerin kemal-i intizamı cihetinde, bir derece manzum suretini almışlar.
 
-[^Hâşiye2]: Eyvah diyerek kaçmıyorum.
+[^hâşiye2]: Eyvah diyerek kaçmıyorum.
 
-[^Hâşiye3]: İsrafil’in ezanını fecr-i haşirde işitip Allahu ekber diyerek kalkacağım. Salât-ı kübradan çekilmem, mecma-ı ekberden çekinmem.
+[^hâşiye3]: İsrafil’in ezanını fecr-i haşirde işitip Allahu ekber diyerek kalkacağım. Salât-ı kübradan çekilmem, mecma-ı ekberden çekinmem.
 
-[^Hâşiye4]: Yalnız bu satır Mevlana Câmî’nin kelâmıdır.
+[^hâşiye4]: Yalnız bu satır Mevlana Câmî’nin kelâmıdır.
 
-[^Hâşiye5]: Şehbaz-ı Kalender, meşhur bir kahramandır ki Şeyh-i Geylanî’nin irşadıyla dergâh-ı İlahîye iltica edip mertebe-i velayete çıkmıştır.
+[^hâşiye5]: Şehbaz-ı Kalender, meşhur bir kahramandır ki Şeyh-i Geylanî’nin irşadıyla dergâh-ı İlahîye iltica edip mertebe-i velayete çıkmıştır.
 
-[^Hâşiye6]: Şehnaz-ı Çelkezî, kırk örme saç ile meşhur bir dünya güzelidir.
+[^hâşiye6]: Şehnaz-ı Çelkezî, kırk örme saç ile meşhur bir dünya güzelidir.
 
-[^Hâşiye7]: **Nüsha:** Şu nüsha, mezaristandaki ardıç ağacına bakar:
+[^hâşiye7]: **Nüsha:** Şu nüsha, mezaristandaki ardıç ağacına bakar:
 
 <p class="arabic" dir="rtl">بَبَالَا مٖيزَنَنْدْ اَزْ پَرْدَه هَاىِ هَاىِ هُوىِ چَرْخِ بَازٖى § مُرْدَهَارَا نَغْمَهَاىِ اَزَلٖى اَزْ حُزْنْ اَنْگٖيزِ نَوَازٖى</p>
 
-[^Hâşiye8]: Yani cennet çiçeklerinin fidanlık ve mezraacığı olan zeminin yüzünde hadsiz mu’cizat-ı kudret teşhir edildiğinden semavat âlemindeki melaikeler o mu’cizatı, o hârikaları temaşa ettikleri gibi ecram-ı semaviyenin gözleri hükmünde olan yıldızlar dahi güya melaikeler gibi zemin yüzündeki nâzenin masnuatı gördükçe cennet âlemine bakıyorlar. O muvakkat hârikaları, bâki bir surette cennette dahi müşahede ediyorlar gibi bir zemine, bir cennete bakıyorlar. Yani o iki âleme nezaretleri var demektir.
+[^hâşiye8]: Yani cennet çiçeklerinin fidanlık ve mezraacığı olan zeminin yüzünde hadsiz mu’cizat-ı kudret teşhir edildiğinden semavat âlemindeki melaikeler o mu’cizatı, o hârikaları temaşa ettikleri gibi ecram-ı semaviyenin gözleri hükmünde olan yıldızlar dahi güya melaikeler gibi zemin yüzündeki nâzenin masnuatı gördükçe cennet âlemine bakıyorlar. O muvakkat hârikaları, bâki bir surette cennette dahi müşahede ediyorlar gibi bir zemine, bir cennete bakıyorlar. Yani o iki âleme nezaretleri var demektir.

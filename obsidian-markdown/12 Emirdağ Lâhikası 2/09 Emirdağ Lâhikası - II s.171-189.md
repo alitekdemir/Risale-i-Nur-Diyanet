@@ -156,7 +156,7 @@ Esaretten kurtulduktan sonra İstanbul’a geldim. Hareket-i Milliye’ye hizmet
 
 **Bazı mebuslar dediler:** “Yalnız sen medrese usûlü ile sırf İslâmiyet noktasında gidiyorsun. Halbuki şimdi Garplılara benzemek lâzım.”
 
-**Dedim:** O vilayat-ı şarkiye âlem-i İslâm’ın bir nevi merkezi hükmünde, fünun-u cedide yanında ulûm-u diniye de lâzım ve elzemdir. Çünkü ekser enbiya Şark’ta ve ekser hükema Garp’ta gelmesi gösteriyor ki Şark’ın terakkiyatı din ile kaimdir [^Hâşiye1]. Başka vilayetlerde sırf fünun-u cedide okutturursanız da Şark’ta herhalde millet, vatan maslahatı namına, ulûm-u diniye esas olmalıdır. Yoksa Türk olmayan Müslümanlar, Türk’e hakiki kardeşliği hissedemeyecek. Şimdi bu kadar düşmanlara karşı teavün ve tesanüde mecburuz.
+**Dedim:** O vilayat-ı şarkiye âlem-i İslâm’ın bir nevi merkezi hükmünde, fünun-u cedide yanında ulûm-u diniye de lâzım ve elzemdir. Çünkü ekser enbiya Şark’ta ve ekser hükema Garp’ta gelmesi gösteriyor ki Şark’ın terakkiyatı din ile kaimdir [^hâşiye1]. Başka vilayetlerde sırf fünun-u cedide okutturursanız da Şark’ta herhalde millet, vatan maslahatı namına, ulûm-u diniye esas olmalıdır. Yoksa Türk olmayan Müslümanlar, Türk’e hakiki kardeşliği hissedemeyecek. Şimdi bu kadar düşmanlara karşı teavün ve tesanüde mecburuz.
 
 Şimdi ben zehir hastalığı ile ziyade rahatsız vaziyette ve çok ihtiyarlık sebebiyle elli beş senelik bir gaye-i hayatımı görüp takip etmekten mahrum kaldığım gibi Ankara’ya gidip Şark terakkiyatının anahtarı olan bu müesseseye çalışanları ruh u canımla tebrik etmekten dahi mahrum kalıyorum.
 
@@ -240,7 +240,7 @@ Said Nursî
 
 ***
 
-[^Hâşiye1]: Hattâ o zamandan evvel Türk olmayan bir talebem vardı. Eski medresemde hamiyetli ve gayet zeki o talebem ulûm-u diniyeden aldığı hamiyet dersiyle her vakit derdi: “Salih bir Türk elbette fâsık kardeşimden, babamdan bana daha ziyade kardeş ve akrabadır.”
+[^hâşiye1]: Hattâ o zamandan evvel Türk olmayan bir talebem vardı. Eski medresemde hamiyetli ve gayet zeki o talebem ulûm-u diniyeden aldığı hamiyet dersiyle her vakit derdi: “Salih bir Türk elbette fâsık kardeşimden, babamdan bana daha ziyade kardeş ve akrabadır.”
 
 Sonra aynı talebe tâli’sizliğinden sırf maddî fünun-u cedide okumuş. Sonra ben dört sene sonra onun ile görüştüm. Hamiyet-i milliye bahsi oldu. O dedi ki: “Ben şimdi Râfızî bir Kürt’ü, salih bir Türk hocasına tercih ederim.” Ben de “Eyvah!” dedim. “Sen ne kadar bozulmuşsun.” Bir hafta çalıştım, onu kurtardım, eski hakikatli hamiyetine çevirdim.
 

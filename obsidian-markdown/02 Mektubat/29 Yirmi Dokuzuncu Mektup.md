@@ -14,7 +14,7 @@ Aziz, sıddık kardeşim ve hizmet-i Kur’aniyede pek ciddi bir arkadaşım!
 
 Bu defaki mektubunda, vaktim ve halim müsaade etmediği mühim bir meseleye dair cevap istiyorsun.
 
-Kardeşim, bu sene elhamdülillah risaleleri yazanlar pek çoğalmış. İkinci tashih bana geliyor. Sabahtan akşama kadar süratli bir tarzda meşgul oluyorum. Çok mühim işlerim de geri kalıyor ve bu vazifeyi daha azîm görüyorum. Hususan şaban ve ramazanda, akıldan ziyade kalp hissedardır, ruh hareket eder. Şu mesele-i azîmeyi başka vakte ta’lik edip ne vakit Cenab-ı Hakk’ın rahmetinden kalbe sünuhat gelse tedricen size yazılır. Şimdilik **üç nükte**yi [^Hâşiye1] beyan edeceğim:
+Kardeşim, bu sene elhamdülillah risaleleri yazanlar pek çoğalmış. İkinci tashih bana geliyor. Sabahtan akşama kadar süratli bir tarzda meşgul oluyorum. Çok mühim işlerim de geri kalıyor ve bu vazifeyi daha azîm görüyorum. Hususan şaban ve ramazanda, akıldan ziyade kalp hissedardır, ruh hareket eder. Şu mesele-i azîmeyi başka vakte ta’lik edip ne vakit Cenab-ı Hakk’ın rahmetinden kalbe sünuhat gelse tedricen size yazılır. Şimdilik **üç nükte**yi [^hâşiye1] beyan edeceğim:
 
 #### Birinci Nükte
 “Kur’an-ı Hakîm’in esrarı bilinmiyor, müfessirler hakikatini anlamamışlar.” diye beyan olunan fikrin iki yüzü var ve onu diyen, **iki taife**dir.
@@ -320,7 +320,7 @@ Resul lafzı ise o kelime ile en ziyade münasebettar sureler içinde Sure-i Muh
 #### Üçüncü Nükte
 Dört nüktedir.
 
-**Birinci Nükte:** Lafzullah, mecmu-u Kur’an’da iki bin sekiz yüz altı defa zikredilmiştir. Bismillah’takilerle beraber lafz-ı Rahman, yüz elli dokuz defa; lafz-ı Rahîm, iki yüz yirmi; lafz-ı Gafur, altmış bir; lafz-ı Rab, sekiz yüz kırk altı; lafz-ı Hakîm, seksen altı; lafz-ı Alîm, yüz yirmi altı; lafz-ı Kadîr, otuz bir; Lâ İlahe İllâ Hû’daki Hû, yirmi altı defa zikredilmiştir. [^Hâşiye2] Lafzullah adedinde çok esrar ve nükteler var.
+**Birinci Nükte:** Lafzullah, mecmu-u Kur’an’da iki bin sekiz yüz altı defa zikredilmiştir. Bismillah’takilerle beraber lafz-ı Rahman, yüz elli dokuz defa; lafz-ı Rahîm, iki yüz yirmi; lafz-ı Gafur, altmış bir; lafz-ı Rab, sekiz yüz kırk altı; lafz-ı Hakîm, seksen altı; lafz-ı Alîm, yüz yirmi altı; lafz-ı Kadîr, otuz bir; Lâ İlahe İllâ Hû’daki Hû, yirmi altı defa zikredilmiştir. [^hâşiye2] Lafzullah adedinde çok esrar ve nükteler var.
 
 Ezcümle: Lafzullah ve Rab’den sonra en ziyade zikredilen Rahman, Rahîm, Gafur ve Hakîm ile beraber lafzullah, Kur’an âyetlerinin nısfıdır. Hem lafzullah ve Allah lafzı yerinde zikredilen lafz-ı Rab ile beraber, yine nısfıdır. Çendan Rab lafzı sekiz yüz kırk altı defa zikredilmiş fakat dikkat edilse beş yüz küsuru Allah lafzı yerinde zikredilmiş, iki yüz küsuru öyle değildir.
 
@@ -334,7 +334,7 @@ Sure-i Bakara’da, âyâtın adediyle lafz-ı Celal’in adedi birdir. Fark dö
 
 Sure-i Nisa, Maide, En’am üçünün mecmu-u âyetleri, mecmuundaki lafz-ı Celal’in adedine tevafuktadır. Âyetlerin adedi dört yüz altmış dört, lafz-ı Celal’in adedi dört yüz altmış bir; Bismillah’taki lafzullah ile beraber tam tevafuktadır.
 
-Hem mesela, baştaki beş surenin lafz-ı Celal adedi; Sure-i A’raf, Enfal, Tevbe, Yunus, Hud’daki lafz-ı Celal adedinin iki mislidir. Demek bu âhirdeki beş, evvelki beşin nısfıdır. Sonra gelen Sure-i Yusuf, Ra’d, İbrahim, Hicr, Nahl surelerindeki lafz-ı Celal adedi, o nısfın nısfıdır. Sonra Sure-i İsra, Kehf, Meryem, Tâhâ, Enbiya, Hac [^Hâşiye3] o nısfın nısfının nısfıdır. Sonra gelen beşer beşer, takriben o nisbetle gidiyor; yalnız bazı küsuratla fark var. Öyle farklar, böyle makam-ı hitabîde zarar vermez. Mesela, bir kısım yüz yirmi bir, bir kısmı yüz yirmi beş, bir kısmı yüz elli dört, bir kısmı yüz elli dokuzdur.
+Hem mesela, baştaki beş surenin lafz-ı Celal adedi; Sure-i A’raf, Enfal, Tevbe, Yunus, Hud’daki lafz-ı Celal adedinin iki mislidir. Demek bu âhirdeki beş, evvelki beşin nısfıdır. Sonra gelen Sure-i Yusuf, Ra’d, İbrahim, Hicr, Nahl surelerindeki lafz-ı Celal adedi, o nısfın nısfıdır. Sonra Sure-i İsra, Kehf, Meryem, Tâhâ, Enbiya, Hac [^hâşiye3] o nısfın nısfının nısfıdır. Sonra gelen beşer beşer, takriben o nisbetle gidiyor; yalnız bazı küsuratla fark var. Öyle farklar, böyle makam-ı hitabîde zarar vermez. Mesela, bir kısım yüz yirmi bir, bir kısmı yüz yirmi beş, bir kısmı yüz elli dört, bir kısmı yüz elli dokuzdur.
 
 Sonra Sure-i Zuhruf’tan başlayan beş sure, o nısf-ı nısf-ı nısfın nısfına iniyor. Sure-i Necm’den başlayan beş, o nısf-ı nısf-ı nısf-ı nısfın nısfıdır fakat takribîdir. Küçük küsuratın farkları, böyle makamat-ı hitabiyede zarar vermez. Sonra gelen küçük beşler içinde, üç beşlerin yalnız üçer adet lafz-ı Celal’i var.
 
@@ -419,7 +419,7 @@ Bütün kuvvetimle ve mümkün olsaydı bütün zerratımla ve beni dinleselerdi
 
 İnsanda, ekseriyet itibarıyla hubb-u câh denilen hırs-ı şöhret ve hodfüruşluk ve şan ve şeref denilen riyakârane halklara görünmek ve nazar-ı âmmede mevki sahibi olmaya, ehl-i dünyanın her ferdinde cüz’î küllî arzu vardır. Hattâ o arzu için hayatını feda eder derecesinde şöhret-perestlik hissi onu sevk eder. Ehl-i âhiret için bu his gayet tehlikelidir, ehl-i dünya için de gayet dağdağalıdır; çok ahlâk-ı seyyienin de menşeidir ve insanların da en zayıf damarıdır. Yani bir insanı yakalamak ve kendine çekmek, onun o hissini okşamakla kendine bağlar hem onun ile onu mağlup eder.
 
-Kardeşlerim hakkında en ziyade korktuğum, bunların bu zayıf damarından ehl-i ilhadın istifade etmek ihtimalidir. Bu hal beni çok düşündürüyor. Hakiki olmayan bazı bîçare dostlarımı o suretle çektiler, manen onları tehlikeye attılar. [^Hâşiye4]
+Kardeşlerim hakkında en ziyade korktuğum, bunların bu zayıf damarından ehl-i ilhadın istifade etmek ihtimalidir. Bu hal beni çok düşündürüyor. Hakiki olmayan bazı bîçare dostlarımı o suretle çektiler, manen onları tehlikeye attılar. [^hâşiye4]
 
 Ey kardeşlerim ve ey hizmet-i Kur’an’da arkadaşlarım! Bu hubb-u câh cihetinden gelen dessas ehl-i dünyanın hafiyelerine veya ehl-i dalaletin propagandacılarına veya şeytanın şakirdlerine deyiniz ki:
 
@@ -613,7 +613,7 @@ Ey kardeşlerim! Dikkat ediniz vazifeniz kudsiyedir, hizmetiniz ulvidir. Her bir
 #### Kudsî Bir Tarihçe
 Kur’an-ı Hakîm’in mühim bir sırr-ı i’cazîsinin zuhur ettiği senenin tarihi, yine lafz-ı Kur’an’dadır. Şöyle ki:
 
-Kur’an kelimesi, ebced hesabıyla üç yüz elli birdir. İçinde iki elif var, mahfî elif “elfün” okunsa bin manasındaki “elfün”dür. [^Hâşiye5] Demek 1351 senesine, Sene-i Kur’aniye tabir edilebilir. Çünkü lafz-ı Kur’an’daki tevafukatın sırr-ı acibi, Kur’an’ın tefsiri olan Risale-i Nur eczalarında o sene göründü. Ve Kur’an’daki lafz-ı Celal’in i’cazkârane sırr-ı tevafuku, aynı senede tezahür etti. Ve bir nakş-ı i’cazîyi gösterecek bir Kur’an’ın yeni bir tarzda yazılması, aynı senede oluyor. Ve hatt-ı Kur’an’ın tebdiline karşı, Kur’an şakirdlerinin bütün kuvvetleriyle hatt-ı Kur’anîyi muhafazaya çalışması aynı senededir. Ve Kur’an’ın mühim ezvak-ı i’caziyesi, aynı senede tezahür ediyor. Hem aynı senede Kur’an ile çok münasebettar hâdisat olmuş ve olacak gibi…
+Kur’an kelimesi, ebced hesabıyla üç yüz elli birdir. İçinde iki elif var, mahfî elif “elfün” okunsa bin manasındaki “elfün”dür. [^hâşiye5] Demek 1351 senesine, Sene-i Kur’aniye tabir edilebilir. Çünkü lafz-ı Kur’an’daki tevafukatın sırr-ı acibi, Kur’an’ın tefsiri olan Risale-i Nur eczalarında o sene göründü. Ve Kur’an’daki lafz-ı Celal’in i’cazkârane sırr-ı tevafuku, aynı senede tezahür etti. Ve bir nakş-ı i’cazîyi gösterecek bir Kur’an’ın yeni bir tarzda yazılması, aynı senede oluyor. Ve hatt-ı Kur’an’ın tebdiline karşı, Kur’an şakirdlerinin bütün kuvvetleriyle hatt-ı Kur’anîyi muhafazaya çalışması aynı senededir. Ve Kur’an’ın mühim ezvak-ı i’caziyesi, aynı senede tezahür ediyor. Hem aynı senede Kur’an ile çok münasebettar hâdisat olmuş ve olacak gibi…
 
 ***
 
@@ -790,7 +790,7 @@ Kudret-i İlahiye noktasında bakılsa gayet kolaydır. Eğer daire-i esbab ve h
 
 <p class="arabic" dir="rtl">اَللّٰهُمَّ صَلِّ وَ سَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَ عَلٰى اٰلِ سَيِّدِنَا مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهٖيمَ وَ عَلٰى اٰلِ اِبْرَاهٖيمَ فِى الْعَالَمٖينَ اِنَّكَ حَمٖيدٌ مَجٖيدٌ</p>
 
-duası –umum ümmet, umum namazında, günde beş defa tekrar ettikleri bu dua– bilmüşahede makbul olmuştur ki Âl-i Muhammed aleyhissalâtü vesselâm, Âl-i İbrahim aleyhisselâm gibi öyle bir vaziyet almış ki umum mübarek silsilelerin başında, umum aktar ve a’sarın mecmalarında o nurani zatlar kumandanlık ediyorlar. [^Hâşiye6] Ve öyle bir kesrettedirler ki o kumandanların mecmuu, muazzam bir ordu teşkil ediyorlar.
+duası –umum ümmet, umum namazında, günde beş defa tekrar ettikleri bu dua– bilmüşahede makbul olmuştur ki Âl-i Muhammed aleyhissalâtü vesselâm, Âl-i İbrahim aleyhisselâm gibi öyle bir vaziyet almış ki umum mübarek silsilelerin başında, umum aktar ve a’sarın mecmalarında o nurani zatlar kumandanlık ediyorlar. [^hâşiye6] Ve öyle bir kesrettedirler ki o kumandanların mecmuu, muazzam bir ordu teşkil ediyorlar.
 
 Eğer maddî şekle girse ve bir tesanüd ile bir fırka vaziyetini alsalar İslâmiyet dinini milliyet-i mukaddese hükmünde rabıta-i ittifak ve intibah yapsalar hiçbir milletin ordusu onlara karşı dayanamaz! İşte o pek kesretli, o muktedir ordu, Âl-i Muhammed aleyhissalâtü vesselâmdır ve Hazret-i Mehdi’nin en has ordusudur.
 
@@ -1064,7 +1064,7 @@ Tarîkatın pek çok semeratından ve faydalarından yalnız burada **dokuz aded
 
 **Bu küçücük zeylin büyük bir ehemmiyeti var. Herkese menfaatlidir.**
 
-Cenab-ı Hakk’a vâsıl olacak tarîkler pek çoktur. Bütün hak tarîkler Kur’an’dan alınmıştır. Fakat tarîkatların bazısı, bazısından daha kısa, daha selâmetli, daha umumiyetli oluyor. O tarîkler içinde, kāsır fehmimle Kur’an’dan istifade ettiğim **acz **ve** fakr **ve** şefkat **ve** tefekkür** tarîkıdır.
+Cenab-ı Hakk’a vâsıl olacak tarîkler pek çoktur. Bütün hak tarîkler Kur’an’dan alınmıştır. Fakat tarîkatların bazısı, bazısından daha kısa, daha selâmetli, daha umumiyetli oluyor. O tarîkler içinde, kāsır fehmimle Kur’an’dan istifade ettiğim **acz** ve **fakr** ve **şefkat** ve **tefekkür** tarîkıdır.
 
 Evet, acz dahi aşk gibi belki daha eslem bir tarîktir ki ubudiyet tarîkıyla mahbubiyete kadar gider.
 
@@ -1121,15 +1121,15 @@ Hem bu tarîk daha umumî ve cadde-i kübradır. Çünkü kâinatı ehl-i vahdet
 
 ***
 
-[^Hâşiye1]: Bilâhare dokuz nükteye tamamlanmıştır.
+[^hâşiye1]: Bilâhare dokuz nükteye tamamlanmıştır.
 
-[^Hâşiye2]: Kur’an’daki âyâtın mecmu-u adedi 6666 olması ve şu sahifede mezkûr esma-i hüsnanın adedi, 6 rakamıyla alâkadar bulunması; ehemmiyetli bir sırra işaret ediyor. Şimdilik mühmel kaldı.
+[^hâşiye2]: Kur’an’daki âyâtın mecmu-u adedi 6666 olması ve şu sahifede mezkûr esma-i hüsnanın adedi, 6 rakamıyla alâkadar bulunması; ehemmiyetli bir sırra işaret ediyor. Şimdilik mühmel kaldı.
 
-[^Hâşiye3]: Bu beşer taksimat üzere bir sır inkişaf etmişti. Hiçbirimizin haberi olmadan şurada altı sure kaydolmuş. Şüphemiz kalmadı ki gaibden, ihtiyarımızın haricinde altıncısı girmiş; tâ bu nısfiyet sırr-ı mühimmi kaybolmasın.
+[^hâşiye3]: Bu beşer taksimat üzere bir sır inkişaf etmişti. Hiçbirimizin haberi olmadan şurada altı sure kaydolmuş. Şüphemiz kalmadı ki gaibden, ihtiyarımızın haricinde altıncısı girmiş; tâ bu nısfiyet sırr-ı mühimmi kaybolmasın.
 
-[^Hâşiye4]: O bîçareler “Kalbimiz Üstad ile beraberdir.” fikriyle kendilerini tehlikesiz zannederler. Halbuki ehl-i ilhadın cereyanına kuvvet veren ve propagandalarına kapılan, belki bilmeyerek hafiyelikte istimal edilmek tehlikesi bulunan bir adamın “Kalbim safidir, Üstadımın mesleğine sadıktır.” demesi, bu misale benzer ki: Birisi namaz kılarken karnındaki yeli tutamıyor, çıkıyor; hades vuku buluyor. Ona “Namazın bozuldu.” denildiği vakit, o diyor: “Neden namazım bozulsun, kalbim safidir.”
+[^hâşiye4]: O bîçareler “Kalbimiz Üstad ile beraberdir.” fikriyle kendilerini tehlikesiz zannederler. Halbuki ehl-i ilhadın cereyanına kuvvet veren ve propagandalarına kapılan, belki bilmeyerek hafiyelikte istimal edilmek tehlikesi bulunan bir adamın “Kalbim safidir, Üstadımın mesleğine sadıktır.” demesi, bu misale benzer ki: Birisi namaz kılarken karnındaki yeli tutamıyor, çıkıyor; hades vuku buluyor. Ona “Namazın bozuldu.” denildiği vakit, o diyor: “Neden namazım bozulsun, kalbim safidir.”
 
-[^Hâşiye5]: İlm-i sarf kaidesince feilün, fe’lün okunur. Ketifün, ketfün okunması gibi. Buna binaen elifün, elfün okunur. O halde 1351 olur.
+[^hâşiye5]: İlm-i sarf kaidesince feilün, fe’lün okunur. Ketifün, ketfün okunması gibi. Buna binaen elifün, elfün okunur. O halde 1351 olur.
 
-[^Hâşiye6]: Hattâ onlardan bir tanesi olan Seyyid Ahmedü’s-Sünûsî, milyonlar müride kumandanlık ediyor. Seyyid İdris gibi diğer bir zat, yüz binden fazla Müslümanlara kumandanlık ediyor. Seyyid Yahya gibi bir başka seyyid, yüz binler adamlara emirlik ediyor ve hâkeza… Bu seyyidler kabilesinin efradlarında böyle zahirî kahramanlar çok olduğu gibi; Seyyid Abdülkadir-i Geylanî, Seyyid Ebu’l-Hasan-ı Şazelî, Seyyid Ahmed-i Bedevî gibi manevî kahramanların kahramanları dahi varlarmış.
+[^hâşiye6]: Hattâ onlardan bir tanesi olan Seyyid Ahmedü’s-Sünûsî, milyonlar müride kumandanlık ediyor. Seyyid İdris gibi diğer bir zat, yüz binden fazla Müslümanlara kumandanlık ediyor. Seyyid Yahya gibi bir başka seyyid, yüz binler adamlara emirlik ediyor ve hâkeza… Bu seyyidler kabilesinin efradlarında böyle zahirî kahramanlar çok olduğu gibi; Seyyid Abdülkadir-i Geylanî, Seyyid Ebu’l-Hasan-ı Şazelî, Seyyid Ahmed-i Bedevî gibi manevî kahramanların kahramanları dahi varlarmış.
 

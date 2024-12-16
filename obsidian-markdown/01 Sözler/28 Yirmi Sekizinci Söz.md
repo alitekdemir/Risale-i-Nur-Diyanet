@@ -37,7 +37,7 @@ Ve o Sâni’-i Hakîm ve o Âdil-i Rahîm; elbette cismanî âletlerin vezaifin
 
 ***Sual:*** Cisim, eğer hayatî olsa ecza-yı bedenî daim terkip ve tahlildedir, inkıraza mahkûmdur, ebediyete mazhar olamaz. Ekl ve şürb, beka-i şahsî ve muamele-i zevciye ise beka-i nev’î içindir ki şu âlemde birer esas olmuşlar. Âlem-i ebediyette ve âlem-i uhrevîde, şunlara ihtiyaç yoktur. Neden cennetin en büyük lezaizi sırasına geçmişler?
 
-***Elcevap:*** Evvela, şu âlemde cism-i zîhayatın inkıraza ve mevte mahkûmiyeti ise vâridat ve masarifin muvazenesizliğindendir. Çocukluktan sinn-i kemale kadar vâridat çoktur; ondan sonra masarif ziyadeleşir, muvazene kaybolur; o da ölür. Âlem-i ebediyette ise zerrat-ı cisim sabit kalıp terkip ve tahlile maruz değil veyahut muvazene sabit kalır, [^Hâşiye1] vâridat ile masarif muvazenettedir. Devr-i daimî gibi cism-i zîhayat, telezzüzat için hayat-ı cismaniye tezgâhının işlettirilmesiyle beraber ebedîleşir.
+***Elcevap:*** Evvela, şu âlemde cism-i zîhayatın inkıraza ve mevte mahkûmiyeti ise vâridat ve masarifin muvazenesizliğindendir. Çocukluktan sinn-i kemale kadar vâridat çoktur; ondan sonra masarif ziyadeleşir, muvazene kaybolur; o da ölür. Âlem-i ebediyette ise zerrat-ı cisim sabit kalıp terkip ve tahlile maruz değil veyahut muvazene sabit kalır, [^hâşiye1] vâridat ile masarif muvazenettedir. Devr-i daimî gibi cism-i zîhayat, telezzüzat için hayat-ı cismaniye tezgâhının işlettirilmesiyle beraber ebedîleşir.
 
 Ekl ve şürb ve muamele-i zevciye gerçi bu dünyada bir ihtiyaçtan gelir, bir vazifeye gider. Fakat o vazifeye bir ücret-i muaccele olarak öyle mütenevvi leziz lezzet içlerine bırakılmıştır ki sair lezaize tereccuh ediyor. Madem bu dâr-ı elemde, bu kadar acib ve ayrı ayrı lezzetlere medar; ekl ve nikâhtır. Elbette dâr-ı lezzet ve saadet olan cennette o lezzetler; o kadar ulvi bir suret alıp ve vazife-i dünyeviyenin uhrevî ücretini de lezzet olarak ona katarak ve dünyevî ihtiyacı dahi uhrevî bir hoş iştiha suretinde ilâve ederek cennete lâyık ve ebediyete münasip, en câmi’, hayattar bir maden-i lezzet olur.
 
@@ -69,7 +69,7 @@ Fakat insan, öyle câmi’ bir mu’cize-i kudrettir ki hattâ şu dünya-yı f
 
 Halbuki ebedî bir dâr-ı saadette, nihayetsiz istidada mâlik, nihayetsiz ihtiyaçlar lisanıyla, nihayetsiz arzular eliyle, nihayetsiz bir rahmetin kapısını çalan bir insan; elbette ehadîste beyan olunan ihsanat-ı İlahiyeye mazhariyeti makuldür ve haktır ve hakikattir. Ve şu hakikat-i ulviyeye bir temsil dürbünüyle rasad edeceğiz. Şöyle ki:
 
-Bu dere bahçesi gibi [^Hâşiye2] şu Barla bağ ve bahçelerinin her birinin ayrı ayrı mâliki bulunduğu halde; Barla’da gıdası itibarıyla ancak bir avuç yeme mâlik olan her bir kuş, her bir serçe, her bir arı “Bütün Barla’nın bağ ve bostanları, benim nüzhetgâhım ve seyrangâhımdır.” diyebilir. Barla’yı zapt edip daire-i mülküne dâhil eder. Başkalarının iştiraki onun bu hükmünü bozmaz.
+Bu dere bahçesi gibi [^hâşiye2] şu Barla bağ ve bahçelerinin her birinin ayrı ayrı mâliki bulunduğu halde; Barla’da gıdası itibarıyla ancak bir avuç yeme mâlik olan her bir kuş, her bir serçe, her bir arı “Bütün Barla’nın bağ ve bostanları, benim nüzhetgâhım ve seyrangâhımdır.” diyebilir. Barla’yı zapt edip daire-i mülküne dâhil eder. Başkalarının iştiraki onun bu hükmünü bozmaz.
 
 Hem insan olan bir insan diyebilir ki: “Benim Hâlık’ım bu dünyayı bana hane yapmış, güneş benim bir lambamdır, yıldızlar benim elektriklerimdir, yeryüzü çiçekli miçekli halılarla serilmiş benim bir beşiğimdir.” der, Allah’a şükreder. Sair mahlukatın iştiraki, onun bu hükmünü nakzetmez. Bilakis mahlukat onun hanesini tezyin eder. Hanenin müzeyyenatı hükmünde kalırlar.
 
@@ -101,6 +101,6 @@ Halbuki kâfir, cehennemi inkâr ile nihayetsiz izzet ve gayret ve celal sahibi 
 
 ***
 
-[^Hâşiye1]: Şu dünyada cism-i insanî ve hayvanî, zerrat için güya bir misafirhane, bir kışla, bir mektep hükmündedir ki camid zerreler ona girerler, hayattar olan âlem-i bekaya zerrat olmak için liyakat kesbederler, çıkarlar. <br>Âhirette ise <span class="arabic" dir="rtl">اِنَّ الدَّارَ الْاٰخِرَةَ لَهِىَ الْحَيَوَانُ</span> sırrınca, nur-u hayat orada âmmdır. Nurlanmak için o seyr ü sefere ve o talimat ve talime lüzum yoktur. Zerreler demirbaş olarak sabit kalabilirler.
+[^hâşiye1]: Şu dünyada cism-i insanî ve hayvanî, zerrat için güya bir misafirhane, bir kışla, bir mektep hükmündedir ki camid zerreler ona girerler, hayattar olan âlem-i bekaya zerrat olmak için liyakat kesbederler, çıkarlar. <br>Âhirette ise <span class="arabic" dir="rtl">اِنَّ الدَّارَ الْاٰخِرَةَ لَهِىَ الْحَيَوَانُ</span> sırrınca, nur-u hayat orada âmmdır. Nurlanmak için o seyr ü sefere ve o talimat ve talime lüzum yoktur. Zerreler demirbaş olarak sabit kalabilirler.
 
-[^Hâşiye2]: Sekiz sene kemal-i sadakatle bu fakire hizmet eden Süleyman’ın bahçesidir ki bir veya iki saat zarfında şu Söz orada yazıldı.
+[^hâşiye2]: Sekiz sene kemal-i sadakatle bu fakire hizmet eden Süleyman’ın bahçesidir ki bir veya iki saat zarfında şu Söz orada yazıldı.

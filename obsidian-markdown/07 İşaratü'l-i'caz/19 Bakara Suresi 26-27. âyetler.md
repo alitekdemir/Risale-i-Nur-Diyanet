@@ -29,7 +29,7 @@ Onların Kur’an’ın kemalini tenzil etmek için Kur’an’ın temsillerini 
 
 İşte o boş kafalılar, bu noktalara istinaden Cenab-ı Hakk’ı da insanlara kıyas ederek diyorlar ki: “Allah celal ve azametiyle insanların konuştukları gibi nasıl insanlar ile tekellüm etmeye tenezzül eder? Ve bu cüz’î ve hakir şeylerden nasıl bahseder? Azametine yakışır mı?”
 
-Acaba o süfeha takımı; Allah’ın iradesi, ilmi, kudreti gibi sair sıfatlarının da küllî, umumî, şâmil, muhit olduklarını bilmezler mi? Ve yine bilmezler mi ki Cenab-ı Hakk’ın azametine mikyas ancak mecmu âsârıdır, yalnız bir eser mikyas olamaz! Ve yine bilmezler mi ki Cenab-ı Hakk’ın tecellisine mizan olacak, kâffe-i kelimatıdır ki eşcar kalem, denizler mürekkep olsa o kelimatı yazıp bitiremezler. [^Hâşiye1]
+Acaba o süfeha takımı; Allah’ın iradesi, ilmi, kudreti gibi sair sıfatlarının da küllî, umumî, şâmil, muhit olduklarını bilmezler mi? Ve yine bilmezler mi ki Cenab-ı Hakk’ın azametine mikyas ancak mecmu âsârıdır, yalnız bir eser mikyas olamaz! Ve yine bilmezler mi ki Cenab-ı Hakk’ın tecellisine mizan olacak, kâffe-i kelimatıdır ki eşcar kalem, denizler mürekkep olsa o kelimatı yazıp bitiremezler. [^hâşiye1]
 
 Mesela şems; âkıl, ihtiyar ve irade sahibi farz edilse ziyasını bütün âleme neşrettiği bir sırada pis, mülevves bir zerre de onun ziyasından istifade ettiği vakit, şemse karşı “Ne için bu pis, bu mülevves zerre ile meşgul oldu ve ne için ona ziyasını verdi?” diye itiraz edilebilir mi? Hâşâ! Şemsin azametine bir nakîse gelir mi? Yok.
 
@@ -49,13 +49,13 @@ Sual: Hakikaten eşyanın hakareti, hısseti; kudretin azametine, kelâmın neza
 
 Cevap: Bazı şeylerde veya işlerde görünen hakaret, çirkinlik eşyanın mülk cihetine aittir. Yani dış yüzüne nâzırdır ve bizim nazarımızda öyle görünür. Ve bunun için eşya ile yed-i kudret arasına perde olarak esbab-ı zahiriye vaz’edilmiştir ki sathî nazarımızda yed-i kudretin o gibi eşya ile mübaşereti görünmesin. Fakat melekût ciheti yani içyüzü ise şeffaf ve yüksektir. Kudretin taalluk ettiği bu cihette, hiçbir şey kudretin taallukundan hariç değildir.
 
-Evet, azamet-i İlahiye esbab-ı zahiriyenin vaz’ını iktiza ettiği gibi vahdet ve izzet-i İlahiye de kudretin bütün eşyaya şümulünü ve kelâmın her şeye ihatasını iktiza ederler. Maahâzâ bir zerre üstünde zerreler ile yazılan bir Kur’an, sahife-i semada yıldızlar ile yazılacak Kur’an’dan hüsün ve güzellikte aşağı değildir. Ve keza [^Hâşiye2] bir sivrisineğin yaratılışı, sanatça filin hilkatinden dûn değildir.
+Evet, azamet-i İlahiye esbab-ı zahiriyenin vaz’ını iktiza ettiği gibi vahdet ve izzet-i İlahiye de kudretin bütün eşyaya şümulünü ve kelâmın her şeye ihatasını iktiza ederler. Maahâzâ bir zerre üstünde zerreler ile yazılan bir Kur’an, sahife-i semada yıldızlar ile yazılacak Kur’an’dan hüsün ve güzellikte aşağı değildir. Ve keza [^hâşiye2] bir sivrisineğin yaratılışı, sanatça filin hilkatinden dûn değildir.
 
 Kelâm sıfatı da aynen kudret sıfatı gibidir. Bir çocukla konuşup söz anlatmak, bir feylesofla konuşmaktan aşağı değildir.
 
 Sual: Şu temsillerde görünen hakaret-i zahiriye neye aittir?
 
-Cevap: O gibi haller temsil getirene ait değildir ancak mümessel-i lehe aittir. Yani kime ve ne şeye temsil getirilmişse ona aittir. Zaten kelâmın güzelliği, belâgatı; mümessel-i lehe mutabakatı nisbetindedir. Evet, bir padişah bir çobana, çobanlara mahsus bir abâ, bir palto ve kelbine de bir kemik verirse “Padişah iyi yapmadı.” diye kimse itiraz edemez. Çünkü her şeyi lâyıkına vermiştir. Binaenaleyh mümessel-i leh ne kadar hakir olursa temsili de o kadar hakir olur ve ne kadar büyük olursa temsili de o kadar büyük olur. Evet sanemler pek âdi, hakir olduklarından Cenab-ı Hak, sineği [^Hâşiye3] onlara musallat kılmıştır; ve ibadetleri de o kadar çirkindir ki <span class="arabic" dir="rtl">نَسْجُ الْعَنْكَبُوتِ</span> ile yani örümceğin ağıyla tabir edilmiştir.
+Cevap: O gibi haller temsil getirene ait değildir ancak mümessel-i lehe aittir. Yani kime ve ne şeye temsil getirilmişse ona aittir. Zaten kelâmın güzelliği, belâgatı; mümessel-i lehe mutabakatı nisbetindedir. Evet, bir padişah bir çobana, çobanlara mahsus bir abâ, bir palto ve kelbine de bir kemik verirse “Padişah iyi yapmadı.” diye kimse itiraz edemez. Çünkü her şeyi lâyıkına vermiştir. Binaenaleyh mümessel-i leh ne kadar hakir olursa temsili de o kadar hakir olur ve ne kadar büyük olursa temsili de o kadar büyük olur. Evet sanemler pek âdi, hakir olduklarından Cenab-ı Hak, sineği [^hâşiye3] onlara musallat kılmıştır; ve ibadetleri de o kadar çirkindir ki <span class="arabic" dir="rtl">نَسْجُ الْعَنْكَبُوتِ</span> ile yani örümceğin ağıyla tabir edilmiştir.
 
 **Üçüncü Mugalata:** Onlar diyorlar ki: “Hakikati izhar etmekte aczi îma eden bu gibi temsilata ne ihtiyaç vardır?”
 
@@ -285,17 +285,17 @@ Hasrı ifade eden <span class="arabic" dir="rtl">هُمْ</span> hasaretin onlar
 
 ***
 
-[^Hâşiye1]: Bu mealdeki âyette bir mübalağa, bir müzayede görünür. Fakat hakikate, vakıa bakılırsa ziyadelik yoktur. Çünkü “kelime” bir manayı ifade eden şeye denir. Amma nahvîlerin lafız ile takyid ve tahsis ettikleri, onlara mahsus bir ıstılahtır. Evet biri kāl, diğeri hal olmak üzere iki lisan vardır. Lisan-ı kālin kelimatı elfaz ise lisan-ı halin kelimatı da ahvaldir. Binaenaleyh kudsî şairin <span class="arabic" dir="rtl">وَفٖى كُلِّ شَىْءٍ لَهُ اٰيَةٌ تَدُلُّ عَلٰى اَنَّهُ وَاحِدٌ</span> dediği gibi; kitab-ı kebir-i kâinatta yaratılan herhangi bir şey, Hâlık’ın azametine delâlet eden bir kelime-i haliyedir.
+[^hâşiye1]: Bu mealdeki âyette bir mübalağa, bir müzayede görünür. Fakat hakikate, vakıa bakılırsa ziyadelik yoktur. Çünkü “kelime” bir manayı ifade eden şeye denir. Amma nahvîlerin lafız ile takyid ve tahsis ettikleri, onlara mahsus bir ıstılahtır. Evet biri kāl, diğeri hal olmak üzere iki lisan vardır. Lisan-ı kālin kelimatı elfaz ise lisan-ı halin kelimatı da ahvaldir. Binaenaleyh kudsî şairin <span class="arabic" dir="rtl">وَفٖى كُلِّ شَىْءٍ لَهُ اٰيَةٌ تَدُلُّ عَلٰى اَنَّهُ وَاحِدٌ</span> dediği gibi; kitab-ı kebir-i kâinatta yaratılan herhangi bir şey, Hâlık’ın azametine delâlet eden bir kelime-i haliyedir.
 
 Eşcar ile denizler, kâinat kitabında mevcud kelimat-ı haliyelerin yazılmasına kâfi geldiği takdirde, o denizlerin katreleri, o ağaçların zerreleri birer halî kelime olduğundan, onların da yazılması için mürekkep, kalem lâzımdır. Öyle ise onlar için de onlar kadar başka eşcar ve denizler lâzımdır. Ve hâkeza her bir birincinin katreleri ve kelimatı yazıldıktan sonra, ona da onun kadar ikinci bir takım eşcar ve denizler lâzımdır. Hal böylece ilâ gayrı’n-nihaye teselsül eder gider. Cenab-ı Hakk’ın kelimatı, yani Cenab-ı Hakk’ın azametine delâlet eden kelimat-ı haliyesi bitmez. Demek hakikatte <span class="arabic" dir="rtl">اَنْ تَنْفَدَ كَلِمَاتُ رَبّٖى وَلَوْ جِئْنَا بِمِثْلِهٖ مَدَدًا</span> âyetinin ifade ettiği manada hiçbir cihetle mübalağa, müzayede yoktur belki tenakus vardır.
 
 Mütercim Abdülmecid
 
-[^Hâşiye2]: Sivrisineğin başında mızrak gibi bir hortum vardır. Filin başına konar, hortumunu filin hortumuna batırır, fil kaçmaya başlar, hiçbir suretle elinden kurtulamaz. Demek Cenab-ı Hak, sivrisineği file galip ve hâkim kılmıştır. Binaenaleyh hilkatçe dûn ise de cesaret hususunda faiktir.
+[^hâşiye2]: Sivrisineğin başında mızrak gibi bir hortum vardır. Filin başına konar, hortumunu filin hortumuna batırır, fil kaçmaya başlar, hiçbir suretle elinden kurtulamaz. Demek Cenab-ı Hak, sivrisineği file galip ve hâkim kılmıştır. Binaenaleyh hilkatçe dûn ise de cesaret hususunda faiktir.
 
 Mütercim Abdülmecid
 
-[^Hâşiye3]: Bir a’rabînin taptığı bir sanemi varmış. Bir gün ibadete gitmiş. Bakmış ki bir tilki sanemin başına bevletmiş. Bu hali görünce <span class="arabic" dir="rtl">اَرَبٌّ يَبُولُ الثَّعْلَبَانُ بِرَاْسِهٖ</span> demekle sanemi kırmış atmış. Demek sanemlerin hakaretinden yalnız sinekler değil, tilkiler de başlarına çıkar, telvis eder.
+[^hâşiye3]: Bir a’rabînin taptığı bir sanemi varmış. Bir gün ibadete gitmiş. Bakmış ki bir tilki sanemin başına bevletmiş. Bu hali görünce <span class="arabic" dir="rtl">اَرَبٌّ يَبُولُ الثَّعْلَبَانُ بِرَاْسِهٖ</span> demekle sanemi kırmış atmış. Demek sanemlerin hakaretinden yalnız sinekler değil, tilkiler de başlarına çıkar, telvis eder.
 
 Mütercim Abdülmecid
 

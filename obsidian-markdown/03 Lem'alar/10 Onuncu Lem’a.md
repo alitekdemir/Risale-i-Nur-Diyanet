@@ -15,7 +15,7 @@ Bu hizmet-i kudsiyenin kerameti üç nevidir:
 
 **İkinci kısım:** Manileri bertaraf etmek ve muzırların şerrini def’edip onları tokatlamaktır.
 
-Bu iki kısmın hâdiseleri çoktur hem çok uzundur. [^Hâşiye1] Başka vakte ta’likan, en hafif olan üçüncü bir kısımdan bahsedeceğiz.
+Bu iki kısmın hâdiseleri çoktur hem çok uzundur. [^hâşiye1] Başka vakte ta’likan, en hafif olan üçüncü bir kısımdan bahsedeceğiz.
 
 **Üçüncü kısım şudur ki:** Hizmette hâlisen çalışanlara fütur geldiği vakit, şefkatli bir tokat yerler, intibaha gelerek yine o hizmete girerler. Bu kısmın hâdisatı, yüzden fazladır. Yalnız yirmi hâdiseden on üç on dördü şefkatli tokat yemişler, altı yedisi zecir tokadı görmüşler.
 
@@ -39,11 +39,11 @@ Ey kardeşlerim! Başıma gelen şefkat tokatlarını söyledim. Sizlerin de ba�
 
 **DÖRDÜNCÜSÜ:** Muhacir Hâfız Ahmed’dir. O kendisi söylüyor: Evet, ben itiraf ediyorum ki hizmet-i Kur’aniyede âhiretim nokta-i nazarında içtihadımda hata ettim. Hizmete fütur verecek bir arzuda bulundum. Şefkatli fakat şiddetli ve keffaretli bir tokat yedim. Şöyle ki:
 
-Üstadım yeni icadlara [^Hâşiye2] taraftar olmadığı için –benim camiim onun komşusudur; şuhur-u selâse geliyor, camiimi terk etsem hem ben çok sevap kaybediyorum hem mahalle namazsızlığa alışacak. Yeni usûl yapmazsam men’edileceğim. İşte bu içtihada göre– ruhum kadar sevdiğim Üstadımın muvakkaten başka bir köye gitmesini arzu ettim. Bilmedim ki o yerini değiştirse, başka bir memlekete gitse hizmet-i Kur’aniyeye muvakkaten fütur gelir. Tam o sıralarda ben tokat yedim. Şefkatli fakat öyle dehşetli bir tokat yedim ki üç aydır daha aklım başıma gelmedi. Fakat lillahi’l-hamd, Üstadımın kat’î ihbarıyla, ona ihtar edilmiş ki o musibetin her dakikası, bir gün ibadet hükmünde olduğunu rahmet-i İlahiyeden ümitvar olabiliriz. Çünkü o hata, bir garaza binaen değildi. Sırf âhiretimi düşünmek noktasında o arzu geldi.
+Üstadım yeni icadlara [^hâşiye2] taraftar olmadığı için –benim camiim onun komşusudur; şuhur-u selâse geliyor, camiimi terk etsem hem ben çok sevap kaybediyorum hem mahalle namazsızlığa alışacak. Yeni usûl yapmazsam men’edileceğim. İşte bu içtihada göre– ruhum kadar sevdiğim Üstadımın muvakkaten başka bir köye gitmesini arzu ettim. Bilmedim ki o yerini değiştirse, başka bir memlekete gitse hizmet-i Kur’aniyeye muvakkaten fütur gelir. Tam o sıralarda ben tokat yedim. Şefkatli fakat öyle dehşetli bir tokat yedim ki üç aydır daha aklım başıma gelmedi. Fakat lillahi’l-hamd, Üstadımın kat’î ihbarıyla, ona ihtar edilmiş ki o musibetin her dakikası, bir gün ibadet hükmünde olduğunu rahmet-i İlahiyeden ümitvar olabiliriz. Çünkü o hata, bir garaza binaen değildi. Sırf âhiretimi düşünmek noktasında o arzu geldi.
 
 **BEŞİNCİSİ:** Hakkı Efendi’dir. Şimdi burada olmadığı için Hulusi’ye vekalet ettiğim gibi ona da vekaleten derim ki: Hakkı Efendi talebelik vazifesini hakkıyla îfa ederken, ahlâksız bir kaymakam geldi. Hem Üstadına hem de kendine zarar gelmemek için yazdıklarını sakladı. Muvakkaten hizmet-i Nuriyeyi terk etti. Birden bir şefkat tokadı manasında bin lirayı vermeye mükellef olacak bir dava başına açıldı. Bir sene o tehdit altında kaldı. Tâ geldi, burada görüştük, avdetinde hizmet-i Kur’aniyeye talebelik vazifesine girdi. Şefkat tokadının hükmü kalktı, tebrie etti.
 
-Sonra Kur’an’ı yeni bir tarzda [^Hâşiye3] yazmak hususunda talebelere bir vazife açıldı. Hakkı Efendi’ye de hisse verildi. Elhak o, hissesine sahip çıktı. Bir cüzü güzel yazdı. Fakat derd-i maişet zaruretiyle kendini mecbur bilip gizli dava vekaletine teşebbüs etti. Birden bir şefkat tokadı daha yedi. Kalemi tutan parmağı, muvakkaten kırıldı. Bu parmakla hem dava vekaleti yapmak hem Kur’an’ı yazmak olmayacak diye lisan-ı mana ile ihtar edildi. Dava vekaletine teşebbüsünü bilmediğimiz için parmağına hayret ediyorduk. Sonra anlaşıldı ki: Kudsî, safi hizmet-i Kur’aniye, gayet temiz kendine mahsus parmakları başka işe karıştırmak istemiyor. Her ne ise… Hulusi Bey’i kendim gibi bildim, ona bedel konuştum. Hakkı Efendi de aynen onun gibidir. Eğer benim vekaletime razı olmazsa kendi tokadını kendi yazsın.
+Sonra Kur’an’ı yeni bir tarzda [^hâşiye3] yazmak hususunda talebelere bir vazife açıldı. Hakkı Efendi’ye de hisse verildi. Elhak o, hissesine sahip çıktı. Bir cüzü güzel yazdı. Fakat derd-i maişet zaruretiyle kendini mecbur bilip gizli dava vekaletine teşebbüs etti. Birden bir şefkat tokadı daha yedi. Kalemi tutan parmağı, muvakkaten kırıldı. Bu parmakla hem dava vekaleti yapmak hem Kur’an’ı yazmak olmayacak diye lisan-ı mana ile ihtar edildi. Dava vekaletine teşebbüsünü bilmediğimiz için parmağına hayret ediyorduk. Sonra anlaşıldı ki: Kudsî, safi hizmet-i Kur’aniye, gayet temiz kendine mahsus parmakları başka işe karıştırmak istemiyor. Her ne ise… Hulusi Bey’i kendim gibi bildim, ona bedel konuştum. Hakkı Efendi de aynen onun gibidir. Eğer benim vekaletime razı olmazsa kendi tokadını kendi yazsın.
 
 **ALTINCISI:** Bekir Efendi’dir. Şimdi hazır olmadığı için ben, kardeşim Abdülmecid’e vekalet ettiğim gibi onun itimat ve sadakatine itimadım ve Şamlı Hâfız ve Süleyman Efendi gibi bütün has dostlarımın hükümlerine (bildiklerine) istinaden diyorum ki: Bekir Efendi, Onuncu Söz’ü tabetti. İ’caz-ı Kur’an’a dair Yirmi Beşinci Söz’ü yeni huruf çıkmadan tabetmek için ona gönderdik. Onuncu Söz’ün matbaa fiyatını gönderdiğimiz gibi onu da göndereceğiz diye yazdık. Bekir Efendi, benim fakr-ı halimi düşünüp matbaa fiyatı dört yüz banknot kadar olduğunu mülahaza ederek ve kendi kesesinden vermek, belki Hoca razı olmaz diye onun nefsi onu aldattı. Tabedilmedi. Hizmet-i Kur’aniyeye mühim bir zarar oldu. İki ay sonra dokuz yüz lira hırsızların eline geçti. Şefkatli ve şiddetli bir tokat yedi. İnşâallah ziyaa giden dokuz yüz lira, sadaka hükmüne geçti.
 
@@ -109,9 +109,9 @@ Yoksa mü’min bu dünyada dahi kâfirden manen ve hakikat nokta-i nazarında �
 
 ***
 
-[^Hâşiye1]: Mesela Halk Partisi, Nur talebelerine verdikleri azap ve sıkıntı ve ihanetlerden, kendileri dünyada daha ziyade cezasını çektiler, aynını gördüler.
+[^hâşiye1]: Mesela Halk Partisi, Nur talebelerine verdikleri azap ve sıkıntı ve ihanetlerden, kendileri dünyada daha ziyade cezasını çektiler, aynını gördüler.
 
-[^Hâşiye2]: Yani Türkçe ezan gibi şeair-i İslâmiyeye muhalif bid’atlardır.
+[^hâşiye2]: Yani Türkçe ezan gibi şeair-i İslâmiyeye muhalif bid’atlardır.
 
-[^Hâşiye3]: Tevafuk mu’cizesini gösterir bir surette demektir.
+[^hâşiye3]: Tevafuk mu’cizesini gösterir bir surette demektir.
 

@@ -93,7 +93,7 @@ Daha yazılacaktı fakat bir tevakkuf hali kesti.
 
 Sure-i Zümer’de <span class="arabic" dir="rtl">اَفَمَنْ شَرَحَ اللّٰهُ صَدْرَهُ لِلْاِسْلَامِ فَهُوَ عَلٰى نُورٍ مِنْ رَبِّهٖ</span> âyet-i azîmenin mana-yı sarîhinden başka bir mana-yı işarî tabakasının külliyetinde dâhil bir ferdi Risale-i Nur ve tercümanı olduğuna kuvvetli bir delil buldum.
 
-Çünkü <span class="arabic" dir="rtl">اَفَمَنْ شَرَحَ اللّٰهُ صَدْرَهُ لِلْاِسْلَامِ فَهُوَ</span> cümlesi, hesab-ı cifrî ve ebcedî ve riyazî ile bin üç yüz yirmi dokuz (1329) veya sekiz (1328) eder. Demek <span class="arabic" dir="rtl">مَنْ</span> külliyetinde ve <span class="arabic" dir="rtl">فَهُوَ</span> işaretinde dâhil ve medar-ı nazar bir fert, inşirah-ı sadr [^Hâşiye1] nuruyla başka bir halete girip eski sıkıntıdan kurtulup nurani bir mesleğe giren bir şahsı, eski ve yeni harb-i umumînin gelmeye hazırlanmaları olan o dehşetli tarihe ve o ferdin vaziyetine remzen bakar.
+Çünkü <span class="arabic" dir="rtl">اَفَمَنْ شَرَحَ اللّٰهُ صَدْرَهُ لِلْاِسْلَامِ فَهُوَ</span> cümlesi, hesab-ı cifrî ve ebcedî ve riyazî ile bin üç yüz yirmi dokuz (1329) veya sekiz (1328) eder. Demek <span class="arabic" dir="rtl">مَنْ</span> külliyetinde ve <span class="arabic" dir="rtl">فَهُوَ</span> işaretinde dâhil ve medar-ı nazar bir fert, inşirah-ı sadr [^hâşiye1] nuruyla başka bir halete girip eski sıkıntıdan kurtulup nurani bir mesleğe giren bir şahsı, eski ve yeni harb-i umumînin gelmeye hazırlanmaları olan o dehşetli tarihe ve o ferdin vaziyetine remzen bakar.
 
 <span class="arabic" dir="rtl">فَهُوَ عَلٰى نُورٍ مِنْ رَبِّهٖ</span> deki <span class="arabic" dir="rtl">نُورٍ مِنْ رَبِّهٖ</span> kelimesi, Risale-i Nur ismine ve manasına hem cifri hem sureti hem manası tevafuk ettiği gibi <span class="arabic" dir="rtl">اَفَمَنْ شَرَحَ اللّٰهُ صَدْرَهُ لِلْاِسْلَامِ فَهُوَ</span> cümlesinin de makam-ı cifrîsi gösterdiği tarihte Risale-i Nur’un tercümanı olan Üstadımın –tahkikatımla– aynen vaziyetine tevafuk ediyor.
 
@@ -224,7 +224,7 @@ Buna karşı Risale-i Nur’un şakirdleri bir uzun ramazan nazarıyla bakıp ke
 
 “Bu misillü, Bedîüzzaman’ın dahi elbette bir içtihadı vardır. İtiraz edenler haksızdır.” demiş ve Hoca Mustafa’ya emretmiş: “Söylediğimi yaz!”
 
-Bedîüzzaman’a kemal-i hürmetle selâm ederim. Telifatınızın ikmaline hırz-ı can ile dua etmekteyim. (Yani ruha nusha olacak kadar kıymettardır.) Bazı ulemaü’s-sûun tenkidine uğradığına müteessir olma. Zira yemişli ağaç taşlanır [^Hâşiye2] kaziyesi meşhurdur. Mücahedatınıza devam buyurun. Cenab-ı Hak ve Feyyaz-ı Mutlak âcilen murad ve matlubunuza muvaffakun bi’l-hayr eylesin! Bâki Hakk’ın birliğine emanet olunuz.
+Bedîüzzaman’a kemal-i hürmetle selâm ederim. Telifatınızın ikmaline hırz-ı can ile dua etmekteyim. (Yani ruha nusha olacak kadar kıymettardır.) Bazı ulemaü’s-sûun tenkidine uğradığına müteessir olma. Zira yemişli ağaç taşlanır [^hâşiye2] kaziyesi meşhurdur. Mücahedatınıza devam buyurun. Cenab-ı Hak ve Feyyaz-ı Mutlak âcilen murad ve matlubunuza muvaffakun bi’l-hayr eylesin! Bâki Hakk’ın birliğine emanet olunuz.
 
 Eski Fetva Emini Ali Rıza
 
@@ -290,7 +290,7 @@ Aziz, sıddık kardeşlerim!
 
 Nur Fabrikasının sahibi, Birinci Şuâ’nın Dördüncü Âyeti bahsinde, hakikat-i İslâmiyet’in yedi esası parlak bir surette ispat edildiği cümlesine dair soruyor ki: Erkân-ı İslâmiyeyi beş biliyoruz. Hem vücub-u zekât rüknü, risalelerde ne suretle izah edildiğini soruyor.
 
-**Elcevap:** İslâm’ın rükünleri başkadır, hakikat-i İslâmiyet’in esasları yine başkadır. Hakikat-i İslâmiyet’in esasları; altı erkân-ı imaniye ile [^Hâşiye3] ve esas-ı ubudiyet ki İslâm’ın beş rüknü olan (savm, salât, hacc, zekât, kelime-i şehadet) mecmuunun hülâsasıdır. Risale-i Nur, altı rükn-ü imaniye ile bu esas-ı ubudiyeti ispat edip <span class="arabic" dir="rtl">سَبْعَ الْمَثَانٖى</span> cilvesine mazhariyeti muraddır.
+**Elcevap:** İslâm’ın rükünleri başkadır, hakikat-i İslâmiyet’in esasları yine başkadır. Hakikat-i İslâmiyet’in esasları; altı erkân-ı imaniye ile [^hâşiye3] ve esas-ı ubudiyet ki İslâm’ın beş rüknü olan (savm, salât, hacc, zekât, kelime-i şehadet) mecmuunun hülâsasıdır. Risale-i Nur, altı rükn-ü imaniye ile bu esas-ı ubudiyeti ispat edip <span class="arabic" dir="rtl">سَبْعَ الْمَثَانٖى</span> cilvesine mazhariyeti muraddır.
 
 Vücub-u zekâtın izahından murad ise zekâtın teferruat tafsilatı değil belki zekâtın hayat-ı içtimaiyede derece-i lüzumu ve ehemmiyetli kıymeti ispat edilmiş demektir. Evet, Risale-i Nur’dan evvel yazdığımız risalelerde hem de Risale-i Nur’un müteaddid yerlerinde, vücub-u zekâtın hayat-ı içtimaiyede ne derece ehemmiyetli olduğu kat’iyen ve vâzıhan ispat edilmiş demektir.
 
@@ -334,7 +334,7 @@ Ey Sabri kardeş! Başın sağ olsun. Cenab-ı Hak o validemizi mağfiret eylesi
 
 Risale-i Nur, tarîkat değil hakikattir. Âyât-ı Kur’aniyeden tereşşuh eden bir nurdur. Ne şarkın ulûmundan ve ne de garbın fünunundan alınmış değil. Kur’an-ı Mu’cizü’l-Beyan’ın bu zamana mahsus bir i’caz-ı manevîsidir. Menfaat-i şahsiye yoktur. Risale-i Nur’un –hiç olmazsa– Söz ve Mektuplarını tamamıyla okuyunca birçok hakikatler tezahür edeceğinden, bugünkü düşüncenizden yani Risale-i Nur’u yazmakta çekinmek ve çekilmekten derhal teberri edeceksiniz.
 
-Muhterem değerli kardeşim! Derhal yazmaya başlayınız, korkmayınız. Hizmet-i Kur’an, inşâallah muhafaza edecektir. Diğer Efendi’yi ziyarete gidenlere ve Risale-i Nur’u yazan o havalideki kardeşlerimize geçmiş olsun [^Hâşiye4]. Hâfız-ı Hakiki inşâallah muhafaza edecektir. İmam-ı Ali’nin (ra) <span class="arabic" dir="rtl">تُقَادُ سِرَاجُ النُّورِ سِرًّا بَيَانَةً ۞ تُقَادُ سِرَاجُ السُّرْجِ سِرًّا تَنَوَّرَتْ</span> emrine inkıyad etmek icab ettiğinden Risale-i Nur’u gizli okumak, gizli yazmak, gizli neşretmek lâzımdı. O kardeşlerimizin bu emre riayet etmemesinden ileri geldiğinden, hafif şefkat tokadı yediklerinden tekrar geçmiş olsun.
+Muhterem değerli kardeşim! Derhal yazmaya başlayınız, korkmayınız. Hizmet-i Kur’an, inşâallah muhafaza edecektir. Diğer Efendi’yi ziyarete gidenlere ve Risale-i Nur’u yazan o havalideki kardeşlerimize geçmiş olsun [^hâşiye4]. Hâfız-ı Hakiki inşâallah muhafaza edecektir. İmam-ı Ali’nin (ra) <span class="arabic" dir="rtl">تُقَادُ سِرَاجُ النُّورِ سِرًّا بَيَانَةً ۞ تُقَادُ سِرَاجُ السُّرْجِ سِرًّا تَنَوَّرَتْ</span> emrine inkıyad etmek icab ettiğinden Risale-i Nur’u gizli okumak, gizli yazmak, gizli neşretmek lâzımdı. O kardeşlerimizin bu emre riayet etmemesinden ileri geldiğinden, hafif şefkat tokadı yediklerinden tekrar geçmiş olsun.
 
 Hiç merak etmesinler, hiçbir şey yapılmaz ve yapamaz ve göremezler. Bu hâdiseden müteessir olup çekinmeyiniz. Bilakis çalışmanızı ziyadeleştirin ki tecrübe-i meydan-ı imtihanda muvaffak olasınız. Risale-i Nur’a sık sık ilişirler fakat bir halt edemezler. Çünkü Gavs-ı A’zam (ks) ve İmam-ı Ali (ra) gibi zatların himayeleri ve duaları berekâtına, Hâfız-ı Hakiki hıfzeder. <span class="arabic" dir="rtl">اَلْحَمْدُ لِلّٰهِ هٰذَا مِنْ فَضْلِ رَبّٖى</span>
 
@@ -346,15 +346,15 @@ Kardeşiniz Salahaddin
 
 ***
 
-[^Hâşiye1]: Bu şerh-i sadra münasebettar bir tevafuktur ki Üstadımdan anladım, yirmi beş senedir daima ve en mühim bir duası <span class="arabic" dir="rtl">اَللّٰهُمَّ اشْرَحْ صَدْرٖى لِلْاٖيمَانِ وَ الْاِسْلَامِ</span> münâcatı olmuş.
+[^hâşiye1]: Bu şerh-i sadra münasebettar bir tevafuktur ki Üstadımdan anladım, yirmi beş senedir daima ve en mühim bir duası <span class="arabic" dir="rtl">اَللّٰهُمَّ اشْرَحْ صَدْرٖى لِلْاٖيمَانِ وَ الْاِسْلَامِ</span> münâcatı olmuş.
 
-[^Hâşiye2]: Yani mübarek, tatlı meyveleri bulunan ağaçlara taş atanlar, akılları varsa tatsınlar ve yesinler; çürütmeye lâyık ve kabil değiller, demektir.
+[^hâşiye2]: Yani mübarek, tatlı meyveleri bulunan ağaçlara taş atanlar, akılları varsa tatsınlar ve yesinler; çürütmeye lâyık ve kabil değiller, demektir.
 
 Feyzi
 
-[^Hâşiye3]: “Beraber” kelimesi Şuâ’da noksan olduğu için şüphe edilmiş.
+[^hâşiye3]: “Beraber” kelimesi Şuâ’da noksan olduğu için şüphe edilmiş.
 
-[^Hâşiye4]: Kardeşimiz Salahaddin burada, Isparta’da olduğu gibi bunlara da Risale-i Nur’u aramak için evlerini taharri edip sıkıştırdıkları zaman, hıfz-ı İlahî ile bir şey bulamadıkları zamanki hâdiseye işaret ediyor.
+[^hâşiye4]: Kardeşimiz Salahaddin burada, Isparta’da olduğu gibi bunlara da Risale-i Nur’u aramak için evlerini taharri edip sıkıştırdıkları zaman, hıfz-ı İlahî ile bir şey bulamadıkları zamanki hâdiseye işaret ediyor.
 
 Feyzi
 

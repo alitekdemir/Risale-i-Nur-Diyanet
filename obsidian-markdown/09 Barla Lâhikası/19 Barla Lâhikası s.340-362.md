@@ -94,7 +94,7 @@ Aziz, sıddık, müdakkik kardeşim Re’fet Bey!
 
 **Sâniyen:** Hikmetü’l-İstiaze’nin, Besmele-i şerifenin sırlarına dair senin ve Şerif Efendi’nin ifadeleriniz kısadır. Tenkit mi, takdir mi anlaşılmıyor. Zaten mükerreren demiştim: **Herkes her risalenin her meselesini anlamasına muhtaç değil. Ne kadar anlarsa kâfidir.**
 
-**Sâlisen:** Âlem-i misal, âlem-i ervahla âlem-i şehadet ortasında bir berzahtır. Her ikisine birer vecihle benzer. Bir yüzü ona bakar, bir yüzü de diğerine bakar. Mesela, âyinedeki senin misalin sureten senin cismine benzer. Maddeten senin ruhun gibi latîftir. O âlem-i misal; âlem-i ervah, âlem-i şehadet kadar vücudu kat’îdir. [^Hâşiye1] Acayip ve garaibin meşheridir, ehl-i velayetin tenezzühgâhıdır.
+**Sâlisen:** Âlem-i misal, âlem-i ervahla âlem-i şehadet ortasında bir berzahtır. Her ikisine birer vecihle benzer. Bir yüzü ona bakar, bir yüzü de diğerine bakar. Mesela, âyinedeki senin misalin sureten senin cismine benzer. Maddeten senin ruhun gibi latîftir. O âlem-i misal; âlem-i ervah, âlem-i şehadet kadar vücudu kat’îdir. [^hâşiye1] Acayip ve garaibin meşheridir, ehl-i velayetin tenezzühgâhıdır.
 
 Küçük bir âlem olan insanda kuvve-i hayaliye olduğu gibi büyük bir insan olan âlemde dahi bir âlem-i misal var ki o vazifeyi görüyor ve hakikatlidir. Kuvve-i hâfıza Levh-i Mahfuz’dan haber verdiği gibi kuvve-i hayaliye dahi âlem-i misalden haber verir.
 
@@ -351,7 +351,7 @@ Bu taharriyatta o kadar ileri gidildi ki altı ay evvel oturduğum köşkten şi
 
 Dokuz seneden beri bu memlekette ve bu kadar dostlarımla temas ettiğim halde, şimdiye kadar hiçbir cürüm bana isnad edilmedi ve hiçbir vukuatım da olmadı ve hayatımda dâî-i şüphe hiçbir emare vücud bulmadı ve menfîliğim de sebepsiz ve ancak ihtiyat ve tevehhüm yüzünden olmakla inziva ettiğim bir mağaradan çıkartılarak menfîlerle birlikte nefyedildim.
 
-Bu müddet zarfında siyasetle ve dünya ile alâkam olmadığına, bu memleketteki dokuz senelik tarz-ı hayatımın şehadetiyle beraber, risalelerimde gerek emniyet dairesi ve gerekse hükûmet dairesi dâî-i şüphe bir şey bulamadıklarıdır [^Hâşiye2]. Eğer bir cürmüm varsa dokuz seneden beri mütemadiyen dikkat ettikleri halde, cürmümü görmeyen veya gösteremeyenler, şimdi göstermeye mecburdurlar.
+Bu müddet zarfında siyasetle ve dünya ile alâkam olmadığına, bu memleketteki dokuz senelik tarz-ı hayatımın şehadetiyle beraber, risalelerimde gerek emniyet dairesi ve gerekse hükûmet dairesi dâî-i şüphe bir şey bulamadıklarıdır [^hâşiye2]. Eğer bir cürmüm varsa dokuz seneden beri mütemadiyen dikkat ettikleri halde, cürmümü görmeyen veya gösteremeyenler, şimdi göstermeye mecburdurlar.
 
 Şu kitap zayiatımdan lâekall şahsî iki bin lira zararım var. Çünkü bunların hiçbirisinin başka bir nüshasını bende bırakmadılar. Vaktiyle tabetmek için yalnız İşaratü’l-İ’caz tefsirine iki yüz elli lira verdim. Arabî mecmuası üç yüz lira. Ve Yirmi Dokuzuncu Söz ve On Dokuzuncu Sözlerde o sırr-ı azîme hiçbir âlim ve hiçbir edib yoktur ki “Bin lira kıymetindedir.” demesin.
 
@@ -367,9 +367,9 @@ Said Nursî
 
 ***
 
-[^Hâşiye1]: Bence âlem-i misalin vücudu meşhuddur. Âlem-i şehadet gibi tahakkuku bedihîdir. Hattâ rüya-yı sadıka ve keşf-i sadık ve şeffaf şeylerdeki temessülat, bu âlemden o âleme karşı açılan üç penceredir. Avama ve herkese o âlemin bazı köşelerini gösterir.
+[^hâşiye1]: Bence âlem-i misalin vücudu meşhuddur. Âlem-i şehadet gibi tahakkuku bedihîdir. Hattâ rüya-yı sadıka ve keşf-i sadık ve şeffaf şeylerdeki temessülat, bu âlemden o âleme karşı açılan üç penceredir. Avama ve herkese o âlemin bazı köşelerini gösterir.
 
-[^Hâşiye2]: Cây-ı dikkattir ki sekiz dokuz seneden beri zulüm ve tazyikat altında gizlemeye mecbur olduğum en eski ve en mahrem evrakları âni olarak taharri edip hiçbir şey bırakmayarak alındığı halde, mûcib-i telaş ve dâî-i endişe ve medar-ı hicab ve hacalet bir şey bulunmaması; garazkâr, sû-i zanlı ehl-i dünyanın ona karşı ettikleri haksız tazyikat ve tarassud ne kadar çirkin ve hata olduğunu gösteriyor.
+[^hâşiye2]: Cây-ı dikkattir ki sekiz dokuz seneden beri zulüm ve tazyikat altında gizlemeye mecbur olduğum en eski ve en mahrem evrakları âni olarak taharri edip hiçbir şey bırakmayarak alındığı halde, mûcib-i telaş ve dâî-i endişe ve medar-ı hicab ve hacalet bir şey bulunmaması; garazkâr, sû-i zanlı ehl-i dünyanın ona karşı ettikleri haksız tazyikat ve tarassud ne kadar çirkin ve hata olduğunu gösteriyor.
 
 Acaba onu ittiham eden ve kendini vatana ve millete sadık tevehhüm eden ehl-i dünyanın en büyük memurundan en küçüğüne kadar, değil sekiz dokuz sene, belki sekiz dokuz ay zarfında en mahrem ve en gizli evrakı meydana atılıp tetkik edilse ona telaş verecek ve utandıracak sekiz dokuz madde çıkmaz mı?
 

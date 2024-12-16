@@ -66,7 +66,7 @@ Aziz, sıddık kardeşlerim!
 
 Ecel muayyen olmadığı için benim şiddetli hastalığım her vakit gelebilir diye evvelce yazdığım vasiyetnamelerimi teyiden bu vasiyetname de şiddetli, dâhilî bir hastalığımdan ihtar edildi. Ben de beyan ediyorum ki:
 
-Benim vefatımdan sonra, benim emaneten elimde bulunan Risale-i Nur sermayesi hem mu’cizatlı Kur’an’ımızı tabettirmek için Eskişehir’de muhafaza edilen sermaye, o Kur’an’ın tevafukla ve fotoğrafla tabına ait. [^Hâşiye1] Yanımızdaki sermaye ise Risale-i Nur’un sermayesidir. O sermaye Cenab-ı Erhamü’r-Râhimîn’e hadsiz şükür olsun ki yetmiş küsur sene evvel o zamanın âdetine muhalif olarak kendim fakirliğimle beraber onların tayinlerini verdiğime bir ihsan ve lütf-u Rabbanî olarak o zamandan elli altmış sene sonra Cenab-ı Erhamü’r-Râhimîn o örfî âdete muhalif kaidemi manevî ve geniş Medresetü’z-Zehranın hâlis ve nafakasını temin edemeyen ve zamanını Risale-i Nur’a sarf eden talebelerine aynen ve eski zaman ihsan-ı İlahî neticesi olarak şimdi yanımızdaki sermaye onların tayinleridir ve tayinlerine sarf edilecek ve kaç senedir benim yaptığım gibi benim manevî evlatlarım, benim vereselerim aynen öyle yapmak vasiyet ediyorum.
+Benim vefatımdan sonra, benim emaneten elimde bulunan Risale-i Nur sermayesi hem mu’cizatlı Kur’an’ımızı tabettirmek için Eskişehir’de muhafaza edilen sermaye, o Kur’an’ın tevafukla ve fotoğrafla tabına ait. [^hâşiye1] Yanımızdaki sermaye ise Risale-i Nur’un sermayesidir. O sermaye Cenab-ı Erhamü’r-Râhimîn’e hadsiz şükür olsun ki yetmiş küsur sene evvel o zamanın âdetine muhalif olarak kendim fakirliğimle beraber onların tayinlerini verdiğime bir ihsan ve lütf-u Rabbanî olarak o zamandan elli altmış sene sonra Cenab-ı Erhamü’r-Râhimîn o örfî âdete muhalif kaidemi manevî ve geniş Medresetü’z-Zehranın hâlis ve nafakasını temin edemeyen ve zamanını Risale-i Nur’a sarf eden talebelerine aynen ve eski zaman ihsan-ı İlahî neticesi olarak şimdi yanımızdaki sermaye onların tayinleridir ve tayinlerine sarf edilecek ve kaç senedir benim yaptığım gibi benim manevî evlatlarım, benim vereselerim aynen öyle yapmak vasiyet ediyorum.
 
 İnşâallah tam Risale-i Nur intişara başlasa o sermaye şimdiki fedakâr, kendini Risale-i Nur’a vakfeden şakirdlerden çok ziyade fedakâr talebelere kâfi gelecek ve manevî Medresetü’z-Zehra ve medrese-i Nuriye çok yerlerde açılacak. Benim bedelime bu hakikate, bu hale manevî evlatlarım ve has ve fedakâr hizmetkârlarım ve Nur’a kendini vakfeden kahraman ve herkesçe malûm kardeşlerim bu vasiyetin tatbikine yardımlarını rica ediyorum. Risale-i Nur itibarıyla bana hiç ihtiyaç kalmadığı için âlem-i berzaha gitmek benim için medar-ı sürurdur. Siz mahzun olmayınız. Belki beni tebrik ediniz ki zahmetten rahmete gidiyorum.
 
@@ -269,5 +269,5 @@ Said Nursî
 
 ***
 
-[^Hâşiye1]: On bin liradır.
+[^hâşiye1]: On bin liradır.
 

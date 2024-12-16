@@ -62,7 +62,7 @@ Madem her insan gayet şiddetli bir surette uzun bir ömür ister, bekaya âşı
 
 Bu hakikate işareten Leyle-i Kadir gibi bir tek gece, seksen küsur seneden ibaret olan bin ay hükmünde olduğunu nass-ı Kur’an gösteriyor. Hem bu hakikate işaret eden ehl-i velayet ve hakikat beyninde bir düstur-u muhakkak olan “bast-ı zaman” sırrıyla çok seneler hükmünde olan birkaç dakikalık zaman-ı mi’rac, bu hakikatin vücudunu ispat eder ve bilfiil vukuunu gösteriyor. Mi’racın birkaç saat müddeti, binler seneler hükmünde vüs’ati ve ihatası ve uzunluğu vardır. Çünkü o mi’rac yoluyla, beka âlemine girdi. Beka âleminin birkaç dakikası, şu dünyanın binler senesini tazammun etmiştir.
 
-Hem şu hakikate bina edilen beyne’l-evliya kesretle vuku bulmuş olan “bast-ı zaman” hâdiseleridir. Bazı evliya bir dakikada, bir günlük işi görmüş. Bazıları bir saatte, bir sene vazifesini yapmış. Bazıları bir dakikada, bir hatme-i Kur’aniyeyi okumuş olduklarını rivayet edip ihbar ediyorlar. Böyle ehl-i hak ve sıdk, bilerek kizbe elbette tenezzül etmezler. Hem o derece hadsiz ve kesretli bir tevatürle “bast-ı zaman” [^Hâşiye1] hakikatini aynen müşahede ettikleri medar-ı şüphe olamaz.
+Hem şu hakikate bina edilen beyne’l-evliya kesretle vuku bulmuş olan “bast-ı zaman” hâdiseleridir. Bazı evliya bir dakikada, bir günlük işi görmüş. Bazıları bir saatte, bir sene vazifesini yapmış. Bazıları bir dakikada, bir hatme-i Kur’aniyeyi okumuş olduklarını rivayet edip ihbar ediyorlar. Böyle ehl-i hak ve sıdk, bilerek kizbe elbette tenezzül etmezler. Hem o derece hadsiz ve kesretli bir tevatürle “bast-ı zaman” [^hâşiye1] hakikatini aynen müşahede ettikleri medar-ı şüphe olamaz.
 
 Şu “bast-ı zaman” herkesçe musaddak bir nev’i, rüyada görünüyor. Bazen bir dakikada insanın gördüğü rüyayı, geçirdiği ahvali, konuştuğu sözleri, gördüğü lezzetleri veya çektiği elemleri görmek için yakaza âleminde bir gün, belki günler lâzımdır.
 
@@ -74,5 +74,5 @@ Hem şu hakikate bina edilen beyne’l-evliya kesretle vuku bulmuş olan “bast
 
 ***
 
-[^Hâşiye1]: <span class="arabic" dir="rtl">قَالَ قَٓائِلٌ مِنْهُمْ كَمْ لَبِثْتُمْ قَالُوا لَبِثْنَا يَوْمًا اَوْ بَعْضَ يَوْمٍ</span> âyetiyle <span class="arabic" dir="rtl">وَلَبِثُوا فٖى كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنٖينَ وَازْدَادُوا تِسْعًا</span> âyeti “tayy-ı zaman”ı gösterdiği gibi <span class="arabic" dir="rtl">وَاِنَّ يَوْمًا عِنْدَ رَبِّكَ كَاَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ</span> âyeti de “bast-ı zaman”ı gösterir.
+[^hâşiye1]: <span class="arabic" dir="rtl">قَالَ قَٓائِلٌ مِنْهُمْ كَمْ لَبِثْتُمْ قَالُوا لَبِثْنَا يَوْمًا اَوْ بَعْضَ يَوْمٍ</span> âyetiyle <span class="arabic" dir="rtl">وَلَبِثُوا فٖى كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنٖينَ وَازْدَادُوا تِسْعًا</span> âyeti “tayy-ı zaman”ı gösterdiği gibi <span class="arabic" dir="rtl">وَاِنَّ يَوْمًا عِنْدَ رَبِّكَ كَاَلْفِ سَنَةٍ مِمَّا تَعُدُّونَ</span> âyeti de “bast-ı zaman”ı gösterir.
 

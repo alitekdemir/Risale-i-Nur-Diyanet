@@ -18,7 +18,7 @@ Dünyaya karışmak arzusu bizde bulunsaydı böyle sinek vızıltısı gibi de�
 
 Divan-ı Harb-i Örfîde ve Mustafa Kemal’in hiddetine karşı divan-ı riyasette, şiddetli ve dokunaklı müdafaa eden bir adam, on sekiz sene zarfında kimseye sezdirmeden dünya entrikalarını çeviriyor diye onu ittiham eden, elbette bir garazla eder. Bu meselede benim şahsımın veya bazı kardeşlerimin kusuruyla **Risale-i Nur’a hücum edilmez. O, doğrudan doğruya Kur’an’a bağlanmış ve Kur’an dahi arş-ı a’zam ile bağlıdır. Kimin haddi var, elini oraya uzatsın, o kuvvetli ipleri çözsün.**
 
-Hem bu memlekete maddî ve manevî bereketi ve fevkalâde hizmeti, otuz üç âyât-ı Kur’aniyenin işaratıyla ve İmam-ı Ali radıyallahu anhın üç keramat-ı gaybiyesiyle ve Gavs-ı A’zam’ın kat’î ihbarıyla tahakkuk etmiş olan Risale-i Nur; bizim âdi ve şahsî kusurumuzdan mes’ul olmaz ve olamaz ve olmamalı. Yoksa bu memlekete hem maddî hem manevî telafi edilmeyecek derecede zarar olacak. [^Hâşiye1]
+Hem bu memlekete maddî ve manevî bereketi ve fevkalâde hizmeti, otuz üç âyât-ı Kur’aniyenin işaratıyla ve İmam-ı Ali radıyallahu anhın üç keramat-ı gaybiyesiyle ve Gavs-ı A’zam’ın kat’î ihbarıyla tahakkuk etmiş olan Risale-i Nur; bizim âdi ve şahsî kusurumuzdan mes’ul olmaz ve olamaz ve olmamalı. Yoksa bu memlekete hem maddî hem manevî telafi edilmeyecek derecede zarar olacak. [^hâşiye1]
 
 Bazı zındıkların şeytanetiyle Risale-i Nur’a karşı çevrilen planlar ve hücumlar inşâallah bozulacaklar, onun şakirdleri başkalara kıyas edilmez, dağıttırılmaz, vazgeçirilmez, Cenab-ı Hakk’ın inayetiyle mağlup edilmezler. Eğer maddî müdafaadan Kur’an men’etmeseydi, bu milletin can damarı hükmünde umumun teveccühünü kazanan ve her tarafta bulunan o şakirdler, Şeyh Said ve Menemen hâdiseleri gibi cüz’î ve neticesiz hâdiselerle bulaşmazlar. Allah etmesin, eğer mecburiyet derecesinde onlara zulmedilse ve Risale-i Nur’a hücum edilse elbette hükûmeti iğfal eden zındıklar ve münafıklar bin derece pişman olacaklar.
 
@@ -62,7 +62,7 @@ Hem Ankara’da Hükûmetin riyasetinde bulunan birisine (Mustafa Kemal’e) sö
 
 Hem biz, hükûmet-i cumhuriye ve esaslarından en ziyade kendimize medar-ı istinad ve onun ile kendimizi müdafaa ettiğimiz hürriyet-i vicdan esası, bizim aleyhimizde medar-ı mes’uliyet tutulmuş; güya biz, hürriyet-i vicdan esasına muarız gidiyoruz.
 
-Hem medeniyetin seyyiatını ve kusurlarını tenkit etmesinden hatır ve hayalime gelmeyen bir şeyi zabıtnamelerde isnad ediyor: Güya ben; radyo [^Hâşiye2], tayyare ve şimendiferin kullanılmasını kabul etmiyorum diye terakkiyat-ı hazıra aleyhinde bulunduğumla mes’ul ediyor.
+Hem medeniyetin seyyiatını ve kusurlarını tenkit etmesinden hatır ve hayalime gelmeyen bir şeyi zabıtnamelerde isnad ediyor: Güya ben; radyo [^hâşiye2], tayyare ve şimendiferin kullanılmasını kabul etmiyorum diye terakkiyat-ı hazıra aleyhinde bulunduğumla mes’ul ediyor.
 
 İşte bu numunelerine kıyasen ne kadar hilaf-ı adalet bir muamele olduğunu, inşâallah insaflı, adaletli olan Denizli Müddeiumumîsi ve Mahkemesi göstererek o zabıtnamelerin evhamlarına ehemmiyet vermeyecekler.
 
@@ -327,7 +327,7 @@ Hem madem her şey geçici ve fânidir ve ölüm ölmüyor ve kabir kapısı kap
 
 ***
 
-[^Hâşiye1]: Bu istida, Kastamonu zelzelesinden yirmi gün evvel yazılmıştı. Risale-i Nur bereketiyle her vilayetten ziyade âfattan mahfuz kalmıştı. Şimdi âfat başladı ve davamızı tasdik etti.
+[^hâşiye1]: Bu istida, Kastamonu zelzelesinden yirmi gün evvel yazılmıştı. Risale-i Nur bereketiyle her vilayetten ziyade âfattan mahfuz kalmıştı. Şimdi âfat başladı ve davamızı tasdik etti.
 
-[^Hâşiye2]: Radyo gibi azîm bir nimet-i İlahiyeye karşı azîm bir şükür olmak için: “Radyo Kur’an’ı okuyup bütün zemin yüzündeki insanlara dinlettirip küre-i havanın bir hâfız-ı Kur’an olmasıdır.” demiştim.
+[^hâşiye2]: Radyo gibi azîm bir nimet-i İlahiyeye karşı azîm bir şükür olmak için: “Radyo Kur’an’ı okuyup bütün zemin yüzündeki insanlara dinlettirip küre-i havanın bir hâfız-ı Kur’an olmasıdır.” demiştim.
 

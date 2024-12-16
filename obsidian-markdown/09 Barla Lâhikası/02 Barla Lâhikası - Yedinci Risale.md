@@ -89,7 +89,7 @@ Hem sırr-ı ehadiyet ile şeriksiz vahdet-i rububiyeti hem nihayetsiz kurbiyet-
 
 Hem hakaik-i imaniye ve Kur’aniyede öyle bir genişlik var ki en büyük zekâ-i beşerî ihata edemediği halde; benim gibi zihni müşevveş, vaziyeti perişan, müracaat edilecek kitap yokken, sıkıntılı ve süratle yazan bir adamda, o hakaikin ekseriyet-i mutlakası dekaikiyle zuhuru; doğrudan doğruya Kur’an-ı Hakîm’in i’caz-ı manevîsinin eseri ve inayet-i Rabbaniyenin bir cilvesi ve kuvvetli bir işaret-i gaybiyedir.
 
-**Dördüncü İşaret:** Elli altmış risaleler [^Hâşiye1] öyle bir tarzda ihsan edilmiş ki değil benim gibi az düşünen ve zuhurata tebaiyet eden ve tetkike vakit bulamayan bir insanın; belki büyük zekâlardan mürekkeb bir ehl-i tetkikin sa’y ü gayretiyle yapılmayan bir tarzda telifleri, doğrudan doğruya bir eser-i inayet olduklarını gösteriyor. Çünkü bütün bu risalelerde, bütün derin hakaik, temsilat vasıtasıyla, en âmî ve ümmi olanlara kadar ders veriliyor. Halbuki o hakaikin çoğunu büyük âlimler “Tefhim edilmez.” deyip değil avama, belki havassa da bildiremiyorlar.
+**Dördüncü İşaret:** Elli altmış risaleler [^hâşiye1] öyle bir tarzda ihsan edilmiş ki değil benim gibi az düşünen ve zuhurata tebaiyet eden ve tetkike vakit bulamayan bir insanın; belki büyük zekâlardan mürekkeb bir ehl-i tetkikin sa’y ü gayretiyle yapılmayan bir tarzda telifleri, doğrudan doğruya bir eser-i inayet olduklarını gösteriyor. Çünkü bütün bu risalelerde, bütün derin hakaik, temsilat vasıtasıyla, en âmî ve ümmi olanlara kadar ders veriliyor. Halbuki o hakaikin çoğunu büyük âlimler “Tefhim edilmez.” deyip değil avama, belki havassa da bildiremiyorlar.
 
 İşte en uzak hakikatleri, en yakın bir tarzda, en âmî bir adama ders verecek derecede; benim gibi Türkçesi az, sözleri muğlak, çoğu anlaşılmaz ve zahir hakikatleri dahi müşkülleştiriyor diye eskiden beri iştihar bulmuş ve eski eserleri o sû-i iştiharı tasdik etmiş bir şahsın elinde bu hârika teshilat ve suhulet-i beyan; elbette bilâ-şüphe bir eser-i inayettir ve onun hüneri olamaz ve Kur’an-ı Kerîm’in i’caz-ı manevîsinin bir cilvesidir ve temsilat-ı Kur’aniyenin bir temessülüdür ve in’ikasıdır.
 
@@ -142,5 +142,5 @@ Hem sırr-ı temsil penceresiyle; hakaik-i gaybiyeye, esasat-ı İslâmiyeye şu
 
 ***
 
-[^Hâşiye1]: Şimdi yüz otuzdur.
+[^hâşiye1]: Şimdi yüz otuzdur.
 

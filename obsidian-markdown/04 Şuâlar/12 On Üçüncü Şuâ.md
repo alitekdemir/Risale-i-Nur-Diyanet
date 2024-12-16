@@ -265,7 +265,7 @@ Aziz, sıddık kardeşlerim!
 
 Bütün ruh ve kalp ve aklımla sizin leyali-i aşerenizi tebrik ederiz. Bizim şirket-i maneviyemize büyük kazançları edeceklerini rahmet-i İlahiyeden niyaz ederiz. Bu gece rüyamda yanınıza gelmiş, imam olarak namaz kılacağım halinde uyandım. Benim tecrübemle rüyanın tabiri çıkacağı zamanda, Sava ve Homa kahramanlarından iki kardeşimiz rüyayı tabir etmek için umumunuz namına geldiler. Ben de umumunuzu görmek gibi mesrur oldum.
 
-Kardeşlerim! Gerçi bu vaziyet hem muvafığa ve bir kısım memurlara Risale-i Nur’a karşı bir çekinmek, bir ürkmek vermiş fakat bütün muhaliflerde ve dindarlarda ve alâkadar memurlarda bir dikkat, bir iştiyak uyandırıyor. **Merak etmeyiniz, o nurlar parlayacaklar.** [^Hâşiye1]
+Kardeşlerim! Gerçi bu vaziyet hem muvafığa ve bir kısım memurlara Risale-i Nur’a karşı bir çekinmek, bir ürkmek vermiş fakat bütün muhaliflerde ve dindarlarda ve alâkadar memurlarda bir dikkat, bir iştiyak uyandırıyor. **Merak etmeyiniz, o nurlar parlayacaklar.** [^hâşiye1]
 
 **Said Nursî**
 
@@ -485,7 +485,7 @@ Eski Said’in matbu “Lemaat” başındaki acib imzası az tağyir ile şimdi
 
 <p class="arabic" dir="rtl">اَلدَّاعٖى</p>
 
-*Yıkılmış bir mezarım ki yığılmıştır içinde Said’den altmış dokuz emvat bâ-âsam [^Hâşiye2] âlâma*
+*Yıkılmış bir mezarım ki yığılmıştır içinde Said’den altmış dokuz emvat bâ-âsam [^hâşiye2] âlâma*
 
 *Yetmişinci olmuştur o mezara bir mezar taşı, beraber ağlıyor hüsran-ı İslâm’a*
 
@@ -985,9 +985,9 @@ Ehl-i vukuf raporundan anlaşılıyor ki: Risale-i Nur, bize karşı bütün mua
 
 ***
 
-[^Hâşiye1]: Ey kardeş! Dikkat buyur. Denizli hapsinde, bütün esbab-ı âlem zahiren Üstadın aleyhinde, idam hükümleriyle mahkemeye verilmişken, Üstad diyor: “Merak etmeyiniz kardeşlerim, o Nurlar parlayacaklar.” Bu söz, bak nasıl tahakkuk etti.
+[^hâşiye1]: Ey kardeş! Dikkat buyur. Denizli hapsinde, bütün esbab-ı âlem zahiren Üstadın aleyhinde, idam hükümleriyle mahkemeye verilmişken, Üstad diyor: “Merak etmeyiniz kardeşlerim, o Nurlar parlayacaklar.” Bu söz, bak nasıl tahakkuk etti.
 
 Talebeleri
 
-[^Hâşiye2]: Günahlar demek.
+[^hâşiye2]: Günahlar demek.
 

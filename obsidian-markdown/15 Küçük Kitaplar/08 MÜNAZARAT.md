@@ -45,7 +45,7 @@ Hal aldatıyor… Aldanmayınız. İstikbal hesabına konuşuyor… Öyle dinley
 
 **C-** İslâmiyet güneş gibidir, üflemekle sönmez. Gündüz gibidir, göz yummakla gece olmaz. Gözünü kapayan, yalnız kendine gece yapar. Hem de mağlup bîçare bir reise yahut müdahin memurlara veyahut mantıksız bir kısım zabitlere itimat edilirse ve dinin himayesi onlara bırakılırsa mı daha iyidir, yoksa efkâr-ı âmme-i milletin arkasındaki hissiyat-ı İslâmiyenin madeni olan –herkesin kalbindeki şefkat-i imaniye olan– envar-ı İlahînin lemaatının içtimalarından ve hamiyet-i İslâmiyenin şerarat-ı neyyiranesinin imtizacından hasıl olan amud-u nuraninin ve o seyf-i elmasın hamiyetine bırakılırsa mı daha iyidir, siz muhakeme ediniz.
 
-Evet, şu amud-u nurani [^Hâşiye1] dinin himayetini; şehametinin başına, murakabenin gözüne, hamiyetinin omuzuna alacaktır. Görüyorsunuz ki lemaat-ı müteferrika tele’lüe başlamış. Yavaş yavaş incizab ile imtizaç edecektir. Fenn-i hikmette takarrur etmiştir ki: Hiss-i dinî, lâsiyyema (bâhusus) din-i hakk-ı fıtrînin sözü daha nâfiz, hükmü daha âlî, tesiri daha şedittir.
+Evet, şu amud-u nurani [^hâşiye1] dinin himayetini; şehametinin başına, murakabenin gözüne, hamiyetinin omuzuna alacaktır. Görüyorsunuz ki lemaat-ı müteferrika tele’lüe başlamış. Yavaş yavaş incizab ile imtizaç edecektir. Fenn-i hikmette takarrur etmiştir ki: Hiss-i dinî, lâsiyyema (bâhusus) din-i hakk-ı fıtrînin sözü daha nâfiz, hükmü daha âlî, tesiri daha şedittir.
 
 **Elhasıl:** Başkasına itimat etmeyen, nefsiyle teşebbüs eder. Size bir misal söyleyeceğim: Siz göçersiniz. Göçerin malı koyundur, o işi bilirsiniz. Şimdi her biriniz, bazı koyunları bir çobanın uhdesine vermişsiniz. Halbuki çoban tembel ve muavini kayıtsız, köpekleri değersizdir. Tamamıyla ona itimat etseniz, rahatla evlerinizde yatsanız, bîçare koyunları müstebit kurtlar ve hırsızlar ve belalar içinde bıraksanız daha mı iyidir; yoksa onun adem-i kifayetini bilmekle nevm-i gafleti terk edip hanesinden her biri bir kahraman gibi koşsun, koyunların etrafında halka tutup bir çobana bedel bin muhafız olmakla hiçbir kurt ve hırsız cesaret etmesin daha mı iyidir? Acaba Mamhuran hırsızlarını tövbekâr ve sofi eden şu sır değil midir? Evet, ruhları ağlamak istedi, biri bahane oldu ağladılar.
 
@@ -61,7 +61,7 @@ Padişahların padişahı olan Sultan-ı Ezelî, Kur’an denilen musika-i İlah
 
 **S-** Efkârı teşviş eden, hürriyet ve meşrutiyeti takdir etmeyen kimlerdir?
 
-**C-** Cehalet ağanın, inat efendinin, garaz beyin, intikam paşanın, taklit hazretlerinin, mösyö gevezeliğin taht-ı riyasetlerinde, insan milletinden menba-ı saadetimiz olan meşvereti inciten bir cemiyettir. [^Hâşiye2]
+**C-** Cehalet ağanın, inat efendinin, garaz beyin, intikam paşanın, taklit hazretlerinin, mösyö gevezeliğin taht-ı riyasetlerinde, insan milletinden menba-ı saadetimiz olan meşvereti inciten bir cemiyettir. [^hâşiye2]
 
 Benî-beşerde ona intisap eden; bir dirhem zararını bin lira milletin menfaatine feda etmeyen; hem de menfaatini ızrar-ı nâsta gören; hem de muvazenesiz, muhakemesiz mana veren; hem de meyl-i intikam ve garaz-ı şahsîsini feda etmediği halde, mağrurane millete ruhunu feda etmek davasında bulunan; hem de beylik veya tavaif-i mülûk mukaddimesi olan muhtariyet veya istibdad-ı mutlak manasıyla bir cumhuriyet gibi gayr-ı makul fikirlerde bulunan; hem de zulüm görmüş, kin bağlamış, hürriyet ve meşrutiyetin birinci ihsanı olan af ve istirahat-i umumiyeyi fikr-i intikamına yediremediğinden herkesin âsabına dokundurmakla tâ heyecana gelip terbiye görmekle teşeffi isteyenlerdir.
 
@@ -77,7 +77,7 @@ Benî-beşerde ona intisap eden; bir dirhem zararını bin lira milletin menfaat
 
 **C-** Çendan cahilsiniz fakat âkılsınız. Hanginizle zebib yani üzümü paylaşsam, zekâvetiyle bana hile edebilir. Demek cehliniz özür değil. İşte müştebih ağaçları gösteren, semereleridir. Öyle ise benim ve onların fikirlerimizin neticelerine bakınız. İşte birisinde istirahat ve itaattir. Ötekisinde ihtilaf ve zarar saklanmıştır.
 
-Size bir misal daha söyleyeceğim: Şu sahrada bir nâr görünür. Ben derim nurdur; nâr olsa da eski nârdan kalma zayıf, yukarı tabakasıdır. Geliniz etrafına halka tutup temaşa edelim. İstifaza edip tâ tabaka-i nâriye yırtılsın, istifade eyleyelim. Eğer dediğim gibi nur ise zaten istifade edeceğiz. Eğer onların dedikleri gibi nâr olsa karıştırmadık ki bizi yaksın. Onlar diyorlar ki: “Ateş sûzandır.” Eğer nur olursa kalp ve gözlerini kör eder. Eğer nâr dedikleri nur-u saadet [^Hâşiye3] dünyanın hangi tarafına çıkmış ise milyonlarla insanın tulum gibi kan suyu üzerine boşaltılmış ise söndürülmemiş. Hattâ bu iki senedir mülkümüzde iki üç defa söndürülmesine teşebbüs edildi. Fakat söndürmek isteyenler, kendileri söndüler. [^Hâşiye4] [^Hâşiye5]
+Size bir misal daha söyleyeceğim: Şu sahrada bir nâr görünür. Ben derim nurdur; nâr olsa da eski nârdan kalma zayıf, yukarı tabakasıdır. Geliniz etrafına halka tutup temaşa edelim. İstifaza edip tâ tabaka-i nâriye yırtılsın, istifade eyleyelim. Eğer dediğim gibi nur ise zaten istifade edeceğiz. Eğer onların dedikleri gibi nâr olsa karıştırmadık ki bizi yaksın. Onlar diyorlar ki: “Ateş sûzandır.” Eğer nur olursa kalp ve gözlerini kör eder. Eğer nâr dedikleri nur-u saadet [^hâşiye3] dünyanın hangi tarafına çıkmış ise milyonlarla insanın tulum gibi kan suyu üzerine boşaltılmış ise söndürülmemiş. Hattâ bu iki senedir mülkümüzde iki üç defa söndürülmesine teşebbüs edildi. Fakat söndürmek isteyenler, kendileri söndüler. [^hâşiye4] [^hâşiye5]
 
 **S-** Sen dedin ateş değil, şimdi ateş nazarıyla bakıyorsun.
 
@@ -91,7 +91,7 @@ Size bir misal daha söyleyeceğim: Şu sahrada bir nâr görünür. Ben derim n
 
 **C-** Muhali talep etmek, kendine fenalık etmektir.
 
-Zerratı günahkârlardan mürekkeb bir hükûmet, tamamıyla masum olamaz. Demek nokta-i nazar, hükûmetin hasenatı seyyiatına tereccuhudur. Yoksa seyyiesiz hükûmet muhal-i âdidir. Ben öyle adamlara, anarşist nazarıyla bakıyorum. Zira onlardan birisi –Allah etmesin– bin sene yaşayacak olsa âdeta mümkün hükûmetin hangi suretini görse hülya ile yine razı olmayacak. Şu hülyanın neticesi olan meylü’t-tahrip ile o sureti bozmaya çalışacak. [^Hâşiye6] Şu halde böylelerin fena zannettikleri Jön Türkler nazarlarında dahi mel’un, anarşist ve iğtişaşçı fırkasından addolunurlar. Meslekleri ihtilal ve fesattır.
+Zerratı günahkârlardan mürekkeb bir hükûmet, tamamıyla masum olamaz. Demek nokta-i nazar, hükûmetin hasenatı seyyiatına tereccuhudur. Yoksa seyyiesiz hükûmet muhal-i âdidir. Ben öyle adamlara, anarşist nazarıyla bakıyorum. Zira onlardan birisi –Allah etmesin– bin sene yaşayacak olsa âdeta mümkün hükûmetin hangi suretini görse hülya ile yine razı olmayacak. Şu hülyanın neticesi olan meylü’t-tahrip ile o sureti bozmaya çalışacak. [^hâşiye6] Şu halde böylelerin fena zannettikleri Jön Türkler nazarlarında dahi mel’un, anarşist ve iğtişaşçı fırkasından addolunurlar. Meslekleri ihtilal ve fesattır.
 
 **S-** Belki onlar eski hali istiyorlar?
 
@@ -105,7 +105,7 @@ Kendisi İslâm, millet-i hâkimesi İslâm, üssü’l-esas-ı siyaseti de şu 
 
 Yağmurun kataratı, nurun lemaatı dağınık ve yayılmış kaldıkça çabuk kurur, çabuk söner. Fakat sönmemek ve mahvolmamak için Cenab-ı Feyyaz-ı Mutlak bize <span class="arabic" dir="rtl">لَا تَتَفَرَّقُوا</span> ve <span class="arabic" dir="rtl">لَا تَقْنَطُوا</span> ile ezel canibinden nida ediyor. Evet, şeş cihetten nağme-i <span class="arabic" dir="rtl">لَا تَقْنَطُوا</span> eyler hurûş.
 
-Evet, zaruret ve incizab ve temayül ve tecarüb ve tecavüb ve tevatür; o katarat ve lemaatı musafaha ettirerek, ortalarındaki mesafeyi tayyedip bir havz-ı âb-ı hayatı ve dünyayı ışıklandıracak bir elektrik-i nevvareyi teşkil edecektir. Zira kemalin cemali dindir. Hem din; saadetin ziyasıdır, hissin ulviyetidir, vicdanın selâmetidir. [^Hâşiye7]
+Evet, zaruret ve incizab ve temayül ve tecarüb ve tecavüb ve tevatür; o katarat ve lemaatı musafaha ettirerek, ortalarındaki mesafeyi tayyedip bir havz-ı âb-ı hayatı ve dünyayı ışıklandıracak bir elektrik-i nevvareyi teşkil edecektir. Zira kemalin cemali dindir. Hem din; saadetin ziyasıdır, hissin ulviyetidir, vicdanın selâmetidir. [^hâşiye7]
 
 **S-** Şimdi hürriyet bahsini sual edeceğiz. Nedir şu hürriyet ki o kadar tevilat onda birbiriyle çekişiyorlar? Ve hakkında acib garib rüyalar görülür?
 
@@ -119,7 +119,7 @@ Hürriyet-i umumî, efradın zerrat-ı hürriyatının muhassalıdır. Hürriyet
 
 <p class="arabic" dir="rtl">عَلٰى اَنَّ كَمَالَ الْحُرِّيَّةِ اَنْ لَا يَتَفَرْعَنْ وَ اَنْ لَا يَسْتَهْزِئَ بِحُرِّيَّةِ غَيْرِهٖ اِنَّ الْمُرَادَ حَقٌّ لٰكِنَّ الْمُجَاهَدَةَ لَيْسَتْ فٖى سَبٖيلِهَا</p>
 
-[^Hâşiye8]
+[^hâşiye8]
 
 **S-** Bazı nâs, senin gibi mana vermiyorlar. Hem de bazı Jön Türklerin a’mal ve etvarı pis tefsir ediliyor. Zira bazı ramazanı yer, rakı içer, namazı terk eder. Böyle, Allah’ın emrinde hıyanet eden, nasıl millete sadakat edecektir?
 
@@ -129,7 +129,7 @@ Ey Türkler ve Kürtler! İnsaf ediniz. Bir râfızî bir hadîse yanlış mana 
 
 Belki hürriyet budur ki: Kanun-u adalet ve te’dibden başka, hiç kimse kimseye tahakküm etmesin. Herkesin hukuku mahfuz kalsın, herkes harekât-ı meşruasında şahane serbest olsun. <span class="arabic" dir="rtl">لَا يَجْعَلْ بَعْضُكُمْ بَعْضًا اَرْبَابًا مِنْ دُونِ اللّٰهِ</span> nehyinin sırrına mazhar olsun.
 
-**S-** [^Hâşiye9] Demek biz eskiden beri hürriyetimize mâlik idik. Hürriyetimiz tev’em olarak bizimle doğmuş. Öyle ise başkalar keyiflensin, bize ne?
+**S-** [^hâşiye9] Demek biz eskiden beri hürriyetimize mâlik idik. Hürriyetimiz tev’em olarak bizimle doğmuş. Öyle ise başkalar keyiflensin, bize ne?
 
 **C-** Evet, zaten o sevda-yı hürriyettir ki sizi tahammülsûz meşakkatlere mütehammil kılmış. Ve medeniyetin müşa’şa bu kadar mehasininden sizin anka-i meşrebaneniz sizi müstağni etmiştir. Fakat ey göçerler! Sizde olanı yarı hürriyettir. Diğer yarısı da başkasının hürriyetini bozmamaktır. Hem de kut-u lâyemut ve vahşet ile âlûde olan hürriyet, sizin dağ komşularınız olan hayvanlarda da bulunuyor. Vakıâ şu bîçare vahşi hayvanların bir lezzeti ve tesellisi varsa o da hürriyetleridir.
 
@@ -145,7 +145,7 @@ Hem de çok adamlar görmüşüm, Sultan Abdülhamid’e Ahrar’dan ziyade hüc
 
 Hem de yirmi senelik İslâmiyet’in bir fedaisi de demiştir:
 
-[^Hâşiye10] <span class="arabic" dir="rtl">حُرِّيَّةٌ عَطِيَّةُ الرَّحْمٰنِ اِذْ اَنَّهَا خَاصِّيَّةُ الْاٖيمَانِ</span>
+[^hâşiye10] <span class="arabic" dir="rtl">حُرِّيَّةٌ عَطِيَّةُ الرَّحْمٰنِ اِذْ اَنَّهَا خَاصِّيَّةُ الْاٖيمَانِ</span>
 
 **S-** Nasıl, hürriyet imanın hâssasıdır?
 
@@ -167,7 +167,7 @@ Hem de yirmi senelik İslâmiyet’in bir fedaisi de demiştir:
 
 İşte hürriyetimizin bir şubesi olan gayr-ı müslimlerin hürriyeti, bizim umum milletimizin hürriyetinin rüşvetidir. Ve o müthiş istibdad-ı manevînin dâfiidir. Ve o kayıtların anahtarıdır. Ve ecnebilerin, bizim dûşümüze çöktürdükleri müthiş istibdad-ı manevînin râfi’idir.
 
-Evet Osmanlıların hürriyeti; koca Asya tâli’inin keşşafıdır, İslâmiyet’in bahtının miftahıdır, ittihad-ı İslâm surunun temelidir. [^Hâşiye11]
+Evet Osmanlıların hürriyeti; koca Asya tâli’inin keşşafıdır, İslâmiyet’in bahtının miftahıdır, ittihad-ı İslâm surunun temelidir. [^hâşiye11]
 
 **S-** Nedir o üç kayıt ki istibdad-ı manevî onunla âlem-i İslâmiyet’i kaydetmiştir?
 
@@ -175,11 +175,11 @@ Evet Osmanlıların hürriyeti; koca Asya tâli’inin keşşafıdır, İslâmiy
 
 Binaenaleyh milletimiz ya üç veya bir buçuk kayıt ile mukayyeddir. Buna mukabil, bizim gayr-ı müslimlerin ayaklarında yalnız bir yalancı kaydımız vardı. Ona bedelen çok nazlarını çektiğimiz gibi onlar neslen ve serveten ziyadeleştiler; biz bir nevi hizmetkârlık olan memuriyet ve askerlik cihetiyle servet ve nesilce aşağıya düştük. Fikr-i milliyet, hürriyetin pederidir. Yine esir Ekrad ve Etrak idi.
 
-İşte o yalancı kaydı, üç veya on milyonun ayağında açıyoruz. Tâ ki üç kayıt ile mukayyed üç yüz milyon İslâm’ın hürriyetine meydan açılsın [^Hâşiye12]. Elbette âcilen (<span class="arabic" dir="rtl">عَاجِلًا</span>) üçü veren ve âcilen (<span class="arabic" dir="rtl">اٰجِلًا</span>) üç yüzünü kazanan, hasaret etmiyor.
+İşte o yalancı kaydı, üç veya on milyonun ayağında açıyoruz. Tâ ki üç kayıt ile mukayyed üç yüz milyon İslâm’ın hürriyetine meydan açılsın [^hâşiye12]. Elbette âcilen (<span class="arabic" dir="rtl">عَاجِلًا</span>) üçü veren ve âcilen (<span class="arabic" dir="rtl">اٰجِلًا</span>) üç yüzünü kazanan, hasaret etmiyor.
 
 <p class="arabic" dir="rtl">وَسَيَاْخُذُ الْاِسْلَامُ بِيَمٖينِهٖ مِنَ الْحُجَّةِ سَيْفًا صَارِمًا جَزَّارًا مُهَنَّدًا وَ بِشِمَالِهٖ مِنَ الْحُرِّيَّةِ لِجَامَ فَرَسٍ عَرَبِىٍّ مُشْرِقِ اللَّوْنِ فَالِقًا بِفَاْسِهٖ وَقَوْسِهٖ رُؤُسَ الْاِسْتِبْدَادِ الَّذٖى بِهِ انْدَرَسَ بَسَاتٖينُنَا</p>
 
-[^Hâşiye13]
+[^hâşiye13]
 
 **S-** Heyhat! Nasıl hürriyetimiz umum âlem-i İslâm’ın hürriyetinin mukaddimesi ve fecr-i sadıkı olur?
 
@@ -189,13 +189,13 @@ Binaenaleyh milletimiz ya üç veya bir buçuk kayıt ile mukayyeddir. Buna muka
 
 Zira hürriyet, milliyeti gösterdi. Milliyet sadefinde olan İslâmiyet’in cevher-i nuranisi tecelliye başladı. İslâmiyet’in ihtizazını ihbar etti ki: Her bir Müslim, cüz-ü fert gibi başıboş değildir. Belki her biri, mürekkebat-ı mütedâhile-i mütesaideden bir cüzdür. Sair eczalar ile cazibe-i umumiye-i İslâmiye noktasında birbiriyle sıla-i rahimleri vardır.
 
-Şu ihbar bir kavî ümit verir ki nokta-i istinad, nokta-i istimdad gayet kavî ve metindir. Şu ümit, yeisle öldürülen kuvve-i maneviyemizi ihya etti. Şu hayat, âlem-i İslâm’daki galeyan eden fikr-i hürriyetten istimdad ederek umum âlem-i İslâm üzerine çökmüş olan istibdad-ı manevî-i umumînin perdelerini parça parça edecektir. [^Hâşiye14] <span class="arabic" dir="rtl">عَلٰى رَغْمِ اَنْفِ اَبِى الْيَاْسِ</span>
+Şu ihbar bir kavî ümit verir ki nokta-i istinad, nokta-i istimdad gayet kavî ve metindir. Şu ümit, yeisle öldürülen kuvve-i maneviyemizi ihya etti. Şu hayat, âlem-i İslâm’daki galeyan eden fikr-i hürriyetten istimdad ederek umum âlem-i İslâm üzerine çökmüş olan istibdad-ı manevî-i umumînin perdelerini parça parça edecektir. [^hâşiye14] <span class="arabic" dir="rtl">عَلٰى رَغْمِ اَنْفِ اَبِى الْيَاْسِ</span>
 
 **İkinci Cihet:** Şimdiye kadar ecnebiler bahane mahane tutarlardı. Milletimizi eziyorlardı. Şimdi ise ellerinde urûk-u insaniyetkâranelerine veya damar-ı mutaassıbanelerine veya âsab-ı dessasanelerine dokunduracak, ellerinde serrişte-i bahane olacak öyle nokta bulamazlar. Bulsalar da tutamazlar. Bâhusus medeniyet, hubb-u insaniyeti tevlid eder.
 
-**S-** [^Hâşiye15] Heyhat! Bize teselli veren şu ulvi emeli yeise inkılab ettiren ve etrafımızda hayatımızı zehirlendirmek ve devletimizi parça parça etmek için ağızlarını açmış olan o müthiş yılanlara ne diyeceğiz?
+**S-** [^hâşiye15] Heyhat! Bize teselli veren şu ulvi emeli yeise inkılab ettiren ve etrafımızda hayatımızı zehirlendirmek ve devletimizi parça parça etmek için ağızlarını açmış olan o müthiş yılanlara ne diyeceğiz?
 
-**C-** Korkmayınız. Medeniyet, fazilet, hürriyet âlem-i insaniyette galebe çalmaya başladığından, bizzarure terazinin öteki yüzü şey’en fe-şey’en hafifleşecektir. Farz-ı muhal olarak, Allah etmesin, eğer bizi parça parça edip öldürseler emin olunuz, biz yirmi olarak öleceğiz, üç yüz olarak dirileceğiz. Başımızdan rezail ve ihtilafatın gubarını silkip hakiki münevver ve müttehid olarak kervan-ı benî-beşere pişdarlık edeceğiz. Biz, en şedit, en kavî ve en bâki hayatı intac eden öyle bir ölümden korkmayız. Biz ölsek de İslâmiyet sağ kalır. O milliyet-i kudsiye sağ olsun. [^Hâşiye16] <span class="arabic" dir="rtl">فَكُلُّ اٰتٍ قَرٖيبٌ</span>
+**C-** Korkmayınız. Medeniyet, fazilet, hürriyet âlem-i insaniyette galebe çalmaya başladığından, bizzarure terazinin öteki yüzü şey’en fe-şey’en hafifleşecektir. Farz-ı muhal olarak, Allah etmesin, eğer bizi parça parça edip öldürseler emin olunuz, biz yirmi olarak öleceğiz, üç yüz olarak dirileceğiz. Başımızdan rezail ve ihtilafatın gubarını silkip hakiki münevver ve müttehid olarak kervan-ı benî-beşere pişdarlık edeceğiz. Biz, en şedit, en kavî ve en bâki hayatı intac eden öyle bir ölümden korkmayız. Biz ölsek de İslâmiyet sağ kalır. O milliyet-i kudsiye sağ olsun. [^hâşiye16] <span class="arabic" dir="rtl">فَكُلُّ اٰتٍ قَرٖيبٌ</span>
 
 **S-** Gayr-ı müslimlerle nasıl müsavi olacağız?
 
@@ -241,7 +241,7 @@ Mesela, şu aşiretin her bir ferdi, bir günde attığı balgamı, cerbeze ile 
 
 Bu makamda size bir temsil îrad edeceğim. Mesela, sizden bir adam yalnız bir saat tenezzüh etmek üzere gayet müzeyyen ve müzehher bir bahçeye girse; nekaisten müberra olmak, cinan-ı cennetin mahsusatından ve her kemale bir noksanı karıştırmak, şu âlem-i kevn ü fesadın mukteziyatından olmakla şu bahçenin müteferrik köşelerinde de bazı pis ve murdar şeyler bulunduğu için –inhiraf-ı mizaç sevki ve emriyle– yalnız o taaffünatı taharri ve o murdar şeylere idame-i nazar eder. Güya onda yalnız o var. Hülyanın hükmüyle fena hayal tevessü ederek, o bostanı bir selhhane ve mezbele suretinde gösterdiğinden midesi bulanır ve istifra eder, kemal-i nefret ile kaçar. Acaba beşerin lezzet-i hayatını gussedar eden böyle bir hayale, hikmet ve maslahat rûy-i rıza gösterir mi?
 
-Güzel gören güzel düşünür, güzel düşünen güzel rüya görür. Güzel rüya [^Hâşiye17] gören, hayatından lezzet alır.
+Güzel gören güzel düşünür, güzel düşünen güzel rüya görür. Güzel rüya [^hâşiye17] gören, hayatından lezzet alır.
 
 **S-** Gayr-ı müslimin askerliği nasıl caiz olur?
 
@@ -267,7 +267,7 @@ Zira i’lâ-yı kelimetullah şu zamanda maddeten terakkiye mütevakkıf olduğ
 
 **S-** Nasıl?
 
-**C-** Maişet için tarîk-i tabiî ve meşru ve zîhayat; sanattır, ziraattır, ticarettir. Gayr-ı tabiî ise memuriyet ve her neviyle imarettir. Bence imareti, ne nam ile olursa olsun, medar-ı maişet edenler bir nevi cerrar ve aceze ve seeledir. Fakat hilebaz kısmında… Bence memuriyete veya imarete giren, yalnız hamiyet ve hizmet için girmelidir. Yoksa yalnız maişet ve menfaat için girse bir nevi çingenelik eder [^Hâşiye18].
+**C-** Maişet için tarîk-i tabiî ve meşru ve zîhayat; sanattır, ziraattır, ticarettir. Gayr-ı tabiî ise memuriyet ve her neviyle imarettir. Bence imareti, ne nam ile olursa olsun, medar-ı maişet edenler bir nevi cerrar ve aceze ve seeledir. Fakat hilebaz kısmında… Bence memuriyete veya imarete giren, yalnız hamiyet ve hizmet için girmelidir. Yoksa yalnız maişet ve menfaat için girse bir nevi çingenelik eder [^hâşiye18].
 
 İşte memuriyet filcümle ve askerlik bi’l-cümle bizde olduğu için servetimizi israf eline verip neslimizi etrafa saçıp zayi ettik. Eğer öyle gitse idi biz de elden giderdik. İşte onların asker olması, zarurete yakın bir maslahat-ı mürseledir. Hem de mecburuz. Mesalih-i mürsele ise İmam-ı Mâlik mezhebinde bir illet-i şer’iye olabilir.
 
@@ -281,7 +281,7 @@ Zira i’lâ-yı kelimetullah şu zamanda maddeten terakkiye mütevakkıf olduğ
 
 **S-** Eskiden beri işitiyoruz ki: “Bazı Jön Türkler masondurlar, dine zarar ediyorlar.”
 
-**C-** İstibdat, kendini ibka etmek için şu telkinatı vermiştir. [^Hâşiye19] Bazı lâübalilik dahi şu vehme kuvvet veriyor. Fakat emin olunuz ki onların masonluğa girmeyen kısmının maksatları, dine zarar değildir. Belki milletin selâmetini temin etmektir. Fakat bazıları, dine lâyık olmayan bârid taassuba müfritane ilişiyorlar.
+**C-** İstibdat, kendini ibka etmek için şu telkinatı vermiştir. [^hâşiye19] Bazı lâübalilik dahi şu vehme kuvvet veriyor. Fakat emin olunuz ki onların masonluğa girmeyen kısmının maksatları, dine zarar değildir. Belki milletin selâmetini temin etmektir. Fakat bazıları, dine lâyık olmayan bârid taassuba müfritane ilişiyorlar.
 
 Demek hürriyete ve meşrutiyete hizmetleri sebkat eden veyahut kabul eyleyenleri, Jön Türk tesmiye ediyorsunuz. İşte onların bir kısmı, İslâmiyet fedaileridir. Bir kısmı da selâmet-i millet fedaileridir. Onların ukde-i hayatiyelerini teşkil eden, mason olmayan ekseri İttihat ve Terakki’dir. Ve sizin şu aşâiriniz kadar ulema ve meşayih, Jön Türkler meyanında mevcuddur.
 
@@ -289,7 +289,7 @@ Vakıâ onlarda birtakım edepsiz, çok sefih masonlar dahi bulunur; lâkin yüz
 
 <p class="arabic" dir="rtl">بِقَاعِدَةِ اَنَّ زَيْنَ عَيْنِ الرِّضَا حُسْنُ النَّظَرِ بِاللُّطْفِ وَالشَّفْقَةِ وَاَنَّ نُورَ الْفُؤَادِ بِالرِّفْقِ وَالرَّحْمَةِ وَلَقَدْ سَمٰى عَلَى الْحَقِّ بِاِقْدَامِ التَّوْفٖيقِ وَ سَعِدَ مَنِ اخْتَارَ الْاِسْتِضَاءَ بِمِصْبَاحِ (اَنَا عِنْدَ حُسْنِ ظَنِّ عَبْدٖى بٖى)</p>
 
-[^Hâşiye20]
+[^hâşiye20]
 
 Hüsn-ü zan ediniz, sû-i zan hem size hem onlara zarar verir.
 
@@ -309,7 +309,7 @@ Ben 31 Mart Hâdisesi’nde şuna yakın bir hal gördüm. Zira İslâmiyet’in
 
 <p class="arabic" dir="rtl">وَلَقَدْ قَعَدَتِ الْهِمَّةُ بِتِلْكَ النُّقْطَةِ وَلَمْ تَقْتَدِرْ عَلَى النُّهُوضِ وَلَقَدْ شَوَّشَتْ طَنْطَنَةُ الْاَغْرَاضِ صَدَاءَ مُوسٖيقَةِ الْحُرِّيَّةِ.. وَلَقَدْ تَقَلَّصَتِ الْمَشْرُوطِيَّةُ مُنْحَصِرَةً اِسْمًا عَلٰى قَلٖيلٖينَ فَتَفَرَّقَتْ عَنْهَا حُمَاةُ ذِمَارِهَا</p>
 
-[^Hâşiye21]
+[^hâşiye21]
 
 **S-** Neden dinsiz zannettiğimiz bazılarından bize zarar gelsin?
 
@@ -329,15 +329,15 @@ Bu sırdandır ki herkeste din-i hakkı bulmak için bir meyl-i taharri uyanmı�
 
 Ey insafsızlar! Umum âlemi yutacak, birleştirecek, besleyecek, ziyalandıracak bir istidatta olan hakikat-i İslâmiyet’i nasıl dar buldunuz ki fukaraya ve mutaassıp bir kısım hocalara tahsis edip İslâmiyet’in yarı ehlini dışarıya atmak istiyorsunuz. Hem de umum kemalâtı câmi’, bütün nev-i beşerin hissiyat-ı âliyesini besleyecek mevaddı muhit olan o kasr-ı nurani-yi İslâmiyet’i, ne cüretle matem tutmuş bir siyah çadır gibi bir kısım fukaraya ve bedevîlere ve mürtecilere has olduğunu tahayyül ediyorsunuz? Evet, herkes âyinesinin müşahedatına tabidir. Demek sizin siyah ve yalancı âyineniz size öyle göstermiştir.
 
-**S-** İfrat ediyorsun, hayali hakikat gösteriyorsun. Bizi de techil ile tahkir ediyorsun. Zaman âhir zamandır, gittikçe daha fenalaşacak. [^Hâşiye22]
+**S-** İfrat ediyorsun, hayali hakikat gösteriyorsun. Bizi de techil ile tahkir ediyorsun. Zaman âhir zamandır, gittikçe daha fenalaşacak. [^hâşiye22]
 
 **C-** Neden dünya herkese terakki dünyası olsun da yalnız bizim için tedenni dünyası olsun? Öyle mi? İşte ben de sizinle konuşmayacağım, şu tarafa dönüyorum, müstakbeldeki insanlarla konuşacağım:
 
-Ey üç yüz seneden sonraki yüksek asrın arkasında gizlenmiş ve sâkitane Nur’un sözünü dinleyen ve bir nazar-ı hafî-i gaybî ile bizi temaşa eden Saidler, Hamzalar, Ömerler, Osmanlar, Tahirler, Yusuflar, Ahmedler vesaireler! Sizlere hitap ediyorum. Başlarınızı kaldırınız “Sadakte!” deyiniz. Ve böyle demek sizlere borç olsun. Şu muasırlarım, varsın beni dinlemesinler. Tarih denilen mazi derelerinden sizin yüksek istikbalinize uzanan telsiz telgrafla sizin ile konuşuyorum. Ne yapayım, acele ettim, kışta geldim; sizler cennet-âsâ bir baharda geleceksiniz. Şimdi ekilen nur tohumları, zemininizde çiçek açacaktır. Biz hizmetimizin ücreti olarak sizden şunu bekliyoruz ki: Mazi kıtasına geçmek için geldiğiniz vakit, mezarımıza uğrayınız; o bahar hediyelerinden birkaç tanesini medresemin [^Hâşiye23] mezar taşı denilen ve kemiklerimizi misafir eden ve Horhor toprağının kapıcısı olan kalenin başına takınız. Kapıcıya tenbih edeceğiz, bizi çağırınız. Mezarımızdan <span class="arabic" dir="rtl">هَنٖيئًا لَكُمْ</span> sadâsını işiteceksiniz.
+Ey üç yüz seneden sonraki yüksek asrın arkasında gizlenmiş ve sâkitane Nur’un sözünü dinleyen ve bir nazar-ı hafî-i gaybî ile bizi temaşa eden Saidler, Hamzalar, Ömerler, Osmanlar, Tahirler, Yusuflar, Ahmedler vesaireler! Sizlere hitap ediyorum. Başlarınızı kaldırınız “Sadakte!” deyiniz. Ve böyle demek sizlere borç olsun. Şu muasırlarım, varsın beni dinlemesinler. Tarih denilen mazi derelerinden sizin yüksek istikbalinize uzanan telsiz telgrafla sizin ile konuşuyorum. Ne yapayım, acele ettim, kışta geldim; sizler cennet-âsâ bir baharda geleceksiniz. Şimdi ekilen nur tohumları, zemininizde çiçek açacaktır. Biz hizmetimizin ücreti olarak sizden şunu bekliyoruz ki: Mazi kıtasına geçmek için geldiğiniz vakit, mezarımıza uğrayınız; o bahar hediyelerinden birkaç tanesini medresemin [^hâşiye23] mezar taşı denilen ve kemiklerimizi misafir eden ve Horhor toprağının kapıcısı olan kalenin başına takınız. Kapıcıya tenbih edeceğiz, bizi çağırınız. Mezarımızdan <span class="arabic" dir="rtl">هَنٖيئًا لَكُمْ</span> sadâsını işiteceksiniz.
 
-[^Hâşiye24] <span class="arabic" dir="rtl">وَلَوْ مِنَ الشَّاهِدِ عَلٰى طَيْفِ الضَّيْفِ</span>
+[^hâşiye24] <span class="arabic" dir="rtl">وَلَوْ مِنَ الشَّاهِدِ عَلٰى طَيْفِ الضَّيْفِ</span>
 
-Şu zamanın memesinden bizimle süt emen ve gözleri arkada maziye bakan ve tasavvuratları kendileri gibi hakikatsiz ve ilerileşmiş (ayrılmış) olan bu çocuklar, varsınlar şu kitabın [^Hâşiye25] hakaikini hayal tevehhüm etsinler. Zira ben biliyorum ki şu kitabın mesaili hakikat olarak sizde tahakkuk edecektir.
+Şu zamanın memesinden bizimle süt emen ve gözleri arkada maziye bakan ve tasavvuratları kendileri gibi hakikatsiz ve ilerileşmiş (ayrılmış) olan bu çocuklar, varsınlar şu kitabın [^hâşiye25] hakaikini hayal tevehhüm etsinler. Zira ben biliyorum ki şu kitabın mesaili hakikat olarak sizde tahakkuk edecektir.
 
 Ey muhataplarım! Ben çok bağırıyorum. Zira asr-ı sâlis-i aşrın yani on üçüncü asrın minaresinin başında durmuşum, sureten medeni ve dinde lâkayt ve fikren mazinin en derin derelerinde olanları camiye davet ediyorum.
 
@@ -345,21 +345,21 @@ Ey muhataplarım! Ben çok bağırıyorum. Zira asr-ı sâlis-i aşrın yani on 
 
 **S-** Eskiler bizden a’lâ veya bizim gibi; gelenler bizden daha fena gelecekler?
 
-**C-** [^Hâşiye26] Ey Türkler ve Kürtler, acaba şimdi bir miting yapsam sizin bin sene evvelki ecdadınızı ve iki asır sonraki evlatlarınızı şu gürültühane olan asr-ı hazır meclisine davet etsem. Acaba sağ tarafta saf tutan eski ecdadınız demeyecekler mi:
+**C-** [^hâşiye26] Ey Türkler ve Kürtler, acaba şimdi bir miting yapsam sizin bin sene evvelki ecdadınızı ve iki asır sonraki evlatlarınızı şu gürültühane olan asr-ı hazır meclisine davet etsem. Acaba sağ tarafta saf tutan eski ecdadınız demeyecekler mi:
 
 “Hey mirasyedi yaramaz çocuklar! Netice-i hayatımız siz misiniz? Heyhat! Bizi akîm bir kıyas ettiniz, bizi kısır bıraktınız!”
 
 Hem de sol tarafında duran ve şehristan-ı istikbalden gelen evlatlarınız, sağdaki ecdadlarınızı tasdik ederek demeyecekler mi ki:
 
-“Ey tembel pederler! Siz misiniz hayatımızın suğra ve kübrası? Siz misiniz şu şanlı ecdadımızla bizi rabteden rabıtamızın hadd-i evsatı? Heyhat! Ne kadar hakikatsiz ve karıştırıcı ve müşagabeli bir kıyas oldunuz!” [^Hâşiye27]
+“Ey tembel pederler! Siz misiniz hayatımızın suğra ve kübrası? Siz misiniz şu şanlı ecdadımızla bizi rabteden rabıtamızın hadd-i evsatı? Heyhat! Ne kadar hakikatsiz ve karıştırıcı ve müşagabeli bir kıyas oldunuz!” [^hâşiye27]
 
-İşte ey bedevî göçerler ve ey inkılab softaları! [^Hâşiye28] Manzara-i hayal [^Hâşiye29] üstünde gördünüz ki şu büyük mitingde iki taraf da sizi protesto ettiler.
+İşte ey bedevî göçerler ve ey inkılab softaları! [^hâşiye28] Manzara-i hayal [^hâşiye29] üstünde gördünüz ki şu büyük mitingde iki taraf da sizi protesto ettiler.
 
 **S-** Bu kadar tahkire müstahak değiliz. Biz eslâfın ezyalini tutmakla beraber, ahlâfın teşebbüsatından dahi geri kalmamaya söz veriyoruz. <span class="arabic" dir="rtl">فَفَتَحْنَا السَّمْعَ لِكَلَامِكَ فَمَرْحَبًا بِهٖ</span>
 
 **C-** Nedamet ettiğinizden vazifeniz olan suale avdet edebilirsiniz.
 
-**S-** Ulema-i eslâf istibdadın fenalığından bahsetmişler mi? [^Hâşiye30]
+**S-** Ulema-i eslâf istibdadın fenalığından bahsetmişler mi? [^hâşiye30]
 
 **C-** Bin kere evet. Zira ağleb-i şuara kasidelerinde, çok müellifler kitaplarının dibacelerinde zamandan şikayet ve dehre itiraz ve feleğe hücum etmiş ve dünyayı ayak altına alıp çiğnemişler. Eğer kalp kulağıyla ve akıl gözüyle dinleyip baksanız göreceksiniz ki bütün itirazat okları, mazinin muzlim perdesine sarılan istibdadın bağrına gider. Ve işiteceksiniz ki bütün vaveylâlar istibdat pençesinin tesirinden gelir. Gerçi istibdat görünmüyordu ve ismi belli değildi lâkin herkesin ruhu istibdadın manasıyla tesemmüm ederdi ve bir zehir atanı bilirdi. Bazı kuvvetli dâhîler nefes aldıkça amîk ve derin bir feryat koparırlardı. Fakat akıl onu güzelce tanımazdı. Çünkü karanlıkta ve toplanmamış idi.
 
@@ -367,11 +367,11 @@ Vaktâ ki o mana-yı istibdadı, def’i muhal bir bela-yı semavî zannettiler;
 
 <p class="arabic" dir="rtl">اُنْظُرْ كَيْفَ اَطَالُوا فٖيمَا لَا يَلْزَمُ وَكُلَّمَا اَضَائَتْ لَهُمُ السَّعَادَةُ اَثْنَوْا عَلٰى مَنْ سَادَهُمْ وَكُلَّمَا اَظْلَمَ عَلَيْهِمْ شَتَمُوا الزَّمَانَ</p>
 
-[^Hâşiye31]
+[^hâşiye31]
 
 **S-** Acaba şu zaman ve dehrin şikayetinden Sâni’-i Zülcelal’in sanat-ı bedî’ine itiraz çıkmaz mı?
 
-**C-** [^Hâşiye32] Hayır, aslâ! Belki manası şudur: Güya şikayetçi der ki: İstediğim emir ve arzu ettiğim şey ve teşehhi ettiğim hal ise hikmet-i ezeliyenin düsturu ile tanzim olunan âlemin mahiyeti müstaid ve inayet-i ezeliyenin pergârıyla nakşolunan feleğin kanunu müsait ve meşiet-i ezeliyenin matbaasında tabolunan zamanın tabiatı muvafık ve mesalih-i umumiyeyi tesis eden hikmet-i İlahî razı değillerdir ki şu âlem-i imkân, Feyyaz-ı Mutlak’ın yed-i kudretinden şu ukûlümüzün hendesesiyle ve tehevvüsümüzün iştihasıyla istediğimiz semeratı koparsın. Verse de tutamaz, düşse de kaldıramaz.
+**C-** [^hâşiye32] Hayır, aslâ! Belki manası şudur: Güya şikayetçi der ki: İstediğim emir ve arzu ettiğim şey ve teşehhi ettiğim hal ise hikmet-i ezeliyenin düsturu ile tanzim olunan âlemin mahiyeti müstaid ve inayet-i ezeliyenin pergârıyla nakşolunan feleğin kanunu müsait ve meşiet-i ezeliyenin matbaasında tabolunan zamanın tabiatı muvafık ve mesalih-i umumiyeyi tesis eden hikmet-i İlahî razı değillerdir ki şu âlem-i imkân, Feyyaz-ı Mutlak’ın yed-i kudretinden şu ukûlümüzün hendesesiyle ve tehevvüsümüzün iştihasıyla istediğimiz semeratı koparsın. Verse de tutamaz, düşse de kaldıramaz.
 
 Evet, bir şahsın tehevvüsü için büyük bir daire-i muhitayı hareket-i mühimmesinden durdurmaz.
 
@@ -385,7 +385,7 @@ kaidesince onların niyetleri: Ümerayı seyyiattan latîf bir hile ile vazgeçi
 
 **C-** Zira kaside ve bazı teliflerinde büyük bir kavmin mehasinini manen garet edip bir müstebide verip ve ondan gösterdiklerinden şu noktadan bilmeyerek istibdadı alkışlamışlar.
 
-**S-** Biz Türkler ve Kürtler, bizde kalbimizin dolusu belki cesedimiz mâlâmâl belki inbisat edip şu derelerde dağ olarak tahaccür etmiş kalemiz olan bir şecaat vardır. Ve başımızın dolusu zekâvetimiz var. Ve sinemizi mâlâmâl edecek gayret vardır. Ve bedenimizi ve azalarımızı dolduracak itaat vardır. Ve dereleri hayatlandıracak ve dağları müzeyyen edecek efradımız var. [^Hâşiye33] Neden böyle sefil ve müflis ve zelil kaldık ki hem yol üstünde de kaldık. Terakkiye binenler bizi çiğneyip istikbale doğru koşup gidiyorlar. Komşumuz olan milletler bizden az iken, kuvvetleri bizden çok kısa iken üzerimize tetavül ediyorlar? [^Hâşiye34] <span class="arabic" dir="rtl">اِنَّ رِكْسَهُمْ يَغْلِبُ طَاهِرَنَا</span>
+**S-** Biz Türkler ve Kürtler, bizde kalbimizin dolusu belki cesedimiz mâlâmâl belki inbisat edip şu derelerde dağ olarak tahaccür etmiş kalemiz olan bir şecaat vardır. Ve başımızın dolusu zekâvetimiz var. Ve sinemizi mâlâmâl edecek gayret vardır. Ve bedenimizi ve azalarımızı dolduracak itaat vardır. Ve dereleri hayatlandıracak ve dağları müzeyyen edecek efradımız var. [^hâşiye33] Neden böyle sefil ve müflis ve zelil kaldık ki hem yol üstünde de kaldık. Terakkiye binenler bizi çiğneyip istikbale doğru koşup gidiyorlar. Komşumuz olan milletler bizden az iken, kuvvetleri bizden çok kısa iken üzerimize tetavül ediyorlar? [^hâşiye34] <span class="arabic" dir="rtl">اِنَّ رِكْسَهُمْ يَغْلِبُ طَاهِرَنَا</span>
 
 **C-** Hînâ, Meşrutiyet’te tövbenin kapısı açıktır ve tövbe edenler çoktur. Şimdiki rüesaya tevbih ve ta’nifte hakkım yoktur. Ben taşımı sâbıka atıyorum. Bazılarının hatırı kırılsa da mazur tutulsun. Yalnız hakkın hatırı kırılmasın. Zira milletin hatırı, onların hatırından daha âlî, daha gâlîdir.
 
@@ -411,7 +411,7 @@ Hem de zaman-ı sâbıkta bir kısım büyükler, namus-u milleti muhafaza eden 
 
 **C-** <span class="arabic" dir="rtl">فَاسْئَلْ وَلَا تَجِدْ بِهٖ خَبٖيرًا</span>
 
-**S-** Ermeni milleti sizden daha cesur olabilir mi? [^Hâşiye35]
+**S-** Ermeni milleti sizden daha cesur olabilir mi? [^hâşiye35]
 
 **C-** Hayır, aslâ! Olmamış ve olamaz.
 
@@ -421,7 +421,7 @@ Hem de zaman-ı sâbıkta bir kısım büyükler, namus-u milleti muhafaza eden 
 
 **C-** Öyle ise dinleyiniz ve kulaklarınızı beş açınız. İşte fikr-i milliyetle uyanmış bir Ermeni’nin himmeti, mecmu-u millettir. Güya onun milleti küçülmüş, o olmuş veya onun kalbinde yerleşmiş. Onun ruhu ne kadar tatlı ve kıymettar olsa da milletini daha ziyade tatlı ve büyük bilir. Bin ruhu da olsa feda etmeye iftihar eder. Çünkü kendince yüksek düşünür.
 
-Halbuki şimdikilere demiyorum, lâkin sizin eskiden bir yiğidiniz uyanmamış, nura girmemiş, İslâmiyet milletinin namusunu bilmemiş, yalnız bir menfaat veya bir garaz veya bir adamın veya bir aşiretin namusunu mülahaza eder, kısa düşünürdü. Elbette tatlı hayatını öyle küçük şeylere herkes feda etmez. Faraza, İslâmî fikr-i milliyetle [^Hâşiye36] onlar gibi temaşa etseydiniz kahramanlığınızı, âleme tasdik ettirip yüksek tabakalara çıkacaktınız. Eğer Ermeniler sizin gibi sathî ve kısa düşünseydiler nihayette korkak ve sefil olacaklardı.
+Halbuki şimdikilere demiyorum, lâkin sizin eskiden bir yiğidiniz uyanmamış, nura girmemiş, İslâmiyet milletinin namusunu bilmemiş, yalnız bir menfaat veya bir garaz veya bir adamın veya bir aşiretin namusunu mülahaza eder, kısa düşünürdü. Elbette tatlı hayatını öyle küçük şeylere herkes feda etmez. Faraza, İslâmî fikr-i milliyetle [^hâşiye36] onlar gibi temaşa etseydiniz kahramanlığınızı, âleme tasdik ettirip yüksek tabakalara çıkacaktınız. Eğer Ermeniler sizin gibi sathî ve kısa düşünseydiler nihayette korkak ve sefil olacaklardı.
 
 Hakikaten sizin hârikulâde şecaate istidadınız vardır. Zira bir menfaat veya cüz’î bir haysiyet veya itibarî bir şeref için veya “Filan yiğittir.” sözlerini işitmek gibi küçük emirlere hayatını istihfaf eden veya ağasının namusunu isti’zam için kendini feda eden kimseler eğer uyansalar hazinelere değer olan İslâmiyet milliyetine yani üç yüz milyon İslâm’ın uhuvvetlerini ve manevî yardımlarını kazandıran İslâmiyet milliyetine, binler ruhu da olsa acaba istihfaf-ı hayat etmezler mi? Elbette hayatını on paraya satan, on liraya binler şevkle satar.
 
@@ -433,13 +433,13 @@ Hem büyük bir taaccüble görmüyor musunuz ki: Terakkiyat-ı hazıranın üss
 
 **S-** Biz kuvvetimizi nasıl toplayıp namus-u İslâmiye-i milliyeyi muhafaza edeceğiz?
 
-**C-** Fikr-i milliyet ile milletin cevfinde havz-ı kevser gibi bir havz-ı marifet ve muhabbet yapınız. Altındaki suyunu çeken delikleri, maarif ile kapatınız. İçine su akıtan yukarıdaki mecraları, fazilet-i İslâmiye ile açınız. Büyük bir çeşme var, şimdiye kadar sû-i istimal ile şûristana dağılıp bazı seele ve acezeye neşv ü nema verdi. Bu çeşmeye güzel bir mecra yapınız, mesai-yi şer’iye ile şu havuza dökünüz. Sonra da bostan-ı kemalâtınıza su veriniz. Bu, hiç bitmez ve tükenmez bir menbadır. [^Hâşiye37]
+**C-** Fikr-i milliyet ile milletin cevfinde havz-ı kevser gibi bir havz-ı marifet ve muhabbet yapınız. Altındaki suyunu çeken delikleri, maarif ile kapatınız. İçine su akıtan yukarıdaki mecraları, fazilet-i İslâmiye ile açınız. Büyük bir çeşme var, şimdiye kadar sû-i istimal ile şûristana dağılıp bazı seele ve acezeye neşv ü nema verdi. Bu çeşmeye güzel bir mecra yapınız, mesai-yi şer’iye ile şu havuza dökünüz. Sonra da bostan-ı kemalâtınıza su veriniz. Bu, hiç bitmez ve tükenmez bir menbadır. [^hâşiye37]
 
 **S-** Nedir o çeşme?
 
 **C-** Zekât. Sizler Hanefî ve Şafiîsiniz.
 
-**Sual:** [^Hâşiye38] <span class="arabic" dir="rtl">حَبَّذَا وَنِعْمَتْ اِنْ لَمْ تَذْهَبْ غَائِضَةً بَلْ فَاضَتْ اِلٰى تِلْكَ الْخَزٖينَةِ</span>
+**Sual:** [^hâşiye38] <span class="arabic" dir="rtl">حَبَّذَا وَنِعْمَتْ اِنْ لَمْ تَذْهَبْ غَائِضَةً بَلْ فَاضَتْ اِلٰى تِلْكَ الْخَزٖينَةِ</span>
 
 **Cevap:** <span class="arabic" dir="rtl">اَجَلْ اِنَّ فٖيكُمْ ذَكَاوَةً اِنَّمَا تَتَزَاهَرُ بِالزَّكَاةِ</span>
 
@@ -451,7 +451,7 @@ Hem büyük bir taaccüble görmüyor musunuz ki: Terakkiyat-ı hazıranın üss
 
 **C-** İanat-ı milliye-i İslâmiye denilen nüzur ve sadakāt, zekâtın ammizadeleridirler, asabiyetini çekerler, hizmette yardım edecekler.
 
-**S-** Neden çok âdât-ı müstemirremizi tezyif ediyorsun? [^Hâşiye39]
+**S-** Neden çok âdât-ı müstemirremizi tezyif ediyorsun? [^hâşiye39]
 
 **C-** Her bir zamanın bir hükmü vardır. Şu zaman, bazı ihtiyarlanmış âdâtın mevtine ve neshine hükmediyor. Mazarratlarının menfaatlerine olan tereccuhu, idamına fetva veriyor.
 
@@ -465,7 +465,7 @@ Hem büyük bir taaccüble görmüyor musunuz ki: Terakkiyat-ı hazıranın üss
 
 **S-** Sonra?
 
-**C-** Sıdk, ihlas, sadakat, sebat, tesanüd. [^Hâşiye40]
+**C-** Sıdk, ihlas, sadakat, sebat, tesanüd. [^hâşiye40]
 
 **S-** Yalnız?
 
@@ -487,7 +487,7 @@ Eyyühe’r-rüus ve’r-rüesa!.. Tekâsülî olan tevekkülden sakınınız. �
 
 <p class="arabic" dir="rtl">وَقَدْ قَطَعَ الطَّرٖيقَ عَلَى الشَّقَاوَةِ هٰذَا الْمَيَلَانُ</p>
 
-**C-** Reşadet-penah meşrutiyet ve şeyh-i Risale-i Nur sayesindedir. [^Hâşiye41]
+**C-** Reşadet-penah meşrutiyet ve şeyh-i Risale-i Nur sayesindedir. [^hâşiye41]
 
 Zira meşrutiyet-i şer’iye taht-ı efkâra çıktı, hablü’l-metin-i milliyeti ihtizaza getirdi, nurani urvetü’l-vüska olan İslâmiyet ihtizaza geldi. Her bir Müslim anladı ki başıboş değil. Menfaat-i müştereke ile ve hiss-i mücerred ile başkalarıyla bağlıdır. Umum İslâm bir aşiret gibi birbiriyle merbuttur.
 
@@ -495,9 +495,9 @@ Nasıl bir aşiretten bir adam bir iyilik etse umum aşiret bu namus ile iftihar
 
 İşte şu nüktedir ki ya fikren veya ruhen uyanmışlara ağlamaya hâhiş vermiştir. Bir bahane ile ağlarlar, tövbekâr olurlar. Lâkin minare başında olan akıl, kalîb-i kalp dibinde bulunan sebebini iyi göremiyor.
 
-**Elhasıl:** İslâm uyandı ve uyanıyor [^Hâşiye42]. Fenalığı fena, iyiliği iyi olarak gördüler. Evet, şu dereler aşâirini tövbekâr eden işte bu sırdır. Hem de bütün İslâm yavaş yavaş bu istidadı almakta ve kesbetmektedir. Lâkin sizler bedevî olduğunuzdan ve fıtrat-ı asliyeniz oldukça bozulmamış olduğundan İslâmiyet’in kudsî milliyetine daha yakınsınız.
+**Elhasıl:** İslâm uyandı ve uyanıyor [^hâşiye42]. Fenalığı fena, iyiliği iyi olarak gördüler. Evet, şu dereler aşâirini tövbekâr eden işte bu sırdır. Hem de bütün İslâm yavaş yavaş bu istidadı almakta ve kesbetmektedir. Lâkin sizler bedevî olduğunuzdan ve fıtrat-ı asliyeniz oldukça bozulmamış olduğundan İslâmiyet’in kudsî milliyetine daha yakınsınız.
 
-**S-** [^Hâşiye43] Misafirperverlik müstahsen bir âdetimiz olduğunu bilirken neden kimseye misafir olmuyorsun? Talebelerinizi de ekmeğimizi yemekten, hediyemizi almaktan men’ediyorsun. Halbuki size iyilik etmek borcumuzdur ve hakkınızdır. İşte şu âdetimiz <span class="arabic" dir="rtl">قَدْ اَكَلَ الدَّهْرُ عَلَيْهَا وَ شَرِبَ</span> Neden şu âdet-i müstemirreyi tezyif ediyorsun?
+**S-** [^hâşiye43] Misafirperverlik müstahsen bir âdetimiz olduğunu bilirken neden kimseye misafir olmuyorsun? Talebelerinizi de ekmeğimizi yemekten, hediyemizi almaktan men’ediyorsun. Halbuki size iyilik etmek borcumuzdur ve hakkınızdır. İşte şu âdetimiz <span class="arabic" dir="rtl">قَدْ اَكَلَ الدَّهْرُ عَلَيْهَا وَ شَرِبَ</span> Neden şu âdet-i müstemirreyi tezyif ediyorsun?
 
 **C- Evvela:** İlim azizdir, zelil etmek istemem. Hem de size göstermek isterim ki: Bir kısım ehl-i ilim vardır ki dünyaya tenezzül etmez ve sanat-ı ilmi, medar-ı maişet etmez. Talebe ise cerrar ve seeleden ayrıdır.
 
@@ -519,7 +519,7 @@ Sual:
 
 <p class="arabic" dir="rtl">مَا تَقُولُ فِى الْاِحْسَانَاتِ الشَّخْصِيَّةِ فِى السَّلَفِ اُمَنَاءِ الْاُمَّةِ وَرُشَدَاءِهَا وَسُيُوفِ الدَّوْلَةِ وَصَلَاحِهَا تَجَلَّتِ الْعُبُوسِيَّةُ بِمَكَارِمِهَا بِاِهْدَاءِ عَشَرَةِ دَنَانٖيرَ لِشِعْرٍ لَا يُوَازِنُ شَعٖيرَةً</p>
 
-[^Hâşiye44]
+[^hâşiye44]
 
 **C-**
 
@@ -535,7 +535,7 @@ Sual:
 
 **C-** Bazen adâvet, şiddet-i muhabbetten gelir. Evet, nefsim için onları ne kadar severdim. Nefs-i İslâmiyet için bin derece daha ziyade onlara âşıktım.
 
-[^Hâşiye45] <span class="arabic" dir="rtl">وَلَقَدِ انْتَقَشَ فٖى سُوَيْدَاءِ قُلُوبِهِمُ الطَّاهِرَةِ الصِّبْغَةُ الرَّبَّانِيَّةُ وَ فٖى خَلَدِهِمْ ضِيَاءُ الْحَقٖيقَةِ</span>
+[^hâşiye45] <span class="arabic" dir="rtl">وَلَقَدِ انْتَقَشَ فٖى سُوَيْدَاءِ قُلُوبِهِمُ الطَّاهِرَةِ الصِّبْغَةُ الرَّبَّانِيَّةُ وَ فٖى خَلَدِهِمْ ضِيَاءُ الْحَقٖيقَةِ</span>
 
 <p class="arabic" dir="rtl">نَدٖيمَانْ بَادَهَا خُورْدَنْد رَفْتَنْد § تَهٖى خُمْخَانَهَا كَرْدَنْدُ و رَفْتَنْد</p>
 
@@ -549,13 +549,13 @@ Lâkin onların asl-ı esas-ı mesleği, kulûbün tenviri ve rabtı yani fazile
 
 Eğer İslâmiyet milliyetini ve ittihad-ı İslâm’ın taşını ve nakşını istersen işte bak:
 
-Hayâ ve hamiyetten neş’et eden civanmerdane humret (1); hürmet ve merhametten tevellüd eden masumane tebessüm (2); fesahat ve melahattan hasıl olan ruhanî halâvet (3); aşk-ı şebabîden, şevk-i baharîden neş’et eden semavî neşe (4); hüzn-ü gurûbîden, ferah-ı seherîden vücuda gelen melekûtî lezzet (5); hüsn-ü mücerredden, cemal-i mücelladan tecelli eden mukaddes ziynet (6) [^Hâşiye46] birbiri ile imtizaç edip ondan çıkan levn-i nurani ancak o şark ve garbın kab-ı kavseyni olan kâbe-i saadetinin tâk-ı muallâsının kavs-i kuzahının elvan-ı seb’asının lacivert levninin timsali belki şu levnin manzarası bir derece irae edilebilir.
+Hayâ ve hamiyetten neş’et eden civanmerdane humret (1); hürmet ve merhametten tevellüd eden masumane tebessüm (2); fesahat ve melahattan hasıl olan ruhanî halâvet (3); aşk-ı şebabîden, şevk-i baharîden neş’et eden semavî neşe (4); hüzn-ü gurûbîden, ferah-ı seherîden vücuda gelen melekûtî lezzet (5); hüsn-ü mücerredden, cemal-i mücelladan tecelli eden mukaddes ziynet (6) [^hâşiye46] birbiri ile imtizaç edip ondan çıkan levn-i nurani ancak o şark ve garbın kab-ı kavseyni olan kâbe-i saadetinin tâk-ı muallâsının kavs-i kuzahının elvan-ı seb’asının lacivert levninin timsali belki şu levnin manzarası bir derece irae edilebilir.
 
 Lâkin ittihat, cehil ile olmaz. İttihat, imtizac-ı efkârdır. İmtizac-ı efkâr, marifetin şuâ-ı elektrikiyle olur.
 
 **S-** Neden eskiden sükût ettin?
 
-**C-** [^Hâşiye47] <span class="arabic" dir="rtl">لِاَنَّ الْاِسْتِبْدَادَ كَانَ مَانِعًا لِلْاِتِّحَادِ فَكُنْتُ سَكَتُّ عَلٰى جَمْرِ الْغَضٰى</span>
+**C-** [^hâşiye47] <span class="arabic" dir="rtl">لِاَنَّ الْاِسْتِبْدَادَ كَانَ مَانِعًا لِلْاِتِّحَادِ فَكُنْتُ سَكَتُّ عَلٰى جَمْرِ الْغَضٰى</span>
 
 **S-** Bid’alara düşen şeyhlere hücum hatardır. İçlerinde evliya bulunur.
 
@@ -565,7 +565,7 @@ Cevap:
 
 <p class="arabic" dir="rtl">اِنَّ الْمَوْلٰى جَلَّ جَلَالُهُ قَدْ وَسَمَ بِقُدْرَتِهٖ عَلٰى جِبَاهِهِمُ الرَّفٖيعَةِ نَقْشَ الْحَقٖيقَةِ وَمُرَادٖى اَنْ اُرْشِدَ مَنْ طَاشَ فَهْمُهُ مِنْ ذٰلِكَ النَّقْشِ</p>
 
-[^Hâşiye48]
+[^hâşiye48]
 
 Evet, benim hücumum onların aleyhinde değil, lehlerindedir. Tâ ki onların suretiyle kendini gösteren bazı ehliyetsiz, onların kıymetini tenzil etmesin.
 
@@ -613,7 +613,7 @@ Lâkin eğer mesleği tenkis-i gayr ile meziyetini izhar ve husumet-i gayr ile m
 
 **S-** Âlem-i İslâm ulemasının ortalarındaki müthiş ihtilafata ne dersin? Reyin nedir?
 
-**C-** Ben âlem-i İslâmiyet’e gayr-ı muntazam veya intizamı bozulmuş bir meclis-i mebusan ve bir encümen-i şûra nazarıyla bakıyorum. Şeriattan işitiyoruz ki rey-i cumhur budur, fetva bunun üzerinedir. İşte şu, bu meclisteki rey-i ekseriyetin naziresidir. Rey-i cumhurdan maada olan akval, eğer hakikat ve mağzdan hâlî ve boş olmazsa istidadatın reylerine bırakılır. Tâ her bir istidat terbiyesine münasip gördüğünü intihab etsin. Lâkin burada iki nokta-i mühimme vardır: [^Hâşiye49]
+**C-** Ben âlem-i İslâmiyet’e gayr-ı muntazam veya intizamı bozulmuş bir meclis-i mebusan ve bir encümen-i şûra nazarıyla bakıyorum. Şeriattan işitiyoruz ki rey-i cumhur budur, fetva bunun üzerinedir. İşte şu, bu meclisteki rey-i ekseriyetin naziresidir. Rey-i cumhurdan maada olan akval, eğer hakikat ve mağzdan hâlî ve boş olmazsa istidadatın reylerine bırakılır. Tâ her bir istidat terbiyesine münasip gördüğünü intihab etsin. Lâkin burada iki nokta-i mühimme vardır: [^hâşiye49]
 
 **Birincisi:** Şu istidadın meyelanı ile intihab olunan ve bir derece hakikati tazammun eden ve ekalliyette kalan kavl, nefsü’l-emirde mukayyed ve o istidat ile mahsus olduğu halde, sahibi ihmal edip mutlak bıraktı. Etbaı iltizam edip tamim etti. Mukallidi taassup edip o kavlin hıfzı için muhaliflerin hedmine çalıştılar. Şu noktadan müsademe, müşagabe, cerh ve red, o derece meydan aldı ki ayakları altından çıkan toz ve ağızlarından feveran eden duman ve lisanlarından püsküren berkler, şimşekli ve bazen rahmetli bir bulut, şems-i İslâmiyet’in tecellisine bir hicab teşkil etmiştir. Lâkin ziya-yı şemsten tefeyyüz etmesine istidat bahşeden rahmetli bulut derecesinde kalmadı. Yağmuru vermediği gibi ziyayı dahi men’etmektedir.
 
@@ -623,7 +623,7 @@ Lâkin eğer mesleği tenkis-i gayr ile meziyetini izhar ve husumet-i gayr ile m
 
 **C-** İman ederim ki umum âlem-i İslâm, millet-i insaniyede ve Âdem kavminde bir meclis-i mebusan-ı mukaddese hükmüne geçecektir. Selef ve halef asırlar üzerine birbirine bakıp mabeynlerinde bir encümen-i şûra teşkil edeceklerdir. Fakat birinci kısım olan ihtiyar babalar, sâkitane ve sitayişkârane dinleyeceklerdir.
 
-**S-** [^Hâşiye50] Taaddüd-ü zevcat ve esir ve köle gibi bazı mesaili, bazı ecnebiler serrişte ederek medeniyet nokta-i nazarında şeriata bazı evham ve şübehatı îrad ediyorlar.
+**S-** [^hâşiye50] Taaddüd-ü zevcat ve esir ve köle gibi bazı mesaili, bazı ecnebiler serrişte ederek medeniyet nokta-i nazarında şeriata bazı evham ve şübehatı îrad ediyorlar.
 
 **C-** Şimdilik mücmelen bir kaide söyleyeceğim. Tafsilini müstakil bir risale ile beyan etmek fikrindeyim.
 
@@ -675,7 +675,7 @@ Ey tabaka-i havas! Biz avam ve ehl-i medrese sizden hakkımızı isteriz.
 
 **S-** Şu mezcde ne hikmet var ki o kadar taraftarsın, daima söylüyorsun?
 
-**C-** Dört kıyas-ı fâsid [^Hâşiye51] ile hasıl olan safsatanın zulmünden muhakeme-i zihniyeyi halâs etmek, meleke-i feylesofanenin taklid-i tufeylaneye ettiği mugalatayı izale etmek.
+**C-** Dört kıyas-ı fâsid [^hâşiye51] ile hasıl olan safsatanın zulmünden muhakeme-i zihniyeyi halâs etmek, meleke-i feylesofanenin taklid-i tufeylaneye ettiği mugalatayı izale etmek.
 
 **S-** Ne gibi?
 
@@ -715,7 +715,7 @@ Ey tabaka-i havas! Biz avam ve ehl-i medrese sizden hakkımızı isteriz.
 
 **S-** Bunun semeratı nedir ki on belki elli beş seneden beri bağırıyorsun?
 
-**C-** İcmali: [^Hâşiye52] Kürt ve Türk ulemasının istikbalini temin ve maarifi, Kürdistan’a medrese kapısıyla sokmak ve meşrutiyetin ve hürriyetin mehasinini göstermek ve ondan istifade ettirmektir.
+**C-** İcmali: [^hâşiye52] Kürt ve Türk ulemasının istikbalini temin ve maarifi, Kürdistan’a medrese kapısıyla sokmak ve meşrutiyetin ve hürriyetin mehasinini göstermek ve ondan istifade ettirmektir.
 
 **S-** İzah etsen fena olmaz.
 
@@ -735,7 +735,7 @@ Eyyühe’l-eşraf! Biz size hizmet ettiğimiz gibi siz de bize hizmet ediniz. Y
 
 Ey bize vesayete muhtaç çocuk nazarıyla bakan ehl-i hükûmet! Size itaat ettiğimiz gibi saadetimizi temin ediniz. Ve illâ…
 
-Ey Kürt ve Türk’ün cemiyet-i milliye vazifesini bi’l-istihkak omuzunuza alan eski İttihat ve Terakki! İyi ettiniz, mezcettiniz. İyi etseniz iyi… Ve illâ <span class="arabic" dir="rtl">فَرُدُّوا الْاَمَانَاتِ اِلٰى اَهْلِهَا</span> [^Hâşiye53]
+Ey Kürt ve Türk’ün cemiyet-i milliye vazifesini bi’l-istihkak omuzunuza alan eski İttihat ve Terakki! İyi ettiniz, mezcettiniz. İyi etseniz iyi… Ve illâ <span class="arabic" dir="rtl">فَرُدُّوا الْاَمَانَاتِ اِلٰى اَهْلِهَا</span> [^hâşiye53]
 
 **S-** Ulemaya pek çok itab edilir, hattâ…
 
@@ -749,11 +749,11 @@ Ey Kürt ve Türk’ün cemiyet-i milliye vazifesini bi’l-istihkak omuzunuza a
 
 **C-** Bir zatta ilim, adem-i hilim ile iktiranı cihetiyle, adem-i hilimden neş’et eden kabahati ile ilmi mahkûm etmek ne derece eblehliktir. Öyle de İslâm’ın kudsiyetini daima telkin eden ve ahkâm-ı diniyeyi iktidarlarınca tebliğ eden ve şimdi millet-i İslâmiye mabeyninde en ziyade hürmet ve muhabbet ve merhamete müstahak olan bîçare ulemayı, zamana yakışacak ulemanın adem-i vücudundan neş’et eden kabahati ve günahı ile mahkûm etmek ve o kabahat ve o günahı o bîçarelere hamletmek, ahmaklık değildir de ya nedir?
 
-Evet, vücudlarından zarar gelmemiş, istediğimiz ulemanın ademinden gelmiştir. Zira zekiler galiben mektebe gittiler. Zenginler, medresenin maişetine tenezzül etmediler. Medrese de –intizam ve tefeyyüz ve mahreç bulunmadığından– zamana göre ulemayı yetiştiremedi. Sakınınız! Ulemaya buğzetmek, büyük bir hatardır [^Hâşiye54].
+Evet, vücudlarından zarar gelmemiş, istediğimiz ulemanın ademinden gelmiştir. Zira zekiler galiben mektebe gittiler. Zenginler, medresenin maişetine tenezzül etmediler. Medrese de –intizam ve tefeyyüz ve mahreç bulunmadığından– zamana göre ulemayı yetiştiremedi. Sakınınız! Ulemaya buğzetmek, büyük bir hatardır [^hâşiye54].
 
 **S-** Niyeti hâlis olanlar azdır. Senin niyetin hâlis olsa muvaffak olacaksın, niyetine bak?
 
-**C-** Lillahi’l-hamd ve lâ fahir. [^Hâşiye55] İhlas-ı niyeti ihlâl eden ve anâsır-ı garaz olan neseb ve nesil ve tama’ ve havf beni bilmiyorlar. Ben de onları tanımıyorum veya tanımak istemiyorum. Zira meşhur bir nesebim yok ki mazisini muhafazaya çalışayım. Ben ebu lâşey olduğumdan bir neslim de yoktur ki istikbalini temin edeyim. Öyle bir cünunum var ki Divan-ı Harp dehşet ve tahvifiyle tedavisine muktedir olamadı. Öyle bir cehaletim var ki beni ümmi edip dinar ve dirhemin nakşını okuyamıyorum.
+**C-** Lillahi’l-hamd ve lâ fahir. [^hâşiye55] İhlas-ı niyeti ihlâl eden ve anâsır-ı garaz olan neseb ve nesil ve tama’ ve havf beni bilmiyorlar. Ben de onları tanımıyorum veya tanımak istemiyorum. Zira meşhur bir nesebim yok ki mazisini muhafazaya çalışayım. Ben ebu lâşey olduğumdan bir neslim de yoktur ki istikbalini temin edeyim. Öyle bir cünunum var ki Divan-ı Harp dehşet ve tahvifiyle tedavisine muktedir olamadı. Öyle bir cehaletim var ki beni ümmi edip dinar ve dirhemin nakşını okuyamıyorum.
 
 Kaldı ticaret-i uhrevî. Öyle bir ahdetmişim ki re’sü’l-malı da kaybetsem mesleğimden dönmeyeceğim. Şimdiden hasaret ediyorum, çok günaha düşüyorum.
 
@@ -765,7 +765,7 @@ Bir şey kaldı: O da şöhret-i kâzibedir. İşte ben ondan usandım, kaçıyo
 
 **S-** İttihat ve Terakki hakkında reyin nedir?
 
-**C-** Kıymetlerini takdir ile beraber, siyasiyyunlarındaki şiddete muterizim. [^Hâşiye56] Lâkin onların iktisadî ve maarifî olan –bâhusus şarkî vilayetlerdeki– şubelerini bir derece istihsan ve tebrik ederim.
+**C-** Kıymetlerini takdir ile beraber, siyasiyyunlarındaki şiddete muterizim. [^hâşiye56] Lâkin onların iktisadî ve maarifî olan –bâhusus şarkî vilayetlerdeki– şubelerini bir derece istihsan ve tebrik ederim.
 
 S- Zindan-ı atalete düştüğümüzün sebebi nedir?
 
@@ -789,7 +789,7 @@ Evet, size meşakkatte büyük rahat var. Zira fıtratı müteheyyic olan insan�
 
 <p class="arabic" dir="rtl">اِنَّ لَكُمْ فِى الْمَشَقَّةِ الرَّاحَةَ اِنَّ الْاِنْسَانَ الْمُتَهَيِّجَةَ فِطْرَتُهُ رَاحَتُهُ فِى السَّعْىِ وَ الْجِدَالِ</p>
 
-[^Hâşiye57]
+[^hâşiye57]
 
 Seyahatimde beni tanımayanlar kıyafetime bakıp beni tacir zannedip derlerdi ki:
 
@@ -950,117 +950,117 @@ Hulusi
 
 ***
 
-[^Hâşiye1]: Risale-i Nur’u hissetmiş ki üç sahife ile cevap veriyor. Fakat siyaset perdesi başka renk vermiş.
+[^hâşiye1]: Risale-i Nur’u hissetmiş ki üç sahife ile cevap veriyor. Fakat siyaset perdesi başka renk vermiş.
 
-[^Hâşiye2]: Burada mason ve dönmelerin ve Bolşevizm’i isteyenlerin cemiyetinden haber vermek içinde, bir çeyrek asır istibdad-ı mutlakla hükmeden bir hâkimiyeti gaybî ihbar eder.
+[^hâşiye2]: Burada mason ve dönmelerin ve Bolşevizm’i isteyenlerin cemiyetinden haber vermek içinde, bir çeyrek asır istibdad-ı mutlakla hükmeden bir hâkimiyeti gaybî ihbar eder.
 
-[^Hâşiye3]: Burada dahi Risale-i Nur’u hissetmiş fakat siyaset perdesiyle bakmış, hakikatin şekli değişmiş.
+[^hâşiye3]: Burada dahi Risale-i Nur’u hissetmiş fakat siyaset perdesiyle bakmış, hakikatin şekli değişmiş.
 
-[^Hâşiye4]: Said’i yirmi beş sene ezen bir parti; bu hükmü, zulmü sönmesiyle tasdik etti.
+[^hâşiye4]: Said’i yirmi beş sene ezen bir parti; bu hükmü, zulmü sönmesiyle tasdik etti.
 
-[^Hâşiye5]: Evet, bu zamanda dahi Risale-i Nur’u söndürmeye çalışanlar kendileri söndüler. Cehennem azabı gibi azap çekerler.
+[^hâşiye5]: Evet, bu zamanda dahi Risale-i Nur’u söndürmeye çalışanlar kendileri söndüler. Cehennem azabı gibi azap çekerler.
 
-[^Hâşiye6]: Ki komünist ve anarşist manasıyla Kemalizm ve inkılab softaları ve dönmeleri görmüş gibi haber veriyor.
+[^hâşiye6]: Ki komünist ve anarşist manasıyla Kemalizm ve inkılab softaları ve dönmeleri görmüş gibi haber veriyor.
 
-[^Hâşiye7]: Acele etme yani şifre gibi işaratı var.
+[^hâşiye7]: Acele etme yani şifre gibi işaratı var.
 
-[^Hâşiye8]: Acele etme yani Mizan ceridesinin sahibi Murad haklıdır. Tanin muharriri Hüseyin Cahid yanlış ve hata ediyor.
+[^hâşiye8]: Acele etme yani Mizan ceridesinin sahibi Murad haklıdır. Tanin muharriri Hüseyin Cahid yanlış ve hata ediyor.
 
-[^Hâşiye9]: Hayme-nişinler tarafından yani göçebe, siyah çadırlı bedevîlerin sualidir.
+[^hâşiye9]: Hayme-nişinler tarafından yani göçebe, siyah çadırlı bedevîlerin sualidir.
 
-[^Hâşiye10]: Güzel tarif.
+[^hâşiye10]: Güzel tarif.
 
-[^Hâşiye11]: Kırk dört sene sonra söylemesi lâzım gelen sözleri, o zaman söylemiş.
+[^hâşiye11]: Kırk dört sene sonra söylemesi lâzım gelen sözleri, o zaman söylemiş.
 
-[^Hâşiye12]: Lillahi’l-hamd, şimdi açılmaya başladı.
+[^hâşiye12]: Lillahi’l-hamd, şimdi açılmaya başladı.
 
-[^Hâşiye13]: Yine bak mâşâallah hem Nur’un Zülfikar ve Hüccetullahi’l-Bâliğa gibi mecmualarını hem Yemen, Mısır, Cezayir, Hint, Fas, Kafkas, Fars ve Arap gibi İslâm milletlerini haber verir gibi şifreli bir fıkradır.
+[^hâşiye13]: Yine bak mâşâallah hem Nur’un Zülfikar ve Hüccetullahi’l-Bâliğa gibi mecmualarını hem Yemen, Mısır, Cezayir, Hint, Fas, Kafkas, Fars ve Arap gibi İslâm milletlerini haber verir gibi şifreli bir fıkradır.
 
-[^Hâşiye14]: Lillahi’l-hamd, kırk beş sene sonra parça parça etmeye başladı.
+[^hâşiye14]: Lillahi’l-hamd, kırk beş sene sonra parça parça etmeye başladı.
 
-[^Hâşiye15]: Dehşetli ve hakikatli bir sual.
+[^hâşiye15]: Dehşetli ve hakikatli bir sual.
 
-[^Hâşiye16]: Eski Said parlak bir nurun hissiyle, kuvvetli bir ümitle, tam teselli ile siyaseti İslâmiyet’e âlet etmek fikriyle, hararetle hürriyete çalışırken diğer bir hiss-i kable’l-vuku’la dehşetli dinsizce bir istibdad-ı mutlakı, kırk sekiz sene evvel bir hadîsin manasıyla geleceğini haber verdiği bir kumandanın çıkmasını ve Said’in teselli haberlerini yirmi beş senede bilfiil tekzip edeceğini hissederek, otuz seneden beri ‌<span class="arabic" dir="rtl">اَعُوذُ بِاللّٰهِ مِنَ الشَّيْطَانِ وَ السِّيَاسَةِ</span>‌ deyip siyaseti bıraktı, Yeni Said oldu.
+[^hâşiye16]: Eski Said parlak bir nurun hissiyle, kuvvetli bir ümitle, tam teselli ile siyaseti İslâmiyet’e âlet etmek fikriyle, hararetle hürriyete çalışırken diğer bir hiss-i kable’l-vuku’la dehşetli dinsizce bir istibdad-ı mutlakı, kırk sekiz sene evvel bir hadîsin manasıyla geleceğini haber verdiği bir kumandanın çıkmasını ve Said’in teselli haberlerini yirmi beş senede bilfiil tekzip edeceğini hissederek, otuz seneden beri ‌<span class="arabic" dir="rtl">اَعُوذُ بِاللّٰهِ مِنَ الشَّيْطَانِ وَ السِّيَاسَةِ</span>‌ deyip siyaseti bıraktı, Yeni Said oldu.
 
-[^Hâşiye17]: Mevt, bir nevmdir.
+[^hâşiye17]: Mevt, bir nevmdir.
 
-[^Hâşiye18]: Ey memurlar, Eski Said’in kırk beş sene evvel söylediği bu sözünden gücenmeyiniz.
+[^hâşiye18]: Ey memurlar, Eski Said’in kırk beş sene evvel söylediği bu sözünden gücenmeyiniz.
 
-[^Hâşiye19]: Nasıl ki şimdi yirmi beş sene istibdad-ı mutlakı yapanlar, dindarları irtica ile ittiham ederek istibdad-ı mutlakın altındaki irtidadlarını saklıyorlar.
+[^hâşiye19]: Nasıl ki şimdi yirmi beş sene istibdad-ı mutlakı yapanlar, dindarları irtica ile ittiham ederek istibdad-ı mutlakın altındaki irtidadlarını saklıyorlar.
 
-[^Hâşiye20]: Tekrar temaşa et çünkü bu Arabî fıkra şifrelidir, işaratı var.
+[^hâşiye20]: Tekrar temaşa et çünkü bu Arabî fıkra şifrelidir, işaratı var.
 
-[^Hâşiye21]: Gitme, dikkat et. Âlîhimmet olanlar, o hâdisede sükût ettiler. Garazkâr cerideler, hakiki hürriyetin sadâsını susturdular. Meşrutiyet pek az adamların üstüne münhasır kaldı. Fedakârları da dağıldılar.
+[^hâşiye21]: Gitme, dikkat et. Âlîhimmet olanlar, o hâdisede sükût ettiler. Garazkâr cerideler, hakiki hürriyetin sadâsını susturdular. Meşrutiyet pek az adamların üstüne münhasır kaldı. Fedakârları da dağıldılar.
 
-[^Hâşiye22]: Muhtemeldir ki burada büyük bir veli; Eski Said’in Risale-i Nur’un dar dairesini gayet geniş ve siyasî bir daire olarak bir hiss-i kable’l-vuku’la kırk sene evvel hissederek, bu risaledeki çok cevapları o histen neş’et ettiğinden o veli, yalnız bu noktada itiraz etmiş.
+[^hâşiye22]: Muhtemeldir ki burada büyük bir veli; Eski Said’in Risale-i Nur’un dar dairesini gayet geniş ve siyasî bir daire olarak bir hiss-i kable’l-vuku’la kırk sene evvel hissederek, bu risaledeki çok cevapları o histen neş’et ettiğinden o veli, yalnız bu noktada itiraz etmiş.
 
-[^Hâşiye23]: Medresetü’z-Zehranın Van’daki numunesi olan ve vefat eden Horhor Medresesinin mezar taşı hükmünde bulunan Van Kalesi demektir.
+[^hâşiye23]: Medresetü’z-Zehranın Van’daki numunesi olan ve vefat eden Horhor Medresesinin mezar taşı hükmünde bulunan Van Kalesi demektir.
 
-[^Hâşiye24]: Gitme! Seni çağırır.
+[^hâşiye24]: Gitme! Seni çağırır.
 
-[^Hâşiye25]: İstikbalde telif edilecek Risale-i Nur Külliyatı’nı hiss-i kable’l-vuku ile haber veriyor.
+[^hâşiye25]: İstikbalde telif edilecek Risale-i Nur Külliyatı’nı hiss-i kable’l-vuku ile haber veriyor.
 
-[^Hâşiye26]: Antikalığı için bu cevap dahi yazıldı.
+[^hâşiye26]: Antikalığı için bu cevap dahi yazıldı.
 
-[^Hâşiye27]: Fenn-i mantığın tabiratı. O zaman ilm-i mantık dersini alan talebeleri, o mecliste bulunmasından öyle söylemiş.
+[^hâşiye27]: Fenn-i mantığın tabiratı. O zaman ilm-i mantık dersini alan talebeleri, o mecliste bulunmasından öyle söylemiş.
 
-[^Hâşiye28]: Sonradan ilâve edilmiştir.
+[^hâşiye28]: Sonradan ilâve edilmiştir.
 
-[^Hâşiye29]: Hayal dahi bir simotograftır.
+[^hâşiye29]: Hayal dahi bir simotograftır.
 
-[^Hâşiye30]: Bu sual-cevap dahi her zaman yaşayabileceğinden o kırk sene evvelki ders şimdi dahi lüzumludur, yaşar.
+[^hâşiye30]: Bu sual-cevap dahi her zaman yaşayabileceğinden o kırk sene evvelki ders şimdi dahi lüzumludur, yaşar.
 
-[^Hâşiye31]: Dur, geçme, anla! Yani iyilikleri reislere, fenalıkları zamana verip şetimle şekva ederler.
+[^hâşiye31]: Dur, geçme, anla! Yani iyilikleri reislere, fenalıkları zamana verip şetimle şekva ederler.
 
-[^Hâşiye32]: Ehemmiyetli bir cevaptır.
+[^hâşiye32]: Ehemmiyetli bir cevaptır.
 
-[^Hâşiye33]: Demek kuvve-i maneviyeleri kırılmamış.
+[^hâşiye33]: Demek kuvve-i maneviyeleri kırılmamış.
 
-[^Hâşiye34]: İstersen dikkat et. O zaman Ermeni Mebusu Vartakis ve Hakkari Mebusu Seyyid Molla Tahir’e işaret eder.
+[^hâşiye34]: İstersen dikkat et. O zaman Ermeni Mebusu Vartakis ve Hakkari Mebusu Seyyid Molla Tahir’e işaret eder.
 
-[^Hâşiye35]: Türkler ve Kürtler şecaat fenninde allâme olduklarından ben sâil, onlar mücîb olabilirler.
+[^hâşiye35]: Türkler ve Kürtler şecaat fenninde allâme olduklarından ben sâil, onlar mücîb olabilirler.
 
-[^Hâşiye36]: Milliyetimiz bir vücuddur; ruhu İslâmiyet, aklı Kur’an ve imandır.
+[^hâşiye36]: Milliyetimiz bir vücuddur; ruhu İslâmiyet, aklı Kur’an ve imandır.
 
-[^Hâşiye37]: Kırk beş sene evvel bedevî aşâire olan bu dersler, şimdi Nur’un şakirdlerine de bir ders olabilir diye kalbime ihtar edildi. Ben de Medresetü’z-Zehra erkânına havale ederim. Lüzumsuz, münasip olmayan kelimeleri çıkarıp bu zamana ve Nurculara muvafık kısmını yazsınlar. Tâ Eski Said dahi bir Nurcu olsun, o zamanda münferid kalmasın.
+[^hâşiye37]: Kırk beş sene evvel bedevî aşâire olan bu dersler, şimdi Nur’un şakirdlerine de bir ders olabilir diye kalbime ihtar edildi. Ben de Medresetü’z-Zehra erkânına havale ederim. Lüzumsuz, münasip olmayan kelimeleri çıkarıp bu zamana ve Nurculara muvafık kısmını yazsınlar. Tâ Eski Said dahi bir Nurcu olsun, o zamanda münferid kalmasın.
 
-[^Hâşiye38]: Darılma, şu kelâm zekâtın postunu giymiş.
+[^hâşiye38]: Darılma, şu kelâm zekâtın postunu giymiş.
 
-[^Hâşiye39]: Bazı sualler komşu görünüyor. Lâkin ortalarında büyük bir dere var. Hayal bir balona binse ve eline bir dürbün alsa ancak vatanlarını bulabilir.
+[^hâşiye39]: Bazı sualler komşu görünüyor. Lâkin ortalarında büyük bir dere var. Hayal bir balona binse ve eline bir dürbün alsa ancak vatanlarını bulabilir.
 
-[^Hâşiye40]: Madem muhataplar içine Nurcular girdiler. Sıdk kelimesine ihlas, sadakat, sebat, tesanüd gibi kelimeler ilâve olur.
+[^hâşiye40]: Madem muhataplar içine Nurcular girdiler. Sıdk kelimesine ihlas, sadakat, sebat, tesanüd gibi kelimeler ilâve olur.
 
-[^Hâşiye41]: Madem Nurcular Mamhuran içine girmişler “şeyh-i meşrutiyet” yerine, Ahrar perdesi ve hamiyet-i İslâmiye ve milliye altında, ittihad-ı Muhammedî dairesinde şeyh-i Risaletü’n-Nur denilmeli.
+[^hâşiye41]: Madem Nurcular Mamhuran içine girmişler “şeyh-i meşrutiyet” yerine, Ahrar perdesi ve hamiyet-i İslâmiye ve milliye altında, ittihad-ı Muhammedî dairesinde şeyh-i Risaletü’n-Nur denilmeli.
 
-[^Hâşiye42]: Evet kırk beş sene sonra Pakistan, Arabistan aşâiri dahi hâkimiyet ve istiklallerini kazandılar. Eski Said’i bu dersinde tasdik ediyorlar ve daha edecekler.
+[^hâşiye42]: Evet kırk beş sene sonra Pakistan, Arabistan aşâiri dahi hâkimiyet ve istiklallerini kazandılar. Eski Said’i bu dersinde tasdik ediyorlar ve daha edecekler.
 
-[^Hâşiye43]: Şu birbirinden uzak suallerden senin hayalin atlamakla jimnastiğe alışır. Lâkin dikkat et; bir şey ayağına dolaşıp, düşüttürüp ayağı kırılmasın.
+[^hâşiye43]: Şu birbirinden uzak suallerden senin hayalin atlamakla jimnastiğe alışır. Lâkin dikkat et; bir şey ayağına dolaşıp, düşüttürüp ayağı kırılmasın.
 
-[^Hâşiye44]: Şu ibare, kendine hediye olunan ve mevzuun fabrikasından çıkan yerli bir üslubu giymiştir.
+[^hâşiye44]: Şu ibare, kendine hediye olunan ve mevzuun fabrikasından çıkan yerli bir üslubu giymiştir.
 
-[^Hâşiye45]: Şu üslup, bir silsilenin mübarek hırkalarının parçalarından dikilmiştir. Yani Şah-ı Nakşibend, İmam-ı Rabbanî, Hâlid Ziyaeddin, Seyyid Taha, Seyyid Sıbgatullah ve Seyda gibi evliyaya işaret var.
+[^hâşiye45]: Şu üslup, bir silsilenin mübarek hırkalarının parçalarından dikilmiştir. Yani Şah-ı Nakşibend, İmam-ı Rabbanî, Hâlid Ziyaeddin, Seyyid Taha, Seyyid Sıbgatullah ve Seyda gibi evliyaya işaret var.
 
-[^Hâşiye46]: şiye: Şu müselsel üsluptaki fıkralar; her biri İslâmiyet’in bir şuâına, bir hüsnüne, bir seciyesine, bir rabıtasına, bir temeline işarettir.
+[^hâşiye46]: şiye: Şu müselsel üsluptaki fıkralar; her biri İslâmiyet’in bir şuâına, bir hüsnüne, bir seciyesine, bir rabıtasına, bir temeline işarettir.
 
-[^Hâşiye47]: Lisan-ı Arabî’nin elzemiyetini düşündüğüm vakitte söylemişim.
+[^hâşiye47]: Lisan-ı Arabî’nin elzemiyetini düşündüğüm vakitte söylemişim.
 
-[^Hâşiye48]: Mürşidler şu tekkede, yani bu ibarette toplanmışlar. Ziyaret etmeden geçme. Yani hem Mevlevî hem Kādirî hem Nakşî hem Bektaşî’ye işaret var.
+[^hâşiye48]: Mürşidler şu tekkede, yani bu ibarette toplanmışlar. Ziyaret etmeden geçme. Yani hem Mevlevî hem Kādirî hem Nakşî hem Bektaşî’ye işaret var.
 
-[^Hâşiye49]: Şu iki noktaya dikkat ile kıymet versen fena olmaz.
+[^hâşiye49]: Şu iki noktaya dikkat ile kıymet versen fena olmaz.
 
-[^Hâşiye50]: Bir Arnavut tarafından vuku bulan sualdir.
+[^hâşiye50]: Bir Arnavut tarafından vuku bulan sualdir.
 
-[^Hâşiye51]: İşte o kıyaslar, maneviyatı maddiyata kıyas edip Avrupa sözünü onda dahi hüccet tutmak. Hem de bazı fünunda meşhur olanların, başkasında da sözünü hüccet tutmak. Hem de bazı fünun-u cedideyi bilmeyen ulemanın sözünü, ulûm-u diniyede dahi kabul etmemek. Hem de fünun-u cedidede mahareti için gurura gelip dinde de nefsine itimat etmek. Hem de selefi halefe, maziyi hale kıyas edip haksız itirazda bulunmak gibi fâsid kıyaslardır.
+[^hâşiye51]: İşte o kıyaslar, maneviyatı maddiyata kıyas edip Avrupa sözünü onda dahi hüccet tutmak. Hem de bazı fünunda meşhur olanların, başkasında da sözünü hüccet tutmak. Hem de bazı fünun-u cedideyi bilmeyen ulemanın sözünü, ulûm-u diniyede dahi kabul etmemek. Hem de fünun-u cedidede mahareti için gurura gelip dinde de nefsine itimat etmek. Hem de selefi halefe, maziyi hale kıyas edip haksız itirazda bulunmak gibi fâsid kıyaslardır.
 
-[^Hâşiye52]: Şu Medresetü’z-Zehraya dair mebahisi, Hürriyetin üçüncü senesinde nutuk suretiyle Bitlis’te, Van’da, Diyarbekir’de, daha birçok yerlerde ahaliye ders verdim. Umumen dediler: “Hakikattir hem mümkündür.” Demek diyebilirim ki ben bu meselede onların tercümanıyım.
+[^hâşiye52]: Şu Medresetü’z-Zehraya dair mebahisi, Hürriyetin üçüncü senesinde nutuk suretiyle Bitlis’te, Van’da, Diyarbekir’de, daha birçok yerlerde ahaliye ders verdim. Umumen dediler: “Hakikattir hem mümkündür.” Demek diyebilirim ki ben bu meselede onların tercümanıyım.
 
-[^Hâşiye53]: İhtar: Ey kendini havas zanneden ehl-i siyaset ve ehl-i hükûmet! Yeisi kırmak için avama ders ve hitap olan şu kitabı senet tutup teselli etmeyiniz. Zira sizin sû-i istimaliniz, onların sû-i tefehhümünden daha ziyade sû-i tesir eder. Size bir ders vermek için zamanı tevkil eyledim. Dersini dinlemediniz, dehşetli tokadını yediniz.
+[^hâşiye53]: İhtar: Ey kendini havas zanneden ehl-i siyaset ve ehl-i hükûmet! Yeisi kırmak için avama ders ve hitap olan şu kitabı senet tutup teselli etmeyiniz. Zira sizin sû-i istimaliniz, onların sû-i tefehhümünden daha ziyade sû-i tesir eder. Size bir ders vermek için zamanı tevkil eyledim. Dersini dinlemediniz, dehşetli tokadını yediniz.
 
-[^Hâşiye54]: Ey ehl-i medaris, meyus olmayınız! Şimdi ilim ve fen hâkimdir. Her neviyle teali edecek. En a’lâsı en âlî tabakaya çıkacak.
+[^hâşiye54]: Ey ehl-i medaris, meyus olmayınız! Şimdi ilim ve fen hâkimdir. Her neviyle teali edecek. En a’lâsı en âlî tabakaya çıkacak.
 
-[^Hâşiye55]: Şeyhin kerameti şeyhten rivayet, lâkin tahdis-i nimet dahi bir şükürdür.
+[^hâşiye55]: Şeyhin kerameti şeyhten rivayet, lâkin tahdis-i nimet dahi bir şükürdür.
 
-[^Hâşiye56]: Adaletin tevziinde adalet olmazsa zulüm görünür. Bir hatır için bin hatır kırılmaz. Şiddet ayrı, hamiyet ayrıdır. Bir hodpesend hakkı iltizam etse çokları haksızlığa sevk eder belki mecbur eder.
+[^hâşiye56]: Adaletin tevziinde adalet olmazsa zulüm görünür. Bir hatır için bin hatır kırılmaz. Şiddet ayrı, hamiyet ayrıdır. Bir hodpesend hakkı iltizam etse çokları haksızlığa sevk eder belki mecbur eder.
 
-[^Hâşiye57]: Şimdi anlıyorum ki ne dediğimi anlamıyorsunuz. Zira ben siz oluyorum, anlamıyorum. Şunun büyük kardeşi olan “Ulema Reçetesi” daha mübhem konuşuyor. Demek beraber gezmekliğim lâzım. İşte ben de hayalimi terfik ettim.
+[^hâşiye57]: Şimdi anlıyorum ki ne dediğimi anlamıyorsunuz. Zira ben siz oluyorum, anlamıyorum. Şunun büyük kardeşi olan “Ulema Reçetesi” daha mübhem konuşuyor. Demek beraber gezmekliğim lâzım. İşte ben de hayalimi terfik ettim.
 

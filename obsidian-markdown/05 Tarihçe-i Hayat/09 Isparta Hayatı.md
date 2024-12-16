@@ -40,7 +40,7 @@ Isparta’da teksir makinesiyle Nur mecmualarının neşrine devam ediliyordu. �
 
 Afyon Mahkemesinin Risale-i Nur’u müsadere kararını, Mahkeme-i Temyiz esastan bozdu. Bozma kararında ileri sürdüğü sebeplerden birisi: Kararnamede suç unsuru gösterilen risalelerin, Denizli Ağır Ceza Mahkemesinde beraet eden eserlerden olup olmadığının zikredilmediği; şayet beraet edip iade edilen eserlerden ise kararın yanlış olacağı hem Temyiz’in tasdikinden geçip kaziye-i muhkeme haline gelen bir davanın yeniden taht-ı muhakemeye alınışının kanuna uygunsuz olduğudur.
 
-Temyiz’in bozma kararından sonra Afyon’da tekrar duruşma başladı. Bu şekilde mahkeme devam ederken iktidarı ele alan Demokrat Parti Hükûmeti, umumî af ilan etti. Afyon Mahkemesi de af kanununun daire-i şümulüne girdiği için dosya ortadan kaldırıldı. [^Hâşiye1]
+Temyiz’in bozma kararından sonra Afyon’da tekrar duruşma başladı. Bu şekilde mahkeme devam ederken iktidarı ele alan Demokrat Parti Hükûmeti, umumî af ilan etti. Afyon Mahkemesi de af kanununun daire-i şümulüne girdiği için dosya ortadan kaldırıldı. [^hâşiye1]
 
 ***
 
@@ -929,7 +929,7 @@ Risale-i Nur’un Anadolu’dan başka diğer Müslüman memleketlerde yayılmas
 
 ***
 
-[^Hâşiye1]: Fakat mahkeme heyeti, Risale-i Nur eserlerinin beraetine karar vermedi, müsaderesine karar verdi. Bu karar 1956 tarihine kadar devam etti. Mahkeme iki defa Nur Risalelerine müsadere kararı verdi. Temyiz Mahkemesi bu iki kararı da bozdu. Afyon Mahkemesi, Temyiz’in kararına uyarak Nurların beraetine karar verdi. Bu sefer Temyiz, usûlde noksanlık yüzünden bozdu ve eserlerin Diyanet İşlerince tetkikini istedi. Diyanet İşleri Müşavere Kurulunca bütün eserler tetkik ettirildi. Neticede Nurların hakikatini bir derece belirten bir rapor verildi.
+[^hâşiye1]: Fakat mahkeme heyeti, Risale-i Nur eserlerinin beraetine karar vermedi, müsaderesine karar verdi. Bu karar 1956 tarihine kadar devam etti. Mahkeme iki defa Nur Risalelerine müsadere kararı verdi. Temyiz Mahkemesi bu iki kararı da bozdu. Afyon Mahkemesi, Temyiz’in kararına uyarak Nurların beraetine karar verdi. Bu sefer Temyiz, usûlde noksanlık yüzünden bozdu ve eserlerin Diyanet İşlerince tetkikini istedi. Diyanet İşleri Müşavere Kurulunca bütün eserler tetkik ettirildi. Neticede Nurların hakikatini bir derece belirten bir rapor verildi.
 
 Ehl-i vukufun mezkûr raporuna istinaden Afyon Mahkemesi, Haziran 1956 tarihinde ittifakla Nurların beraetine ve serbestiyetine karar verdi. Karar kat’îleşti. Artık bu tarihten sonra merkez-i hükûmette Risale-i Nur mecmuaları matbaalarda tabedilmeye başladı.
 

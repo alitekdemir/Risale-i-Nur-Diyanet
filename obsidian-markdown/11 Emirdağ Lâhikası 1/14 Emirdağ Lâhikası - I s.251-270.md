@@ -237,7 +237,7 @@ diye imzasını atmış. Ve o fıkrasında tahrif ve nesholunan kütüb-ü münz
 
 O zat, on dokuzuncu asrın en akıllı ve en büyük bir feylesofu ve siyasetin ve içtimaiyat-ı beşeriyenin en mühim bir şahsiyeti olması hem âlem-i İslâm istiklaliyetini bir derece elde etmesi ve ecnebi hükûmetlerin hakaik-i Kur’aniyeyi araması ve Garp ve Şimal-i Garbîde Kur’an lehinde büyük bir cereyan bulunması hem Amerika’nın en yüksek ve meşhur feylesofu olan Mister Karlayl dahi aynen Bismark gibi demiş:
 
-“Başka kitaplar, hiçbir cihette Kur’an’a yetişemez. Hakiki söz odur, onu dinlemeliyiz.” diye kat’î karar vermesi [^Hâşiye1] ve Nurların da her tarafta fütuhatı ve ileri gitmesi, büyük bir fâl-i hayırdır ki ecnebide çok Bismarklar ve Mister Karlayllar çıkacaklar ve emareleri de var diye Nurculara bir bayram hediyesi olarak takdim ediyoruz ve Bismark’ın fıkrasını leffen gönderiyoruz.
+“Başka kitaplar, hiçbir cihette Kur’an’a yetişemez. Hakiki söz odur, onu dinlemeliyiz.” diye kat’î karar vermesi [^hâşiye1] ve Nurların da her tarafta fütuhatı ve ileri gitmesi, büyük bir fâl-i hayırdır ki ecnebide çok Bismarklar ve Mister Karlayllar çıkacaklar ve emareleri de var diye Nurculara bir bayram hediyesi olarak takdim ediyoruz ve Bismark’ın fıkrasını leffen gönderiyoruz.
 
 İnebolu kahramanlarından Berber Ali Osman’ın masum mahdumunun güzel yazısıyla gönderdiği mektuba baktım, birden hatırıma geldi: Üç mühim Nur merkezinde üç berber tam birbirine benzer bir tarzda Nur’a büyük hizmetleri hem her birisi çocuklarıyla Nur’a çalışmaları, beni mesrur eyledi. Berber Burhan, Berber Hıfzı, Berber Ali Osman; Nur’un birer kıymetli kahramanlarıdır. Allah onları çoluk ve çocuklarıyla dünyada ve âhirette mesud etsin, âmin!
 
@@ -263,5 +263,5 @@ Safranbolu kahramanı berber Hıfzı; Hüsnü, Yılmaz iki masum Nurcu mahdumlar
 
 ***
 
-[^Hâşiye1]: Risale-i Nur’dan Arabî İşaratü’l-İ’caz tefsiri otuz sene evvel, onun bu kıymetli hakperestane hükmüne işaret etmiş.
+[^hâşiye1]: Risale-i Nur’dan Arabî İşaratü’l-İ’caz tefsiri otuz sene evvel, onun bu kıymetli hakperestane hükmüne işaret etmiş.
 

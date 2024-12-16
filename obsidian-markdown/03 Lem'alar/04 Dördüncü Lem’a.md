@@ -101,9 +101,9 @@ Ey ehl-i hak olan Ehl-i Sünnet ve Cemaat! Ve ey Âl-i Beyt’in muhabbetini mes
 ### İkinci Makam
 <p class="arabic" dir="rtl">فَاِنْ تَوَلَّوْا فَقُلْ حَسْبِىَ اللّٰهُ لَٓا اِلٰهَ اِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظٖيمِ</p>
 
-âyetinin ikinci hakikatine dair olacak. [^Hâşiye1]
+âyetinin ikinci hakikatine dair olacak. [^hâşiye1]
 
 ***
 
-[^Hâşiye1]: Bu İkinci Makam, On Birinci Lem’a olarak telif edilmiştir.
+[^hâşiye1]: Bu İkinci Makam, On Birinci Lem’a olarak telif edilmiştir.
 

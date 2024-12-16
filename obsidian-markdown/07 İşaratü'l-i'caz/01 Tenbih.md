@@ -25,7 +25,7 @@ Eğer Birinci Harb-i Umumî gibi maniler olmasaydı tefsirin şu birinci cildi, 
 
 Zaten Risale-i Nur’un mesleği odur ki zihinlerde bir iz bırakmamak için sair ulemaya muhalif olarak, muarızların şüphelerini zikretmeden öyle bir cevap verir ki daha vehim ve vesveseye yer kalmaz. Eski Said bu tefsirde Risale-i Nur gibi, zihinleri bulandırmamak için yalnız belâgat noktasında lafzın delâletine ve işaratına ehemmiyet vermiş.
 
-**İkinci Nükte:** Madem Kur’an-ı Hakîm’in her harfinin okunmasıyla öyle bir kıymeti olur ki bir harf on, yüz, bin ve binler sevabı ve bâki meyve-i uhrevîyi verecek mahiyettedir. Elbette Eski Said’in bu tefsirinde bir saç gibi bir zerre gibi Kur’an’ın kelimatına temas eden nükteleri izah etmesi israf değil, ehemmiyetsiz değil. Belki göz kapaklarının kirpikleri ve belki göz bebeğinin zerreleri gibi kıymetli olduğunu hissetmiş ki o dehşetli harp içinde bu incecik saç gibi münasebetleri yazmaktan ve düşünmekten, avcı hattında düşman gülleleri onu şaşırtmamış, ondan vazgeçirmemiş. [^Hâşiye1]
+**İkinci Nükte:** Madem Kur’an-ı Hakîm’in her harfinin okunmasıyla öyle bir kıymeti olur ki bir harf on, yüz, bin ve binler sevabı ve bâki meyve-i uhrevîyi verecek mahiyettedir. Elbette Eski Said’in bu tefsirinde bir saç gibi bir zerre gibi Kur’an’ın kelimatına temas eden nükteleri izah etmesi israf değil, ehemmiyetsiz değil. Belki göz kapaklarının kirpikleri ve belki göz bebeğinin zerreleri gibi kıymetli olduğunu hissetmiş ki o dehşetli harp içinde bu incecik saç gibi münasebetleri yazmaktan ve düşünmekten, avcı hattında düşman gülleleri onu şaşırtmamış, ondan vazgeçirmemiş. [^hâşiye1]
 
 **Üçüncü Nükte:** Türkçeye tercümesi Arapçadaki cezalet, belâgat ve hârika kıymetini muhafaza edememiş. Bazen de muhtasar gitmiş. Onun için münafıklar hakkındaki uzun tafsilatın bir kısmını neşretmemek niyet ettim. Fakat Kur’an’a ait olması cihetiyle Kur’an’a ait bir zerrenin de kıymeti büyüktür. Belki bazılara da faydası vardır.
 
@@ -55,7 +55,7 @@ Bu sebepten, bütün tefsirlerde görünen ve sarahat, işaret, remiz, îma, tel
 
 ***
 
-[^Hâşiye1]: Acaba böyle bir adam, hiç mümkün müdür ki dini siyasete, dünyaya âlet etsin. Bu ithamı yapanların ne derece adaletten hariç bir zulüm ettikleri anlaşılır.
+[^hâşiye1]: Acaba böyle bir adam, hiç mümkün müdür ki dini siyasete, dünyaya âlet etsin. Bu ithamı yapanların ne derece adaletten hariç bir zulüm ettikleri anlaşılır.
 
 Nur talebelerinden
 

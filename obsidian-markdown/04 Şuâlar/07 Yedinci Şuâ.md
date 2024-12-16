@@ -20,7 +20,7 @@ Bu risalenin fehmini işkâl eden beş sebep var:
 
 **Beşincisi:** Ben ramazanın feyziyle bu risalenin nurlarına mazhar olmaklığımla beraber, birkaç cihette halim perişan ve birkaç hastalıkla vücudum sarsıldığı bir zamanda acele yazılıp birinci müsvedde ile iktifa edildi. Hem yazdığım vakit, irade ve ihtiyarım ile olmadığını hissettiğimden, kendi fikrimle tanzim veya ıslah etmeyi muvafık görmediğim için bir parça fehmi işkâl edecek bir vaziyet aldı. Hem Arabî fıkralar içine çok girdi. Hattâ Birinci Makam baştan başa Arabî olduğundan içinden çıkarıldı, müstakil yazıldı.
 
-Medar-ı kusur ve işkâl olan bu beş sebeple beraber, bu risalenin öyle bir ehemmiyeti var ki İmam-ı Ali (ra) keramat-ı gaybiyesinde bu risaleye “Âyet-i Kübra” ve “Asâ-yı Musa” namlarını vermiş. Risale-i Nur’un risaleleri içinde buna hususi bakıp nazar-ı dikkati celbetmiş. [^Hâşiye1] “El-Âyetü’l-Kübra”nın bir hakiki tefsiri olan bu Âyetü’l-Kübra Risalesi, Hazret-i İmam’ın (ra) tabirince “Asâ-yı Musa” namında “Yedinci Şuâ” kitabıdır.
+Medar-ı kusur ve işkâl olan bu beş sebeple beraber, bu risalenin öyle bir ehemmiyeti var ki İmam-ı Ali (ra) keramat-ı gaybiyesinde bu risaleye “Âyet-i Kübra” ve “Asâ-yı Musa” namlarını vermiş. Risale-i Nur’un risaleleri içinde buna hususi bakıp nazar-ı dikkati celbetmiş. [^hâşiye1] “El-Âyetü’l-Kübra”nın bir hakiki tefsiri olan bu Âyetü’l-Kübra Risalesi, Hazret-i İmam’ın (ra) tabirince “Asâ-yı Musa” namında “Yedinci Şuâ” kitabıdır.
 
 Bu “Yedinci Şuâ” bir mukaddime ve iki makamdır. Mukaddimesi dört mesele-i mühimmeyi, Birinci Makamı Âyet-i Kübra’nın tefsirinden Arabî kısmını, İkinci Makamı onun bürhanlarını ve tercümesini ve mealini beyan ederler.
 
@@ -151,7 +151,7 @@ Evet hiçten, birden hârika bir gürültü ile cevvi konuşturmak ve fevkalâde
 
 <p class="arabic" dir="rtl">لَا اِلٰهَ اِلَّا اللّٰهُ الْوَاجِبُ الْوُجُودِ الَّذٖى دَلَّ عَلٰى وُجُوبِ وُجُودِهِ الْجَوُّ بِجَمٖيعِ مَا فٖيهِ بِشَهَادَةِ عَظَمَةِ اِحَاطَةِ حَقٖيقَةِ التَّسْخٖيرِ وَ التَّصْرٖيفِ وَ التَّنْزٖيلِ وَ التَّدْبٖيرِ الْوَاسِعَةِ الْمُكَمَّلَةِ بِالْمُشَاهَدَةِ</p>
 
-fıkrası, bu yolcunun cevve dair mezkûr müşahedatını ifade eder. [^Hâşiye2]
+fıkrası, bu yolcunun cevve dair mezkûr müşahedatını ifade eder. [^hâşiye2]
 
 ***
 
@@ -847,7 +847,7 @@ Sonra o seyyah-ı âlem asırlarda gezerken müceddid-i elf-i sânî, İmam-ı R
 
 “Bütün tarîkatların en mühim neticesi, hakaik-i imaniyenin inkişafıdır.” ve “Bir tek mesele-i imaniyenin vuzuh ile inkişafı, bin keramata ve ezvaka müreccahtır.” Hem diyordu:
 
-Eski zamanda, büyük zatlar demişler ki: “Mütekellimînden ve ilm-i kelâm ulemasından birisi gelecek, bütün hakaik-i imaniye ve İslâmiyeyi delail-i akliye ile kemal-i vuzuh ile ispat edecek.” Ben istiyorum ki ben o olsam belki [^Hâşiye3] o adamım, diye iman ve tevhid bütün kemalât-ı insaniyenin esası, mâyesi, nuru, hayatı olduğunu ve <span class="arabic" dir="rtl">تَفَكُّرُ سَاعَةٍ خَيْرٌ مِنْ عِبَادَةِ سَنَةٍ</span> düsturu, tefekkürat-ı imaniyeye ait bulunması ve Nakşî tarîkatında hafî zikrin ehemmiyeti ise bu çok kıymettar tefekkürün bir nevi olmasıdır, diye talim ederdi.
+Eski zamanda, büyük zatlar demişler ki: “Mütekellimînden ve ilm-i kelâm ulemasından birisi gelecek, bütün hakaik-i imaniye ve İslâmiyeyi delail-i akliye ile kemal-i vuzuh ile ispat edecek.” Ben istiyorum ki ben o olsam belki [^hâşiye3] o adamım, diye iman ve tevhid bütün kemalât-ı insaniyenin esası, mâyesi, nuru, hayatı olduğunu ve <span class="arabic" dir="rtl">تَفَكُّرُ سَاعَةٍ خَيْرٌ مِنْ عِبَادَةِ سَنَةٍ</span> düsturu, tefekkürat-ı imaniyeye ait bulunması ve Nakşî tarîkatında hafî zikrin ehemmiyeti ise bu çok kıymettar tefekkürün bir nevi olmasıdır, diye talim ederdi.
 
 Seyyah tamamıyla işitti. Döndü, nefsine dedi ki: Madem bu kahraman imam böyle diyor ve madem bir zerre kuvvet-i imaniyenin ziyadeleşmesi, bir batman marifet ve kemalâttan daha kıymetlidir ve yüz ezvakın balından daha tatlıdır. Ve madem bin seneden beri iman ve Kur’an aleyhinde teraküm eden Avrupa feylesoflarının itirazları ve şüpheleri yol bulup ehl-i imana hücum ediyor. Ve bir saadet-i ebediyenin ve bir hayat-ı bâkiyenin ve bir cennet-i daimenin anahtarı, medarı, esası olan erkân-ı imaniyeyi sarsmak istiyorlar. Elbette her şeyden evvel imanımızı taklitten tahkike çevirip kuvvetlendirmeliyiz.
 
@@ -978,9 +978,9 @@ Bugünlerde, manevî bir muhaverede bir sual ve cevabı dinledim. Size bir hül�
 
 ***
 
-[^Hâşiye1]: Evet İmam-ı Ali’nin (ra) Âyetü’l-Kübra hakkında verdiği haberi, tam tamına Denizli hâdisesi tasdik etti. Çünkü bu risalenin gizli tabı hapsimize bir vesile oldu ve onun kudsî ve çok kuvvetli hakikatinin galebesi, beraet ve necatımıza ehemmiyetli bir sebep oldu. Ve İmam-ı Ali’nin (ra) keramet-i gaybiyesini gözlere de gösterdi ve hakkımızdaki <span class="arabic" dir="rtl">وَ بِالْاٰيَةِ الْكُبْرٰى اَمِنّٖى مِنَ الْفَجَتْ</span> duasının kabulünü ispat etti.
+[^hâşiye1]: Evet İmam-ı Ali’nin (ra) Âyetü’l-Kübra hakkında verdiği haberi, tam tamına Denizli hâdisesi tasdik etti. Çünkü bu risalenin gizli tabı hapsimize bir vesile oldu ve onun kudsî ve çok kuvvetli hakikatinin galebesi, beraet ve necatımıza ehemmiyetli bir sebep oldu. Ve İmam-ı Ali’nin (ra) keramet-i gaybiyesini gözlere de gösterdi ve hakkımızdaki <span class="arabic" dir="rtl">وَ بِالْاٰيَةِ الْكُبْرٰى اَمِنّٖى مِنَ الْفَجَتْ</span> duasının kabulünü ispat etti.
 
-[^Hâşiye2]: **İhtar:** Birinci Makam’da geçen otuz üç mertebe-i tevhidi bir parça izah etmek isterdim. Fakat şimdiki vaziyetim ve halimin müsaadesizliği cihetiyle, yalnız gayet muhtasar bürhanlarına ve mealinin tercümesine iktifaya mecbur oldum. Risale-i Nur’un otuz, belki yüz risalelerinde bu otuz üç mertebe, delilleriyle, ayrı ayrı tarzlarda, her bir risalede bir kısım mertebeler beyan edildiğinden tafsili onlara havale edilmiş.
+[^hâşiye2]: **İhtar:** Birinci Makam’da geçen otuz üç mertebe-i tevhidi bir parça izah etmek isterdim. Fakat şimdiki vaziyetim ve halimin müsaadesizliği cihetiyle, yalnız gayet muhtasar bürhanlarına ve mealinin tercümesine iktifaya mecbur oldum. Risale-i Nur’un otuz, belki yüz risalelerinde bu otuz üç mertebe, delilleriyle, ayrı ayrı tarzlarda, her bir risalede bir kısım mertebeler beyan edildiğinden tafsili onlara havale edilmiş.
 
-[^Hâşiye3]: Zaman ispat etti ki o adam, adam değil, Risale-i Nur’dur. Belki ehl-i keşif, Risale-i Nur’u ehemmiyetsiz olan tercümanı ve nâşiri suretinde –keşiflerinde– müşahede etmişler “bir adam” demişler.
+[^hâşiye3]: Zaman ispat etti ki o adam, adam değil, Risale-i Nur’dur. Belki ehl-i keşif, Risale-i Nur’u ehemmiyetsiz olan tercümanı ve nâşiri suretinde –keşiflerinde– müşahede etmişler “bir adam” demişler.
 

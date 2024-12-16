@@ -94,7 +94,7 @@ Birinci yol: O kabir, ehl-i iman için bu dünyadan daha güzel bir âlemin kap�
 
 Madem ecel gizlidir; her vakit ölüm, başını kesmek için gelebiliyor ve genç ihtiyar farkı yoktur. Elbette daima gözü önünde öyle büyük dehşetli bir mesele karşısında bîçare insan; o idam-ı ebedî, o dipsiz, nihayetsiz haps-i münferidden kurtulmak çaresini aramak ve kabir kapısını bir âlem-i bâkiye, bir saadet-i ebediyeye ve âlem-i nura açılan bir kapıya kendi hakkında çevirmek hâdisesi; o insanın dünya kadar büyük bir meselesidir.
 
-Bu kat’î hakikat, bu üç yol ile bulunduğunda ve bu üç yolun da mezkûr üç hakikat ile olacağını ihbar eden yüz yirmi dört bin muhbir-i sadık, ellerinde nişane-i tasdik olan mu’cizeler bulunan enbiyalar ve o enbiyaların haber verdikleri aynı haberleri, keşif ve zevk ve şuhud ile tasdik eden ve imza basan yüz yirmi dört milyon evliyanın aynı hakikate şehadetleri ve hadd ü hesaba gelmeyen muhakkiklerin kat’î delilleriyle o enbiya ve evliyanın verdikleri aynı haberleri aklen, ilmelyakîn derecesinde [^Hâşiye1] ispat ettikleri ve yüzde doksan dokuz ihtimal-i kat’î ile “İdam ve zindan-ı ebedîden kurtulmak ve o yolu saadet-i ebediyeye çevirmek, yalnız iman ve itaat iledir.” diye ittifaken haber veriyorlar.
+Bu kat’î hakikat, bu üç yol ile bulunduğunda ve bu üç yolun da mezkûr üç hakikat ile olacağını ihbar eden yüz yirmi dört bin muhbir-i sadık, ellerinde nişane-i tasdik olan mu’cizeler bulunan enbiyalar ve o enbiyaların haber verdikleri aynı haberleri, keşif ve zevk ve şuhud ile tasdik eden ve imza basan yüz yirmi dört milyon evliyanın aynı hakikate şehadetleri ve hadd ü hesaba gelmeyen muhakkiklerin kat’î delilleriyle o enbiya ve evliyanın verdikleri aynı haberleri aklen, ilmelyakîn derecesinde [^hâşiye1] ispat ettikleri ve yüzde doksan dokuz ihtimal-i kat’î ile “İdam ve zindan-ı ebedîden kurtulmak ve o yolu saadet-i ebediyeye çevirmek, yalnız iman ve itaat iledir.” diye ittifaken haber veriyorlar.
 
 Acaba yüzde bir ihtimal-i helâket bulunan bir tehlike yolunda gitmemek için bir tek muhbirin sözü nazara alınsa ve onun sözünü dinlemeyip o yolda giden adamın, endişe-i helâketten gelen elem-i manevî, onun yemek iştihasını kaçırdığı halde; böyle yüz binler sadık ve musaddak muhbirlerin yüzde yüz ihtimal ile dalalet ve sefahet göz önündeki kabir darağacına ve ebedî haps-i münferidine kat’î sebep olduğunu ve iman, ubudiyet yüzde yüz ihtimal ile o darağacını kaldırıp o haps-i münferidi kapatıp şu göz önündeki kabri, bir hazine-i ebediyeye, bir saray-ı saadete açılan bir kapıya çeviriyor diye ihbar eden ve emarelerini ve âsârlarını gösterdikleri halde, bu acib ve garib ve dehşetli ve azametli mesele karşısında bulunan bîçare insan ve bâhusus Müslüman eğer iman ve ubudiyeti olmazsa, bütün dünya saltanatı ve lezzeti bir tek insana verilse; acaba o göz önündeki, her vakit oraya çağrılmasına nöbetini bekleyen bir insana verdiği o endişeden gelen elîm elemi kaldırabilir mi? Sizden soruyorum.
 
@@ -122,7 +122,7 @@ Ben bir gün sokağa bakarken o fitnenin tesirli bir numunesini hissettim. Genç
 
 Ey cehennem hurileri ile zevklenmek yolunda dinini feda eden ve sefihane dalaleti severek irtikâb eden ve hevesat-ı nefsiye lezzeti yolunda dinsizliği ve ilhadı kabul eden ve hayatı perestiş edip ölümden şiddetli korkan ve kabri hatırına getirmek istemeyen ve irtidada yüz tutan bedbaht! Kat’iyen bil ki dinsizlik cihetiyle senin bu koca dünyan; bu saatten evvel ve bu dakikadan sonra, bilumum senin bu kâinatın ve mazi ve müstakbelin ve geçmiş nev’in ve cinsin ve gelecek mahluklar ve nesiller ve gitmiş dünyalar ve milletler ve gelen insanlar ve taifeler tamamen ma’dum ve ölüdürler. İşte insaniyet ve akıl cihetiyle alâkadar olduğun bütün o seyyar dünyalar ve seyyal kâinatlar, mütemadiyen senin dalaletin suretiyle, senin başına dünya dolusu dehşetli ve hadsiz ölümlerin şiddetli elemlerini yağdırıyor. Senin şuurun varsa kalbini yakıyor. Ruhun varsa yandırıyor. Aklın sönmemiş ise gamlar içinde boğuyor.
 
-Eğer bir saatçik sarhoşça sefahetin ve pis lezzetin bu nihayetsiz gamlara, hüzünlere, elemlere mukabil gelebilirse o sefahette kal. Yoksa aklını başına al! O manevî cehennemden kurtulmak ve imanın bu dünyada dahi temin ettiği bir manevî cennete girmek ve saadet-i hayatiyeyi tatmak için Kur’an’ın dersini dinle. Cüz’î, fâni bir dakika lezzeti; küllî, bâki, daimî, imanî [^Hâşiye2] lezzetler ile mübadele et.
+Eğer bir saatçik sarhoşça sefahetin ve pis lezzetin bu nihayetsiz gamlara, hüzünlere, elemlere mukabil gelebilirse o sefahette kal. Yoksa aklını başına al! O manevî cehennemden kurtulmak ve imanın bu dünyada dahi temin ettiği bir manevî cennete girmek ve saadet-i hayatiyeyi tatmak için Kur’an’ın dersini dinle. Cüz’î, fâni bir dakika lezzeti; küllî, bâki, daimî, imanî [^hâşiye2] lezzetler ile mübadele et.
 
 Hem deme ki: “Ben hayvan gibi hayatımı geçireceğim.” Çünkü hayvana nisbeten mazi, müstakbel, gayb hükmündedir. Cenab-ı Hakîm-i Rahîm o gaybı onlara bildirmemekle, onları hadsiz elemlerden kurtarmış. Hattâ kesilmek için yatırılan bir tavuk, hiçbir elem ve hüzün hissetmez. Bıçak kestiği vakit hissetmek ister fakat his gider, o elemden de kurtulur. Demek, Cenab-ı Hakk’ın gayet büyük ve mükemmel bir rahmeti, re’feti ve şefkati, gaybı bildirmemektedir. Bilhassa masum hayvanlar hakkında daha tamdır. Demek, sefihane lezzette sen hayvanlara yetişemezsin. Binler derece aşağı düşersin. Çünkü hayvana nisbeten gaybî olan şeyleri senin aklın görüyor, elemini alıyor. Setr-i gaybda bulunan istirahat-i tammeden bi’l-külliye mahrumsun.
 
@@ -215,7 +215,7 @@ Risale-i Nur Talebeleri Tarafından Sorulan Bir Suale Cevap
 
 Evet, bu küre-i arza memuriyetle gönderilen her insan, burada misafir ve fâni olduğu ve mahiyeti bir hayat-ı bâkiyeye müteveccih bulunduğu kat’iyen tahakkuk etmiştir. O her bir insan, bu zamanda hayat-ı ebediyesini kurtaracak olan istinad kaleleri sarsıldığından bu dünyasını ve içindeki bütün alâkadar ahbabını ebedî terk etmekle beraber, bu dünyadan binler derece daha mükemmel bâki bir mülkü de kaybetmek veya kazanmak davası başına açılmış. Eğer iman vesikası olmazsa ve beratı ve senedi olan itikadı sağlam bir surette elde etmezse o davayı kaybeder. Acaba bu kaybettiği şeyin yerini hangi şey doldurabilir?
 
-İşte bu hakikate binaen, benim ve kardeşlerimin her birimizin yüz derece aklımız ve fikrimiz ziyadeleşse de bu muazzam vazife-i kudsiyenin hizmetine ancak kâfi gelebilir. Sair mesaile bakmak, bize fuzulî ve malayani olur. Yalnız bu kadar var ki Risale-i Nur şakirdlerinin bir kısmı öteki davalar içinde bulunduğu ve lüzumsuz, sebepsiz bazen bize akılsızların tecavüzleri ve taarruzları zamanlarında zaruret derecesinde, istemeyerek bakmışız. [^Hâşiye3]
+İşte bu hakikate binaen, benim ve kardeşlerimin her birimizin yüz derece aklımız ve fikrimiz ziyadeleşse de bu muazzam vazife-i kudsiyenin hizmetine ancak kâfi gelebilir. Sair mesaile bakmak, bize fuzulî ve malayani olur. Yalnız bu kadar var ki Risale-i Nur şakirdlerinin bir kısmı öteki davalar içinde bulunduğu ve lüzumsuz, sebepsiz bazen bize akılsızların tecavüzleri ve taarruzları zamanlarında zaruret derecesinde, istemeyerek bakmışız. [^hâşiye3]
 
 Hem de bu hakiki ve pek büyük dava haricindeki davalara ve boğuşmalara alâkadarane fikren, kalben karışmak zararlıdır. Çünkü böyle geniş, siyasî ve heyecan veren dairelere dikkat eden ve onlarla meşgul olan bir adam, kısa bir daire içinde vazifedar olduğu ehemmiyetli hizmetlerden geri kalır veya şevki kırılır.
 
@@ -348,7 +348,7 @@ Said Nursî
 Yirmi Altıncı Lem’a’dan
 
 #### Yedinci Rica
-Bir zaman ihtiyarlığımın başlangıcında, Eski Said’in gülmeleri Yeni Said’in ağlamalarına inkılab ettiği hengâmda, Ankara’daki ehl-i dünya, beni Eski Said zannedip oraya istediler; gittim. Güz mevsiminin âhirlerinde Ankara’nın benden çok ziyade ihtiyarlanmış, yıpranmış, eskimiş kalesinin başına çıktım. O kale, tahaccür etmiş hâdisat-ı tarihiye suretinde bana göründü. Senenin ihtiyarlık mevsimiyle benim ihtiyarlığım, kalenin ihtiyarlığı, beşerin ihtiyarlığı, şanlı Osmanlı Devleti’nin ihtiyarlığı ve Hilafet saltanatının vefatı ve dünyanın ihtiyarlığı; bana gayet hazîn ve rikkatli ve firkatli bir halet içinde, o yüksek kalede geçmiş zamanın derelerine ve gelecek zamanın dağlarına baktırdı ve baktım. Birbiri içinde beni ihata eden dört beş ihtiyarlık karanlıkları içinde, Ankara’da en kara bir halet-i ruhiye hissettiğimden [^Hâşiye4] bir nur, bir teselli, bir rica aradım.
+Bir zaman ihtiyarlığımın başlangıcında, Eski Said’in gülmeleri Yeni Said’in ağlamalarına inkılab ettiği hengâmda, Ankara’daki ehl-i dünya, beni Eski Said zannedip oraya istediler; gittim. Güz mevsiminin âhirlerinde Ankara’nın benden çok ziyade ihtiyarlanmış, yıpranmış, eskimiş kalesinin başına çıktım. O kale, tahaccür etmiş hâdisat-ı tarihiye suretinde bana göründü. Senenin ihtiyarlık mevsimiyle benim ihtiyarlığım, kalenin ihtiyarlığı, beşerin ihtiyarlığı, şanlı Osmanlı Devleti’nin ihtiyarlığı ve Hilafet saltanatının vefatı ve dünyanın ihtiyarlığı; bana gayet hazîn ve rikkatli ve firkatli bir halet içinde, o yüksek kalede geçmiş zamanın derelerine ve gelecek zamanın dağlarına baktırdı ve baktım. Birbiri içinde beni ihata eden dört beş ihtiyarlık karanlıkları içinde, Ankara’da en kara bir halet-i ruhiye hissettiğimden [^hâşiye4] bir nur, bir teselli, bir rica aradım.
 
 Sağa, yani mazi olan geçmiş zamana bakıp teselli ararken bana mazi, pederimin ve ecdadımın ve nevimin bir mezar-ı ekberi suretinde göründü, teselli yerine vahşet verdi.
 
@@ -606,7 +606,7 @@ Umuma binler selâm…
 
 ***
 
-### On Yedinci Söz’ün İkinci Makamı [^Hâşiye5]
+### On Yedinci Söz’ün İkinci Makamı [^hâşiye5]
 Bırak bîçare feryadı, beladan gel tevekkül kıl!
 
 Zira feryat, bela-ender, hata-ender beladır bil!
@@ -690,11 +690,11 @@ Ahbaba kavuşturur beni, kabirden darılmam, sen gibi kızmam.
 
 Rahmet kapısı, nur kapısı, hak kapısı, ondan sıkılmam, geri çekilmem.
 
-Bismillah diyerek çalıyorum [^Hâşiye6] arkama bakmam, dehşet de almam.
+Bismillah diyerek çalıyorum [^hâşiye6] arkama bakmam, dehşet de almam.
 
 Elhamdülillah diyerek rahat bulup yatacağım, zahmeti çekmem, vahşette kalmam.
 
-Allahu ekber diyerek ezan-ı haşri işitip kalkacağım [^Hâşiye7] mahşer-i ekberden çekinmem, mescid-i a’zamdan çekilmem.
+Allahu ekber diyerek ezan-ı haşri işitip kalkacağım [^hâşiye7] mahşer-i ekberden çekinmem, mescid-i a’zamdan çekilmem.
 
 Lütf-u Yezdan, nur-u Kur’an, feyz-i iman sayesinde hiç üzülmem.
 
@@ -718,11 +718,11 @@ Ve Peygamber’e hitaben der:
 
 Bismark
 
-diye imzasını atmış. [^Hâşiye8] Ve o fıkrasında tahrif ve nesholunan kütüb-ü münzeleyi ziyade tenkis ettiği için o cümleler yazılmamalı, ben de işaret ettim.
+diye imzasını atmış. [^hâşiye8] Ve o fıkrasında tahrif ve nesholunan kütüb-ü münzeleyi ziyade tenkis ettiği için o cümleler yazılmamalı, ben de işaret ettim.
 
 O zat, on dokuzuncu asrın en akıllı ve en büyük bir feylesofu ve siyasetin ve içtimaiyat-ı beşeriyenin en mühim bir şahsiyeti olması hem âlem-i İslâm istiklaliyetini bir derece elde etmesi ve ecnebi hükûmetlerin hakaik-i Kur’aniyeyi araması ve Garp ve Şimal-i Garbî’de Kur’an lehinde büyük bir cereyan bulunması hem Amerika’nın en yüksek ve meşhur feylesofu olan Mister Karlayl dahi aynen Bismark gibi demiş:
 
-“Başka kitaplar, hiçbir cihette Kur’an’a yetişemez. Hakiki söz odur, onu dinlemeliyiz.” diye kat’î karar vermesi [^Hâşiye9] ve Nurların da her tarafta fütuhatı ve ileri gitmesi, büyük bir fâl-i hayırdır ki ecnebide çok Bismarklar ve Mister Karlayllar çıkacaklar ve emareleri de var diye Nurculara bir bayram hediyesi olarak takdim ediyoruz ve Bismark’ın fıkrasını leffen gönderiyoruz.
+“Başka kitaplar, hiçbir cihette Kur’an’a yetişemez. Hakiki söz odur, onu dinlemeliyiz.” diye kat’î karar vermesi [^hâşiye9] ve Nurların da her tarafta fütuhatı ve ileri gitmesi, büyük bir fâl-i hayırdır ki ecnebide çok Bismarklar ve Mister Karlayllar çıkacaklar ve emareleri de var diye Nurculara bir bayram hediyesi olarak takdim ediyoruz ve Bismark’ın fıkrasını leffen gönderiyoruz.
 
 Umuma selâm…
 
@@ -866,7 +866,7 @@ Elhasıl: Dünyayı ve ondaki mahlukatı mana-yı harfiyle sev. Mana-yı ismiyle
 
 İşte bütün ta’dad ettiğimiz muhabbetler, eğer bu suretle olsa hem elemsiz bir lezzet verir hem bir cihette zevalsiz bir visaldir. Hem muhabbet-i İlahiyeyi ziyadeleştirir. Hem meşru bir muhabbettir. Hem ayn-ı lezzet bir şükürdür. Hem ayn-ı muhabbet bir fikirdir.
 
-Mesela, nasıl ki bir padişah-ı âlî, [^Hâşiye10] sana bir elmayı ihsan etse o elmaya iki muhabbet ve onda iki lezzet var:
+Mesela, nasıl ki bir padişah-ı âlî, [^hâşiye10] sana bir elmayı ihsan etse o elmaya iki muhabbet ve onda iki lezzet var:
 
 Biri; elma, elma olduğu için sevilir ve elmaya mahsus ve elma kadar bir lezzet var. Şu muhabbet padişaha ait değil. Belki huzurunda o elmayı ağzına atıp yiyen adam, padişahı değil, elmayı sever ve nefsine muhabbet eder. Bazen olur ki padişah o nefis-perverane olan muhabbeti beğenmez, ondan nefret eder. Hem elma lezzeti dahi cüz’îdir. Hem zeval bulur; elmayı yedikten sonra o lezzet dahi gider, bir teessüf kalır.
 
@@ -916,7 +916,7 @@ Peder ve valideye karşı muhabbetin, Cenab-ı Hak hesabına olduğu için hem b
 
 Evladına muhabbet ise: Cenab-ı Hakk’ın senin nezaretine ve terbiyene emanet ettiği sevimli, ünsiyetli o mahluklara muhabbet ise saadetli bir muhabbet, bir nimettir. Ne musibetleriyle fazla elem çekersin, ne de ölümleriyle meyusane feryat edersin. Sâbıkan geçtiği gibi onların Hâlıkları hem Hakîm hem Rahîm olduğundan onlar hakkında o mevt bir saadettir, dersin. Senin hakkında da onları sana veren zatın rahmetini düşünürsün, firak eleminden kurtulursun.
 
-Ahbaplara muhabbetin ise: Madem lillah içindir. O ahbapların firakları, hattâ ölümleri, sohbetinize ve uhuvvetinize mani olmadığı için o manevî muhabbet ve ruhanî irtibattan istifade edersin. Ve mülakat lezzeti daimî olur. Lillah için olmazsa bir günlük mülakat lezzeti, yüz günlük firak elemini netice verir. [^Hâşiye11]
+Ahbaplara muhabbetin ise: Madem lillah içindir. O ahbapların firakları, hattâ ölümleri, sohbetinize ve uhuvvetinize mani olmadığı için o manevî muhabbet ve ruhanî irtibattan istifade edersin. Ve mülakat lezzeti daimî olur. Lillah için olmazsa bir günlük mülakat lezzeti, yüz günlük firak elemini netice verir. [^hâşiye11]
 
 Enbiya ve evliyaya muhabbetin ise: Ehl-i gaflete karanlıklı bir vahşetgâh görünen âlem-i berzah, o nuranilerin vücudlarıyla tenevvür etmiş menzilgâhları suretinde sana göründüğü için o âleme gitmeye tevahhuş, tedehhüş değil belki bilakis temayül ve iştiyak hissini verir, hayat-ı dünyeviyenin lezzetini kaçırmaz. Yoksa onların muhabbeti, ehl-i medeniyetin meşahir-i insaniyeye muhabbeti nevinden olsa o kâmil insanların fena ve zevallerini ve mazi denilen mezar-ı ekberinde çürümelerini düşünmekle, elemli hayatına bir keder daha ilâve eder. Yani “Öyle kâmilleri çürüten bir mezara, ben de gideceğim.” diye düşünür; mezaristana endişeli bir nazarla bakar, “Âh!” çeker. Evvelki nazarda ise cisim libasını mazide bırakıp kendileri istikbal salonu olan berzah âleminde kemal-i rahatla ikametlerini düşünür, mezaristana ünsiyetkârane bakar.
 
@@ -978,7 +978,7 @@ Sual: O kadar büyük ve hâlî bir cennet neye yarar?
 
 Elcevap: Nasıl ki eğer mümkün olsa idi hayal süratiyle zeminin aktarını ve yıldızların ekserisini gezsen “Bütün âlem benimdir.” diyebilirsin. Melaike ve insan ve hayvanların iştirakleri, senin o hükmünü bozmaz. Öyle de o cennet dahi dolu olsa “O cennet benimdir.” diyebilirsin. Hadîste bazı ehl-i cennete verilen beş yüz senelik bir cennet sırrı, Yirmi Sekizinci Söz’de ve İhlas Lem’ası’nda beyan edilmiştir.
 
-Dokuzuncu İşaret: İman ve muhabbetullahın neticesi: Ehl-i keşif ve tahkikin ittifakıyla; dünyanın bin sene hayat-ı mesudanesi, bir saatine değmeyen cennet hayatı ve cennet hayatının dahi bin senesi, bir saat müşahedesine değmeyen bir kudsî, münezzeh cemal ve kemal sahibi olan Zat-ı Zülcelal’in müşahedesi, rü’yetidir ki [^Hâşiye12] hadîs-i kat’î ile ve Kur’an’ın nassıyla sabittir.
+Dokuzuncu İşaret: İman ve muhabbetullahın neticesi: Ehl-i keşif ve tahkikin ittifakıyla; dünyanın bin sene hayat-ı mesudanesi, bir saatine değmeyen cennet hayatı ve cennet hayatının dahi bin senesi, bir saat müşahedesine değmeyen bir kudsî, münezzeh cemal ve kemal sahibi olan Zat-ı Zülcelal’in müşahedesi, rü’yetidir ki [^hâşiye12] hadîs-i kat’î ile ve Kur’an’ın nassıyla sabittir.
 
 Hazret-i Süleyman aleyhisselâm gibi muhteşem bir kemal ile meşhur bir zatın rü’yetine iştiyaklı bir merak, Hazret-i Yusuf aleyhisselâm gibi bir cemal ile mümtaz bir zatın şuhuduna meraklı bir iştiyak; herkes vicdanen hisseder. Acaba dünyanın bütün mehasin ve kemalâtından binler derece yüksek olan cennetin bütün mehasin ve kemalâtı, bir cilve-i cemali ve kemali olan bir zatın rü’yeti, ne kadar mergub, merak-âver ve şuhudu ne derece matlub ve iştiyak-aver olduğunu kıyas edebilirsen et.
 
@@ -1512,31 +1512,31 @@ Dr. Mustafa Hilmi Ramazanoğlu
 
 ***
 
-[^Hâşiye1]: Onlardan birisi Risale-i Nur’dur, meydandadır.
+[^hâşiye1]: Onlardan birisi Risale-i Nur’dur, meydandadır.
 
-[^Hâşiye2]: Evet iman, bu dünyada dahi cennet lezaizini manen verebilir. Yüzer lezzetli ışıklarından bu tek faydasına bak:
+[^hâşiye2]: Evet iman, bu dünyada dahi cennet lezaizini manen verebilir. Yüzer lezzetli ışıklarından bu tek faydasına bak:
 
 Nasıl ki senin gayet sevdiğin bir zatı bir tehlikede ölüyorken gördüğün dakikasında, Hekim-i Lokman ve Hızır gibi bir doktor geldi. Birden dirildi. Ne kadar sevinç hissediyorsun…
 
 Öyle de sen, sevdiğin ve alâkadar olduğun ölmüşlerin adedince sevinçleri, sürurları iman veriyor. Çünkü mazi mezaristanında milyonlarla sence mahbub zatlar; mahvdan ve ölümden, birden iman nuruyla senin karşında diriliyorlar. “Biz ölmemişiz ve ölmeyeceğiz.” deyip hayat buluyorlar. O hadsiz firaklardan gelen hadsiz elemler yerine, visal ve hayat bulmalarından nihayetsiz lezzetler ve sevinçler, iman noktasından bu dünyada dahi geldiğini gösteriyor ki: İman öyle bir çekirdektir ki ehl-i imana cenneti, bütün lezaiz ve mehasiniyle sümbül veriyor ve verecektir.
 
-[^Hâşiye3]: Mahkemedeki müdafaatına işarettir.
+[^hâşiye3]: Mahkemedeki müdafaatına işarettir.
 
-[^Hâşiye4]: O zaman bu halet-i ruhiye Farisî bir münâcat suretinde kalbe geldi, yazdım. Ankara’da Hubab Risalesi’nde tabedilmiştir.
+[^hâşiye4]: O zaman bu halet-i ruhiye Farisî bir münâcat suretinde kalbe geldi, yazdım. Ankara’da Hubab Risalesi’nde tabedilmiştir.
 
-[^Hâşiye5]: Bu İkinci Makam’daki parçalar şiire benzer fakat şiir değiller. Kasdî nazmedilmemişler. Belki hakikatlerin kemal-i intizamı cihetinde, bir derece manzum suretini almışlar.
+[^hâşiye5]: Bu İkinci Makam’daki parçalar şiire benzer fakat şiir değiller. Kasdî nazmedilmemişler. Belki hakikatlerin kemal-i intizamı cihetinde, bir derece manzum suretini almışlar.
 
-[^Hâşiye6]: Eyvah diyerek kaçmıyorum.
+[^hâşiye6]: Eyvah diyerek kaçmıyorum.
 
-[^Hâşiye7]: İsrafil’in ezanını fecr-i haşirde işitip Allahu ekber diyerek kalkacağım. Salât-ı kübradan çekilmem, mecma-ı ekberden çekinmem.
+[^hâşiye7]: İsrafil’in ezanını fecr-i haşirde işitip Allahu ekber diyerek kalkacağım. Salât-ı kübradan çekilmem, mecma-ı ekberden çekinmem.
 
-[^Hâşiye8]: Ahmedlerin mektubunda işaret ettiğim gibi o fıkra, bu mektubumla beraber Rehber’e girebilir.
+[^hâşiye8]: Ahmedlerin mektubunda işaret ettiğim gibi o fıkra, bu mektubumla beraber Rehber’e girebilir.
 
-[^Hâşiye9]: Risale-i Nur’dan Arabî İşaratü’l-İ’caz tefsiri, otuz sene evvel, onun bu kıymetli hakperestane hükmüne işaret etmiş.
+[^hâşiye9]: Risale-i Nur’dan Arabî İşaratü’l-İ’caz tefsiri, otuz sene evvel, onun bu kıymetli hakperestane hükmüne işaret etmiş.
 
-[^Hâşiye10]: Hâşiye: Bir zaman iki aşiret reisi, bir padişahın huzuruna girmişler, yazılan aynı vaziyette bulunmuşlar.
+[^hâşiye10]: Hâşiye: Bir zaman iki aşiret reisi, bir padişahın huzuruna girmişler, yazılan aynı vaziyette bulunmuşlar.
 
-[^Hâşiye11]: Hâşiye: Lillah için bir saniye mülakat, bir senedir. Dünya için olsa bir sene, bir saniyedir.
+[^hâşiye11]: Hâşiye: Lillah için bir saniye mülakat, bir senedir. Dünya için olsa bir sene, bir saniyedir.
 
-[^Hâşiye12]: Hâşiye: Hadîsin nassıyla “O şuhud, bütün lezaiz-i cennetin o derece fevkindedir ki onları unutturur. Ve şuhuddan sonra ehl-i şuhudun hüsn-ü cemali o derece fazlalaşır ki döndükleri vakit, saraylarındaki aileleri çok dikkat ile zor ile onları tanıyabilirler.” hadîste vârid olmuştur.
+[^hâşiye12]: Hâşiye: Hadîsin nassıyla “O şuhud, bütün lezaiz-i cennetin o derece fevkindedir ki onları unutturur. Ve şuhuddan sonra ehl-i şuhudun hüsn-ü cemali o derece fazlalaşır ki döndükleri vakit, saraylarındaki aileleri çok dikkat ile zor ile onları tanıyabilirler.” hadîste vârid olmuştur.
 

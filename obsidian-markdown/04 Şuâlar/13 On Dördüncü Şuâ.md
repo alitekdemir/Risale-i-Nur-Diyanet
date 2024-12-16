@@ -310,7 +310,7 @@ Said Nursî
 
 Aziz, sıddık kardeşlerim!
 
-İki ehemmiyetli sebep ve bir kuvvetli ihtara binaen ben bütün vazife-i müdafaatı buraya gelen ve gelecek Nur erkânlarına bırakmaya kalben mecbur oldum. Hususan (H,R,T,F,S) [^Hâşiye1]
+İki ehemmiyetli sebep ve bir kuvvetli ihtara binaen ben bütün vazife-i müdafaatı buraya gelen ve gelecek Nur erkânlarına bırakmaya kalben mecbur oldum. Hususan (H,R,T,F,S) [^hâşiye1]
 
 Birinci Sebep: Ben hem sorgu dairesinde hem çok emarelerden kat’î bildim ki bana karşı ellerinden geldiği kadar müşkülat yapmaya ve fikren onlara galebe etmemden kaçmaya çalışıyorlar ve resmen de onlara iş’ar var. Güya ben konuşsam, mahkemeleri ilzam edecek derecede ve diplomatları susturacak bir iktidar-ı ilmî ve siyasî göstereceğim diye benim konuşmama bahanelerle mani oluyorlar. Hattâ sorguda bir suale karşı dedim: “Tahattur edemiyorum.” O hâkim taaccüb ve hayretle dedi: “Senin gibi fevkalâde acib zekâvet ve ilim sahibi nasıl unutur?”
 
@@ -409,7 +409,7 @@ Ben bütün kuvvetimle bunu reddederim. Hem Mehdilik isnadını hiç kabul etmed
 
 İkinci Esas: Neşriyatı gizlemesi.
 
-Gizli düşmanlar yanlış mana verdirmesin. Yoksa siyasete ve dünya asayişine temas cihetiyle değildir. Hem eski harf ile teksir makinesini bir bahane bulmasınlar. Mustafa Kemal’e karşı Nur’un tokadı ise [^Hâşiye2] altı mahkeme ve Ankara makamatı bilmiş, ilişmemişler ve bize beraet verdiler ve Beşinci Şuâ ile beraber bütün kitaplarımızı iade ettiler. Hem onun fenalığını göstermek, ordunun kıymetini muhafaza etmek içindir. Bir şahsı sevmemesi, orduyu muhabbetkârane sena içindir.
+Gizli düşmanlar yanlış mana verdirmesin. Yoksa siyasete ve dünya asayişine temas cihetiyle değildir. Hem eski harf ile teksir makinesini bir bahane bulmasınlar. Mustafa Kemal’e karşı Nur’un tokadı ise [^hâşiye2] altı mahkeme ve Ankara makamatı bilmiş, ilişmemişler ve bize beraet verdiler ve Beşinci Şuâ ile beraber bütün kitaplarımızı iade ettiler. Hem onun fenalığını göstermek, ordunun kıymetini muhafaza etmek içindir. Bir şahsı sevmemesi, orduyu muhabbetkârane sena içindir.
 
 Üçüncüsü: “Emniyeti ihlâle teşvik ediyor.” demesine mukabil; yirmi sene zarfında, yüz bin adam Nurcuların, yüz bin nüsha Nur Risalelerinin altı mahkemede ve on vilayette emniyeti ihlâle ve asayişi bozmaya dair, on vilayetin zabıtaları ve altı mahkeme hiçbir maddeyi kaydetmemesi ve bulmaması, bu acib ittihamı çürütüyor.
 
@@ -439,7 +439,7 @@ Sâniyen: Emirdağı’nda orada bütün benim ile konuşan zatların şehadetle
 
 Yirmi sene zarfında yirmi bin Nur nüshalarını merak ve kabul ile okuyan yirmi bin, belki yüz bin adamdan altı mahkeme ve alâkadar on vilayetin zabıtaları emniyeti ihlâle dair hiçbir maddeyi kaydetmemesi gösteriyor ki hakkımızda binler ihtimalden ancak bir tek ihtimal ile bir imkâna kat’î vukuat nazarıyla bakıyor. Halbuki iki üç ihtimalden bir ihtimal olsa eseri görülmezse hiçbir suç olmaz. Hem binler ihtimalden bir ihtimal değil belki her adam hem aleyhime hücum eden müddeî çok adamları öldürebilir. Anarşist ve komünist hesabına emniyeti, asayişi bozabilir, emniyeti ihlâl edebilir. Demek, böyle pek acib ve ifratkârane imkânatı vukuat yerinde istimal etmek, adliyeye ve kanuna karşı ihanettir.
 
-Hem her hükûmette muhalifler bulunur. Yalnız fikren muhalefet bir suç olmaz. Hükûmet ele bakar, kalbe bakmaz. Ve bilhassa vatan ve millete zararsız, çok hizmeti ve faydası bulunan ve sonra hayat-ı içtimaiyeye karışmayan ve tecrid-i mutlakta yaşattırılan ve eserleri âlem-i İslâm’ın en mühim merkezlerinde kemal-i takdir ve tahsin ile karşılanan [^Hâşiye3] bir adam hakkında bu pek acib ve asılsız ittihamları yapanlar, anarşilik belki komünistlik hesabına bilmeyerek istimal ediliyor diye endişe ediyoruz.
+Hem her hükûmette muhalifler bulunur. Yalnız fikren muhalefet bir suç olmaz. Hükûmet ele bakar, kalbe bakmaz. Ve bilhassa vatan ve millete zararsız, çok hizmeti ve faydası bulunan ve sonra hayat-ı içtimaiyeye karışmayan ve tecrid-i mutlakta yaşattırılan ve eserleri âlem-i İslâm’ın en mühim merkezlerinde kemal-i takdir ve tahsin ile karşılanan [^hâşiye3] bir adam hakkında bu pek acib ve asılsız ittihamları yapanlar, anarşilik belki komünistlik hesabına bilmeyerek istimal ediliyor diye endişe ediyoruz.
 
 ***
 
@@ -457,7 +457,7 @@ Said Nursî
 
 ***
 
-Başbakanlığa, Adliye Bakanlığına, Dâhiliye Bakanlığına [^Hâşiye4]
+Başbakanlığa, Adliye Bakanlığına, Dâhiliye Bakanlığına [^hâşiye4]
 
 Hürriyet ilanını, Birinci Harb-i Umumîyi, Mütareke zamanlarını, Millî Hükûmetin ilk teşekkülünü ve Cumhuriyet zamanını birden derk eden bütün hükûmet ricali, beni pek iyi tanırlar. Bununla beraber, müsaadenizle hayatıma bir sinema şeridi gibi sizinle beraber göz gezdirelim.
 
@@ -587,7 +587,7 @@ Evet Risale-i Nur’un meselesi, âlem-i İslâm’da hususan bu memlekette kül
 
 Madem hakikat budur, biz küçücük sıkıntılarımızı kinin gibi bir acı ilaç bilip sabır ve şükretmeliyiz “Yahu bu da geçer.” demeliyiz.
 
-**Sâniyen:** Bu Medrese-i Yusufiyenin nâzırına yazdım: Ben Rusya’da esir iken, en evvel Bolşevizm’in fırtınası hapishanelerden başladığı gibi Fransız İhtilal-i Kebiri dahi en evvel hapishanelerden ve tarihlerde serseri namıyla yâd edilen mahpuslardan çıkmasına binaen; biz Nur şakirdleri hem Eskişehir hem Denizli hem burada mümkün oldukça mahpusların ıslahına çalıştık. Eskişehir ve Denizli’de tam faydası görüldü. Burada daha ziyade fayda olacak ki bu nazik zaman ve zeminde Nur’un dersleriyle geçen fırtınacık [^Hâşiye5] yüzden bire indi. Yoksa ihtilaftan ve böyle hâdiselerden istifade eden ve fırsat bekleyen haricî muzır cereyanlar, o baruta ateş atıp bir yangın çıkacaktı.
+**Sâniyen:** Bu Medrese-i Yusufiyenin nâzırına yazdım: Ben Rusya’da esir iken, en evvel Bolşevizm’in fırtınası hapishanelerden başladığı gibi Fransız İhtilal-i Kebiri dahi en evvel hapishanelerden ve tarihlerde serseri namıyla yâd edilen mahpuslardan çıkmasına binaen; biz Nur şakirdleri hem Eskişehir hem Denizli hem burada mümkün oldukça mahpusların ıslahına çalıştık. Eskişehir ve Denizli’de tam faydası görüldü. Burada daha ziyade fayda olacak ki bu nazik zaman ve zeminde Nur’un dersleriyle geçen fırtınacık [^hâşiye5] yüzden bire indi. Yoksa ihtilaftan ve böyle hâdiselerden istifade eden ve fırsat bekleyen haricî muzır cereyanlar, o baruta ateş atıp bir yangın çıkacaktı.
 
 Said Nursî
 
@@ -1022,7 +1022,7 @@ Dünkü suale benzer, kırk sene evvel olmuş bir sual ve cevabı size hikâye e
 
 Bu haller münasebetiyle benden sordular ki: “Dehşetli fedaileri bulunan Ermeni komitesi sizden korkuyorlar ki siz Van’da Erek Dağı’na çıktığınız zaman, fedailer sizden çekinip dağılıyorlar, başka yere gidiyorlar. Acaba sizde ne kuvvet var ki öyle oluyor?”
 
-Ben de cevaben diyordum: “Madem fâni dünya hayatı, küçücük ve menfî milliyetin muvakkat menfaati ve selâmeti için bu hârika fedakârlığı yapan Ermeni fedaileri karşımızda görünürler. Elbette hayat-ı bâkiyeye ve pek büyük İslâm milliyet-i kudsiyesinin müsbet menfaatlerine çalışan ve “Ecel birdir.” itikad eden talebeler, o fedailerden [^Hâşiye6] geri kalmazlar. Lüzum olsa o kat’î ecelini ve zahirî birkaç sene mevhum ömrünü, milyonlar sene bir ömre ve milyarlar dindaşların selâmetine ve menfaatine tereddütsüz, müftehirane feda ederler.
+Ben de cevaben diyordum: “Madem fâni dünya hayatı, küçücük ve menfî milliyetin muvakkat menfaati ve selâmeti için bu hârika fedakârlığı yapan Ermeni fedaileri karşımızda görünürler. Elbette hayat-ı bâkiyeye ve pek büyük İslâm milliyet-i kudsiyesinin müsbet menfaatlerine çalışan ve “Ecel birdir.” itikad eden talebeler, o fedailerden [^hâşiye6] geri kalmazlar. Lüzum olsa o kat’î ecelini ve zahirî birkaç sene mevhum ömrünü, milyonlar sene bir ömre ve milyarlar dindaşların selâmetine ve menfaatine tereddütsüz, müftehirane feda ederler.
 
 Said Nursî
 
@@ -1900,13 +1900,13 @@ Afyon Cezaevinde mevkuf
 
 İbrahim Fakazlı
 
-[^Hâşiye1]: Hüsrev, Re’fet, Tahir, Feyzi, Sabri.
+[^hâşiye1]: Hüsrev, Re’fet, Tahir, Feyzi, Sabri.
 
-[^Hâşiye2]: İddianamede yanlış bir mana verip Nur’un kerametlerinden tokat tarzındaki bir kısmını, medar-ı ittiham saymış. Güya Nurlara hücum zamanında gelen zelzele gibi belalar Nur’un tokatlarıdır. Hâşâ sümme hâşâ!.. Biz öyle dememişiz ve yazmamışız. Belki mükerrer yerlerde hüccetleriyle demişiz ki: Nurlar makbul sadaka gibi belaların def’ine vesiledir. Ne vakit Nurlara hücum edilse Nurlar gizlenir, musibetler fırsat bulup başımıza geliyorlar.
+[^hâşiye2]: İddianamede yanlış bir mana verip Nur’un kerametlerinden tokat tarzındaki bir kısmını, medar-ı ittiham saymış. Güya Nurlara hücum zamanında gelen zelzele gibi belalar Nur’un tokatlarıdır. Hâşâ sümme hâşâ!.. Biz öyle dememişiz ve yazmamışız. Belki mükerrer yerlerde hüccetleriyle demişiz ki: Nurlar makbul sadaka gibi belaların def’ine vesiledir. Ne vakit Nurlara hücum edilse Nurlar gizlenir, musibetler fırsat bulup başımıza geliyorlar.
 
 Evet, Nur’un binler şakirdlerinin tasdik ve müşahedeleriyle, yüzler vukuat ve hâdisat ile tesadüf ihtimali olmayan o hâdisatın tevafukları ve Kur’an’ın müteaddid işarat ve tevafukatıyla, hattâ mahkemelerde kısmen gösterildiği cihetle kat’î kanaatimiz var ki o tevafukat Risale-i Nur’un makbuliyetine bir ikram-ı İlahîdir ve Kur’an hesabına Nurlara bir nevi kerametlerdir.
 
-[^Hâşiye3]: Bu eserleri hakkında makam-ı iddia iddianamesinde yüz yanlışından sekseninci yanlışında demiş ki: “Beşinci Şuâ’daki teviller yanlıştır.”
+[^hâşiye3]: Bu eserleri hakkında makam-ı iddia iddianamesinde yüz yanlışından sekseninci yanlışında demiş ki: “Beşinci Şuâ’daki teviller yanlıştır.”
 
 Elcevap: Beşinci Şuâ’da “Allahu a’lem bir tevili budur.” cümlesi denildiğinden manası budur ki: “Bu hadîsin bir ihtimal ile manası bu olmak mümkündür.” demektir. Bu ise mantıkça tekzibi kabil değil. Yalnız muhaliyetini ispat ile tekzip edilebilir.
 
@@ -1914,11 +1914,11 @@ Sâniyen: Yirmi seneden beri belki kırk seneden beri benim muarızlarım ve Ris
 
 Elhasıl tevilin manası, hadîsin veyahut âyetin birçok manalarından bir mümkün ve muhtemel manası demektir.
 
-[^Hâşiye4]: Bu yazı, Afyon hapsinde mevkuf iken Hz. Üstadımızın izniyle avukatları tarafından kaleme alınarak mezkûr makamata gönderilmiştir.
+[^hâşiye4]: Bu yazı, Afyon hapsinde mevkuf iken Hz. Üstadımızın izniyle avukatları tarafından kaleme alınarak mezkûr makamata gönderilmiştir.
 
 Sungur
 
-[^Hâşiye5]: Bu fırtına ise Afyon hapsinde bir isyan çıktı, hiçbir Nur talebesi karışmadı.
+[^hâşiye5]: Bu fırtına ise Afyon hapsinde bir isyan çıktı, hiçbir Nur talebesi karışmadı.
 
-[^Hâşiye6]: Kardeşlerim namına âcizane diyorum ki: Lüzum olursa inşâallah çok ileri geçeceğiz. Bizler dinde olduğu gibi kahramanlıkta da ecdadımızın vârisleri olduğumuzu göstereceğiz.
+[^hâşiye6]: Kardeşlerim namına âcizane diyorum ki: Lüzum olursa inşâallah çok ileri geçeceğiz. Bizler dinde olduğu gibi kahramanlıkta da ecdadımızın vârisleri olduğumuzu göstereceğiz.
 

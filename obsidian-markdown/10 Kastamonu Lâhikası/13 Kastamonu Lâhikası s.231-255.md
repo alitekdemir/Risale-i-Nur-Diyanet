@@ -294,9 +294,9 @@ Her şeyde, her musibette hususan beşer eliyle gelen zulümlü musibetlerde, Ri
 
 Aziz, sıddık kardeşlerim!
 
-**Evvela:** Bu mübarek ramazan-ı şerifteki dualar, ihlası bulmak şartıyla inşâallah makbuldür. Fakat maatteessüf ekseriyetçe Risale-i Nur şakirdlerinin nazarlarını dünyaya çevirmek ve huzur-u kalbi bozmak için bazı taarruzlar yüzünden o ihlas, o huzur-u tam bir derece zedelenir. Merak etmeyiniz, her şeyi Cenab-ı Hakk’a havale edip öyle taarruzlara ehemmiyet vermeyin. Âtıf’a da yazınız, merak etmesin ve müteessir olmasın. O da bir kaza-i İlahîdir. İnşâallah Sava Hâfız Mehmed’in hâdisesi gibi Risale-i Nur’un lehine dönecektir. [^Hâşiye1]
+**Evvela:** Bu mübarek ramazan-ı şerifteki dualar, ihlası bulmak şartıyla inşâallah makbuldür. Fakat maatteessüf ekseriyetçe Risale-i Nur şakirdlerinin nazarlarını dünyaya çevirmek ve huzur-u kalbi bozmak için bazı taarruzlar yüzünden o ihlas, o huzur-u tam bir derece zedelenir. Merak etmeyiniz, her şeyi Cenab-ı Hakk’a havale edip öyle taarruzlara ehemmiyet vermeyin. Âtıf’a da yazınız, merak etmesin ve müteessir olmasın. O da bir kaza-i İlahîdir. İnşâallah Sava Hâfız Mehmed’in hâdisesi gibi Risale-i Nur’un lehine dönecektir. [^hâşiye1]
 
-Hem Âtıf’ın parlak hizmeti tevakkufa uğraması [^Hâşiye2] ve gerilemesi ve merhum Mehmed Zühdü Bedevî’nin yüksek ve geniş hizmetinin perdelenmesini düşünmesi beni ziyade mahzun ettiği hengâmda, elime bir mektup verildi. O mektup, o endişemi izale etti.
+Hem Âtıf’ın parlak hizmeti tevakkufa uğraması [^hâşiye2] ve gerilemesi ve merhum Mehmed Zühdü Bedevî’nin yüksek ve geniş hizmetinin perdelenmesini düşünmesi beni ziyade mahzun ettiği hengâmda, elime bir mektup verildi. O mektup, o endişemi izale etti.
 
 Risale-i Nur hizmetinde bir kapı kapansa daha mühim kapılar açılır diye kaide yine hükmünü icra etti ki Sabri gibi Risale-i Nur’un gayet büyük bir rüknünün büyük amcası ve Risale-i Nur’un bir kahramanı olan Tahirî’nin eniştesi ve Risale-i Nur’un saff-ı evvelinde ve şakirdlerinin başında bir zaman nâzırlık vazifesini gören ve şimdiye kadar da Risale-i Nur hakkında kalbini bozmayan Büyük Hâfız Zühdü’nün samimi kemal-i sadakat ve ihlası gösteren mektubuyla ve Hulusi-i sâlis Abdullah Çavuş’un hâşiyesinde tasdikle, bu eski ve yeni gayyur kardeşimiz Büyük Zühdü, resmiyete bakmayarak, Risale-i Nur’un mühim vazifelerinden olan masumlara Kur’an dersini vermekle gösterildi ki merhum Zühdü Bedevî yerine, bu Büyük Zühdü’yü yeni veriyor. Ve Âtıf’ın tevakkufu yerine, bu müdakkik ve muktedir ve hatip Büyük Hâfız Zühdü’yü faaliyete getirdi. Cenab-ı Hakk’a şükrediyoruz. Bugünden itibaren, Risale-i Nur’un has şakirdleri içinde şirket-i maneviye-i nuriyeden hissedar olmasını ve ismiyle duaya girdiğini selâmımla beraber tebliğ ediniz.
 
@@ -324,7 +324,7 @@ Kardeşiniz Said Nursî
 
 ***
 
-[^Hâşiye1]: Âtıf’a muaraza eden ve hücum eden tarîkatçı müftü ve taassuplu vaiz ve hoca ve ehl-i tarîkat, ehemmiyetli ehl-i ilim ve tarîkat, bu muarazada, en son perdesi rejim hesabına ve tarafgirliğine ve himayesine dayanıp Âtıf’ın müdafaa ettiği sünnet-i seniye mesleğine taarruz suretine girdiğini ve Risale-i Nur’a muaraza eden, bilerek veya bilmeyerek zındıkaya yardım ettiğine bir delil, bu defa adliyece benden sordular ki: Kürt Âtıf, rejim aleyhinde çalışıyor.
+[^hâşiye1]: Âtıf’a muaraza eden ve hücum eden tarîkatçı müftü ve taassuplu vaiz ve hoca ve ehl-i tarîkat, ehemmiyetli ehl-i ilim ve tarîkat, bu muarazada, en son perdesi rejim hesabına ve tarafgirliğine ve himayesine dayanıp Âtıf’ın müdafaa ettiği sünnet-i seniye mesleğine taarruz suretine girdiğini ve Risale-i Nur’a muaraza eden, bilerek veya bilmeyerek zındıkaya yardım ettiğine bir delil, bu defa adliyece benden sordular ki: Kürt Âtıf, rejim aleyhinde çalışıyor.
 
 Demek onun muarızları, rejime dayandılar.
 
@@ -332,5 +332,5 @@ Ben de dedim: Rejimi reddetmek ne vazifemizdir, ne de kuvvetimiz var ve ne de d�
 
 İşte bu nokta-i nazardan, Risale-i Nur’un şakirdlerinden en müthiş bir muhalif ve rejim müessisini tel’in de etse bilfiil idareye ilişmese onun mefkûresine kanunen ilişilmez. Hürriyet-i vicdan ve hürriyet-i fikir, onları tebrie eder.
 
-[^Hâşiye2]: Şimdi aldığımız haber: Denizli valisi, ehemmiyetli bir şifre ile buranın valisine, Âtıf meselesini i’zam ederek şifre yazmış. Hâfız-ı Hakiki’nin hıfzına dayanıp telaş etmeyiniz fakat ihtiyat ediniz. Hapsolan Âtıf ve arkadaşlarına teselli veriniz. Ve merak etmesinler, Allah Kerîm’dir ve Rahîm’dir.
+[^hâşiye2]: Şimdi aldığımız haber: Denizli valisi, ehemmiyetli bir şifre ile buranın valisine, Âtıf meselesini i’zam ederek şifre yazmış. Hâfız-ı Hakiki’nin hıfzına dayanıp telaş etmeyiniz fakat ihtiyat ediniz. Hapsolan Âtıf ve arkadaşlarına teselli veriniz. Ve merak etmesinler, Allah Kerîm’dir ve Rahîm’dir.
 

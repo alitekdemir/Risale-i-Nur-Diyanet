@@ -112,7 +112,7 @@ Aynen öyle de biz de ilm-i usûl ve fenn-i mantıkça sebr ü taksim denilen en
 
 Ey şeytan ve ey şeytanın şakirdleri! Kur’an, ya arş-ı a’zamdan ve ism-i a’zamdan gelmiş bir kelâmullahtır veyahut –hâşâ sümme hâşâ yüz bin kere hâşâ– yerde Allah’tan korkmaz ve Allah’ı bilmez, itikadsız bir beşerin düzmesidir. Bu ise ey şeytan! Sâbık hüccetlere karşı bunu sen diyemezsin ve diyemezdin ve diyemeyeceksin. Öyle ise bizzarure ve bilâ-şüphe Kur’an, Hâlık-ı kâinat’ın kelâmıdır. Çünkü ortası yoktur ve muhaldir ve olamaz. Nasıl ki kat’î bir surette ispat ettik, sen de gördün ve dinledin.
 
-Hem Muhammed aleyhissalâtü vesselâm, ya Resulullah’tır ve bütün resullerin ekmeli ve bütün mahlukatın efdalidir veyahut –hâşâ yüz bin defa hâşâ– Allah’a iftira ettiği ve Allah’ı bilmediği ve azabına inanmadığı için itikadsız, esfel-i safilîne sukut etmiş bir beşer farz etmek [^Hâşiye1] lâzım gelir. Bu ise ey iblis! Ne sen ve ne de güvendiğin Avrupa feylesofları ve Asya münafıkları bunu diyemezsiniz ve diyememişsiniz ve diyemeyeceksiniz ve dememişsiniz ve demeyeceksiniz. Çünkü bu şıkkı dinleyecek ve kabul edecek dünyada yoktur. Onun içindir ki güvendiğin o feylesofların en müfsidleri ve o münafıkların en vicdansızları dahi diyorlar ki: “Muhammed-i Arabî (asm) çok akıllı idi ve çok güzel ahlâklı idi.”
+Hem Muhammed aleyhissalâtü vesselâm, ya Resulullah’tır ve bütün resullerin ekmeli ve bütün mahlukatın efdalidir veyahut –hâşâ yüz bin defa hâşâ– Allah’a iftira ettiği ve Allah’ı bilmediği ve azabına inanmadığı için itikadsız, esfel-i safilîne sukut etmiş bir beşer farz etmek [^hâşiye1] lâzım gelir. Bu ise ey iblis! Ne sen ve ne de güvendiğin Avrupa feylesofları ve Asya münafıkları bunu diyemezsiniz ve diyememişsiniz ve diyemeyeceksiniz ve dememişsiniz ve demeyeceksiniz. Çünkü bu şıkkı dinleyecek ve kabul edecek dünyada yoktur. Onun içindir ki güvendiğin o feylesofların en müfsidleri ve o münafıkların en vicdansızları dahi diyorlar ki: “Muhammed-i Arabî (asm) çok akıllı idi ve çok güzel ahlâklı idi.”
 
 Madem şu mesele iki şıkka münhasırdır ve madem ikinci şık muhaldir ve hiçbir kimse buna sahip çıkmıyor ve madem kat’î hüccetlerle ispat ettik ki ortası yoktur. Elbette ve bizzarure senin ve hizbü’ş-şeytanın rağmına olarak bilbedahe ve bihakkalyakîn, Muhammed-i Arabî aleyhissalâtü vesselâm Resulullah’tır ve bütün resullerin ekmelidir ve bütün mahlukatın efdalidir.
 
@@ -588,5 +588,5 @@ Bu üç tabaka dahi beni manevî dua ve kazançlarında dâhil etmek şarttır.
 
 ***
 
-[^Hâşiye1]: Kur’an-ı Hakîm, kâfirlerin küfriyatlarını ve galiz tabiratlarını iptal etmek için zikrettiğine istinaden, ehl-i dalaletin fikr-i küfrîlerinin bütün bütün muhaliyetini ve bütün bütün çürüklüğünü göstermek için şu tabiratı farz-ı muhal suretinde, titreyerek kullanmaya mecbur oldum.
+[^hâşiye1]: Kur’an-ı Hakîm, kâfirlerin küfriyatlarını ve galiz tabiratlarını iptal etmek için zikrettiğine istinaden, ehl-i dalaletin fikr-i küfrîlerinin bütün bütün muhaliyetini ve bütün bütün çürüklüğünü göstermek için şu tabiratı farz-ı muhal suretinde, titreyerek kullanmaya mecbur oldum.
 

@@ -76,7 +76,7 @@ Bu fıkra evvelki düşüncemi takviye etti ve kemal-i sürurla gelip Hüsrev’
 
 Dinsizliğin münteşir olduğu şu zamanda bulunduğumuza evvelce teessüf ediyorduk. Şimdi hiç teellüm, teessür eseri kalmadı. Zat-ı âlîleri gibi bir üstadı bulduğumuzdan zaman ne olursa olsun bizi meyus etmiyor. Cenab-ı Allah tûl-ü ömür ihsan buyursun. Daha bizlere çok zevkli eserler okutacağınıza eminim.
 
-Müsaadenizle şunu da ilâve edeyim ki sizin daha hârika vazife-i maneviyeniz var. Zaman gelecek remizlerle, işarat-ı Kur’aniye ile öyle haber vereceksiniz ki [^Hâşiye1] bunları da geçecek ve bizleri şaşırtıp bırakacaktır.
+Müsaadenizle şunu da ilâve edeyim ki sizin daha hârika vazife-i maneviyeniz var. Zaman gelecek remizlerle, işarat-ı Kur’aniye ile öyle haber vereceksiniz ki [^hâşiye1] bunları da geçecek ve bizleri şaşırtıp bırakacaktır.
 
 Fakir Talebeniz Re’fet
 
@@ -140,7 +140,7 @@ Kitab-ı Sinan’dan edip tefe’ül
 
 Hakka ki keramet ibraz eylemiş
 
-“Ümmi Alîm”le [^Hâşiye2] “Sinan-ı Ümmi”de
+“Ümmi Alîm”le [^hâşiye2] “Sinan-ı Ümmi”de
 
 Hesab-ı ebcedle var mutabakat
 
@@ -316,17 +316,17 @@ Ben de derim:
 
 Bir bülbülü, bir gülistanı kalmış Kur’an’ın.
 
-Keramet-i Gavsiye’yi henüz kimseye okuyamadım. İçinde bu bîçareden bahis edilişi, okumak hususunu düşündürüyor. Mübarek Ramazan [^Hâşiye3] bir an evvel bu isyankârların, kadir-nâşinasların elinden yakayı kurtarmaya çalışır vaziyette, süratle elimizden gitmektedir. İmam Ömer Efendi geçen sene “Ramazanın Hikmetleri” eserinin, ramazan ayı geçtikten sonra gelişinden, benim gibi müteessir olmuştu. Bu ramazanın birinci cuma hutbesinde, ben de hazır olduğum halde, yüzlerce cemaate, bu nurlu hikmetlerden birkaçını hemen aynen okudu. Bu anda bu fakirde husule gelen şükür hislerini tarif edemeyeceğim. <span class="arabic" dir="rtl">اَلْحَمْدُ لِلّٰهِ هٰذَا مِنْ فَضْلِ رَبّٖى</span>
+Keramet-i Gavsiye’yi henüz kimseye okuyamadım. İçinde bu bîçareden bahis edilişi, okumak hususunu düşündürüyor. Mübarek Ramazan [^hâşiye3] bir an evvel bu isyankârların, kadir-nâşinasların elinden yakayı kurtarmaya çalışır vaziyette, süratle elimizden gitmektedir. İmam Ömer Efendi geçen sene “Ramazanın Hikmetleri” eserinin, ramazan ayı geçtikten sonra gelişinden, benim gibi müteessir olmuştu. Bu ramazanın birinci cuma hutbesinde, ben de hazır olduğum halde, yüzlerce cemaate, bu nurlu hikmetlerden birkaçını hemen aynen okudu. Bu anda bu fakirde husule gelen şükür hislerini tarif edemeyeceğim. <span class="arabic" dir="rtl">اَلْحَمْدُ لِلّٰهِ هٰذَا مِنْ فَضْلِ رَبّٖى</span>
 
 Hulusi
 
 ***
 
-[^Hâşiye1]: Bu Re’fet’in bir keramet-i ferasetidir.
+[^hâşiye1]: Bu Re’fet’in bir keramet-i ferasetidir.
 
-[^Hâşiye2]: “Ümmi ey alîm” tarzında okunduğuna göre.
+[^hâşiye2]: “Ümmi ey alîm” tarzında okunduğuna göre.
 
-[^Hâşiye3]: Garibdir ki Hulusi’nin bu sözünü belki yirmi defa tekrar etmişim. Süleyman gibi dostlar şahittirler. Demek, bir hakikat var ki ikimizi böyle söyletmiş.
+[^hâşiye3]: Garibdir ki Hulusi’nin bu sözünü belki yirmi defa tekrar etmişim. Süleyman gibi dostlar şahittirler. Demek, bir hakikat var ki ikimizi böyle söyletmiş.
 
 Said
 

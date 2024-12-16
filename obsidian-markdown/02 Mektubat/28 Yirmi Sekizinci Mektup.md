@@ -91,9 +91,9 @@ Nasıl ki Hazret-i Cebrail aleyhisselâm, bir vakitte Dıhye suretinde sahabeler
 
 İşte şu mesleğe göre; kabz-ı ruh vaktinde, insanın âyinesine temessül eden melekü’l-mevtin insanî ve cüz’î bir misali, Hazret-i Musa aleyhisselâm gibi bir ulü’l-azm ve celalli ve hiddetli bir zatın tokadına maruz olmak ve o misalî melekü’l-mevtin libası hükmündeki suret-i misaliyesindeki gözünü çıkarmak; ne muhaldir ne fevkalâdedir ne de gayr-ı makuldür.
 
-**İkinci Meslek odur ki:** Hazret-i Cebrail, Mikâil, Azrail gibi melaike-i izam, birer nâzır-ı umumî hükmünde; kendi nevilerinden ve kendilerine benzer küçük tarzda aveneleri vardır. Ve o muavinler, enva-ı mahlukata göre ayrı ayrıdırlar. Sulehanın [^Hâşiye1] ervahını kabzeden başkadır; ehl-i şakavetin ervahını kabzeden yine başkadır. Nasıl ki <span class="arabic" dir="rtl">وَالنَّازِعَاتِ غَرْقًا ۞ وَالنَّاشِطَاتِ نَشْطًا</span> âyeti işaret ediyor ki: “Kabz-ı ervah eden, taife taifedir.”
+**İkinci Meslek odur ki:** Hazret-i Cebrail, Mikâil, Azrail gibi melaike-i izam, birer nâzır-ı umumî hükmünde; kendi nevilerinden ve kendilerine benzer küçük tarzda aveneleri vardır. Ve o muavinler, enva-ı mahlukata göre ayrı ayrıdırlar. Sulehanın [^hâşiye1] ervahını kabzeden başkadır; ehl-i şakavetin ervahını kabzeden yine başkadır. Nasıl ki <span class="arabic" dir="rtl">وَالنَّازِعَاتِ غَرْقًا ۞ وَالنَّاشِطَاتِ نَشْطًا</span> âyeti işaret ediyor ki: “Kabz-ı ervah eden, taife taifedir.”
 
-Bu mesleğe göre; Hazret-i Musa aleyhisselâm, Hazret-i Azrail aleyhisselâma değil belki Azrail’in bir avenesinin misalî cesedine, fıtrî celaletine ve hulkî celadetine ve Cenab-ı Hakk’ın yanında nazdar olmasına binaen, ona bir tokat aşk etmek gayet makuldür. [^Hâşiye2]
+Bu mesleğe göre; Hazret-i Musa aleyhisselâm, Hazret-i Azrail aleyhisselâma değil belki Azrail’in bir avenesinin misalî cesedine, fıtrî celaletine ve hulkî celadetine ve Cenab-ı Hakk’ın yanında nazdar olmasına binaen, ona bir tokat aşk etmek gayet makuldür. [^hâşiye2]
 
 **Üçüncü Meslek:** Yirmi Dokuzuncu Söz’ün Dördüncü Esas’ında beyan edildiği gibi ve ehadîs-i şerifenin delâlet ettiği üzere: “Bazı melaikeler var ki kırk bin başı var. Her başında, kırk bin dili var. (Demek, seksenbin gözü dahi var.) Her bir dilde, kırk bin tesbihat var.” Evet, madem melaikeler âlem-i şehadetin envaına göre müekkeldirler; âlem-i ervahta o envaın tesbihatlarını temsil ediyorlar, elbette öyle olmak lâzım gelir.
 
@@ -417,7 +417,7 @@ Hem sırr-ı ehadiyet ile şeriksiz vahdet-i rububiyeti hem nihayetsiz kurbiyet-
 
 Hem hakaik-i imaniye ve Kur’aniyede öyle bir genişlik var ki en büyük zekâ-i beşerî ihata edemediği halde; benim gibi zihni müşevveş, vaziyeti perişan, müracaat edilecek kitap yokken, sıkıntılı ve süratle yazan bir adamda, o hakaikin ekseriyet-i mutlakası dekaikiyle zuhuru; doğrudan doğruya Kur’an-ı Hakîm’in i’caz-ı manevîsinin eseri ve inayet-i Rabbaniyenin bir cilvesi ve kuvvetli bir işaret-i gaybiyedir.
 
-**Dördüncü İşaret:** Elli altmış risaleler [^Hâşiye3] öyle bir tarzda ihsan edilmiş ki değil benim gibi az düşünen ve zuhurata tebaiyet eden ve tetkike vakit bulamayan bir insanın; belki büyük zekâlardan mürekkeb bir ehl-i tetkikin sa’y ü gayretiyle yapılmayan bir tarzda telifleri, doğrudan doğruya bir eser-i inayet olduklarını gösteriyor. Çünkü bütün bu risalelerde, bütün derin hakaik, temsilat vasıtasıyla, en âmî ve ümmi olanlara kadar ders veriliyor. Halbuki o hakaikin çoğunu büyük âlimler “Tefhim edilmez.” deyip değil avama, belki havassa da bildiremiyorlar.
+**Dördüncü İşaret:** Elli altmış risaleler [^hâşiye3] öyle bir tarzda ihsan edilmiş ki değil benim gibi az düşünen ve zuhurata tebaiyet eden ve tetkike vakit bulamayan bir insanın; belki büyük zekâlardan mürekkeb bir ehl-i tetkikin sa’y ü gayretiyle yapılmayan bir tarzda telifleri, doğrudan doğruya bir eser-i inayet olduklarını gösteriyor. Çünkü bütün bu risalelerde, bütün derin hakaik, temsilat vasıtasıyla, en âmî ve ümmi olanlara kadar ders veriliyor. Halbuki o hakaikin çoğunu büyük âlimler “Tefhim edilmez.” deyip değil avama, belki havassa da bildiremiyorlar.
 
 İşte en uzak hakikatleri, en yakın bir tarzda, en âmî bir adama ders verecek derecede; benim gibi Türkçesi az, sözleri muğlak, çoğu anlaşılmaz ve zahir hakikatleri dahi müşkülleştiriyor diye eskiden beri iştihar bulmuş ve eski eserleri o sû-i iştiharı tasdik etmiş bir şahsın elinde bu hârika teshilat ve suhulet-i beyan; elbette bilâ-şüphe bir eser-i inayettir ve onun hüneri olamaz ve Kur’an-ı Kerîm’in i’caz-ı manevîsinin bir cilvesidir ve temsilat-ı Kur’aniyenin bir temessülüdür ve in’ikasıdır.
 
@@ -489,7 +489,7 @@ Birisi: “Sizler düşünüp öyle bir tevafuku rast getirmişsiniz.” diyebil
 
 Buna karşı deriz ki: Bir davada iki şahid-i sadık kâfidir. Bu davamızdaki kasd ve irademiz taalluk etmeyerek, üç dört sene sonra muttali olduğumuza yüz şahid-i sadık bulunabilir.
 
-Bu münasebetle bir nokta söyleyeceğim: Bu keramet-i i’caziye, Kur’an-ı Hakîm belâgat cihetinde derece-i i’cazda olduğu nevinden değildir. Çünkü i’caz-ı Kur’an’da, kudret-i beşer o yolda giderek o dereceye yetişemiyor. Şu keramet-i i’caziye ise kudret-i beşerle olamıyor; kudret, o işe karışamıyor. Karışsa sun’î olur, bozulur. [^Hâşiye4]
+Bu münasebetle bir nokta söyleyeceğim: Bu keramet-i i’caziye, Kur’an-ı Hakîm belâgat cihetinde derece-i i’cazda olduğu nevinden değildir. Çünkü i’caz-ı Kur’an’da, kudret-i beşer o yolda giderek o dereceye yetişemiyor. Şu keramet-i i’caziye ise kudret-i beşerle olamıyor; kudret, o işe karışamıyor. Karışsa sun’î olur, bozulur. [^hâşiye4]
 
 **Üçüncü Nükte:** İşaret-i hâssa, işaret-i âmme münasebetiyle bir sırr-ı dakik-i rububiyet ve Rahmaniyete işaret edeceğiz:
 
@@ -627,7 +627,7 @@ Bu hakikatleri söylemekle olur şüphesiz galip.
 #### Birinci Nükte
 Bir dest-i inayet altında hizmet-i Kur’aniyede istihdam edildiğimize dair çok enva-ı işarat-ı gaybiyeyi hissettik ve bazılarını gösterdik. Şimdi o işaratın bir yenisi daha şudur ki:
 
-Ekser Sözler’de tevafukat-ı gaybiye var. [^Hâşiye5] Ezcümle: Resul-i Ekrem kelimesinde ve aleyhissalâtü vesselâm ibaresinde ve Kur’an lafz-ı mübarekesinde, bir nevi cilve-i i’caz temessül ettiğine bir işaret var.
+Ekser Sözler’de tevafukat-ı gaybiye var. [^hâşiye5] Ezcümle: Resul-i Ekrem kelimesinde ve aleyhissalâtü vesselâm ibaresinde ve Kur’an lafz-ı mübarekesinde, bir nevi cilve-i i’caz temessül ettiğine bir işaret var.
 
 İşarat-ı gaybiye ne kadar gizli ve zayıf da olsa hizmetin makbuliyetine ve meselelerin hakkaniyetine delâlet ettiği için bence çok ehemmiyetlidir ve çok kuvvetlidir.
 
@@ -726,17 +726,17 @@ Evet, ciddi bir surette Cenab-ı Hakk’ın Habib-i Ekrem’ini sevmiş ve himay
 
 ***
 
-[^Hâşiye1]: Bizde “Seyda” lakabıyla meşhur bir veliyy-i azîm, sekeratta iken, ervah-ı evliyanın kabzına müekkel melekü’l-mevt gelmiş. Seyda bağırarak demiş ki: “Ben talebe-i ulûmu çok sevdiğim için talebe-i ulûmun kabz-ı ervahına müekkel mahsus taife ruhumu kabzetsin!” diye dergâh-ı İlahiyeye rica etmiş. Yanında oturanlar bu vak’aya şahit olmuşlar.
+[^hâşiye1]: Bizde “Seyda” lakabıyla meşhur bir veliyy-i azîm, sekeratta iken, ervah-ı evliyanın kabzına müekkel melekü’l-mevt gelmiş. Seyda bağırarak demiş ki: “Ben talebe-i ulûmu çok sevdiğim için talebe-i ulûmun kabz-ı ervahına müekkel mahsus taife ruhumu kabzetsin!” diye dergâh-ı İlahiyeye rica etmiş. Yanında oturanlar bu vak’aya şahit olmuşlar.
 
-[^Hâşiye2]: Hattâ memleketimizde gayet cesur bir adam, sekerat vaktinde melekü’l-mevti görmüş. Demiş: “Beni yatak içinde yakalıyorsun!” Kalkmış atına binmiş, kılıncını eline almış, ona meydan okumuş. Merdane, at üstünde vefat etmiş.
+[^hâşiye2]: Hattâ memleketimizde gayet cesur bir adam, sekerat vaktinde melekü’l-mevti görmüş. Demiş: “Beni yatak içinde yakalıyorsun!” Kalkmış atına binmiş, kılıncını eline almış, ona meydan okumuş. Merdane, at üstünde vefat etmiş.
 
-[^Hâşiye3]: Şimdi yüz otuzdur.
+[^hâşiye3]: Şimdi yüz otuzdur.
 
-[^Hâşiye4]: On Dokuzuncu Mektup’un On Sekizinci İşaret’inde; bir nüshada, bir sahifede dokuz Kur’an tevafuk suretinde bulunduğu halde birbirine hat çektik, mecmuunda Muhammed lafzı çıktı. O sahifenin mukabilindeki sahifede sekiz Kur’an tevafukla beraber, mecmuunda lafzullah çıktı. Tevafukatta böyle bedî’ şeyler çok var.
+[^hâşiye4]: On Dokuzuncu Mektup’un On Sekizinci İşaret’inde; bir nüshada, bir sahifede dokuz Kur’an tevafuk suretinde bulunduğu halde birbirine hat çektik, mecmuunda Muhammed lafzı çıktı. O sahifenin mukabilindeki sahifede sekiz Kur’an tevafukla beraber, mecmuunda lafzullah çıktı. Tevafukatta böyle bedî’ şeyler çok var.
 
 Bu hâşiyenin mealini gözümüzle gördük.
 
 Bekir, Tevfik, Süleyman, Galib, Said
 
-[^Hâşiye5]: Tevafukat ise ittifaka işarettir; ittifak ise ittihada emaredir, vahdete alâmettir; vahdet ise tevhidi gösterir; tevhid ise Kur’an’ın dört esasından en büyük esasıdır.
+[^hâşiye5]: Tevafukat ise ittifaka işarettir; ittifak ise ittihada emaredir, vahdete alâmettir; vahdet ise tevhidi gösterir; tevhid ise Kur’an’ın dört esasından en büyük esasıdır.
 

@@ -12,7 +12,7 @@ Bir bahçeye girsem iyisini intihab ederim. Koparmasından zahmet çeksem hoşla
 
 Derler: Sözlerin iyi anlaşılmıyor?
 
-Bilirim ki kâh minare başında kâh kuyu dibinde konuşuyorum. Neyleyeyim zuhurat öyle. “Şuâat” ve şu kitapta mütekellim âciz kalbimdir. Muhatap âsi nefsimdir. Müstemi müteharri-i hakikat bir Japon’dur.[^Hâşiye1] Temaşa eden bunu düşünmeli.
+Bilirim ki kâh minare başında kâh kuyu dibinde konuşuyorum. Neyleyeyim zuhurat öyle. “Şuâat” ve şu kitapta mütekellim âciz kalbimdir. Muhatap âsi nefsimdir. Müstemi müteharri-i hakikat bir Japon’dur.[^hâşiye1] Temaşa eden bunu düşünmeli.
 
 Gayatü’l-gayat olan marifetullahın bir bürhanı olan marifetü’n-Nebi’yi “Şuâat”ta bir nebze beyan ettik. Şu risalede maksud-u bizzat olan **tevhid**in lâyuhad berahininden yalnız dört muazzam bürhanına işaret edeceğiz. Hem nazar-ı aklîyi hads-i kalbiyle birleştirmek için melaike ve haşrin bir kısım delailine îma ederek imanın altı rüknünden dördünün birer lem’asını, fehm-i kāsırımla göstermek isterim.
 
@@ -96,7 +96,7 @@ Mesela, yirmi yaşında bir adam birdenbire dünyaya gelse hâlî bir yerde muht
 
 **Biri:** Sıfat-ı kelâmdan gelen bir şeriattır ki beşerin ef’al-i ihtiyariyesini tanzim eder.
 
-**İkincisi**: Sıfat-ı iradeden gelen ve evamir-i tekviniye tesmiye edilen şeriat-ı fıtriyedir ki bütün kâinatta cari olan kavanin-i âdâtullahın muhassalasından ibarettir. Evvelki şeriat nasıl kavanin-i akliyeden ibarettir, tabiat denilen ikinci şeriat dahi mecmu-u kavanin-i itibariyeden ibarettir. Sıfat-ı kudretin hâssası olan tesir ve icada mâlik değillerdir. [^Hâşiye2]
+**İkincisi**: Sıfat-ı iradeden gelen ve evamir-i tekviniye tesmiye edilen şeriat-ı fıtriyedir ki bütün kâinatta cari olan kavanin-i âdâtullahın muhassalasından ibarettir. Evvelki şeriat nasıl kavanin-i akliyeden ibarettir, tabiat denilen ikinci şeriat dahi mecmu-u kavanin-i itibariyeden ibarettir. Sıfat-ı kudretin hâssası olan tesir ve icada mâlik değillerdir. [^hâşiye2]
 
 Sâbıkan sırr-ı tevhid beyanında demiştik: Her şey her şeyle bağlıdır. Bir şey her şeysiz yapılmaz. Bir şeyi halk eden her şeyi o halk etmiştir. Öyle ise bir şeyi yapan Vâhid, Ehad, Ferd, Samed olmak zarurîdir.
 
@@ -108,7 +108,7 @@ S: Nazım ve nizam-ı tamme ne ile sabittir?
 
 **Elcevap:** Nev-i beşerin havas ve cevasisi hükmünde olan fünun-u ekvan istikra-i tamme ile o nizamı keşfetmişlerdir. Çünkü her bir nev’e dair bir fen ya teşekkül etmiş veya etmeye kabildir. Her bir fen, külliyet-i kaide hasebiyle kendi nevindeki nazım ve intizamı gösteriyor. Zira her bir fen kavaid-i külliye desatirinden ibarettir. Demek şahsın nazarı, nizamı ihata etmezse cevasis-i fünun vasıtasıyla görür ki insan-ı ekber insan-ı asgar gibi muntazamdır. Her bir şey, hikmet üzere vaz’edilmiştir. Faydasız, abes yoktur.
 
-Şu [^Hâşiye3] bürhanımız değil yalnız erkânı ve azası, belki bütün hüceyratı, belki bütün zerratı birer lisan-ı zâkir-i tevhid olarak büyük bürhanın sadâ-yı bülendine iştirak ederek ‌<span class="arabic" dir="rtl">لَا اِلٰهَ اِلَّا اللّٰهُ</span> diye zikrediyorlar.
+Şu [^hâşiye3] bürhanımız değil yalnız erkânı ve azası, belki bütün hüceyratı, belki bütün zerratı birer lisan-ı zâkir-i tevhid olarak büyük bürhanın sadâ-yı bülendine iştirak ederek ‌<span class="arabic" dir="rtl">لَا اِلٰهَ اِلَّا اللّٰهُ</span> diye zikrediyorlar.
 
 **ÜÇÜNCÜ BÜRHAN:** Kur’an-ı Azîmüşşan’dır. Şu bürhan-ı nâtıkın sinesine kulağını yapıştırsan işiteceksin: ‌<span class="arabic" dir="rtl">اَللّٰهُ لَا اِلٰهَ اِلَّا هُو</span> yu tekrar ediyor.
 
@@ -226,9 +226,9 @@ Said Nursî
 
 ***
 
-[^Hâşiye1]: Elli sene evvel Japon’un başkumandanı Meşihat-ı İslâmiyeden dine dair suallerine bir cevaptır.
+[^hâşiye1]: Elli sene evvel Japon’un başkumandanı Meşihat-ı İslâmiyeden dine dair suallerine bir cevaptır.
 
-[^Hâşiye2]: Dikkat, dikkat!
+[^hâşiye2]: Dikkat, dikkat!
 
-[^Hâşiye3]: Delâletçe siması bir “Hû” lafzına benzer ki o “Hû”nun her bir cüzü küçük “Hû”lardan, her bir küçük “Hû” da küçücük “Hû”lardan teşekkül etmiştir.
+[^hâşiye3]: Delâletçe siması bir “Hû” lafzına benzer ki o “Hû”nun her bir cüzü küçük “Hû”lardan, her bir küçük “Hû” da küçücük “Hû”lardan teşekkül etmiştir.
 

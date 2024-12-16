@@ -99,7 +99,7 @@ Sabri
 
 ***
 
-Bahr-i Mu’cizat, Fahr-i kâinat Efendimiz Hazretlerinin şu sisli asırda, paslı ruhlarımızı tenvir ve tesrir eden ve sâik-ı hayat-ı ebediyeleri bulunan On Dokuzuncu Mektup’un beşinci cüzünü alarak, üçüncüsünü iade ettim. Fahr-i kâinat Efendimizin mu’cizatından olan parmaklarından su akıtarak orduya içirmesine dikkat ederek derin bir tefekküre daldım. O sırada kalemim boya şişesinde idi. Yazmak vazifeme muvakkat bir fâsıla verecektim. Kalemimi tuttum, mürekkebi ile yerinde koymamak için kalemdeki mürekkep bitinceye kadar bir iki kelâm daha yazayım da öyle bırakayım dedim. Başladım, yarım sahife yazdım, kalemden boya kesilmedi. Bundaki hikmeti düşündüm, kalem kurudu. Sonra birçok defalar kalemi dikkatle boyaya batırarak yazdım, tecrübe ettim. Yarım satır, nihayet bir satıra kâfi gelebildi. Bu da Hatib-i Bağdadî’nin <span class="arabic" dir="rtl">فٖى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسٖينَ اَلْفَ سَنَةٍ</span> sırrındaki [^Hâşiye1] tefekküründen mütehassıl vakıayı andırır bir tekid-i i’caz-ı Nebevîdir, dedim.
+Bahr-i Mu’cizat, Fahr-i kâinat Efendimiz Hazretlerinin şu sisli asırda, paslı ruhlarımızı tenvir ve tesrir eden ve sâik-ı hayat-ı ebediyeleri bulunan On Dokuzuncu Mektup’un beşinci cüzünü alarak, üçüncüsünü iade ettim. Fahr-i kâinat Efendimizin mu’cizatından olan parmaklarından su akıtarak orduya içirmesine dikkat ederek derin bir tefekküre daldım. O sırada kalemim boya şişesinde idi. Yazmak vazifeme muvakkat bir fâsıla verecektim. Kalemimi tuttum, mürekkebi ile yerinde koymamak için kalemdeki mürekkep bitinceye kadar bir iki kelâm daha yazayım da öyle bırakayım dedim. Başladım, yarım sahife yazdım, kalemden boya kesilmedi. Bundaki hikmeti düşündüm, kalem kurudu. Sonra birçok defalar kalemi dikkatle boyaya batırarak yazdım, tecrübe ettim. Yarım satır, nihayet bir satıra kâfi gelebildi. Bu da Hatib-i Bağdadî’nin <span class="arabic" dir="rtl">فٖى يَوْمٍ كَانَ مِقْدَارُهُ خَمْسٖينَ اَلْفَ سَنَةٍ</span> sırrındaki [^hâşiye1] tefekküründen mütehassıl vakıayı andırır bir tekid-i i’caz-ı Nebevîdir, dedim.
 
 Sabri
 
@@ -372,5 +372,5 @@ Doktor Yusuf Kemal
 
 ***
 
-[^Hâşiye1]: O tefekkürde bir günlük işi bir dakikada yapmış.
+[^hâşiye1]: O tefekkürde bir günlük işi bir dakikada yapmış.
 

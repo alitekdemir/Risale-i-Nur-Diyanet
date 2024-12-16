@@ -137,7 +137,7 @@ Hem de:
 
 <p class="arabic" dir="rtl">وَاَلْقٰى بِصَحْرَاءِ الْغَبٖيطِ بَعَاعَهُ § نُزُولَ الْيَمَانِىِّ ذِى الْعِيَابِ الْمُحَمَّلِ</p>
 
-Yani tacir-i Yemenî gibi yağmurdan gelen sel; yüklerini, eskallerini gabît sahrasına attı. Nasıl ki bir tüccar akşamda bir köye gelse gecede köylüler rengârenk eşyalarını satın alsalar, sabahleyin herkes bir renk ile süslenmiş olduğu halde evinden çıkıyor. Hattâ köyün çobanı dahi kırmızı bir mendili bağlıyor. Öyle de sel, sahraya yükünü attığı gibi ticaret-i hafiyeye benzer imtizacat-ı kimyeviye ile çiçeklerin nâzeninlerine güya rengârenk elbise alınır, dikilir. Hattâ çiçeklerin çobanı ıtlakına şâyan olan kefne [^Hâşiye1] başını kırmızılaştırıyor.
+Yani tacir-i Yemenî gibi yağmurdan gelen sel; yüklerini, eskallerini gabît sahrasına attı. Nasıl ki bir tüccar akşamda bir köye gelse gecede köylüler rengârenk eşyalarını satın alsalar, sabahleyin herkes bir renk ile süslenmiş olduğu halde evinden çıkıyor. Hattâ köyün çobanı dahi kırmızı bir mendili bağlıyor. Öyle de sel, sahraya yükünü attığı gibi ticaret-i hafiyeye benzer imtizacat-ı kimyeviye ile çiçeklerin nâzeninlerine güya rengârenk elbise alınır, dikilir. Hattâ çiçeklerin çobanı ıtlakına şâyan olan kefne [^hâşiye1] başını kırmızılaştırıyor.
 
 Hem de:
 
@@ -243,7 +243,7 @@ Hem de sanat-ı hayaliyesiyle tabiata şakirdlik etmek gerektir. Tâ tabiatın k
 
 Hem de tasavvuratını öyle hariciyata muhâkî ve müşakil etmek lâzımdır. Faraza tasavvuratı dimağdan kaçıp hariçte tecessüm etseler hariç onları istilhak ve neseblerini inkâr etmesin ve desin: “Onlar benim.” veyahut “Keennehu” veyahut “Benim veledimdir.”
 
-Hem de garazın mesîlinde ve kasdın mecrasında teferruk etmemek için sedad etmek, çeleçepe [^Hâşiye2] temayül etmemektir. Tâ canibler garazın kuvvetini teşerrüb etmekle ehemmiyetsiz etmesin. Belki köşeler, tazammun ettikleri taravet ve letafetiyle zenav gibi garaza imdat ve kuvvet vermek gerektir.
+Hem de garazın mesîlinde ve kasdın mecrasında teferruk etmemek için sedad etmek, çeleçepe [^hâşiye2] temayül etmemektir. Tâ canibler garazın kuvvetini teşerrüb etmekle ehemmiyetsiz etmesin. Belki köşeler, tazammun ettikleri taravet ve letafetiyle zenav gibi garaza imdat ve kuvvet vermek gerektir.
 
 Hem de kasdın müstekarrı temeyyüz ve ağrazın mültekası taayyün etmek, selasetin selâmetine lâzımdır.
 
@@ -308,11 +308,11 @@ Ey birader! “Unsur-u Hakikat”ı kübra gibi ve “Unsur-u Belâgat”ı suğ
 
 İşte “Unsur-u Akide”yi Üçüncü Makale’de arayacağız.
 
-İşte başlıyorum: “Nahu”… [^Hâşiye3]
+İşte başlıyorum: “Nahu”… [^hâşiye3]
 
-[^Hâşiye1]: Dikenli, ihrak edilir bir dağ mahsulüdür.
+[^hâşiye1]: Dikenli, ihrak edilir bir dağ mahsulüdür.
 
-[^Hâşiye2]: Bu kelime Kürtçedir.
+[^hâşiye2]: Bu kelime Kürtçedir.
 
-[^Hâşiye3]: Kürtçedir.
+[^hâşiye3]: Kürtçedir.
 

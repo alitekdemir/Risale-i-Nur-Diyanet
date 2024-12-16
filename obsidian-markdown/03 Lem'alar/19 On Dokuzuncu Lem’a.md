@@ -76,7 +76,7 @@ Demiş: “İşte o sahrada rast geldiğim o muktesid ihtiyarı benden daha aziz
 #### Beşinci Nükte
 Cenab-ı Hak kemal-i kereminden, en fakir adama en zengin adam gibi ve gedaya (yani fakire) padişah gibi lezzet-i nimetini ihsas ettiriyor. Evet bir fakirin, kuru bir parça siyah ekmekten açlık ve iktisat vasıtasıyla aldığı lezzet, bir padişahın ve bir zenginin israftan gelen usanç ve iştahsızlık ile yediği en a’lâ baklavadan aldığı lezzetten daha ziyade lezzetlidir. Cây-ı hayrettir ki bazı müsrif ve mübezzir insanlar, böyle iktisatçıları “hısset” ile ittiham ediyorlar. Hâşâ… İktisat, izzet ve cömertliktir. Hısset ve zillet, ehl-i israf ve tebzirin zahirî merdane keyfiyetlerinin içyüzüdür. Bu hakikati teyid eden, bu risalenin telifi senesinde Isparta’da hücremde cereyan eden bir vakıa var. Şöyle ki:
 
-Kaideme ve düstur-u hayatıma muhalif bir surette, bir talebem iki buçuk okkaya yakın bir balı, bana hediye kabul ettirmeye ısrar etti. Ne kadar kaidemi ileri sürdüm, kanmadı. Bilmecburiye, yanımdaki üç kardeşime yedirmek ve şaban-ı şerif ve ramazanda o baldan iktisat ile otuz kırk gün üç adam yesin ve getiren de sevap kazansın ve kendileri de tatlısız kalmasın diyerek “Alınız!” dedim. Bir okka bal da benim vardı. O üç arkadaşım, gerçi müstakim ve iktisadı takdir edenlerdendi. Fakat her ne ise birbirine ikram etmek ve her biri ötekinin nefsini okşamak ve kendi nefsine tercih etmek olan bir cihette ulvi bir haslet ile iktisadı unuttular. Üç gecede iki buçuk okka balı bitirdiler. Ben gülerek dedim: “Sizi, otuz kırk gün o bal ile tatlandıracaktım. Siz, otuz günü üçe indirdiniz. Âfiyet olsun.” dedim. Fakat, ben kendi o bir okka balımı iktisat ile sarf ettim. Bütün şaban ve ramazanda hem ben yedim hem lillahi’l-hamd o kardeşlerimin her birisine iftar vaktinde birer kaşık [^Hâşiye1] verip mühim sevaba medar oldu.
+Kaideme ve düstur-u hayatıma muhalif bir surette, bir talebem iki buçuk okkaya yakın bir balı, bana hediye kabul ettirmeye ısrar etti. Ne kadar kaidemi ileri sürdüm, kanmadı. Bilmecburiye, yanımdaki üç kardeşime yedirmek ve şaban-ı şerif ve ramazanda o baldan iktisat ile otuz kırk gün üç adam yesin ve getiren de sevap kazansın ve kendileri de tatlısız kalmasın diyerek “Alınız!” dedim. Bir okka bal da benim vardı. O üç arkadaşım, gerçi müstakim ve iktisadı takdir edenlerdendi. Fakat her ne ise birbirine ikram etmek ve her biri ötekinin nefsini okşamak ve kendi nefsine tercih etmek olan bir cihette ulvi bir haslet ile iktisadı unuttular. Üç gecede iki buçuk okka balı bitirdiler. Ben gülerek dedim: “Sizi, otuz kırk gün o bal ile tatlandıracaktım. Siz, otuz günü üçe indirdiniz. Âfiyet olsun.” dedim. Fakat, ben kendi o bir okka balımı iktisat ile sarf ettim. Bütün şaban ve ramazanda hem ben yedim hem lillahi’l-hamd o kardeşlerimin her birisine iftar vaktinde birer kaşık [^hâşiye1] verip mühim sevaba medar oldu.
 
 Benim halimi görenler, o vaziyetimi belki hısset telakki etmişlerdir. Öteki kardeşlerimin üç gecelik vaziyetlerini bir civanmertlik telakki edebilirler. Fakat hakikat noktasında, o zahirî hısset altında ulvi bir izzet ve büyük bir bereket ve yüksek bir sevap gizlendiğini gördük. Ve o civanmertlik ve israf altında, eğer vazgeçilmese idi, bir dilencilik ve gayrın eline tama’kârane ve muntazırane bakmak gibi hıssetten çok aşağı bir haleti netice verir idi.
 
@@ -102,7 +102,7 @@ Ona cevaben dedi ki: “Çarşıdaki vaziyet iktisattan ve kemal-i akıldan ve a
 #### Yedinci Nükte
 İsraf, hırsı intac eder. Hırs, üç neticeyi verir.
 
-**Birincisi:** Kanaatsizliktir. Kanaatsizlik ise sa’ye, çalışmaya şevki kırar. Şükür yerine şekva ettirir, tembelliğe atar. Ve meşru, helâl, az malı [^Hâşiye2] terk edip; gayr-ı meşru, külfetsiz bir malı arar. Ve o yolda izzetini, belki haysiyetini feda eder.
+**Birincisi:** Kanaatsizliktir. Kanaatsizlik ise sa’ye, çalışmaya şevki kırar. Şükür yerine şekva ettirir, tembelliğe atar. Ve meşru, helâl, az malı [^hâşiye2] terk edip; gayr-ı meşru, külfetsiz bir malı arar. Ve o yolda izzetini, belki haysiyetini feda eder.
 
 **Hırsın ikinci neticesi:** Haybet ve hasarettir. Maksudunu kaçırmak ve istiskale maruz kalıp, teshilat ve muavenetten mahrum kalmaktır. Hattâ <span class="arabic" dir="rtl">اَلْحَرٖيصُ خَائِبٌ خَاسِرٌ</span> yani “Hırs, hasaret ve muvaffakıyetsizliğin sebebidir.” olan darb-ı mesele mâsadak olur.
 
@@ -116,11 +116,11 @@ Hem semiz balıkların vaziyet-i kanaatkâranesi, mükemmel rızıklarına medar
 
 Hem Yahudi milleti hırs ile riba ile hile dolabı ile rızıklarını zilletli ve sefaletli, gayr-ı meşru ve ancak yaşayacak kadar rızıklarını bulması ve sahra-nişinlerin (yani bedevîlerin) kanaatkârane vaziyetleri, izzetle yaşaması ve kâfi rızkı bulması; yine mezkûr davamızı kat’î ispat eder.
 
-Hem çok âlimlerin [^Hâşiye3] ve ediblerin [^Hâşiye4] zekâvetlerinin verdiği bir hırs sebebiyle fakr-ı hale düşmeleri ve çok aptal ve iktidarsızların fıtrî, kanaatkârane vaziyetleri ile zenginleşmeleri kat’î bir surette ispat eder ki: Rızk-ı helâl, acz ve iftikara göre gelir; iktidar ve ihtiyar ile değil. Belki o rızk-ı helâl, iktidar ve ihtiyar ile makûsen mütenasiptir. Çünkü çocukların iktidar ve ihtiyarı geldikçe rızkı azalır, uzaklaşır, sakîlleşir. <span class="arabic" dir="rtl">اَلْقَنَاعَةُ كَنْزٌ لَا يَفْنٰى</span> hadîsinin sırrıyla kanaat, bir define-i hüsn-ü maişet ve rahat-ı hayattır. Hırs ise bir maden-i hasaret ve sefalettir.
+Hem çok âlimlerin [^hâşiye3] ve ediblerin [^hâşiye4] zekâvetlerinin verdiği bir hırs sebebiyle fakr-ı hale düşmeleri ve çok aptal ve iktidarsızların fıtrî, kanaatkârane vaziyetleri ile zenginleşmeleri kat’î bir surette ispat eder ki: Rızk-ı helâl, acz ve iftikara göre gelir; iktidar ve ihtiyar ile değil. Belki o rızk-ı helâl, iktidar ve ihtiyar ile makûsen mütenasiptir. Çünkü çocukların iktidar ve ihtiyarı geldikçe rızkı azalır, uzaklaşır, sakîlleşir. <span class="arabic" dir="rtl">اَلْقَنَاعَةُ كَنْزٌ لَا يَفْنٰى</span> hadîsinin sırrıyla kanaat, bir define-i hüsn-ü maişet ve rahat-ı hayattır. Hırs ise bir maden-i hasaret ve sefalettir.
 
 **Üçüncü Netice:** Hırs ihlası kırar, amel-i uhreviyeyi zedeler. Çünkü bir ehl-i takvanın hırsı varsa teveccüh-ü nâsı ister. Teveccüh-ü nâsı müraat eden, ihlas-ı tammı bulamaz. Bu netice çok ehemmiyetli, çok cây-ı dikkattir.
 
-***Elhasıl:*** İsraf, kanaatsizliği intac eder. Kanaatsizlik ise çalışmanın şevkini kırar, tembelliğe atar; hayatından şekva kapısını açar, mütemadiyen şekva ettirir. [^Hâşiye5] Hem ihlası kırar, riya kapısını açar. Hem izzetini kırar, dilencilik yolunu gösterir. İktisat ise kanaati intac eder. <span class="arabic" dir="rtl">عَزَّ مَنْ قَنَعَ ذَلَّ مَنْ طَمَعَ</span> hadîsin sırrıyla kanaat, izzeti intac eder. Hem sa’ye ve çalışmaya teşci eder. Şevkini ziyadeleştirir, çalıştırır.
+***Elhasıl:*** İsraf, kanaatsizliği intac eder. Kanaatsizlik ise çalışmanın şevkini kırar, tembelliğe atar; hayatından şekva kapısını açar, mütemadiyen şekva ettirir. [^hâşiye5] Hem ihlası kırar, riya kapısını açar. Hem izzetini kırar, dilencilik yolunu gösterir. İktisat ise kanaati intac eder. <span class="arabic" dir="rtl">عَزَّ مَنْ قَنَعَ ذَلَّ مَنْ طَمَعَ</span> hadîsin sırrıyla kanaat, izzeti intac eder. Hem sa’ye ve çalışmaya teşci eder. Şevkini ziyadeleştirir, çalıştırır.
 
 Çünkü mesela, bir gün çalıştı. Akşamda aldığı cüz’î bir ücrete kanaat sırrıyla, ikinci gün yine çalışır. Müsrif ise kanaat etmediği için ikinci gün daha çalışmaz. Çalışsa da şevksiz çalışır. Hem iktisattan gelen kanaat; şükür kapısını açar, şekva kapısını kapatır. Hayatında daima şâkir olur. Hem kanaat vasıtasıyla insanlardan istiğna etmek cihetinde teveccühlerini aramaz. İhlas kapısı açılır, riya kapısı kapanır.
 
@@ -134,7 +134,7 @@ Evet, zekât vermek ve iktisat etmek, malda bi’t-tecrübe sebeb-i bereket oldu
 
 <p class="arabic" dir="rtl">فَقَلِّلْ اِنْ اَكَلْتَ وَ بَعْدَ اَكْلٍ تَجَنَّبْ وَ الشِّفَاءُ فِى الْاِنْهِضَامِ<br/>وَ لَيْسَ عَلَى النُّفُوسِ اَشَدُّ حَالًا مِنْ اِدْخَالِ الطَّعَامِ عَلَى الطَّعَامِ</p>
 
-Yani “İlm-i tıbbı iki satırla topluyorum. Sözün güzelliği kısalığındadır: Yediğin vakit az ye. Yedikten sonra dört beş saat kadar daha yeme. Şifa, hazımdadır. Yani, kolayca hazmedeceğin miktarı ye. Nefse ve mideye en ağır ve yorucu hal, taam taam üstüne yemektir.” [^Hâşiye6]
+Yani “İlm-i tıbbı iki satırla topluyorum. Sözün güzelliği kısalığındadır: Yediğin vakit az ye. Yedikten sonra dört beş saat kadar daha yeme. Şifa, hazımdadır. Yani, kolayca hazmedeceğin miktarı ye. Nefse ve mideye en ağır ve yorucu hal, taam taam üstüne yemektir.” [^hâşiye6]
 
 #### Cây-ı hayret ve medar-ı ibret bir tevafuk:
 İktisat Risalesi’ni, üçü acemi olarak beş altı ayrı ayrı müstensih ayrı ayrı yerde ayrı ayrı nüshadan yazıp birbirinden uzak, hatları birbirinden ayrı, hiç elifleri düşünmeyerek yazdıkları her bir nüshanın elifleri; duasız elli bir, dua ile beraber elli üçte tevafuk etmekle beraber; İktisat Risalesi’nin tarih-i telif ve istinsahı olan Rumîce elli bir ve Arabî elli üç tarihinde tevafuku ise şüphesiz tesadüf olamaz. İktisaddaki bereketin keramet derecesine çıktığına bir işarettir. Ve bu seneye, “Sene-i İktisat” tesmiyesi lâyıktır.
@@ -145,21 +145,21 @@ Evet, zaman iki sene sonra bu keramet-i iktisadiyeyi, İkinci Harb-i Umumî’de
 
 ***
 
-[^Hâşiye1]: Yani, büyükçe bir çay kaşığı iledir.
+[^hâşiye1]: Yani, büyükçe bir çay kaşığı iledir.
 
-[^Hâşiye2]: İktisatsızlık yüzünden müstehlikler çoğalır, müstahsiller azalır. Herkes gözünü hükûmet kapısına diker. O vakit hayat-ı içtimaiyenin medarı olan “sanat, ticaret, ziraat” tenakus eder. O millet de tedenni edip sukut eder, fakir düşer.
+[^hâşiye2]: İktisatsızlık yüzünden müstehlikler çoğalır, müstahsiller azalır. Herkes gözünü hükûmet kapısına diker. O vakit hayat-ı içtimaiyenin medarı olan “sanat, ticaret, ziraat” tenakus eder. O millet de tedenni edip sukut eder, fakir düşer.
 
-[^Hâşiye3]: İran’ın âdil padişahlarından Nuşirevan-ı Âdil’in veziri, akılca meşhur âlim olan Büzürücumhur’dan (Büzürg-Mihr) sormuşlar: “Neden ulema, ümera kapısında görünüyor da ümera ulema kapısında görünmüyor. Halbuki ilim, emaretin fevkindedir?”
+[^hâşiye3]: İran’ın âdil padişahlarından Nuşirevan-ı Âdil’in veziri, akılca meşhur âlim olan Büzürücumhur’dan (Büzürg-Mihr) sormuşlar: “Neden ulema, ümera kapısında görünüyor da ümera ulema kapısında görünmüyor. Halbuki ilim, emaretin fevkindedir?”
 
 Cevaben demiş ki: “Ulemanın ilminden, ümeranın cehlindendir.” Yani ümera, cehlinden ilmin kıymetini bilmiyorlar ki ulemanın kapısına gidip ilmi arasınlar. Ulema ise marifetlerinden mallarının kıymetini dahi bildikleri için ümera kapısında arıyorlar. İşte Büzürücumhur, ulemanın arasında fakr ve zilletlerine sebep olan zekâvetlerinin neticesi bulunan hırslarını zarif bir surette tevil ederek nazikane cevap vermiştir.
 
 **Hüsrev**
 
-[^Hâşiye4]: Bunu teyid eden bir hâdise: Fransa’da ediblere, iyi dilencilik yaptıkları için dilencilik vesikası veriliyor.
+[^hâşiye4]: Bunu teyid eden bir hâdise: Fransa’da ediblere, iyi dilencilik yaptıkları için dilencilik vesikası veriliyor.
 
 **Süleyman Rüşdü**
 
-[^Hâşiye5]: Evet, hangi müsrif ile görüşsen şekvalar işiteceksin. Ne kadar zengin olsa da yine dili şekva edecektir. En fakir fakat kanaatkâr bir adamla görüşsen şükür işiteceksin.
+[^hâşiye5]: Evet, hangi müsrif ile görüşsen şekvalar işiteceksin. Ne kadar zengin olsa da yine dili şekva edecektir. En fakir fakat kanaatkâr bir adamla görüşsen şükür işiteceksin.
 
-[^Hâşiye6]: Yani vücuda en muzır, dört beş saat fâsıla vermeden yemek yemek veyahut telezzüz için mütenevvi yemekleri birbiri üstüne mideye doldurmaktır.
+[^hâşiye6]: Yani vücuda en muzır, dört beş saat fâsıla vermeden yemek yemek veyahut telezzüz için mütenevvi yemekleri birbiri üstüne mideye doldurmaktır.
 

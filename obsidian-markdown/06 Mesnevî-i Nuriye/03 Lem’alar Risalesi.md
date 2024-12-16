@@ -151,7 +151,7 @@ Arkadaş! Zerrelerden tut seyyarelere kadar ve nakışlardan şemslere varıncay
 
 Ve keza acziyle beraber, nizam-ı umumînin bozulmaması için hâmil bulunduğu acib ve mühim vazifeler cihetiyle Sâni’in vahdetine delâlet eder.
 
-Binaenaleyh Sâni’in vâcib ve vâhid olduğuna her şeyde iki şahit olduğu gibi Hâlık’ın Ehad ve Samed olduğuna da her bir zîhayatta iki âyet vardır. [^Hâşiye1]
+Binaenaleyh Sâni’in vâcib ve vâhid olduğuna her şeyde iki şahit olduğu gibi Hâlık’ın Ehad ve Samed olduğuna da her bir zîhayatta iki âyet vardır. [^hâşiye1]
 
 #### On Dördüncü Lem’a
 Arkadaş! Mevcudat, Cenab-ı Hakk’ın vücub-u vücud ve vahdetine şehadet ettiği gibi celalî, cemalî, kemalî olan cemi’ sıfâtına da delâlet etmekle Hâlık’ın zatında naks ve kusur olmadığını ve şuunatında, sıfâtında ve esmasında ve ef’alinde de naks ve kusur bulunmadığını ilan ediyor.
@@ -164,5 +164,5 @@ Kezalik kâinatta görünen âsârın kemali, hadsî bir müşahede ile ef’ali
 
 ***
 
-[^Hâşiye1]: İhtar: Kâinatın eczasından her bir cüzün elli beş lisanla Vâhid-i Ehad ve Vâcibü’l-vücud’u ilan etmekte olduğunu, Kur’an’ın feyzinden fehmedip icmalen Katre namındaki eserimde beyan etmişimdir. Arzu eden oraya müracaat etsin.
+[^hâşiye1]: İhtar: Kâinatın eczasından her bir cüzün elli beş lisanla Vâhid-i Ehad ve Vâcibü’l-vücud’u ilan etmekte olduğunu, Kur’an’ın feyzinden fehmedip icmalen Katre namındaki eserimde beyan etmişimdir. Arzu eden oraya müracaat etsin.
 

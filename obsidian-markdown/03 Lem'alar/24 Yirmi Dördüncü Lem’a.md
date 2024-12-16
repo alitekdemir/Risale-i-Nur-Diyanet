@@ -9,7 +9,7 @@ Tesettür hakkında
 
 <p class="arabic" dir="rtl">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ<br/>يَا اَيُّهَا النَّبِىُّ قُلْ لِاَزْوَاجِكَ وَبَنَاتِكَ وَنِسَٓاءِ الْمُؤْمِنٖينَ يُدْنٖينَ عَلَيْهِنَّ مِنْ جَلَابٖيبِهِنَّ … اِلٰى اٰخِرِ</p>
 
-âyeti, tesettürü emrediyor. Medeniyet-i sefihe ise Kur’an’ın bu hükmüne karşı muhalif gidiyor. Tesettürü fıtrî görmüyor “Bir esarettir.” diyor. [^Hâşiye1]
+âyeti, tesettürü emrediyor. Medeniyet-i sefihe ise Kur’an’ın bu hükmüne karşı muhalif gidiyor. Tesettürü fıtrî görmüyor “Bir esarettir.” diyor. [^hâşiye1]
 
 ***Elcevap:*** Kur’an-ı Hakîm’in bu hükmü tam fıtrî olduğuna ve muhalifi gayr-ı fıtrî olduğuna delâlet eden çok hikmetlerinden yalnız **dört hikmet**ini beyan ederiz.
 
@@ -122,7 +122,7 @@ Duanıza muhtaç kardeşiniz
 
 ***
 
-[^Hâşiye1]: Mahkemeye karşı ve mahkemeyi susturan lâyiha-i Temyizin müdafaatından bir parça:
+[^hâşiye1]: Mahkemeye karşı ve mahkemeyi susturan lâyiha-i Temyizin müdafaatından bir parça:
 
 “Ben de adliyenin mahkemesine derim ki: Bin üç yüz elli senede ve her asırda üç yüz elli milyon insanların hayat-ı içtimaiyesinde en kudsî ve hakiki ve hakikatli bir düstur-u İlahîyi, üç yüz elli bin tefsirin tasdiklerine ve ittifaklarına istinaden ve bin üç yüz elli sene zarfında geçmiş ecdadımızın itikadlarına iktidaen tefsir eden bir adamı mahkûm eden haksız bir kararı, elbette rûy-i zeminde adalet varsa o kararı red ve bu hükmü nakzedecektir!”
 

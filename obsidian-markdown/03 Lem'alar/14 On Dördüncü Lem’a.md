@@ -42,7 +42,7 @@ Senin sualin cevabına şimdilik **üç vecih** söylenecek.
 
 **Birincisi:** Hamele-i arş ve semavat denilen melaikenin birinin ismi “Nesir” ve diğerinin ismi “Sevr” olarak dört melaikeyi, Cenab-ı Hak arş ve semavata saltanat-ı rububiyetine nezaret etmek için tayin ettiği gibi semavatın bir küçük kardeşi ve seyyarelerin bir arkadaşı olan küre-i arza dahi iki melek, nâzır ve hamele olarak tayin etmiştir. O meleklerin birinin ismi “Sevr” ve diğerinin ismi “Hut”tur. Ve o namı vermesinin sırrı şudur ki:
 
-Arz iki kısımdır: Biri su, biri toprak. Su kısmını şenlendiren balıktır. Toprak kısmını şenlendiren insanların medar-ı hayatı olan ziraat, öküz iledir ve öküzün omuzundadır. Küre-i arza müekkel iki melek hem kumandan hem nâzır olduklarından, elbette balık taifesine ve öküz nevine bir cihet-i münasebetleri bulunmak lâzımdır. Belki <span class="arabic" dir="rtl">وَالْعِلْمُ عِنْدَ اللّٰهِ</span> o iki meleğin âlem-i melekût ve âlem-i misalde sevr ve hut suretinde temessülleri var. [^Hâşiye1]
+Arz iki kısımdır: Biri su, biri toprak. Su kısmını şenlendiren balıktır. Toprak kısmını şenlendiren insanların medar-ı hayatı olan ziraat, öküz iledir ve öküzün omuzundadır. Küre-i arza müekkel iki melek hem kumandan hem nâzır olduklarından, elbette balık taifesine ve öküz nevine bir cihet-i münasebetleri bulunmak lâzımdır. Belki <span class="arabic" dir="rtl">وَالْعِلْمُ عِنْدَ اللّٰهِ</span> o iki meleğin âlem-i melekût ve âlem-i misalde sevr ve hut suretinde temessülleri var. [^hâşiye1]
 
 İşte bu münasebete ve o nezarete işareten ve küre-i arzın o iki mühim nevi mahlukatına îmaen lisan-ı mu’cizü’l-beyan-ı Nebevî <span class="arabic" dir="rtl">اَلْاَرْضُ عَلَى الثَّوْرِ وَالْحُوتِ</span> demiş, gayet derin ve geniş bir sahife kadar meseleleri hâvi olan bir hakikati, gayet güzel ve kısa bir tek cümle ile ifade etmiş.
 
@@ -183,5 +183,5 @@ Ey hadsiz acz ve nihayetsiz fakr içinde yuvarlanan bîçare insan! Rahmet, ne k
 
 ***
 
-[^Hâşiye1]: Evet küre-i arz, bahr-i muhit-i havaîde bir sefine-i Rabbaniye ve nass-ı hadîsle âhiretin bir mezraası, yani fidanlık tarlası olduğundan, o camid ve şuursuz büyük gemiyi o denizde emr-i İlahî ile intizam ile hikmet ile yüzdüren, kaptanlık eden melaikeye “Hut” namı ve o tarlaya izn-i İlahî ile nezaret eden melaikeye “Sevr” ismi ne kadar yakıştığı zahirdir.
+[^hâşiye1]: Evet küre-i arz, bahr-i muhit-i havaîde bir sefine-i Rabbaniye ve nass-ı hadîsle âhiretin bir mezraası, yani fidanlık tarlası olduğundan, o camid ve şuursuz büyük gemiyi o denizde emr-i İlahî ile intizam ile hikmet ile yüzdüren, kaptanlık eden melaikeye “Hut” namı ve o tarlaya izn-i İlahî ile nezaret eden melaikeye “Sevr” ismi ne kadar yakıştığı zahirdir.
 

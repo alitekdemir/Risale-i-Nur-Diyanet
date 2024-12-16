@@ -68,7 +68,7 @@ mısraı ile mukabele ederdi.
 
 Said-i hüşyarın safvet-i ruhunu, besalet ve şecaatini, fedakârlığındaki nihayetsizliğini anlamak ve ona bağlanmak için lisan-ı hamasetinden bu mezkûr mısraını söylemek kifayet eder.
 
-Bedîüzzaman’a zurefadan biri bir gün irfanıyla mütenasip bir esvab iktisaı lüzumundan bahseder. Müşarün-ileyh de: “Siz Avusturya’ya güya boykot yapıyorsunuz. Hem onun yolladığı kalpakları giyiyorsunuz. Ben ise bütün Avrupa’ya boykot yapıyorum [^Hâşiye1], onun için yalnız memleketimin maddî ve manevî mamulatını giyiyorum.” buyurmuştur.
+Bedîüzzaman’a zurefadan biri bir gün irfanıyla mütenasip bir esvab iktisaı lüzumundan bahseder. Müşarün-ileyh de: “Siz Avusturya’ya güya boykot yapıyorsunuz. Hem onun yolladığı kalpakları giyiyorsunuz. Ben ise bütün Avrupa’ya boykot yapıyorum [^hâşiye1], onun için yalnız memleketimin maddî ve manevî mamulatını giyiyorum.” buyurmuştur.
 
 Elyevm, Said Nursî memleketine döndü. Karışmış İstanbul’un hava-i gıll u gışından ve tezviratından ve bedraka-i efkâr olmak lâzım gelen gazetecilerin bazılarının bütün fenalıklara bâdî ve bütün felaketlerin müvellidi olduklarını görerek bu derece açık cinayetlere tahammül edemeyerek meyus ve müteessir; vahşetzar fakat munis, vefakâr ve namus-perver olan dağlarına döndü. İsabet etti. Kim bilir belki en büyük icraatından biri de budur.
 
@@ -137,7 +137,7 @@ Demek meşrutiyeti, delail-i şer’iye ile kabul ettim. Başka medeniyetçiler 
 
 “İstibdat, zulüm ve tahakkümdür. Meşrutiyet, adalet ve şeriattır. Padişah, Peygamberimizin emrine itaat etse ve yoluna gitse halifedir. Biz de ona itaat edeceğiz. Yoksa Peygambere tabi olmayıp zulüm edenler, padişah da olsalar haydutturlar. Bizim düşmanımız cehalet, zaruret, ihtilaftır. Bu üç düşmana karşı; sanat, marifet, ittifak silahıyla cihad edeceğiz. Ve bizi bir cihette teyakkuza ve terakkiye sevk eden hakiki kardeşlerimiz Türklerle ve komşularımızla dost olup el ele vereceğiz. Zira husumette fenalık var, husumete vaktimiz yoktur. Hükûmetin işine karışmayacağız. Zira hikmet-i hükûmeti bilmiyoruz.”
 
-İşte o hammalların, Avusturya’ya karşı –benim gibi bütün Avrupa’ya karşı– [^Hâşiye2] boykotları ve en müşevveş ve heyecanlı zamanlarda âkılane hareketlerinde bu nasihatin tesiri olmuştur.
+İşte o hammalların, Avusturya’ya karşı –benim gibi bütün Avrupa’ya karşı– [^hâşiye2] boykotları ve en müşevveş ve heyecanlı zamanlarda âkılane hareketlerinde bu nasihatin tesiri olmuştur.
 
 Padişaha karşı irtibatlarını ta’dil etmeye ve boykotajlarla Avrupa’ya karşı harb-i iktisadî açmaya sebebiyet verdiğimden demek cinayet ettim ki bu belaya düştüm…
 
@@ -237,7 +237,7 @@ Ben ki bir hammalın oğluyum. Bu kadar dünya bana müyesser iken kendi nefsimi
 
 Ben ki bir gedayım, bir büyük padişaha nasihat ettim, demek yarı cinayet ettim.
 
-Cinayetin öteki yarısını söylemek zamanı gelmedi. [^Hâşiye3]
+Cinayetin öteki yarısını söylemek zamanı gelmedi. [^hâşiye3]
 
 Yazık! Eyvahlar olsun! Saadetimiz olan meşrutiyet-i meşrua, bir menba-ı hayat-ı içtimaiyemiz ve İslâmiyet’e uygun olan maarif-i cedideye, millet nihayet derecede müştak ve susamış olduğu halde, bu hâdisede ifrat-perver olanlar meşrutiyete garazlar karıştırmakla ve fikren münevver olanlar da dinsizce harekât-ı lâübaliyane ile milletin rağbetine karşı maatteessüf set çektiler. Bu seddi çekenler, ref’ etmelidirler. Vatan namına rica olunur.
 
@@ -261,7 +261,7 @@ Ey ulü’l-emr! Bir haysiyetim vardı, onunla İslâmiyet milliyetine hizmet ed
 
 Sureten mahkûmiyetim, vicdanen mahkûmiyetinizi intac edecektir. Bu hal bana zarar değil belki şandır. Fakat millete zarar ettiniz. Zira nasihatimdeki tesiri kırdınız. Sâniyen: Kendinize zarardır. Zira hasmınızın elinde bir hüccet-i kātıa olurum. Beni mihenk taşına vurdunuz. Acaba fırka-i hâlisa dediğiniz adamlar böyle mihenge vurulsalar kaç tanesi sağlam çıkacaktır.
 
-Eğer meşrutiyet, bir fırkanın istibdadından ibaret ise ve hilaf-ı şeriat hareket ise <span class="arabic" dir="rtl">فَلْيَشْهَدِ الثَّقَلَانِ اَنّٖى مُرْتَجِعٌ</span> [^Hâşiye4] Zira yalanlarla ittihat yalandır ve ifsadat üzerine müesses olan ism-i meşrutiyet fâsiddir. Müsemma-yı meşrutiyet; hak, sıdk, muhabbet ve imtiyazsızlık üzerine beka bulacaktır.
+Eğer meşrutiyet, bir fırkanın istibdadından ibaret ise ve hilaf-ı şeriat hareket ise <span class="arabic" dir="rtl">فَلْيَشْهَدِ الثَّقَلَانِ اَنّٖى مُرْتَجِعٌ</span> [^hâşiye4] Zira yalanlarla ittihat yalandır ve ifsadat üzerine müesses olan ism-i meşrutiyet fâsiddir. Müsemma-yı meşrutiyet; hak, sıdk, muhabbet ve imtiyazsızlık üzerine beka bulacaktır.
 
 Maatteessüf bunu kemal-i telaş ve teessüfle ihtar ediyorum ki: Mesela, bir âlim-i zîtehevvür ki sıfat-ı ilim kendini fesat ve fenalıktan men’etmiş iken daima onun sıfat-ı tehevvüründen vücuda gelen fesat ve fenalığın zikri vaktinde, onu âlimlikle yâd etmek ve sıfat-ı ilme ilişmek, nasıl ilme husumet ve adâveti îma eder. Kezalik şeriat-ı mutahharanın ve ittihad-ı Muhammedînin ism-i mukaddesi ki fırkaların ağraz-ı şahsiye ve hilaf-ı şeriat ile ektikleri tohum-u fesadı, bir milyon fişek havaya atıldığı ve umum siyaset ve asayiş efrad elinde kaldığı ve ortalık anarşist gibi olduğu halde, o müthiş fırtına mu’cize-i şeriatla kansız, hafif geçtiği halde, o mübarek nam ile o müthiş fesadı binden bir dereceye indirmekle beraber; daima o ismi garaz sahiplerine siper göstermek, pek büyük ve tehlikeli bir noktaya belki ukde-i hayatiyeye ilişmektir ki dehşetinden her bir vicdan-ı selim titriyor, dağdar-ı teessüf oluyor.
 
@@ -301,7 +301,7 @@ Bütün kuvvetimle derim ki: Terakkimiz ancak milliyetimiz olan İslâmiyet’in
 
 Evet, hem şan ve şeref-i millet-i İslâmiye hem sevab-ı âhiret hem hamiyet-i milliye hem hamiyet-i İslâmiye hem hubb-u vatan hem hubb-u din ile mütehassis olmalıyız. Zira müsenna daha muhkemdir.
 
-Ey paşalar, zabitler! Cinayetlerime ceza ve şimdi suallerime de cevap isterim. İslâmiyet ise insaniyet-i kübra ve şeriat ise medeniyet-i fuzla (en faziletli) olduğundan âlem-i İslâmiyet, medine-i fâzıla-i Eflatuniye olmaya sezadır. [^Hâşiye5]
+Ey paşalar, zabitler! Cinayetlerime ceza ve şimdi suallerime de cevap isterim. İslâmiyet ise insaniyet-i kübra ve şeriat ise medeniyet-i fuzla (en faziletli) olduğundan âlem-i İslâmiyet, medine-i fâzıla-i Eflatuniye olmaya sezadır. [^hâşiye5]
 
 **Birinci Sual:** Gazetelerin aldatmalarıyla meşru bilerek, buradaki görenek ve âdete binaen cereyan-ı umumîye kapılan safdillerin cezası nedir?
 
@@ -337,7 +337,7 @@ Gazetelerde neşrettiğim umum makalatımdaki umum hakaikte nihayet derecede mus
 
 Şayet müstakbel tarafından üç yüz sene sonraki tenkidat-ı ukalâ mahkemesinden tarih celbnamesiyle celbolunsam, yine bu hakikatleri tevessü ve inbisat ile çatlayan bazı yerlerini yamalamakla beraber, taze olarak orada da göstereceğim.
 
-[^Hâşiye6]
+[^hâşiye6]
 
 Demek, hakikat tahavvül etmez; hakikat haktır. <span class="arabic" dir="rtl">اَلْحَقُّ يَعْلُو وَلَا يُعْلٰى عَلَيْهِ</span>
 
@@ -347,7 +347,7 @@ Millet uyanmış, mugalata ve cerbeze ile iğfal olunsa da devam etmeyecektir. H
 
 Sizin işkenceli hapishanenin hali; zaman müthiş, mekân muvahhiş, mahpusîn mütevahhiş, gazeteler mürcif, efkâr müşevveş, kalpler hazîn, vicdanlar müteessir ve meyus, bidayet-i halde memurlar şematetli, nöbetçiler müz’iç olmakla beraber vicdanım beni tazip etmediği için o hal bana eğlence gibi idi. Musibetlerin tenevvüü, musikînin nağmelerinin tenevvüü gibi bana geliyordu.
 
-Hem de geçen sene tımarhanede tahsil ettiğim dersi, şimdi bu mektepte itmam ettim. [^Hâşiye7]
+Hem de geçen sene tımarhanede tahsil ettiğim dersi, şimdi bu mektepte itmam ettim. [^hâşiye7]
 
 Musibet zamanının uzunluğundan uzun dersler gördüm. Dünyanın ruhanî lezzeti olan hüzn-ü masumane ve mazlumaneden, zayıfa şefkat ve gadre şiddet-i nefret dersini aldım.
 
@@ -436,7 +436,7 @@ Mart 1909
 
 Biz Kalû Belâ’dan Cemiyet-i Muhammedî’de dâhiliz. Cihetü’l-vahdet-i ittihadımız tevhiddir. Peyman ve yeminimiz imandır. Mademki muvahhidiz, müttehidiz. Her bir mü’min i’lâ-yı kelimetullah ile mükelleftir. Bu zamanda en büyük sebebi, maddeten terakki etmektir. Zira ecnebiler fünun ve sanayi silahıyla bizi istibdad-ı manevîleri altında eziyorlar. Biz de fen ve sanat silahıyla i’lâ-yı kelimetullahın en müthiş düşmanı olan cehil ve fakr ve ihtilaf-ı efkâra cihad edeceğiz.
 
-Amma cihad-ı haricîyi şeriat-ı garranın berahin-i kātıasının elmas kılınçlarına havale edeceğiz. Zira medenilere galebe çalmak ikna iledir, söz anlamayan vahşiler gibi icbar ile değildir. Biz muhabbet fedaileriyiz, husumete vaktimiz yoktur. Cumhuriyet ki [^Hâşiye8] adalet ve meşveret ve kanunda inhisar-ı kuvvetten ibarettir. On üç asır evvel şeriat-ı garra teessüs ettiğinden, ahkâmda Avrupa’ya dilencilik etmek, din-i İslâm’a büyük bir cinayettir ve şimale müteveccihen namaz kılmak gibidir. Kuvvet kanunda olmalı. Yoksa istibdat tevzi olunmuş olur. <span class="arabic" dir="rtl">اِنَّ اللّٰهَ هُوَ الْقَوِىُّ الْمَتٖينُ</span> hâkim ve âmir-i vicdanî olmalı. O da marifet-i tam ve medeniyet-i âmm veyahut din-i İslâm namıyla olmalı. Yoksa istibdat daima hüküm-ferma olacaktır.
+Amma cihad-ı haricîyi şeriat-ı garranın berahin-i kātıasının elmas kılınçlarına havale edeceğiz. Zira medenilere galebe çalmak ikna iledir, söz anlamayan vahşiler gibi icbar ile değildir. Biz muhabbet fedaileriyiz, husumete vaktimiz yoktur. Cumhuriyet ki [^hâşiye8] adalet ve meşveret ve kanunda inhisar-ı kuvvetten ibarettir. On üç asır evvel şeriat-ı garra teessüs ettiğinden, ahkâmda Avrupa’ya dilencilik etmek, din-i İslâm’a büyük bir cinayettir ve şimale müteveccihen namaz kılmak gibidir. Kuvvet kanunda olmalı. Yoksa istibdat tevzi olunmuş olur. <span class="arabic" dir="rtl">اِنَّ اللّٰهَ هُوَ الْقَوِىُّ الْمَتٖينُ</span> hâkim ve âmir-i vicdanî olmalı. O da marifet-i tam ve medeniyet-i âmm veyahut din-i İslâm namıyla olmalı. Yoksa istibdat daima hüküm-ferma olacaktır.
 
 İttifak hüdadadır, hevada ve heveste değil.
 
@@ -589,7 +589,7 @@ Zira onlar kâh öküz arabasına binmişler, yola gitmişler. Biz birdenbire ş
 
 Talebeliğin bana verdiği vazife ile ve hürriyetin ferman-ı mezuniyetiyle ihtar ediyorum ki:
 
-Ey ebna-yı vatan! Hürriyeti sû-i tefsir etmeyiniz tâ elimizden kaçmasın. Ve müteaffin olan eski esareti başka kapta bize içirmekle bizi boğmasın. [^Hâşiye9] Zira hürriyet, müraat-ı ahkâm ve âdab-ı şeriat ve ahlâk-ı hasene ile tahakkuk ve neşv ü nema bulur. Sadr-ı evvelin yani sahabe-i kiramın o zamanda âlemde vahşet ve cebr-i istibdat hüküm-ferma olduğu halde, hürriyet ve adalet ve müsavatları bu müddeaya bir bürhan-ı bâhirdir.
+Ey ebna-yı vatan! Hürriyeti sû-i tefsir etmeyiniz tâ elimizden kaçmasın. Ve müteaffin olan eski esareti başka kapta bize içirmekle bizi boğmasın. [^hâşiye9] Zira hürriyet, müraat-ı ahkâm ve âdab-ı şeriat ve ahlâk-ı hasene ile tahakkuk ve neşv ü nema bulur. Sadr-ı evvelin yani sahabe-i kiramın o zamanda âlemde vahşet ve cebr-i istibdat hüküm-ferma olduğu halde, hürriyet ve adalet ve müsavatları bu müddeaya bir bürhan-ı bâhirdir.
 
 Yoksa hürriyeti sefahet ve lezaiz-i nâmeşrua ve israfat ve tecavüzat ve heva-i nefse ittibada serbestiyet ile tefsir ve amel etmek; bir padişahın esaretinden çıkmakla ve alçakların istibdadı ve esaret-i rezilesinin altına girmekle beraber milletin çocukluk istidadını ve sefih olduğunu gösterdiğinden, paralanmış olan eski esarete lâyık ve hürriyete adem-i liyakatini gösterir. Zira sefih mahcurdur.
 
@@ -675,25 +675,25 @@ Said Nursî
 
 Said Nursî
 
-[^Hâşiye1]: Otuz sene cebir ve işkenceler altında sıkıştırıldığı halde, hiçbir defa Avrupa şapkasını başına koymadı.
+[^hâşiye1]: Otuz sene cebir ve işkenceler altında sıkıştırıldığı halde, hiçbir defa Avrupa şapkasını başına koymadı.
 
-[^Hâşiye2]: Bedîüzzaman’a zurefadan biri bir gün, irfanıyla mütenasip bir esvab giymesi lüzumundan bahseder. Müşarün-ileyh de: “Siz, Avusturya’ya güya boykot yapıyorsunuz hem onun gönderdiği kalpakları giyiyorsunuz. Ben ise bütün Avrupa’ya boykot yapıyorum, onun için yalnız memleketimin maddî ve manevî mamulatını giyiyorum.” buyurmuştur.
+[^hâşiye2]: Bedîüzzaman’a zurefadan biri bir gün, irfanıyla mütenasip bir esvab giymesi lüzumundan bahseder. Müşarün-ileyh de: “Siz, Avusturya’ya güya boykot yapıyorsunuz hem onun gönderdiği kalpakları giyiyorsunuz. Ben ise bütün Avrupa’ya boykot yapıyorum, onun için yalnız memleketimin maddî ve manevî mamulatını giyiyorum.” buyurmuştur.
 
-[^Hâşiye3]: O yarının zamanı; on beş sene sonra yirmi sekiz senedir müellifin sebeb-i hapsi olan, Siracünnur’un âhirindeki bahse bakınız. Tam o yarı cinayeti bileceksiniz.
+[^hâşiye3]: O yarının zamanı; on beş sene sonra yirmi sekiz senedir müellifin sebeb-i hapsi olan, Siracünnur’un âhirindeki bahse bakınız. Tam o yarı cinayeti bileceksiniz.
 
-[^Hâşiye4]: Yani bütün dünya, cin ve ins şahit olsun ki ben mürteciyim.
+[^hâşiye4]: Yani bütün dünya, cin ve ins şahit olsun ki ben mürteciyim.
 
-[^Hâşiye5]: Bu sualler, kırk elli masum mahpusun tahliyesine sebep oldu.
+[^hâşiye5]: Bu sualler, kırk elli masum mahpusun tahliyesine sebep oldu.
 
-[^Hâşiye6]: Şimdi Üstad Bedîüzzaman bu kırk beş senedeki dehşetli mahkemelerinde aynen bu on bir buçuk cinayetlerini ve on bir buçuk suallerini o Divan-ı Harb-i Örfîdeki gibi tekrar etmiştir ve etmektedir.
+[^hâşiye6]: Şimdi Üstad Bedîüzzaman bu kırk beş senedeki dehşetli mahkemelerinde aynen bu on bir buçuk cinayetlerini ve on bir buçuk suallerini o Divan-ı Harb-i Örfîdeki gibi tekrar etmiştir ve etmektedir.
 
 Nur talebeleri namına Hüsrev
 
-[^Hâşiye7]: Üstad Bedîüzzaman Said Nursî Hazretleri kırk beş sene evvel tımarhane hükmündeki mahkeme-i zalimanede aldıkları dersi, şimdi bu gaddarane hazır mektepte imtihan vermişler ve böylece iki şehadetname almışlardır.
+[^hâşiye7]: Üstad Bedîüzzaman Said Nursî Hazretleri kırk beş sene evvel tımarhane hükmündeki mahkeme-i zalimanede aldıkları dersi, şimdi bu gaddarane hazır mektepte imtihan vermişler ve böylece iki şehadetname almışlardır.
 
 Nazif, Hüsrev
 
-[^Hâşiye8]: O zaman meşrutiyet, şimdi o kelime yerine cumhuriyet konulmuş.
+[^hâşiye8]: O zaman meşrutiyet, şimdi o kelime yerine cumhuriyet konulmuş.
 
-[^Hâşiye9]: Evet, daha dehşetli bir istibdat ile pek acı ve zehirli bir esareti bize içirdiler.
+[^hâşiye9]: Evet, daha dehşetli bir istibdat ile pek acı ve zehirli bir esareti bize içirdiler.
 

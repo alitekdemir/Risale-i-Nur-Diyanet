@@ -128,7 +128,7 @@ Hem bazen bir sahife, iki sahifenin mecmuuna bakmakla beraber aynı suretinde ik
 
 Sure-i Ahzab’ın yine sahife dört yüz yirmi ikide on altı ism-i Celal geliyor. Zahirî tevafuku yok. Halbuki bir sahife daha evvel on gelir ve mukabilinde altı var, terkip edilse on altı olur tevafuk eder.
 
-Hem bazen ism-i Rab ile beraber tevafuk eder. Bazen sahife sahifeye değil, yaprak yaprağa bakar. Hem bazen sahife rakamına bakar. Dokuz rakamı çok defa sahife rakamına baktığı için tevafuktan çıktığını hissettim [^Hâşiye1]. Her ne ise siz de tetkik edersiniz, sonra meşveretinizle gizli tevafukatı gösterecek rakamları yazacağız. Yeni yazdığımız Kur’an’dan tensib ettiğiniz takdirde kaydedeceğiz.
+Hem bazen ism-i Rab ile beraber tevafuk eder. Bazen sahife sahifeye değil, yaprak yaprağa bakar. Hem bazen sahife rakamına bakar. Dokuz rakamı çok defa sahife rakamına baktığı için tevafuktan çıktığını hissettim [^hâşiye1]. Her ne ise siz de tetkik edersiniz, sonra meşveretinizle gizli tevafukatı gösterecek rakamları yazacağız. Yeni yazdığımız Kur’an’dan tensib ettiğiniz takdirde kaydedeceğiz.
 
 Başta yüz elli sahifede elli bir defa yedi ve sekiz geliyor. Yirmi sekizde sekizdir, yirmi üçte yedidir. Bu yedi, sekiz birbirine muvafık kabul edilmiş, yediden sekize, sekizden yediye geçmekle tevafuk bozulmuyor. Bu iki rakamın Kur’an’da mühim sırları bulunduğu hissedilir.
 
@@ -302,5 +302,5 @@ Abdülbâki
 
 ***
 
-[^Hâşiye1]: Elhasıl, bazı esrar-ı gaybiye için tevafukat şeklini değiştiriyor. Lafza-i Celal’in diğer latîf ve cazibedar ve manidar bir tevafuku şudur ki: Başta Fatiha sahifesiyle beraber yüz elli bir sahifede, elli bir defa yedi ile sekiz geliyor.
+[^hâşiye1]: Elhasıl, bazı esrar-ı gaybiye için tevafukat şeklini değiştiriyor. Lafza-i Celal’in diğer latîf ve cazibedar ve manidar bir tevafuku şudur ki: Başta Fatiha sahifesiyle beraber yüz elli bir sahifede, elli bir defa yedi ile sekiz geliyor.
 

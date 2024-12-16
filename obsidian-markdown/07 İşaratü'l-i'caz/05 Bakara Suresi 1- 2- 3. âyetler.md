@@ -61,7 +61,7 @@ Evet, nasıl ki Kur’an’ın hükümleri uzun bir surede, uzun bir sure kısa 
 
 2. Surelerin başlarındaki huruf-u mukattaa, İlahî bir şifredir. Beşer fikri ona yetişemiyor. Anahtarı ancak Hazret-i Muhammed aleyhissalâtü vesselâmdadır.
 3. Şifrevari şu huruf-u mukattaanın zikri, Hazret-i Muhammed aleyhissalâtü vesselâmın fevkalâde bir zekâya mâlik olduğuna işarettir ki Muhammed aleyhissalâtü vesselâm remizleri, îmaları ve en gizli şeyleri sarîh gibi telakki eder, anlar.
-4. Şu harflerin taktîi; harf ve lafızların hâvi oldukları kıymet, yalnız ifade ettikleri manalara göre olmayıp ilm-i esrarü’l-hurufta beyan edildiği gibi adet ve sayılar misillü, harflerin arasında fıtrî münasebetlerin bulunduğuna işarettir. [^Hâşiye1]
+4. Şu harflerin taktîi; harf ve lafızların hâvi oldukları kıymet, yalnız ifade ettikleri manalara göre olmayıp ilm-i esrarü’l-hurufta beyan edildiği gibi adet ve sayılar misillü, harflerin arasında fıtrî münasebetlerin bulunduğuna işarettir. [^hâşiye1]
 5. <span class="arabic" dir="rtl">الٓمٓ</span> taktîiyle, bütün harflerin esas mahreçleri olan “halk, vasat, şefe” mahreçlerine işarettir. Ve zihinlerin nazar-ı dikkatini şu mahreçlere çeviriyor ki zihinler, gerek bu üç mahreçte, gerek bunlara bağlı küçük küçük mahreçlerde lafızların ve harflerin nasıl vücuda geldiklerini hayret ve ibretle mütalaa etsinler.
 
 Ey zihnini belâgatın boyasıyla boyayan arkadaş! Bu letaifi sıkacak olursan <span class="arabic" dir="rtl">هٰذَا كَلَامُ اللّٰهِ</span> içinden çıkacaktır.
@@ -269,4 +269,4 @@ Maalesef tabaka-i havastaki meziyetler, tevazu ve terahhuma sebep iken tekebbür
 
 **Hülâsa:** Tabakalar arasında musalahanın temini ve münasebetin tesisi ancak ve ancak erkân-ı İslâmiyeden olan zekât ve zekâtın yavruları olan sadaka ve teberruatın heyet-i içtimaiyece yüksek bir düstur ittihaz edilmesiyle olur.
 
-[^Hâşiye1]: Kırk sene sonra Risale-i Nur, bu lem’a-i i’cazı körlere dahi göstermiştir.
+[^hâşiye1]: Kırk sene sonra Risale-i Nur, bu lem’a-i i’cazı körlere dahi göstermiştir.

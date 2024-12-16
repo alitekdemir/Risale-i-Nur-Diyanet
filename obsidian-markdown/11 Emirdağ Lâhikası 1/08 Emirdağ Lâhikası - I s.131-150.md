@@ -41,7 +41,7 @@ Kardeşiniz Mustafa Osman
 ##### Vasiyetnamemdir
 Aziz, sıddık kardeşlerim ve vârislerim!
 
-Ecel gizli olmasından vasiyetname yazmak sünnettir. Benim metrûkâtım ve Risale-i Nur’dan olan benim hususi kitaplarım ve güzel ciltlenmiş mecmualarım vesair şeylerimin bütününü, Gül ve Nur Fabrikalarının heyetine, başta Hüsrev ve Tahirî olarak o heyetten on iki [^Hâşiye1] kahraman kardeşlerime vasiyet ediyorum. Onlara bırakıyorum ki emr-i hak olan ecelim geldiği zaman, benim arkamda o metrûkâtım, benim bedelime o sadık ve mübarek ellerde hizmet-i Nuriye ve imaniyede çalışsın ve istimal edilsin.
+Ecel gizli olmasından vasiyetname yazmak sünnettir. Benim metrûkâtım ve Risale-i Nur’dan olan benim hususi kitaplarım ve güzel ciltlenmiş mecmualarım vesair şeylerimin bütününü, Gül ve Nur Fabrikalarının heyetine, başta Hüsrev ve Tahirî olarak o heyetten on iki [^hâşiye1] kahraman kardeşlerime vasiyet ediyorum. Onlara bırakıyorum ki emr-i hak olan ecelim geldiği zaman, benim arkamda o metrûkâtım, benim bedelime o sadık ve mübarek ellerde hizmet-i Nuriye ve imaniyede çalışsın ve istimal edilsin.
 
 Kardeşlerim! Bu vasiyetten telaş etmeyiniz. Ben, teessürattan ve dokuz defa zehirlenmekten, pek çok zayıf olmakla beraber; gizli münafıkların desiselerle müteaddid sû-i kasdları için bu vasiyeti yazdım. Merak etmeyiniz, inayet-i Rabbaniye ve hıfz-ı İlahî devam ediyor.
 
@@ -300,5 +300,5 @@ Umum kardeşlerime selâm…
 
 ***
 
-[^Hâşiye1]: Kardeşim Abdülmecid, Zübeyr, Mustafa Sungur, Ceylan, Mehmed Kaya, Hüsnü, Bayram, Rüşdü, Abdullah, Ahmed Aytimur, Âtıf, Tillolu Said, Mustafa, Mustafa, Seyyid Salih.
+[^hâşiye1]: Kardeşim Abdülmecid, Zübeyr, Mustafa Sungur, Ceylan, Mehmed Kaya, Hüsnü, Bayram, Rüşdü, Abdullah, Ahmed Aytimur, Âtıf, Tillolu Said, Mustafa, Mustafa, Seyyid Salih.
 

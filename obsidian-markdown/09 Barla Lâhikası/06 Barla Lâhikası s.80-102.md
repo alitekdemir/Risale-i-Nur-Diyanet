@@ -88,7 +88,7 @@ Hâtem-i İ’caz, hizmet-i Kur’an’daki kıymettar kardeşlerimi tanıttırd
 
 Âyinedir bu âlem, her şey Hak ile kaim,
 
-Mir’at-ı Muhammed’den, Allah görünür daim. [^Hâşiye1]
+Mir’at-ı Muhammed’den, Allah görünür daim. [^hâşiye1]
 
 Ve şu fıkrayı söylettirdi:
 
@@ -222,7 +222,7 @@ Bin üç yüz seneden beri, sahib-i insafı hayrette bırakan ve dünyanın her 
 
 O kıymettar Kur’an’ın bugün mükevvenatı yed-i kudretinde tutan ve azamet-i kibriyasıyla idare eden ve azamet-i celali karşısında her şeyi kendine secde ettiren bir Zat-ı Vâcibü’l-vücud’un kelâmı olduğunu, üzerindeki hadsiz damgalarıyla gösteren risalelerinizin kıymeti ne büyüktür. O risalelere nasıl kıymet verilir, nasıl başkasıyla muvazene edilir, nasıl bir başkasının tefevvuku tahattur edilir?
 
-Beşerin zulmetli simasına nurlar saçan ve tevhid haricindeki her türlü akideleri zîr ü zeber eden ve şakirdlerine gülümseyerek tatlı bir yüzle bakan ve hoş ve pek şirin bir lisan ile söyleyen o risaleler ve o risalelerin sahibi ve nâşiri olan sevgili Üstadım, siz talebelerinizin kalplerinde risalelerinizle yaşıyorsunuz. Hem öyle bir surette yaşıyorsunuz ki küçük bir işaretinize müheyya talebelerinizin ruhlarında ırmakların çağladıkları gibi tevali eden ve tükenmek bilmeyen İlahî bir muhabbetle yaşıyorsunuz. Hayat-ı fâniyeye veda etseniz bile büyük büyük cemaatlerin arasında hürmetle yâd edileceğinize [^Hâşiye2] ve namınızın dünya ve ukbada ihtiramla taşınacağına ve risalelerinizin pek büyük hâhişle revaçta olacağına kaviyyen ümitvarım.
+Beşerin zulmetli simasına nurlar saçan ve tevhid haricindeki her türlü akideleri zîr ü zeber eden ve şakirdlerine gülümseyerek tatlı bir yüzle bakan ve hoş ve pek şirin bir lisan ile söyleyen o risaleler ve o risalelerin sahibi ve nâşiri olan sevgili Üstadım, siz talebelerinizin kalplerinde risalelerinizle yaşıyorsunuz. Hem öyle bir surette yaşıyorsunuz ki küçük bir işaretinize müheyya talebelerinizin ruhlarında ırmakların çağladıkları gibi tevali eden ve tükenmek bilmeyen İlahî bir muhabbetle yaşıyorsunuz. Hayat-ı fâniyeye veda etseniz bile büyük büyük cemaatlerin arasında hürmetle yâd edileceğinize [^hâşiye2] ve namınızın dünya ve ukbada ihtiramla taşınacağına ve risalelerinizin pek büyük hâhişle revaçta olacağına kaviyyen ümitvarım.
 
 Evet, nasıl sözlerim haksız olsun ki en tehlikeli anlarda bile hakkı söylemekte susmayan ve pek âlî ruhu taşıyan ve talebelerine her an teselli nurlarını dağıtan, Kur’an-ı Kerîm’in bugünkü dellâl-ı muhteremi olan Üstadım! Sizin din-i mübin-i İslâm’a olan merbutiyetinize ve o büyük muhabbetinize ve o yüksek sa’yinize mükâfat olarak defter-i hasenatınıza Cenab-ı Vâcibü’l-vücud Hazretleri lâyüad ve lâyuhsa ecirleri yazmasını rahmet-i İlahiyeden niyaz ederim.
 
@@ -460,7 +460,7 @@ Ahmed Galib
 
 ***
 
-[^Hâşiye1]: Latîf bir tevafuktur ki birinci Hulusi ile ikinci Hulusi unvanını alan Sabri Efendi, buradaki –birbirinden çok uzak oldukları halde– aynı fıkrayı mektuplarında bana karşı yazıyorlar.
+[^hâşiye1]: Latîf bir tevafuktur ki birinci Hulusi ile ikinci Hulusi unvanını alan Sabri Efendi, buradaki –birbirinden çok uzak oldukları halde– aynı fıkrayı mektuplarında bana karşı yazıyorlar.
 
-[^Hâşiye2]: Ben kardeşim Hüsrev’in bu makamdaki hissiyatına iştirak edemiyorum. İnsanların nazarında mevki kazanmak ve dillerinde yâd edilmek, hakikatbîn olanlarca bir şeref değildir. Eğer rıza-yı İlahî varsa o rızanın cilvesi olarak insanlarda teveccüh görünse, bir derece emare-i rıza olmak noktasında makbul olabilir. Yoksa arzu edilmemeli. Madem Hüsrev hakikatbîndir, elbette benim şahsıma havale ettiği şerefi, risaleleri niyet ediyor. Zaten o şerefte umum talebeler hissedardırlar, tek birisine verilmez.
+[^hâşiye2]: Ben kardeşim Hüsrev’in bu makamdaki hissiyatına iştirak edemiyorum. İnsanların nazarında mevki kazanmak ve dillerinde yâd edilmek, hakikatbîn olanlarca bir şeref değildir. Eğer rıza-yı İlahî varsa o rızanın cilvesi olarak insanlarda teveccüh görünse, bir derece emare-i rıza olmak noktasında makbul olabilir. Yoksa arzu edilmemeli. Madem Hüsrev hakikatbîndir, elbette benim şahsıma havale ettiği şerefi, risaleleri niyet ediyor. Zaten o şerefte umum talebeler hissedardırlar, tek birisine verilmez.
 

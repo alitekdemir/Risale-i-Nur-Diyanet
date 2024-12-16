@@ -52,7 +52,7 @@ Evet, eğer gündüzün ziyası ve zemindeki umum parlak şeylerde temessül ede
 
 İşte gel, bak; dalalet ve küfür nasıl hiç çıkılmaz bataklığa girer. Ve dalaletteki cehalet, ne derece ahmakane olduğunu gör, <span class="arabic" dir="rtl">اَلْحَمْدُ لِلّٰهِ عَلٰى دٖينِ الْاِسْلَامِ وَ كَمَالِ الْاٖيمَانِ</span> de.
 
-Evet, kâinat sarayını tertemiz tutan bu ulvi, umumî tanzif elbette ism-i Kuddüs’ün cilvesi ve muktezasıdır. Evet nasıl ki bütün mahlukatın tesbihatları ism-i Kuddüs’e bakar, öyle de bütün nezafetlerini de Kuddüs ismi ister. [^Hâşiye1] Nezafetin bu kudsî intisabındandır ki <span class="arabic" dir="rtl">اَلنَّظَافَةُ مِنَ الْاٖيمَانِ</span> hadîsi, nezafeti imanın nurundan saymış. <span class="arabic" dir="rtl">اِنَّ اللّٰهَ يُحِبُّ التَّوَّابٖينَ وَيُحِبُّ الْمُتَطَهِّرٖينَ</span> âyeti dahi tahareti, muhabbet-i İlahiyenin bir medarı göstermiş.
+Evet, kâinat sarayını tertemiz tutan bu ulvi, umumî tanzif elbette ism-i Kuddüs’ün cilvesi ve muktezasıdır. Evet nasıl ki bütün mahlukatın tesbihatları ism-i Kuddüs’e bakar, öyle de bütün nezafetlerini de Kuddüs ismi ister. [^hâşiye1] Nezafetin bu kudsî intisabındandır ki <span class="arabic" dir="rtl">اَلنَّظَافَةُ مِنَ الْاٖيمَانِ</span> hadîsi, nezafeti imanın nurundan saymış. <span class="arabic" dir="rtl">اِنَّ اللّٰهَ يُحِبُّ التَّوَّابٖينَ وَيُحِبُّ الْمُتَطَهِّرٖينَ</span> âyeti dahi tahareti, muhabbet-i İlahiyenin bir medarı göstermiş.
 
 ***
 
@@ -142,7 +142,7 @@ Fenn-i rızık diyecek: “Yüz binler leziz taamlar, beraber kemal-i intizam il
 
 Fenn-i askeriye diyecek ki: “Arz bir ordugâhtır. Her bahar mevsiminde yeni taht-ı silaha alınmış ve zemin yüzünde çadırları kurulmuş dört yüz bin muhtelif milletler o orduda bulunduğu halde; ayrı ayrı erzakları, ayrı ayrı libasları, silahları, ayrı ayrı talimatları, terhisatları kemal-i intizamla hiçbirini unutmayarak ve şaşırmayarak bir tek Kumandan-ı A’zam’ın emriyle, kuvvetiyle, merhametiyle, hazinesiyle gayet muntazam yapılıp idare ediliyor.”
 
-Ve Fenn-i elektrikten sorulsa elbette diyecek: “Bu muhteşem saray-ı kâinatın damı, gayet intizamlı, mizanlı hadsiz elektrik lambalarıyla tezyin edilmiştir. Fakat o kadar hârika bir intizam ve mizan iledir ki başta güneş olarak küre-i arzdan bin defa büyük o semavî lambalar, mütemadiyen yandıkları halde muvazenelerini bozmuyorlar, patlak vermiyorlar, yangın çıkarmıyorlar. Sarfiyatları hadsiz olduğu halde, vâridatları ve gaz yağları ve madde-i iştialleri nereden geliyor? Neden tükenmiyor? Neden yanmak muvazenesi bozulmuyor? Küçük bir lamba dahi muntazam bakılmazsa söner. Kozmoğrafyaca küre-i arzdan bir milyondan ziyade büyük ve bir milyon seneden ziyade yaşayan güneşi [^Hâşiye2] kömürsüz, yağsız yandıran, söndürmeyen Hakîm-i Zülcelal’in hikmetine, kudretine bak, ‘Sübhanallah’ de. Güneşin müddet-i ömründe geçen dakikalarının âşiratı adedince ‘Mâşâallah, bârekellah, lâ ilahe illâ hû’ söyle.
+Ve Fenn-i elektrikten sorulsa elbette diyecek: “Bu muhteşem saray-ı kâinatın damı, gayet intizamlı, mizanlı hadsiz elektrik lambalarıyla tezyin edilmiştir. Fakat o kadar hârika bir intizam ve mizan iledir ki başta güneş olarak küre-i arzdan bin defa büyük o semavî lambalar, mütemadiyen yandıkları halde muvazenelerini bozmuyorlar, patlak vermiyorlar, yangın çıkarmıyorlar. Sarfiyatları hadsiz olduğu halde, vâridatları ve gaz yağları ve madde-i iştialleri nereden geliyor? Neden tükenmiyor? Neden yanmak muvazenesi bozulmuyor? Küçük bir lamba dahi muntazam bakılmazsa söner. Kozmoğrafyaca küre-i arzdan bir milyondan ziyade büyük ve bir milyon seneden ziyade yaşayan güneşi [^hâşiye2] kömürsüz, yağsız yandıran, söndürmeyen Hakîm-i Zülcelal’in hikmetine, kudretine bak, ‘Sübhanallah’ de. Güneşin müddet-i ömründe geçen dakikalarının âşiratı adedince ‘Mâşâallah, bârekellah, lâ ilahe illâ hû’ söyle.
 
 Demek bu semavî lambalarda gayet hârika bir intizam var ve onlara çok dikkatle bakılıyor. Güya o pek büyük ve pek çok kitle-i nâriyelerin ve gayet çok kanadil-i nuriyelerin buhar kazanı ise harareti tükenmez bir cehennemdir ki onlara nursuz hararet veriyor. Ve o elektrik lambalarının makinesi ve merkezî fabrikası, daimî bir cennettir ki onlara nur ve ışık veriyor. İsm-i Hakem ve Hakîm’in cilve-i a’zamıyla, intizamla yanmakları devam ediyor.” Ve hâkeza…
 
@@ -271,7 +271,7 @@ Evet, kâinatın envaları birbiri içine girift olması ve kenetleşmesi ve her
 
 Demek kâinat öyle bir külldür ki bir cüze Rab olmak, umum o külle Rab olmakla olur. Ve öyle bir küllîdir ki her bir cüz, bir fert hükmüne geçip bir tek ferde rububiyetini dinlettirmek, umum o küllîyi musahhar etmekle olabilir.
 
-**Altıncı İşaret:** Ferdiyet-i Rabbaniye ve vahdet-i İlahiye, bütün kemalâtın [^Hâşiye3] medarı, esası olduğu ve kâinatın hilkatindeki hikmetlerin ve maksatların menşei ve madeni olduğu gibi zîşuur ve zîaklın, hususan insanların metalibinin ve arzularının husul bulmasının menbaı ve çare-i yegânesidir. Eğer ferdiyet olmazsa beşerin bütün metalib ve arzuları sönecek. Hem hilkat-i kâinatın neticeleri hiçe inecek, hem mevcud ve muhakkak olan ekser kemalâtın in’idamına vesile olacak.
+**Altıncı İşaret:** Ferdiyet-i Rabbaniye ve vahdet-i İlahiye, bütün kemalâtın [^hâşiye3] medarı, esası olduğu ve kâinatın hilkatindeki hikmetlerin ve maksatların menşei ve madeni olduğu gibi zîşuur ve zîaklın, hususan insanların metalibinin ve arzularının husul bulmasının menbaı ve çare-i yegânesidir. Eğer ferdiyet olmazsa beşerin bütün metalib ve arzuları sönecek. Hem hilkat-i kâinatın neticeleri hiçe inecek, hem mevcud ve muhakkak olan ekser kemalâtın in’idamına vesile olacak.
 
 Mesela, insanda en şedit ve sarsılmaz ve aşk derecesinde bir arzu-yu beka var. Ve o matlabı vermek için bütün kâinatı sırr-ı ferdiyetle kabzasında tutan ve bir menzili kapayıp öbür menzili açmak gibi kolay bir surette dünyayı kapayıp âhireti açabilir bir zat, o arzu-yu bekayı yerine getirebilir. Ve bu arzu gibi, ebede uzanmış ve kâinatın etrafına yayılmış beşerin binler arzuları, sırr-ı ferdiyete ve hakikat-i tevhide bağlıdırlar. Eğer o ferdiyet olmazsa onlar olmaz, akîm kalırlar. Ve vahdetle bütün kâinata birden tasarruf eden bir Zat-ı Ferd olmazsa o matlablar yerine gelmez. Faraza gelse de çok nâkıs olur.
 
@@ -431,7 +431,7 @@ Bu Beşinci Nükte ism-i Hay hakkında olduğu münasebetiyle, hem teberrük hem
 
 ***İ’tizar:*** Bu çok ehemmiyetli meseleler ve çok derin ve geniş ism-i Kayyum’un cilve-i a’zamı, hem muntazaman değil belki ayrı ayrı lem’alar tarzında kalbe hutur ettiğinden hem gayet müşevveş ve acele ve tetkiksiz müsvedde halinde kaldığından elbette tabirat ve ifadelerde çok noksanlar, intizamsızlıklar bulunacaktır. Meselelerin güzelliklerine benim kusurlarımı bağışlamalısınız.
 
-***İhtar:*** İsm-i a’zama ait nükteler, a’zamî bir surette geniş, hem gayet derin olduğundan hususan ism-i Kayyum’a ait meseleler ve bilhassa Birinci Şuâ’ı [^Hâşiye4] maddiyyunlara baktığı için, daha ziyade derin gittiğinden elbette her adam her meseleyi her cihette anlamaz. Fakat herkes her meseleden bir derece hisse alabilir. “**Bir şey bütün elde edilmezse bütün bütün elden kaçırılmaz.**” kaidesiyle, “Bu manevî bahçenin bütün meyvelerini koparamıyorum.” diye vazgeçmek kâr-ı akıl değildir. İnsan ne kadar koparsa o kadar kârdır.
+***İhtar:*** İsm-i a’zama ait nükteler, a’zamî bir surette geniş, hem gayet derin olduğundan hususan ism-i Kayyum’a ait meseleler ve bilhassa Birinci Şuâ’ı [^hâşiye4] maddiyyunlara baktığı için, daha ziyade derin gittiğinden elbette her adam her meseleyi her cihette anlamaz. Fakat herkes her meseleden bir derece hisse alabilir. “**Bir şey bütün elde edilmezse bütün bütün elden kaçırılmaz.**” kaidesiyle, “Bu manevî bahçenin bütün meyvelerini koparamıyorum.” diye vazgeçmek kâr-ı akıl değildir. İnsan ne kadar koparsa o kadar kârdır.
 
 İsm-i a’zama ait meselelerin ihata edilmeyecek derecede genişleri olduğu gibi akıl görmeyecek derecede inceleri de vardır. Hususan ism-i Hay ve Kayyum’a ve bilhassa hayatın iman erkânına karşı remizlerine ve bilhassa kaza ve kader rüknüne hayatın işaretine ve ism-i Kayyum’un Birinci Şuâ’ına herkesin fikri yetişmez fakat hissesiz de kalmaz; belki herhalde imanını kuvvetlendirir.
 
@@ -560,7 +560,7 @@ Sâniyen: Tagayyür ve tebeddül, hudûstan ve tekemmül etmek için tazelenmekt
 
 Sonra o hayalin hurdebîni olan ikinci dürbünüyle küçük zerratı görecek bir suretle bakıyoruz. O sırr-ı kayyumiyetle zîhayat mahlukat-ı arziyenin her birinin zerrat-ı vücudiyeleri, yıldızlar gibi muntazam bir vaziyet alıp hareket ediyorlar ve vazifeler görüyorlar. Hususan zîhayatın kanındaki “küreyvat-ı hamra ve beyza” tabir ettikleri zerrelerden teşekkül eden küçücük kütleleri, seyyar yıldızlar gibi mevlevîvari iki hareket-i muntazama ile hareket ediyorlar görüyoruz.
 
-***Bir hülâsatü’l-hülâsa:*** [^Hâşiye5] İsm-i a’zamın altı ismi, ziyadaki yedi renk gibi imtizaç ederek teşkil ettikleri ziya-yı kudsiyeye bakmak için bir hülâsanın zikri münasiptir. Şöyle ki:
+***Bir hülâsatü’l-hülâsa:*** [^hâşiye5] İsm-i a’zamın altı ismi, ziyadaki yedi renk gibi imtizaç ederek teşkil ettikleri ziya-yı kudsiyeye bakmak için bir hülâsanın zikri münasiptir. Şöyle ki:
 
 Bütün kâinatın mevcudatını böyle durduran, beka ve kıyam veren ism-i Kayyum’un bu cilve-i a’zamının arkasından bak: İsm-i Hayy’ın cilve-i a’zamı, o bütün mevcudat-ı zîhayatı cilvesiyle şulelendirmiş, kâinatı nurlandırmış, bütün zîhayat mevcudatı cilvesiyle yaldızlıyor.
 
@@ -604,7 +604,7 @@ Ve insaniyet midesinden sonra hadsiz geniş diğer bir sofra-i nimet açmak içi
 
 Hem insan, nasıl ki hayat-ı câmiasıyla Zat-ı Zülcelal’in sıfât ve şuunatına bir mikyas-ı marifettir ve cilve-i esmasına bir fihristedir ve şuurlu bir âyinedir ve hâkeza çok cihetlerle Zat-ı Hayy-ı Kayyum’a âyinedarlık eder. Öyle de insan, şu kâinatın hakaiklerine bir vâhid-i kıyasîdir, bir fihristedir, bir mikyastır ve bir mizandır.
 
-Mesela, kâinatta Levh-i Mahfuz’un gayet kat’î bir delil-i vücudu ve bir numunesi, insandaki kuvve-i hâfızadır ve âlem-i misalin vücuduna kat’î delil ve numune, kuvve-i hayaliyedir [^Hâşiye6] ve kâinattaki ruhanîlerin bir delil-i vücudu ve numunesi, insandaki kuvvelerdir ve latîfelerdir ve hâkeza… İnsan, küçük bir mikyasta, kâinattaki hakaik-i imaniyeyi şuhud derecesinde gösterebilir.
+Mesela, kâinatta Levh-i Mahfuz’un gayet kat’î bir delil-i vücudu ve bir numunesi, insandaki kuvve-i hâfızadır ve âlem-i misalin vücuduna kat’î delil ve numune, kuvve-i hayaliyedir [^hâşiye6] ve kâinattaki ruhanîlerin bir delil-i vücudu ve numunesi, insandaki kuvvelerdir ve latîfelerdir ve hâkeza… İnsan, küçük bir mikyasta, kâinattaki hakaik-i imaniyeyi şuhud derecesinde gösterebilir.
 
 İşte insanın mezkûr vazifeler gibi çok mühim hizmetleri var. Cemal-i bâkiye âyinedir, kemal-i sermedîye dellâl-ı mazhardır ve rahmet-i ebediyeye muhtac-ı müteşekkirdir. Madem cemal, kemal, rahmet bâkidirler ve sermedîdirler; elbette o cemal-i bâkinin âyine-i müştakı ve o kemal-i sermedînin dellâl-ı âşığı ve o rahmet-i ebediyenin muhtac-ı müteşekkiri olan insan, bâki kalmak için bir dâr-ı bekaya girecek ve o bâkilere refakat için ebede gidecek ve o ebedî cemal ve o sermedî kemal ve daimî rahmete, ebedü’l-âbâdda refakat etmek gerektir, lâzımdır.
 
@@ -624,15 +624,15 @@ Ve insanın kıymetini ve vazifelerini ve kemalâtını bildiren rehber-i a’za
 
 ***
 
-[^Hâşiye1]: Kötü hasletler, bâtıl itikadlar, günahlar, bid’alar manevî kirlerden olduklarını unutmamalıyız.
+[^hâşiye1]: Kötü hasletler, bâtıl itikadlar, günahlar, bid’alar manevî kirlerden olduklarını unutmamalıyız.
 
-[^Hâşiye2]: Acaba dünya sarayını ısındıran Güneş sobasına veyahut lambasına ne kadar odun ve kömür ve gaz yağı lâzım olduğu hesap edilsin. Her gün yanması için –kozmoğrafyanın sözüne bakılsa– bir milyon küre-i arz kadar odun yığınları ve binler denizler kadar gaz yağı gerektir. Şimdi düşün; onu odunsuz, gazsız daimî ışıklandıran Kadîr-i Zülcelal’in haşmetine, hikmetine, kudretine Güneşin zerreleri adedince “Sübhanallah, mâşâallah, bârekellah” de.
+[^hâşiye2]: Acaba dünya sarayını ısındıran Güneş sobasına veyahut lambasına ne kadar odun ve kömür ve gaz yağı lâzım olduğu hesap edilsin. Her gün yanması için –kozmoğrafyanın sözüne bakılsa– bir milyon küre-i arz kadar odun yığınları ve binler denizler kadar gaz yağı gerektir. Şimdi düşün; onu odunsuz, gazsız daimî ışıklandıran Kadîr-i Zülcelal’in haşmetine, hikmetine, kudretine Güneşin zerreleri adedince “Sübhanallah, mâşâallah, bârekellah” de.
 
-[^Hâşiye3]: Hattâ hadsiz kemal ve cemal-i İlahînin tahakkukuna en zahir bürhan ve en kuvvetli bir delil, vahdettir. Çünkü kâinatın sâni’i Vâhid-i Ehad bilinse bütün kâinattaki kemalât ve cemaller, o Sâni’-i Vâhid’de bulunan kudsî kemalâtın ve cemallerin gölgeleri ve cilveleri ve işaretleri ve tereşşuhatları olduğu bilinecek. Yoksa kâinatın kemalâtı ve cemalleri, mahlukata ve şuursuz bir kısım esbaba ait kalacaktı. O vakit akl-ı beşer nazarında kemalât-ı İlahiyenin hazine-i sermediyesi anahtarsız, meçhul kalırdı.
+[^hâşiye3]: Hattâ hadsiz kemal ve cemal-i İlahînin tahakkukuna en zahir bürhan ve en kuvvetli bir delil, vahdettir. Çünkü kâinatın sâni’i Vâhid-i Ehad bilinse bütün kâinattaki kemalât ve cemaller, o Sâni’-i Vâhid’de bulunan kudsî kemalâtın ve cemallerin gölgeleri ve cilveleri ve işaretleri ve tereşşuhatları olduğu bilinecek. Yoksa kâinatın kemalâtı ve cemalleri, mahlukata ve şuursuz bir kısım esbaba ait kalacaktı. O vakit akl-ı beşer nazarında kemalât-ı İlahiyenin hazine-i sermediyesi anahtarsız, meçhul kalırdı.
 
-[^Hâşiye4]: Bu risaleyi okuyan eğer mütefennin değilse, Birinci Şuâ’yı okumasın veya âhirde okusun; ikinciden başlasın.
+[^hâşiye4]: Bu risaleyi okuyan eğer mütefennin değilse, Birinci Şuâ’yı okumasın veya âhirde okusun; ikinciden başlasın.
 
-[^Hâşiye5]: Otuzuncu Lem’a’nın altı risaleciğinin esası ve mevzuu ve ism-i a’zamın sırrını taşıyan altı mukaddes isimlerin gayet kısa bir hülâsalarıdır.
+[^hâşiye5]: Otuzuncu Lem’a’nın altı risaleciğinin esası ve mevzuu ve ism-i a’zamın sırrını taşıyan altı mukaddes isimlerin gayet kısa bir hülâsalarıdır.
 
-[^Hâşiye6]: Evet, nasıl ki insanın anâsırları, kâinatın unsurlarından; ve kemikleri, taş ve kayalarından; ve saçları, nebat ve eşcarından; ve bedeninde cereyan eden kan ve gözünden, kulağından, burnundan ve ağzından akan ayrı ayrı suları, Arzın çeşmelerinden ve madenî sularından haber veriyorlar, delâlet edip onlara işaret ediyorlar. Aynen öyle de insanın ruhu âlem-i ervahtan ve hâfızaları Levh-i Mahfuz’dan ve kuvve-i hayaliyeleri âlem-i misalden ve hâkeza her bir cihazı bir âlemden haber veriyorlar ve onların vücudlarına kat’î şehadet ederler.
+[^hâşiye6]: Evet, nasıl ki insanın anâsırları, kâinatın unsurlarından; ve kemikleri, taş ve kayalarından; ve saçları, nebat ve eşcarından; ve bedeninde cereyan eden kan ve gözünden, kulağından, burnundan ve ağzından akan ayrı ayrı suları, Arzın çeşmelerinden ve madenî sularından haber veriyorlar, delâlet edip onlara işaret ediyorlar. Aynen öyle de insanın ruhu âlem-i ervahtan ve hâfızaları Levh-i Mahfuz’dan ve kuvve-i hayaliyeleri âlem-i misalden ve hâkeza her bir cihazı bir âlemden haber veriyorlar ve onların vücudlarına kat’î şehadet ederler.
 

@@ -8,7 +8,7 @@ source_url: https://www.risaleinur.hizmetvakfi.org/
 **Hastalara bir merhem, bir teselli, manevî bir reçete, bir iyadetü’l-mariz ve geçmiş olsun makamında yazılmıştır.**
 
 ##### İhtar ve İ’tizar
-Bu manevî reçete, bütün yazdıklarımızın fevkinde bir süratle [^Hâşiye1] telif edildiği gibi hem umuma muhalif olarak tashihata ve dikkate vakit bulmayarak telifi gibi gayet süratle ancak bir defa nazardan geçirildi. Demek, müsvedde-i evvel hükmünde müşevveş kalmıştır. Kalbe fıtrî bir surette gelen hatıratı, sanatla ve dikkatle bozmamak için yeniden tetkikata lüzum görmedik. Okuyan zatlar, hususan hastalar bazı nâhoş ibarelerden veyahut ağır kelimelerden ve ifadelerden sıkılıp gücenmesinler, bana da dua etsinler.
+Bu manevî reçete, bütün yazdıklarımızın fevkinde bir süratle [^hâşiye1] telif edildiği gibi hem umuma muhalif olarak tashihata ve dikkate vakit bulmayarak telifi gibi gayet süratle ancak bir defa nazardan geçirildi. Demek, müsvedde-i evvel hükmünde müşevveş kalmıştır. Kalbe fıtrî bir surette gelen hatıratı, sanatla ve dikkatle bozmamak için yeniden tetkikata lüzum görmedik. Okuyan zatlar, hususan hastalar bazı nâhoş ibarelerden veyahut ağır kelimelerden ve ifadelerden sıkılıp gücenmesinler, bana da dua etsinler.
 
 <p class="arabic" dir="rtl">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ<br/>اَلَّذٖينَ اِذَٓا اَصَابَتْهُمْ مُصٖيبَةٌ قَالُٓوا اِنَّا لِلّٰهِ وَاِنَّٓا اِلَيْهِ رَاجِعُونَ ۞ وَالَّذٖى هُوَ يُطْعِمُنٖى وَيَسْقٖينِ ۞ وَاِذَا مَرِضْتُ فَهُوَ يَشْفٖينِ</p>
 
@@ -62,7 +62,7 @@ Madem bir günlük gayr-ı meşru lezzet, bazen bir sene manevî elem çektiriyo
 
 Senin başındaki şimdilik bu muvakkat hastalığın neticesi ve içyüzündeki sevabı düşün “Bu da geçer yahu!” de, şekva yerinde şükret.
 
-#### Altıncı Deva [^Hâşiye2]
+#### Altıncı Deva [^hâşiye2]
 Ey dünya zevkini düşünüp hastalıktan ızdırap çeken kardeşim! Bu dünya eğer daimî olsa idi ve yolumuzda ölüm olmasaydı ve firak ve zevalin rüzgârları esmeseydi ve musibetli, fırtınalı istikbalde manevî kış mevsimleri olmasaydı; ben de seninle beraber senin haline acıyacaktım. Fakat madem dünya bir gün bize haydi dışarı diyecek, feryadımızdan kulağını kapayacak, o bizi dışarı kovmadan biz bu hastalıklar ikazatıyla şimdiden onun aşkından vazgeçmeliyiz. O bizi terk etmeden, kalben onu terke çalışmalıyız.
 
 Evet, hastalık bu manayı bize ihtar edip der ki: “Senin vücudun taştan, demirden değildir. Belki daima ayrılmaya müsait muhtelif maddelerden terkip edilmiştir. Gururu bırak, aczini anla, mâlikini tanı, vazifeni bil, dünyaya ne için geldiğini öğren!” kalbin kulağına gizli ihtar ediyor.
@@ -160,7 +160,7 @@ Ey âh ü enîn eden hasta! Hastalığın suretine bakıp âh eyleme! Manasına 
 
 Sen ey âh u fîzar eden hasta! Bu nurani kafileye iltihak etmek istersen sabır içinde şükret. Yoksa şekva etsen onlar seni kafilelerine almayacaklar. Ehl-i gafletin çukurlarına düşersin! Karanlıklı bir yolda gideceksin.
 
-Evet, hastalıkların bir kısmı var ki eğer ölümle neticelense manevî şehit hükmünde şehadet gibi bir velayet derecesine sebebiyet verir. Ezcümle: Çocuk doğurmaktan gelen hastalıklar [^Hâşiye3] ve karın sancısıyla, gark ve hark ve taun ile vefat eden, şehid-i manevî olduğu gibi çok mübarek hastalıklar var ki velayet derecesini ölümle kazandırır.
+Evet, hastalıkların bir kısmı var ki eğer ölümle neticelense manevî şehit hükmünde şehadet gibi bir velayet derecesine sebebiyet verir. Ezcümle: Çocuk doğurmaktan gelen hastalıklar [^hâşiye3] ve karın sancısıyla, gark ve hark ve taun ile vefat eden, şehid-i manevî olduğu gibi çok mübarek hastalıklar var ki velayet derecesini ölümle kazandırır.
 
 Hem hastalık, dünya aşkını ve alâkasını hafifleştirdiğinden vefat ile dünyadan, ehl-i dünya için gayet elîm ve acı olan müfarakatı tahfif eder; bazen de sevdirir.
 
@@ -180,7 +180,7 @@ Bahtiyardır o evlat ki peder ve validesinin hastalık zamanında, onların seri
 
 Evet hastalık zamanında, hastalık elemini hiçe indirecek gayet hoş ve ferahlı, etrafında tezahür eden şefkatlerden ve acımak ve merhametlerden gelen lezzetler var.
 
-Hastanın duasının makbuliyeti, ehemmiyetli bir meseledir. Ben otuz kırk seneden beri, bendeki kulunç denilen bir hastalıktan şifa için dua ederdim. Ben anladım ki hastalık dua için verilmiş. Dua ile duayı, yani dua kendi kendini kaldırmadığından anladım ki duanın neticesi uhrevîdir [^Hâşiye4] kendisi de bir nevi ibadettir ve hastalık ile aczini anlayıp dergâh-ı İlahiyeye iltica eder. Onun için otuz senedir şifa duasını ettiğim halde, duam zahirî kabul olmadığından duayı terk etmek kalbime gelmedi.
+Hastanın duasının makbuliyeti, ehemmiyetli bir meseledir. Ben otuz kırk seneden beri, bendeki kulunç denilen bir hastalıktan şifa için dua ederdim. Ben anladım ki hastalık dua için verilmiş. Dua ile duayı, yani dua kendi kendini kaldırmadığından anladım ki duanın neticesi uhrevîdir [^hâşiye4] kendisi de bir nevi ibadettir ve hastalık ile aczini anlayıp dergâh-ı İlahiyeye iltica eder. Onun için otuz senedir şifa duasını ettiğim halde, duam zahirî kabul olmadığından duayı terk etmek kalbime gelmedi.
 
 Zira hastalık, duanın vaktidir; şifa, duanın neticesi değil. Belki Cenab-ı Hakîm-i Rahîm şifa verse fazlından verir.
 
@@ -276,7 +276,7 @@ Cenab-ı Hak sizlere şifa versin, hastalıklarınızı keffaretü’z-zünub ya
 
 Meali: “Bu kitap her derde dermandır.”
 
-Tevafukat-ı latîfedendir ki Re’fet Bey’in birinci tesvidden gayet süratle yazdığı nüsha ile beraber, Hüsrev’in yazdığı diğer bir nüshada, ihtiyarsız hiç düşünmeden satır başlarında gelen elifleri saydık; aynen bu <span class="arabic" dir="rtl">وَهُوَ لِكُلِّ دَاءٍ دَوَاءٌ</span> cümlesine tevafuk ediyor. [^Hâşiye5] Hem bu risalenin müellifinin Said ismine, bir tek fark ile yine tevafuk ediyor. [^Hâşiye6] Yalnız risalenin unvanına ait yazıdaki bir elif hesaba dâhil edilmemiştir.
+Tevafukat-ı latîfedendir ki Re’fet Bey’in birinci tesvidden gayet süratle yazdığı nüsha ile beraber, Hüsrev’in yazdığı diğer bir nüshada, ihtiyarsız hiç düşünmeden satır başlarında gelen elifleri saydık; aynen bu <span class="arabic" dir="rtl">وَهُوَ لِكُلِّ دَاءٍ دَوَاءٌ</span> cümlesine tevafuk ediyor. [^hâşiye5] Hem bu risalenin müellifinin Said ismine, bir tek fark ile yine tevafuk ediyor. [^hâşiye6] Yalnız risalenin unvanına ait yazıdaki bir elif hesaba dâhil edilmemiştir.
 
 Cây-ı hayrettir ki Süleyman Rüşdü’nün yazdığı nüsha, hiç elif hatıra gelmeden ve düşünmeden, yüz on dört elif, yüz on dört şifa-yı kudsiyeyi tazammun eden yüz on dört suver-i Kur’aniyenin adedine tevafukla beraber <span class="arabic" dir="rtl">وَهُوَ لِكُلِّ دَاءٍ دَوَاءٌ</span> şeddeli lâm bir sayılmak cihetiyle yüz on dört harfine tam tamına tevafuk ediyor.
 
@@ -287,19 +287,19 @@ On Yedinci Mektup olup Mektubat mecmuasına idhal edildiğinden buraya dercedilm
 
 ***
 
-[^Hâşiye1]: Bu risale, dört buçuk saat zarfında telif edilmiştir.
+[^hâşiye1]: Bu risale, dört buçuk saat zarfında telif edilmiştir.
 
 Evet Rüşdü, Evet Re’fet, Evet Hüsrev, Evet Said
 
-[^Hâşiye2]: Fıtrî bir surette bu lem’a tahattur ettiğinden altıncı mertebede iki deva yazılmış. Fıtrîliğine ilişmemek için öylece bıraktık belki bir sır vardır diye değiştirmedik.
+[^hâşiye2]: Fıtrî bir surette bu lem’a tahattur ettiğinden altıncı mertebede iki deva yazılmış. Fıtrîliğine ilişmemek için öylece bıraktık belki bir sır vardır diye değiştirmedik.
 
-[^Hâşiye3]: Bu hastalığın manevî şehadeti kazandırması, lohusa zamanı olan kırk güne kadardır.
+[^hâşiye3]: Bu hastalığın manevî şehadeti kazandırması, lohusa zamanı olan kırk güne kadardır.
 
-[^Hâşiye4]: Evet, bir kısım hastalık duanın sebeb-i vücudu iken, dua hastalığın ademine sebep olsa duanın vücudu kendi ademine sebep olur; bu da olamaz.
+[^hâşiye4]: Evet, bir kısım hastalık duanın sebeb-i vücudu iken, dua hastalığın ademine sebep olsa duanın vücudu kendi ademine sebep olur; bu da olamaz.
 
-[^Hâşiye5]: Sonradan yazılan ihtarın iki elifi bu hesaba dâhil olamayacağı için dâhil edilmemiştir.
+[^hâşiye5]: Sonradan yazılan ihtarın iki elifi bu hesaba dâhil olamayacağı için dâhil edilmemiştir.
 
-[^Hâşiye6]: Madem Keramet-i Aleviye’de ve Gavsiye’de, Said’in âhirinde nida için vaz’edilmiş bir elif var (Saidâ) olmuş belki fazla olan bu elif, o elife bakıyor.
+[^hâşiye6]: Madem Keramet-i Aleviye’de ve Gavsiye’de, Said’in âhirinde nida için vaz’edilmiş bir elif var (Saidâ) olmuş belki fazla olan bu elif, o elife bakıyor.
 
 Re’fet, Hüsrev
 

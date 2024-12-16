@@ -483,7 +483,7 @@ Yirmi beş devayı hâvidir. Bu risale <span class="arabic" dir="rtl">اَلَّ
 
 **On Üçüncü Deva:** Hastalıktan şikayet edilmeyeceğini ve hastalık bazılarına bir define olduğunu ve ecel muayyen olmadığından, her vakit havf ve reca ortasında bulunmak lâzım olduğunu ve ölüm insanı gaflet içinde yakalamak ihtimali bulunduğundan, hastalık onun âhiretini düşündürmek cihetiyle gayet güzel bir nâsih olduğunu gösterir mühim bir devadır.
 
-**On Dördüncü Deva:** Hem ehl-i imanın göz hastalığı perdesi altında –yani kör olmasında– pek mühim bir nur ve manevî büyük bir göz olup, birkaç sene dünyanın hazînane fâni bir güzelliğini fâni bir surette seyredecek fâni bir göze bedel, kırk göz kuvvetinde ebedî gözler ile ebedî bir surette cennette cennet levhalarını seyretmesi daha evlâ olacağını beyan eder. [^Hâşiye1]
+**On Dördüncü Deva:** Hem ehl-i imanın göz hastalığı perdesi altında –yani kör olmasında– pek mühim bir nur ve manevî büyük bir göz olup, birkaç sene dünyanın hazînane fâni bir güzelliğini fâni bir surette seyredecek fâni bir göze bedel, kırk göz kuvvetinde ebedî gözler ile ebedî bir surette cennette cennet levhalarını seyretmesi daha evlâ olacağını beyan eder. [^hâşiye1]
 
 **On Beşinci Deva:** Hastalığın suretine bakıp “Âh!” eylemek caiz olmadığını, belki manasına bakılsa “Oh!” diye manevî lezzetler akıtacağını çünkü manevî sevap lezzeti olmasaydı, Cenab-ı Hak en sevdiği kullarına hastalığı vermezdi diye hadîs-i şerifte <span class="arabic" dir="rtl">اَشَدُّ النَّاسِ بَلَاءً اَلْاَنْبِيَاءُ ثُمَّ الْاَوْلِيَاءُ اَلْاَمْثَلُ فَالْاَمْثَلُ</span> –<span class="arabic" dir="rtl">اَوْ كَمَا قَالَ</span>– hadîs-i şerifinin sırrını ve bazı hastalıklar şehit makamını kazandıracağını, bâhusus kadınların lohusa zamanında kırk gün zarfında vefat ederlerse şehit olacaklarını en güzel bir surette haber verir.
 
@@ -858,5 +858,5 @@ Hem Kaside-i Celcelutiye’nin bir kerameti olan <span class="arabic" dir="rtl">
 
 ***
 
-[^Hâşiye1]: Bu devanın tesirindendir ki misafireten bir köye gittiğimde; orada gözsüz Mehmed Ağa isminde bir zat, gözünün hastalığından şikayeti üzerine, yanımda bulunan Hastalar Risalesi’nin On Dördüncü Devasını okuyunca, onun manevî tesiriyle o zat dedi: “Keşke ben bu sevabı ve manevî bu kazancı bana açan bu hastalığımdan şikayet etmeseydim.” diye nedametkârane, bir şükür kapısına döndü. Onun için o hastalık, onun hakkında bir rahmet-i İlahiye olduğunu kat’î anladı.
+[^hâşiye1]: Bu devanın tesirindendir ki misafireten bir köye gittiğimde; orada gözsüz Mehmed Ağa isminde bir zat, gözünün hastalığından şikayeti üzerine, yanımda bulunan Hastalar Risalesi’nin On Dördüncü Devasını okuyunca, onun manevî tesiriyle o zat dedi: “Keşke ben bu sevabı ve manevî bu kazancı bana açan bu hastalığımdan şikayet etmeseydim.” diye nedametkârane, bir şükür kapısına döndü. Onun için o hastalık, onun hakkında bir rahmet-i İlahiye olduğunu kat’î anladı.
 

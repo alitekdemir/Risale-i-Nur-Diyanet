@@ -6,7 +6,7 @@ Aziz, sıddık kardeşlerim!
 
 **Evvela:** Geçen mübarek Leyle-i Beratınızı ve gelecek ramazan-ı şerifinizi tebrik ederiz. Bu sene Berat Gecesi, Nurcular hakkında çok bereketli ve kerametli olduğuna bir emaresini hayretle gördük. Şöyle ki:
 
-Ben Berat Gecesinden az evvel Asâ-yı Musa tashihiyle meşgul iken bir güvercin pencereye geldi, bana baktı. Ben dedim: “Müjde mi getirdin?” İçeriye girdi, güya eskiden dost idik gibi hiç ürkmedi. Asâ-yı Musa [^Hâşiye1] üstüne çıktı, üç saat oturdu; ekmek, pirinç verdim, yemedi tâ akşama kaldı, sonra gitti, tekrar geldi. Berat Gecesinde tâ sabaha kadar yanımda kaldı. Ben yatarken başıma geldi, Allah’a ısmarladık nevinden başımı okşadı, sonra çıktı gitti. İkinci gün, ben teessüf ederken yine geldi; bir gece daha kaldı. Demek bu mübarek kuş hem Asâ-yı Musa’yı hem beratımızı tebrik etmek istedi.
+Ben Berat Gecesinden az evvel Asâ-yı Musa tashihiyle meşgul iken bir güvercin pencereye geldi, bana baktı. Ben dedim: “Müjde mi getirdin?” İçeriye girdi, güya eskiden dost idik gibi hiç ürkmedi. Asâ-yı Musa [^hâşiye1] üstüne çıktı, üç saat oturdu; ekmek, pirinç verdim, yemedi tâ akşama kaldı, sonra gitti, tekrar geldi. Berat Gecesinde tâ sabaha kadar yanımda kaldı. Ben yatarken başıma geldi, Allah’a ısmarladık nevinden başımı okşadı, sonra çıktı gitti. İkinci gün, ben teessüf ederken yine geldi; bir gece daha kaldı. Demek bu mübarek kuş hem Asâ-yı Musa’yı hem beratımızı tebrik etmek istedi.
 
 ***
 
@@ -55,7 +55,7 @@ Gerçi bu taarruz cüz’î ve hafif idi fakat ben gizlemem ki hiç bu defa gibi
 
 Aziz, sıddık kardeşlerim!
 
-Tekrar mübarek ramazanınızı tebrik ederiz. İki kahraman kardeşin ve Mu’cizat-ı Ahmediye’de yedi çocuğun bir cihette bir sekizincisi hükmüne geçen Süleyman Rüşdü’nün mübarek kerîmesinin makine ile Zülfikar-ı Mu’cizat’a çalışmasını ve Hüsrev ve Tahirî’nin şirin ve dikkatli yazılarını teksir etmeye fedakârane deruhte etmelerini bütün ruh u canımızla onları tebrik ederek, şimdiye kadar pek fevkalâde Nurlara ettikleri kıymettar ve meyvedar sâbık hizmetlerine karşı, Risale-i Nur hesabına binler mâşâallah ve bârekellah ve veffekakümullah deriz. [^Hâşiye2]
+Tekrar mübarek ramazanınızı tebrik ederiz. İki kahraman kardeşin ve Mu’cizat-ı Ahmediye’de yedi çocuğun bir cihette bir sekizincisi hükmüne geçen Süleyman Rüşdü’nün mübarek kerîmesinin makine ile Zülfikar-ı Mu’cizat’a çalışmasını ve Hüsrev ve Tahirî’nin şirin ve dikkatli yazılarını teksir etmeye fedakârane deruhte etmelerini bütün ruh u canımızla onları tebrik ederek, şimdiye kadar pek fevkalâde Nurlara ettikleri kıymettar ve meyvedar sâbık hizmetlerine karşı, Risale-i Nur hesabına binler mâşâallah ve bârekellah ve veffekakümullah deriz. [^hâşiye2]
 
 ***
 
@@ -207,7 +207,7 @@ Bu kahraman Nazif kardeşimize ve gayet ciddi ve sebatkâr ve tam alâkadar İne
 
 ***
 
-Camiü’l-Ezher ulemasına gönderilen iki nüsha benim tashihimden geçmemiş olduğundan, bazı harekeler ve Arabî kelimelerde sehivler elbette vardır. Hususan âhirdeki Arabî Hülâsatü’l-Hülâsa harekelerinde ilm-i nahivce, başka nüshalarda müteaddid sehivler gördüm. Onun için tam Arabî hocalarının tetkikinden geçmiş birer nüsha Asâ-yı Musa [^Hâşiye3] ve Zülfikar’dan, münasip gördüğünüz zaman Camiü’l-Ezhere göndermekle beraber; onlara yazınız ki:
+Camiü’l-Ezher ulemasına gönderilen iki nüsha benim tashihimden geçmemiş olduğundan, bazı harekeler ve Arabî kelimelerde sehivler elbette vardır. Hususan âhirdeki Arabî Hülâsatü’l-Hülâsa harekelerinde ilm-i nahivce, başka nüshalarda müteaddid sehivler gördüm. Onun için tam Arabî hocalarının tetkikinden geçmiş birer nüsha Asâ-yı Musa [^hâşiye3] ve Zülfikar’dan, münasip gördüğünüz zaman Camiü’l-Ezhere göndermekle beraber; onlara yazınız ki:
 
 Nur Risalelerinin Medresetü’z-Zehrası, Camiü’l-Ezherin şefkatine çok muhtaç bir mahdumudur, bir talebesidir; şiddetli düşmanların hücumuna hedef olmuş bir şakirdidir ve bütün medreselerin başı ve âlem-i İslâm’ı daima tenvir eden o büyük Camiü’l-Ezherin küçük bir daire ve şubesidir. Onun için o âlîkadr üstad ve müşfik peder ve hamiyetkâr mürşid-i a’zam, bîçare evladına ve şakirdlerine tam yardım etmesini onların ulüvv-ü himmetinden bekliyoruz. O pek büyük Üstadımıza takdim edilen iki kitap ise bir talebe, dersini ne derece anlamış diye akşamda babasına ve üstadına yazıp vermesi gibi; o iki dersimiz, o şefkatli allâmelerin nazar-ı müsamahalarına arz edilmiş, diye bu mektubu yazarsınız.
 
@@ -247,7 +247,7 @@ Aynı vakitte, hacca gidip yeni gelen Bolvadinli bir Hasan yanıma geldi. Nur da
 
 Üç dört saat sonra, Emirdağı’nın bir Hüsrev’i ve Feyzi’si, çok hayırlı olan tabip Hayri yanıma geldi. Dedi: “Buranın ehemmiyetli bir mektep muallimi Abdurrahman, bu muallim aynen Feyzi kadar Nur’a hizmet etti, Nurlara talebe olmak istiyor. Kabul etseniz Asâ-yı Musa’yı vereceğiz.” Dedim: Veriniz.
 
-Hem o merhum Hasan Feyzi gibi az zamanda çok hizmet eden kardeşimiz Mustafa Osman’ın o günde gelen mektubunu gördüm ki Kastamonu Lisesini kısmen bir cihette şereflendiren ve şimdi dârülfünunu nurlandırmaya çalışan mektepli Mustafa, Nur makinesi münasebetiyle Nurlara zarar gelmemek için matbuat kanununu hatırlatıp ihtiyatkârane muhaberesinden bahsediyor. [^Hâşiye4]
+Hem o merhum Hasan Feyzi gibi az zamanda çok hizmet eden kardeşimiz Mustafa Osman’ın o günde gelen mektubunu gördüm ki Kastamonu Lisesini kısmen bir cihette şereflendiren ve şimdi dârülfünunu nurlandırmaya çalışan mektepli Mustafa, Nur makinesi münasebetiyle Nurlara zarar gelmemek için matbuat kanununu hatırlatıp ihtiyatkârane muhaberesinden bahsediyor. [^hâşiye4]
 
 Ben dedim: Hadsiz şükür olsun ki bir muallim terhis edildi, onun bedeline iki Hasan ve iki Mustafa ve üç muallim ve bir çalışkan müteallim, vazifeleri içinde Denizli kahramanının vazifesini görüyorlar. İşte bu hal işaret eder ki: Nasıl Hâfız Ali gitti, Denizli onun yerine geldi, acısını unutturdu; öyle de bir Hasan Feyzi gitti, yerine bir dârülfünun gelecek, inşâallah acısını unutturacak.
 
@@ -255,7 +255,7 @@ Umum kardeşlerime selâm…
 
 ***
 
-**Evvelen:** Kahraman Nazif’in ve hakikaten Nazif ruhunda ve sadakatinde kendi arkadaşlarının makine ile vesair cihette Nur’a hizmetleri, bu memleketi cidden minnettar edecek bir vaziyettedirler. Cenab-ı Hak onları muvaffak eylesin, âmin! Hususan makinelerinin mahsulatı hem ziynetli hem açık hem sıhhatli [^Hâşiye5] olmasından büyük bir muvaffakıyettir. Cenab-ı Hak Nazif’e çok Salahaddinler, İbrahimler vermiş.
+**Evvelen:** Kahraman Nazif’in ve hakikaten Nazif ruhunda ve sadakatinde kendi arkadaşlarının makine ile vesair cihette Nur’a hizmetleri, bu memleketi cidden minnettar edecek bir vaziyettedirler. Cenab-ı Hak onları muvaffak eylesin, âmin! Hususan makinelerinin mahsulatı hem ziynetli hem açık hem sıhhatli [^hâşiye5] olmasından büyük bir muvaffakıyettir. Cenab-ı Hak Nazif’e çok Salahaddinler, İbrahimler vermiş.
 
 Benim kendi hattımla Zülfikar’ın başında bir parça yazımı istiyor. Gönderdiği yağlı dört sahifeyi, kendi yazımla bu rahatsızlığım zamanımda bizzat yazamadığımdan ben söyleyip benim daimî kâtibim yazsın. Bazı kelimeleri ben yazacağım.
 
@@ -271,7 +271,7 @@ Küçük İbrahim, Nazif’e ikinci bir Salahaddin hükmüne geçip çoluk çocu
 
 **Sâlisen:** Denizli’nin bir manevî kahramanı merhum Hasan Feyzi’nin (rh), Isparta kahramanı merhum Hâfız Ali’nin (rh) yanına gitmesi gerçi bizi çok müteessir ediyor fakat onun gayet has bir talebesi ve Nur’un hâlis bir şakirdi sıddık Muharrem’in dediği gibi deriz:
 
-O, bir cihette ölmemiş belki vazifesini acele bitirmiş, âlem-i berzaha istirahat için gitmiş, terhis edilmiş. Hâfız Ali ile beraber manen, şefaatleriyle ve bıraktıkları tesirli Nur hakkındaki eserleriyle yardım ediyorlar; yine manen Nur’a çalışıyorlar. Elbette manevî şehit hükmünde olmalarından “Meyve”nin On Birinci Mesele’sindeki ilm-i nahiv talebesinin kendini medresede bildiği gibi; Hâfız Ali ile Nur hakikatlerinin müzakeresi ve vefat eden Nurcuların dairesinde meşgul olmalarını, merhamet-i İlahiyeden kuvvetle ümitvarız. İnşâallah Cenab-ı Hak, onun vazifesini dünyada gördürecek, Nur dairesinde çok Hasan Feyzileri yetiştirecek. [^Hâşiye6]
+O, bir cihette ölmemiş belki vazifesini acele bitirmiş, âlem-i berzaha istirahat için gitmiş, terhis edilmiş. Hâfız Ali ile beraber manen, şefaatleriyle ve bıraktıkları tesirli Nur hakkındaki eserleriyle yardım ediyorlar; yine manen Nur’a çalışıyorlar. Elbette manevî şehit hükmünde olmalarından “Meyve”nin On Birinci Mesele’sindeki ilm-i nahiv talebesinin kendini medresede bildiği gibi; Hâfız Ali ile Nur hakikatlerinin müzakeresi ve vefat eden Nurcuların dairesinde meşgul olmalarını, merhamet-i İlahiyeden kuvvetle ümitvarız. İnşâallah Cenab-ı Hak, onun vazifesini dünyada gördürecek, Nur dairesinde çok Hasan Feyzileri yetiştirecek. [^hâşiye6]
 
 Yalnız o mübarek kardeşimiz, benim gibi resmî ilaçlardan çekinmediği için bir sehivdir. Ben ondan ziyade ızdırapta iken “Nurcuların duası yeter.” diye maddî ilaçları aramadım ve hastalık hakkında kimsenin fikrini alıp evham etmedim. O merhum kardeşimiz, bu noktada bana muvafakata muvaffak olamamış. Nurlar hakkında parlak fıkralarında, bu bîçare kardeşine kendini kurban etmeye söz verdiğinden ve Nur vazifesini acele yapmasıyla istirahat âlemine gitti. Ben hem onun akrabasını hem Muharrem gibi kıymetli, ciddi talebelerini ve Denizli ve civarı Nurcularını tekrar taziye edip bizler gibi onlar da o merhumu hasenatlarına hissedar ederek hasenat cihetinde ölmemiş gibi defter-i hasenatına haseneler yazdırsınlar diyerek umum onlara binler selâm ve ona binler rahmet deriz.
 
@@ -281,15 +281,15 @@ Hapishanede, hakikaten şahsıma ve Nurcuların ittihadına ve mahpusların Nurc
 
 ***
 
-[^Hâşiye1]: Evet, biz gözümüzle gördük. <br/>Evet Nureddin, Evet Mehmed, Evet İsmail
+[^hâşiye1]: Evet, biz gözümüzle gördük. <br/>Evet Nureddin, Evet Mehmed, Evet İsmail
 
-[^Hâşiye2]: Latîf bir tevafuktur ki bir aydan beri burada hiç yağmur gelmiyordu ve kalbimiz dahi malûm taarruzdan Nurculara gelen füturdan ağlıyordu. Birden Hüsrev’in iki gün evvel makine müjdesi ve Nazif’in bugün tafsilli mektubu ve makinenin yazısının numunesi elime verildiği aynı zamanda –ve bana hizmet edenler– Eskişehir ezan-ı Muhammedîyi okumaya başlaması ve malûm çavuşa bana ihanet için emr-i cebrî veren adam tokat yediğini dedikleri aynı vakitte rahmet yağmuruyla çoktan ağlayan mahzun kalplerimizin büyük ferahlarına ve sevinç ve inşirahlarına tam tamına tevafuku ve tetabuku, inşâallah bir fâl-i hayırdır.
+[^hâşiye2]: Latîf bir tevafuktur ki bir aydan beri burada hiç yağmur gelmiyordu ve kalbimiz dahi malûm taarruzdan Nurculara gelen füturdan ağlıyordu. Birden Hüsrev’in iki gün evvel makine müjdesi ve Nazif’in bugün tafsilli mektubu ve makinenin yazısının numunesi elime verildiği aynı zamanda –ve bana hizmet edenler– Eskişehir ezan-ı Muhammedîyi okumaya başlaması ve malûm çavuşa bana ihanet için emr-i cebrî veren adam tokat yediğini dedikleri aynı vakitte rahmet yağmuruyla çoktan ağlayan mahzun kalplerimizin büyük ferahlarına ve sevinç ve inşirahlarına tam tamına tevafuku ve tetabuku, inşâallah bir fâl-i hayırdır.
 
-[^Hâşiye3]: Yanımda bulunan ve noksan tashihimden geçen bir Zülfikar’la bir Asâ-yı Musa’yı size gönderebilirim. Tam bir mukabeleden sonra, siz isterseniz kendi nüshalarınızı Mısır’a gönderirsiniz.
+[^hâşiye3]: Yanımda bulunan ve noksan tashihimden geçen bir Zülfikar’la bir Asâ-yı Musa’yı size gönderebilirim. Tam bir mukabeleden sonra, siz isterseniz kendi nüshalarınızı Mısır’a gönderirsiniz.
 
-[^Hâşiye4]: Komünistliği, dinsizliği, anarşistliğin esaslarını neşreden bazı ceridelere matbuat kanunları ilişmediği halde, bu vatan ve milletin temel taşını muhafazaya pek tesirli bir surette hizmet eden Zülfikar ve Asâ-yı Musa mecmualarının makinelerine nasıl ilişebilir ve neden ilişirler? Hakikaten hayret ediyorum.
+[^hâşiye4]: Komünistliği, dinsizliği, anarşistliğin esaslarını neşreden bazı ceridelere matbuat kanunları ilişmediği halde, bu vatan ve milletin temel taşını muhafazaya pek tesirli bir surette hizmet eden Zülfikar ve Asâ-yı Musa mecmualarının makinelerine nasıl ilişebilir ve neden ilişirler? Hakikaten hayret ediyorum.
 
-[^Hâşiye5]: Bu defaki yirmi dört sahifede yalnız iki üç noktada <span class="arabic" dir="rtl">خ , ح</span> olmuş, başka yok. Bir “çok” kelimesi noksan, mana anlaşılır; daha tamamına bakamadım.
+[^hâşiye5]: Bu defaki yirmi dört sahifede yalnız iki üç noktada <span class="arabic" dir="rtl">خ , ح</span> olmuş, başka yok. Bir “çok” kelimesi noksan, mana anlaşılır; daha tamamına bakamadım.
 
-[^Hâşiye6]: Bu merhum kardeşimizin Nur’a ait müteaddid vazifelerini tamamen görecek ve şakirdlerin tensibiyle ve meşveretiyle intihab edilecek bir yeni kahraman bulununcaya kadar, o vazifeleri taksimü’l-a’mal suretinde her bir şakird bir vazifesini yapmaya başlasın. Demirbaş Ali Osman, bu vazife Isparta’da sana düştü. Hem oradaki kardeşlerin meşvereti ile onun yeri boş kalmamak için Nur’la onun gibi çok alâkadar birisi, şimdilik Denizli Hüsrev’i vaziyetini alsın. Ona hediye ettiğim takkeyi muhafaza etsin tâ hakiki sahib çıkasıya kadar.
+[^hâşiye6]: Bu merhum kardeşimizin Nur’a ait müteaddid vazifelerini tamamen görecek ve şakirdlerin tensibiyle ve meşveretiyle intihab edilecek bir yeni kahraman bulununcaya kadar, o vazifeleri taksimü’l-a’mal suretinde her bir şakird bir vazifesini yapmaya başlasın. Demirbaş Ali Osman, bu vazife Isparta’da sana düştü. Hem oradaki kardeşlerin meşvereti ile onun yeri boş kalmamak için Nur’la onun gibi çok alâkadar birisi, şimdilik Denizli Hüsrev’i vaziyetini alsın. Ona hediye ettiğim takkeyi muhafaza etsin tâ hakiki sahib çıkasıya kadar.
 

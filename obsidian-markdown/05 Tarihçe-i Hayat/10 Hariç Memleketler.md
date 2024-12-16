@@ -169,7 +169,7 @@ Nur talebesi kardeşlerime söylüyorum: “Nerede olursa olsun siyonizme karş�
 
 Said Nursî’ye gidip Hintli Müslümanlar hakkında söyle ki kendi memleketinde buna karşı yazılsın.
 
-Said Nursî Hazretlerine burada çok hürmet vardır. Onu severiz, onun sıhhat ve uzun hayatı için dua ederiz. İslâm dünyasında Said Nursî’nin eşi yoktur. Mısır’da bir Hasanü’l-Benna var idi (şehit edilmiştir). Yurdumuzda İkbal var idi (vefat etmiştir). Hâlen bir Mevdudî var. Başka büyük adamlar da vardır lâkin Üstadımız gibi yoktur. Üstad, İslâm dünyasının cevheridir. Onun hakkında malûmat azdır. Onun eserleri Farsça, İngilizce ve Urducaya tercüme edilmemiştir. Lâkin istikbalde olacaktır. [^Hâşiye1]
+Said Nursî Hazretlerine burada çok hürmet vardır. Onu severiz, onun sıhhat ve uzun hayatı için dua ederiz. İslâm dünyasında Said Nursî’nin eşi yoktur. Mısır’da bir Hasanü’l-Benna var idi (şehit edilmiştir). Yurdumuzda İkbal var idi (vefat etmiştir). Hâlen bir Mevdudî var. Başka büyük adamlar da vardır lâkin Üstadımız gibi yoktur. Üstad, İslâm dünyasının cevheridir. Onun hakkında malûmat azdır. Onun eserleri Farsça, İngilizce ve Urducaya tercüme edilmemiştir. Lâkin istikbalde olacaktır. [^hâşiye1]
 
 Üstadın kıymetli hayatı hapishanede geçmiştir. Halkçılar ona çok mezalim reva gördü. Elhamdülillah bunların devr-i istibdadı gitmiş, Demokratlar gelmiştir. Biz Pakistanlılar, bunun için Menderes Hükûmetinin hâmisiyiz. Eğer Demokratlar olmasaydı ne Türk-Pakistan dostluğu olurdu ne de Bağdat Paktı ve sizlerle taallukat-ı imaniye…
 
@@ -534,4 +534,4 @@ Hâfız Ali
 ![](avrupa.jpg)
 *Risale-i Nur Türkiye’de olduğu gibi Avrupa’da ve Amerika’da da yayılmış ve birçok okuyucu kitlesi bulmuştur. Türkiye’de neşrolan Risale-i Nur Külliyatı’ndan istifade ederek, Kur’an nuru ile nurlanan Avrupa’daki Nur talebelerinden bir grup hocalarıyla bir arada*
 
-[^Hâşiye1]: Bu temenni tahakkuk etmiş ve kısa bir zaman sonra eserler tercümeye başlanmıştır.
+[^hâşiye1]: Bu temenni tahakkuk etmiş ve kısa bir zaman sonra eserler tercümeye başlanmıştır.

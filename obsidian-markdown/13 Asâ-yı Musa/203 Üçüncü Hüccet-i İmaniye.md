@@ -9,7 +9,7 @@ Tabiattan gelen fikr-i küfrîyi dirilmeyecek bir surette öldürüyor, küfrün
 #### İhtar
 Şu notada, tabiiyyunun münkir kısmının gittikleri yolun içyüzü ne kadar akıldan uzak ve ne kadar çirkin ve ne derece hurafe olduğu, lâekall doksan muhali tazammun eden dokuz muhal ile beyan edilmiş. Sair risalelerde o muhaller kısmen izah edildiğinden burada gayet muhtasar olmak haysiyetiyle, bazı basamaklar tayyedilmiştir. Onun için birdenbire, bu kadar zahir ve aşikâre bir hurafeyi nasıl bu meşhur âkıl feylesoflar kabul etmişler, o yolda gidiyorlar, hatıra geliyor.
 
-Evet onlar, mesleklerinin içyüzünü görememişler. Hem hakikat-i meslekleri ve mesleklerinin lâzımı ve muktezası odur ki yazılmış her bir muhalin ucunda beyan edilen o çirkin ve müstekreh ve gayr-ı makul [^Hâşiye1] hülâsa-i mezhepleri, mesleklerinin lâzımı ve zarurî muktezası olduğunu gayet bedihî ve kat’î bürhanlarla şüphesi olanlara tafsilen beyan ve ispat etmeye hazırım.
+Evet onlar, mesleklerinin içyüzünü görememişler. Hem hakikat-i meslekleri ve mesleklerinin lâzımı ve muktezası odur ki yazılmış her bir muhalin ucunda beyan edilen o çirkin ve müstekreh ve gayr-ı makul [^hâşiye1] hülâsa-i mezhepleri, mesleklerinin lâzımı ve zarurî muktezası olduğunu gayet bedihî ve kat’î bürhanlarla şüphesi olanlara tafsilen beyan ve ispat etmeye hazırım.
 
 ***
 
@@ -103,7 +103,7 @@ Amma ikinci muhaldeki müşkülat ise müteaddid risalelerde ispat edildiği gib
 
 Nasıl ki bir adam, bir padişaha askerlik veya memuriyet cihetiyle intisap etse o memur ve o asker o intisap kuvvetiyle, yüz bin defa kuvvet-i şahsiyesinden fazla işlere medar olabilir. Ve padişahı namına bazen bir şahı esir eder. Çünkü gördüğü işlerin ve yaptığı eserlerin cihazatını ve kuvvetini kendi taşımıyor ve taşımaya mecbur olmuyor. O intisap münasebetiyle, padişahın hazineleri ve arkasındaki nokta-i istinadı olan ordu; o kuvveti, o cihazatı taşıyor. Demek gördüğü işler, şahane olarak bir padişahın işi gibi ve gösterdiği eserler, bir ordu eseri misillü hârika olabilir.
 
-Nasıl ki karınca, o memuriyet cihetiyle Firavun’un sarayını harap ediyor ve sinek o intisap ile Nemrut’u gebertiyor. Ve o intisap ile buğday tanesi gibi bir çam çekirdeği, koca çam ağacının bütün cihazatını yetiştiriyor. [^Hâşiye2]
+Nasıl ki karınca, o memuriyet cihetiyle Firavun’un sarayını harap ediyor ve sinek o intisap ile Nemrut’u gebertiyor. Ve o intisap ile buğday tanesi gibi bir çam çekirdeği, koca çam ağacının bütün cihazatını yetiştiriyor. [^hâşiye2]
 
 Eğer o intisap kesilse, o memuriyetten terhis edilse yapacağı işlerin cihazatını ve kuvvetini, belinde ve bileğinde taşımaya mecburdur. O vakit, o küçücük bileğindeki kuvvet miktarınca ve belindeki cephane adedince iş görebilir. Evvelki vaziyette gayet kolaylıkla gördüğü işleri bu vaziyette ondan istenilse, elbette bileğinde bir ordu kuvveti ve belinde bir padişahın cihazat-ı harbiye fabrikasını yüklemek lâzım gelir ki güldürmek için acib hurafeleri ve masalları hikâye eden maskaralar dahi bu hayalden utanıyorlar!..
 
@@ -238,9 +238,9 @@ Tabiatı bırakan ve hakikate geçen zat diyor ki: Cenab-ı Hakk’a zerrat aded
 
 ***
 
-[^Hâşiye1]: Bu risalenin sebeb-i telifi; gayet mütecavizane ve gayet çirkin bir tarz ile hakaik-i imaniyeyi tezyif edip, bozulmuş aklı yetişmediği şeye hurafe deyip, dinsizliği tabiata bağlayarak, Kur’an’a hücum edilmesidir. O hücum ise şiddetli bir hiddeti (kalbe) kaleme verdi ki şiddetli ve galiz tokatları o mülhidlere ve haktan yüz çeviren bâtıl mezheplilere yedirdi.
+[^hâşiye1]: Bu risalenin sebeb-i telifi; gayet mütecavizane ve gayet çirkin bir tarz ile hakaik-i imaniyeyi tezyif edip, bozulmuş aklı yetişmediği şeye hurafe deyip, dinsizliği tabiata bağlayarak, Kur’an’a hücum edilmesidir. O hücum ise şiddetli bir hiddeti (kalbe) kaleme verdi ki şiddetli ve galiz tokatları o mülhidlere ve haktan yüz çeviren bâtıl mezheplilere yedirdi.
 
 Yoksa Risale-i Nur’un mesleği, nezihane ve nazikane ve kavl-i leyyindir.
 
-[^Hâşiye2]: Evet, eğer intisap olsa o çekirdek, kader-i İlahîden bir emir alır, o hârika işlere mazhar olur. Eğer o intisap kesilse o çekirdeğin hilkati, koca çam ağacının hilkatinden daha ziyade cihazat ve iktidar ve sanatı iktiza eder. Çünkü dağdaki, kudret eseri olan mücessem çam ağacının bütün azaları ve cihazatıyla o çekirdekteki, kader eseri olan manevî ağaçta mevcud bulunması lâzım gelir. Çünkü o koca ağacın fabrikası, o çekirdektir. İçindeki kaderî ağaç, kudretle hariçte tezahür eder, cismanî çam ağacı olur.
+[^hâşiye2]: Evet, eğer intisap olsa o çekirdek, kader-i İlahîden bir emir alır, o hârika işlere mazhar olur. Eğer o intisap kesilse o çekirdeğin hilkati, koca çam ağacının hilkatinden daha ziyade cihazat ve iktidar ve sanatı iktiza eder. Çünkü dağdaki, kudret eseri olan mücessem çam ağacının bütün azaları ve cihazatıyla o çekirdekteki, kader eseri olan manevî ağaçta mevcud bulunması lâzım gelir. Çünkü o koca ağacın fabrikası, o çekirdektir. İçindeki kaderî ağaç, kudretle hariçte tezahür eder, cismanî çam ağacı olur.
 

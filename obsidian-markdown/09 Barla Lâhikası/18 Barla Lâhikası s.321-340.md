@@ -68,7 +68,7 @@ Madem eyyamın lisan-ı şer’îde böyle ıtlakatı vardır. İlm-i tabakatü�
 
 Şu dünyanın bir ömrü ve şu dünyadaki küre-i arzın dahi ondan kısa diğer bir ömrü ve küre-i arzda yaşayan nev-i insanın daha kısa bir ömrü vardır. Bu birbiri içinde üç nevi mahlukatın ömürleri, saatin içindeki dakika, saniye, saatleri sayan çarkların nisbeti gibidir. Nev-i insanın ömrü, küre-i arzın iki hareketiyle hasıl olan malûm eyyam ile olduğu gibi; zîhayatın vücuduna mazhar olduğu zamandan itibaren küre-i arzın ömrü ise merkez-i irtibatı olan şemsin hareket-i mihveriyesiyle hasıl olan eyyam ile olması hikmet-i Rabbaniyeden uzak değildir. Ve dünyanın ömrü ise Şemsü’ş-şümus’un hareket-i mihveriyesi ile hasıl olan eyyam iledir.
 
-Şu halde nev-i insanın ömrü yedi bin sene eyyam-ı malûme-i arziye ile olsa küre-i arzın hayata menşe olduğu zamandan harabiyetine kadar eyyam-ı şemsiye ile iki yüz bin seneden geçer. Ve Şemsü’s-şümus’a tabi ve âlem-i bekadan ayrılıp küremize bakan dünyaların ömrü –Şemsü’s-şümus’un işarat-ı Kur’aniye ile her bir günü elli bin sene olmasıyla– yedi bin sene o eyyam ile yüz yirmi altı milyar sene yaşarlar. [^Hâşiye1] Demek eyyam-ı şer’iye tabir ettiğimiz eyyam-ı Kur’aniyede bunlar dâhil olabilirler.
+Şu halde nev-i insanın ömrü yedi bin sene eyyam-ı malûme-i arziye ile olsa küre-i arzın hayata menşe olduğu zamandan harabiyetine kadar eyyam-ı şemsiye ile iki yüz bin seneden geçer. Ve Şemsü’s-şümus’a tabi ve âlem-i bekadan ayrılıp küremize bakan dünyaların ömrü –Şemsü’s-şümus’un işarat-ı Kur’aniye ile her bir günü elli bin sene olmasıyla– yedi bin sene o eyyam ile yüz yirmi altı milyar sene yaşarlar. [^hâşiye1] Demek eyyam-ı şer’iye tabir ettiğimiz eyyam-ı Kur’aniyede bunlar dâhil olabilirler.
 
 Evet semavat ve arzın Hâlık’ı, semavat ve arza bakan bir kelâmıyla, semavat ve arzın sebeb-i hilkati ve çekirdek-i aslîsi ve en mükemmel âhir meyvesi olan bir zata hitabında, o eyyamları istimal etmek, Kur’an’ın ulviyetine ve muhatabının kemaline yakışır ve ayn-ı belâgattır… <span class="arabic" dir="rtl">وَ الْعِلْمُ عِنْدَ اللّٰهِ وَ اللّٰهُ اَعْلَمُ بِاَسْرَارِ كِتَابِهٖ</span>
 
@@ -253,7 +253,7 @@ Mu’cizat-ı Ahmediye’yi (asm) sana güzel ve tevafuklu bir tarzda yazdırdı
 
 ***
 
-(14 Şevval 1352, Kânunusâni 1934) [^Hâşiye2]
+(14 Şevval 1352, Kânunusâni 1934) [^hâşiye2]
 
 <p class="arabic" dir="rtl">بِاسْمِهٖ وَ اِنْ مِنْ شَىْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهٖ<br/>اَلسَّلَامُ عَلَيْكُمْ وَ رَحْمَةُ اللّٰهِ وَ بَرَكَاتُهُ</p>
 
@@ -325,7 +325,7 @@ Kardeşiniz Said Nursî
 
 ***
 
-[^Hâşiye1]: Bu hesap Şamlı Hâfız, Kuleönü’nden Mustafa ve arkadaşı Hâfız Mustafa’nın şehadetiyle bir dakika zarfında ezber yapılmıştır. (Sene 360 gün hesabına göredir, kusur varsa bakılmamak gerektir.)
+[^hâşiye1]: Bu hesap Şamlı Hâfız, Kuleönü’nden Mustafa ve arkadaşı Hâfız Mustafa’nın şehadetiyle bir dakika zarfında ezber yapılmıştır. (Sene 360 gün hesabına göredir, kusur varsa bakılmamak gerektir.)
 
-[^Hâşiye2]: Re’fet Bey’e vürûd tarihidir.
+[^hâşiye2]: Re’fet Bey’e vürûd tarihidir.
 

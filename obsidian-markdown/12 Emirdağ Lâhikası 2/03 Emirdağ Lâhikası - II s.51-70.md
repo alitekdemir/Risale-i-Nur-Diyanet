@@ -43,7 +43,7 @@ Hem birkaç yerde hapishane müdürleri iki üç vilayette karar vermişler ki: 
 
 **Sâlisen:** Merhum Burhan, Nur’un ümmi ve gizli kahramanı idi. Hem onun akrabasını hem Isparta’yı hem Medresetü’z-Zehra şakirdlerini taziye ediyorum. Beş altı gün evvel haber almıştım. Şimdiye kadar beş altı gün zarfında belki bin defa ona dua etmişim. Çünkü altı günde virdimde dört yüze yakın <span class="arabic" dir="rtl">اَجِرْنَا مِنَ النَّارِ</span> dediğimde onu da niyet ediyorum. Bütün okuduklarımı Burhan’a hediye ediyorum.
 
-**Râbian:** Nurlar, mektepleri tam nurlandırmaya başladı. Mektep şakirdlerini medrese talebelerinden ziyade Nurlara sahip ve nâşir ve şakird eyledi. İnşâallah medrese ehli yavaş yavaş hakiki malları ve medrese mahsulü olan Nurlara sahip çıkacaklar. Şimdi de çok müftülerden ve çok ulemalardan Nurlara karşı çok iştiyak görülüyor ve istiyorlar. Şimdi en mühim tekyeler ehli, ehl-i tarîkattır. Bütün kuvvetleriyle Nur Risalelerini nurlandırmaları ve sahip çıkmaları lâzım ve elzemdir [^Hâşiye1].
+**Râbian:** Nurlar, mektepleri tam nurlandırmaya başladı. Mektep şakirdlerini medrese talebelerinden ziyade Nurlara sahip ve nâşir ve şakird eyledi. İnşâallah medrese ehli yavaş yavaş hakiki malları ve medrese mahsulü olan Nurlara sahip çıkacaklar. Şimdi de çok müftülerden ve çok ulemalardan Nurlara karşı çok iştiyak görülüyor ve istiyorlar. Şimdi en mühim tekyeler ehli, ehl-i tarîkattır. Bütün kuvvetleriyle Nur Risalelerini nurlandırmaları ve sahip çıkmaları lâzım ve elzemdir [^hâşiye1].
 
 Şimdiye kadar ben yalnız iman hakikatini düşünüp “Tarîkat zamanı değil, bid’alar mani oluyor.” dedim. Fakat şimdi Sünnet-i Peygamberî dairesinde bütün on iki büyük tarîkatın hülâsası olan ve tarîklerin en büyük dairesi bulunan Risale-i Nur dairesi içine, her tarîkat ehli kendi tarîkatı dairesi gibi görüp girmek lâzım ve elzem olduğunu bu zaman gösterdi. Hem ehl-i tarîkatın en günahkârı dahi çabuk dinsizliğe giremiyor, kalbi mağlup olamıyor. Onun için onlar tam sarsılmaz, hakiki Nurcu olabilirler. Yalnız mümkün olduğu kadar bid’atlara ve takvayı kıran büyük günahlara girmemek gerektir.
 
@@ -331,5 +331,5 @@ Kardeşiniz Said Nursî
 
 ***
 
-[^Hâşiye1]: İşte mühim bir numunesi: Seydişehirli Hacı Abdullah’ın bütün mensupları hem Kastamonu’da hem Isparta’da hem Eskişehir’de Risale-i Nur dairesini kendi tarîkat daireleri telakki etmişler ki onlardan Nurlara rastlayanlar, takdirkârane sahib çıkıyorlar. Onlara bin bârekellah!
+[^hâşiye1]: İşte mühim bir numunesi: Seydişehirli Hacı Abdullah’ın bütün mensupları hem Kastamonu’da hem Isparta’da hem Eskişehir’de Risale-i Nur dairesini kendi tarîkat daireleri telakki etmişler ki onlardan Nurlara rastlayanlar, takdirkârane sahib çıkıyorlar. Onlara bin bârekellah!
 

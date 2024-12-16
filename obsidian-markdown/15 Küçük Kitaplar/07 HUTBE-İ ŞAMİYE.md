@@ -93,7 +93,7 @@ Ben bu zaman ve zeminde, beşerin hayat-ı içtimaiye medresesinde ders aldım v
 
 Bu altı dehşetli hastalığın ilacını da bir tıp fakültesi hükmünde hayat-ı içtimaiyemizde, eczahane-i Kur’aniyeden ders aldığım **altı kelime** ile beyan ediyorum. Mualecenin esasları onları biliyorum.
 
-**BİRİNCİ KELİME**: “**El-emel**”. Yani rahmet-i İlahiyeden kuvvetli ümit beslemek. Evet, ben kendi hesabıma aldığım dersime binaen: Ey İslâm cemaati! Müjde veriyorum ki: Şimdiki âlem-i İslâm’ın saadet-i dünyeviyesi, bâhusus Osmanlıların saadeti ve bilhassa İslâm’ın terakkisi onların intibahıyla olan Arab’ın saadetinin fecr-i sadıkının emareleri inkişafa başlıyor ve saadet güneşinin de çıkması yakınlaşmış. Yeisin burnunun rağmına olarak [^Hâşiye1] ben dünyaya işittirecek derecede kanaat-i kat’iyemle derim:
+**BİRİNCİ KELİME**: “**El-emel**”. Yani rahmet-i İlahiyeden kuvvetli ümit beslemek. Evet, ben kendi hesabıma aldığım dersime binaen: Ey İslâm cemaati! Müjde veriyorum ki: Şimdiki âlem-i İslâm’ın saadet-i dünyeviyesi, bâhusus Osmanlıların saadeti ve bilhassa İslâm’ın terakkisi onların intibahıyla olan Arab’ın saadetinin fecr-i sadıkının emareleri inkişafa başlıyor ve saadet güneşinin de çıkması yakınlaşmış. Yeisin burnunun rağmına olarak [^hâşiye1] ben dünyaya işittirecek derecede kanaat-i kat’iyemle derim:
 
 İstikbal yalnız ve yalnız İslâmiyet’in olacak. Ve hâkim, hakaik-i Kur’aniye ve imaniye olacak. Öyle ise şimdiki kader-i İlahî ve kısmetimize razı olmalıyız ki bize parlak bir istikbal, ecnebilere müşevveş bir mazi düşmüş.
 
@@ -105,7 +105,7 @@ Bu davama çok bürhanlardan ders almışım. Şimdi o bürhanlardan mukaddimatl
 
 Hakikat-i İslâmiyet’in kuvveti nisbetinde, Müslümanlar o kuvvete göre hareket etmeleri derecesinde ehl-i İslâm temeddün edip terakki ettiğini tarih gösteriyor. Ve ehl-i İslâm’ın hakikat-i İslâmiye’de zafiyeti derecesinde tevahhuş ettiklerini, vahşete ve tedenniye düştüklerini ve herc ü merc içinde belalara, mağlubiyetlere düştüklerini tarih gösteriyor. Sair dinler ise bilakistir. Yani salabet ve taassuplarının zafiyeti nisbetinde temeddün ve terakki ettikleri gibi dinlerine salabet ve taassuplarının kuvveti derecesinde de tedenni ve ihtilallere maruz kaldıklarını tarih gösteriyor. Şimdiye kadar zaman böyle geçmiş.
 
-Hem asr-ı saadetten şimdiye kadar hiçbir tarih bize göstermiyor ki bir Müslüman’ın muhakeme-i akliye ile ve delil-i yakînî ile ve İslâmiyet’e tercih etmekle eski ve yeni ayrı bir dine girdiğini tarih göstermiyor. Avamın delilsiz, taklidî bir surette başka dine girmesinin bu meselede ehemmiyeti yok. Dinsiz olmak da başka meseledir. Halbuki bütün dinlerin etbaları ise –hattâ en ziyade dinine taassup gösteren İngilizlerin ve eski Rusların– muhakeme-i akliye ile İslâmiyet’e dâhil olduklarını ve günden güne, bazı zaman takım takım kat’î bürhan ile İslâmiyet’e girdiklerini tarihler bize bildiriyorlar [^Hâşiye2].
+Hem asr-ı saadetten şimdiye kadar hiçbir tarih bize göstermiyor ki bir Müslüman’ın muhakeme-i akliye ile ve delil-i yakînî ile ve İslâmiyet’e tercih etmekle eski ve yeni ayrı bir dine girdiğini tarih göstermiyor. Avamın delilsiz, taklidî bir surette başka dine girmesinin bu meselede ehemmiyeti yok. Dinsiz olmak da başka meseledir. Halbuki bütün dinlerin etbaları ise –hattâ en ziyade dinine taassup gösteren İngilizlerin ve eski Rusların– muhakeme-i akliye ile İslâmiyet’e dâhil olduklarını ve günden güne, bazı zaman takım takım kat’î bürhan ile İslâmiyet’e girdiklerini tarihler bize bildiriyorlar [^hâşiye2].
 
 Eğer biz ahlâk-ı İslâmiyenin ve hakaik-i imaniyenin kemalâtını ef’alimizle izhar etsek, sair dinlerin tabileri elbette cemaatlerle İslâmiyet’e girecekler belki küre-i arzın bazı kıtaları ve devletleri de İslâmiyet’e dehalet edecekler.
 
@@ -169,7 +169,7 @@ Avrupa ve Amerika, İslâmiyet’le hamiledir. Günün birinde bir İslâmî dev
 
 Ey Cami-i Emevî’deki kardeşlerim ve yarım asır sonraki âlem-i İslâm camiindeki ihvanlarım! Acaba baştan buraya kadar olan mukaddimeler netice vermiyor mu ki istikbalin kıtalarında hakiki ve manevî hâkim olacak ve beşeri, dünyevî ve uhrevî saadete sevk edecek yalnız İslâmiyet’tir ve İslâmiyet’e inkılab etmiş ve hurafattan ve tahrifattan sıyrılacak İsevîlerin hakiki dinidir ki Kur’an’a tabi olur, ittifak eder.
 
-**İkinci Cihet:** Yani maddeten İslâmiyet’in terakkisinin kuvvetli sebepleri gösteriyor ki maddeten dahi İslâmiyet istikbale hükmedecek. Birinci Cihet, maneviyat cihetinde terakkiyatı ispat ettiği gibi; bu İkinci Cihet dahi maddî terakkiyatını ve istikbaldeki hâkimiyetini kuvvetli gösteriyor. Çünkü âlem-i İslâm’ın şahs-ı manevîsinin kalbinde, gayet kuvvetli ve kırılmaz **beş kuvvet** içtima ve imtizaç edip yerleşmiş [^Hâşiye3].
+**İkinci Cihet:** Yani maddeten İslâmiyet’in terakkisinin kuvvetli sebepleri gösteriyor ki maddeten dahi İslâmiyet istikbale hükmedecek. Birinci Cihet, maneviyat cihetinde terakkiyatı ispat ettiği gibi; bu İkinci Cihet dahi maddî terakkiyatını ve istikbaldeki hâkimiyetini kuvvetli gösteriyor. Çünkü âlem-i İslâm’ın şahs-ı manevîsinin kalbinde, gayet kuvvetli ve kırılmaz **beş kuvvet** içtima ve imtizaç edip yerleşmiş [^hâşiye3].
 
 **Birincisi:** Bütün kemalâtın üstadı ve üç yüz yetmiş milyon nefisleri bir tek nefis hükmüne getirebilen ve hakiki bir medeniyetle ve müsbet ve doğru fenlerle teçhiz edilmiş olan ve hiçbir kuvvet onu kıramayacak bir mahiyette bulunan hakikat-i İslâmiyet’tir.
 
@@ -245,7 +245,7 @@ Yeis; ümmetlerin, milletlerin “seretan” denilen en dehşetli bir hastalığ
 
 Evet sıdk ve doğruluk, İslâmiyet’in hayat-ı içtimaiyesinde ukde-i hayatiyesidir. Riyakârlık, fiilî bir nevi yalancılıktır. Dalkavukluk ve tasannu, alçakça bir yalancılıktır. Nifak ve münafıklık, muzır bir yalancılıktır. Yalancılık ise Sâni’-i Zülcelal’in kudretine iftira etmektir.
 
-Küfür, bütün envaıyla kizbdir, yalancılıktır. İman sıdktır, doğruluktur. Bu sırra binaen kizb ve sıdkın ortasında hadsiz bir mesafe var, şark ve garp kadar birbirinden uzak olmak lâzım geliyor. Nâr ve nur gibi birbirine girmemek lâzım. Halbuki gaddar siyaset ve zalim propaganda birbirini karıştırmış, beşerin kemalâtını da karıştırmış. [^Hâşiye4]
+Küfür, bütün envaıyla kizbdir, yalancılıktır. İman sıdktır, doğruluktur. Bu sırra binaen kizb ve sıdkın ortasında hadsiz bir mesafe var, şark ve garp kadar birbirinden uzak olmak lâzım geliyor. Nâr ve nur gibi birbirine girmemek lâzım. Halbuki gaddar siyaset ve zalim propaganda birbirini karıştırmış, beşerin kemalâtını da karıştırmış. [^hâşiye4]
 
 Bu sıdk ve kizb, küfür ve iman kadar birbirinden uzak. Asr-ı saadette sıdk vasıtasıyla Muhammed aleyhissalâtü vesselâmın a’lâ-yı illiyyîne çıkması ve o sıdk anahtarıyla hakaik-i imaniye ve hakaik-i kâinat hazinesi açılması sırrıyla, içtimaiyat-ı beşeriye çarşısında sıdk, en revaçlı bir mal ve satın alınacak en kıymetli bir meta hükmüne geçmiş.
 
@@ -438,7 +438,7 @@ Evet, insanın fiilleri kalbin, hissin temayülatından çıkar. O temayülat, r
 
 Eğer beşer çabuk aklını başına alıp adalet-i İlahiye namına ve hakaik-i İslâmiye dairesinde mahkemeler açmazsa maddî ve manevî kıyametler başlarına kopacak; anarşilere, ye’cüc ve me’cüclere teslim-i silah edecekler diye kalbe ihtar edildi.
 
-İşte bu hikâyeyi o zamandaki bazı dindar mebuslara Eski Said söylemiş. Ve iki defa tabedilen Arabî Hutbe-i Şamiye’nin Zeyli’nde kırk beş sene evvel yazılmış. [^Hâşiye5]
+İşte bu hikâyeyi o zamandaki bazı dindar mebuslara Eski Said söylemiş. Ve iki defa tabedilen Arabî Hutbe-i Şamiye’nin Zeyli’nde kırk beş sene evvel yazılmış. [^hâşiye5]
 
 Şimdi bu hikâye ile evvelki temsil, o zamandan ziyade tam bu zamanın dersi olmasından bera-yı malûmat hakiki dindar mebusların nazarına medar-ı ibret için gösteriyoruz.
 
@@ -447,7 +447,7 @@ Said Nursî
 ***
 
 ##### HUTBE-İ ŞAMİYE’NİN ZEYLİNİN ZEYLİ
-(Kırk iki [^Hâşiye6] sene evvel dinî ceridelerde neşredilen Said’in makalesidir.)
+(Kırk iki [^hâşiye6] sene evvel dinî ceridelerde neşredilen Said’in makalesidir.)
 
 ##### Yaşasın Şeriat-ı Garra
 29 Şubat 324
@@ -510,7 +510,7 @@ ve adalet-i mahzası merhametli olduğundan anâsır-ı gayr-ı müslimeyi daha 
 
 ve en cebîn ve âmî adamı en cesur ve en has adam gibi hiss-i hakiki-i terakki ve fedakârlık ve hubb-u vatanla mütehassis eden (26)
 
-ve hēdim-i medeniyet [^Hâşiye7] olan sefahet ve israfat ve havaic-i gayr-ı zaruriyeden bizi halâs eden (27)
+ve hēdim-i medeniyet [^hâşiye7] olan sefahet ve israfat ve havaic-i gayr-ı zaruriyeden bizi halâs eden (27)
 
 ve muhafaza-i âhiretle beraber imar-ı dünya etmekle sa’ye neşat veren (28)
 
@@ -573,7 +573,7 @@ Mart 1909
 
 Biz Kalû Belâ’dan Cemiyet-i Muhammedî’de (aleyhissalâtü vesselâm) dâhiliz. Cihetü’l-vahdet-i ittihadımız tevhiddir. Peyman ve yeminimiz imandır. Mademki muvahhidiz, müttehidiz. Her bir mü’min i’lâ-yı kelimetullah ile mükelleftir. Bu zamanda en büyük sebebi, maddeten terakki etmektir. Zira ecnebiler fünun ve sanayi silahıyla bizi istibdad-ı manevîleri altında eziyorlar. Biz de fen ve sanat silahıyla i’lâ-yı kelimetullahın en müthiş düşmanı olan cehil ve fakr ve ihtilaf-ı efkâra cihad edeceğiz.
 
-Amma cihad-ı haricîyi şeriat-ı garranın berahin-i kātıasının elmas kılınçlarına havale edeceğiz. Zira medenilere galebe çalmak ikna iledir, söz anlamayan vahşiler gibi icbar ile değildir. Biz muhabbet fedaileriyiz, husumete vaktimiz yoktur. Cumhuriyet ki [^Hâşiye8] adalet ve meşveret ve kanunda inhisar-ı kuvvetten ibarettir. On üç asır evvel şeriat-ı garra teessüs ettiğinden, ahkâmda Avrupa’ya dilencilik etmek, din-i İslâm’a büyük bir cinayettir ve şimale müteveccihen namaz kılmak gibidir. Kuvvet kanunda olmalı. Yoksa istibdat tevzi olunmuş olur. <span class="arabic" dir="rtl">اِنَّ اللّٰهَ هُوَ الْقَوِىُّ الْمَتٖينُ</span> hâkim ve âmir-i vicdanî olmalı. O da marifet-i tam ve medeniyet-i âmm veyahut din-i İslâm namıyla olmalı. Yoksa istibdat daima hüküm-ferma olacaktır.
+Amma cihad-ı haricîyi şeriat-ı garranın berahin-i kātıasının elmas kılınçlarına havale edeceğiz. Zira medenilere galebe çalmak ikna iledir, söz anlamayan vahşiler gibi icbar ile değildir. Biz muhabbet fedaileriyiz, husumete vaktimiz yoktur. Cumhuriyet ki [^hâşiye8] adalet ve meşveret ve kanunda inhisar-ı kuvvetten ibarettir. On üç asır evvel şeriat-ı garra teessüs ettiğinden, ahkâmda Avrupa’ya dilencilik etmek, din-i İslâm’a büyük bir cinayettir ve şimale müteveccihen namaz kılmak gibidir. Kuvvet kanunda olmalı. Yoksa istibdat tevzi olunmuş olur. <span class="arabic" dir="rtl">اِنَّ اللّٰهَ هُوَ الْقَوِىُّ الْمَتٖينُ</span> hâkim ve âmir-i vicdanî olmalı. O da marifet-i tam ve medeniyet-i âmm veyahut din-i İslâm namıyla olmalı. Yoksa istibdat daima hüküm-ferma olacaktır.
 
 İttifak hüdadadır, heva ve heveste değil.
 
@@ -643,7 +643,7 @@ Esas temeli, şarktan garba cenuptan şimale mümted ve merkezi Haremeyn-i Şeri
 
 **Beşinci Vehim:** Ecnebilerin bundan tevahhuş etmek ihtimali var?
 
-**Elcevap:** Bu ihtimale ihtimal verenler mütevahhiştir. Zira merkez-i taassuplarında İslâmiyet’in ulviyetine dair konferanslarla [^Hâşiye9] takdis etmeleri bu ihtimali reddeder. Hem de düşmanlarımız onlar değil; asıl bizi bu kadar düşürüp i’lâ-yı kelimetullaha mani olan ve **cehalet** neticesi olan muhalefet-i şeriattır. Ve **zaruret** ve onun semeresi olan sû-i ahlâk ve harekettir ve **ihtilaf** ve onun mahsulü olan ağraz ve nifaktır ki ittihadımız bu **üç insafsız düşman**a hücumdur.
+**Elcevap:** Bu ihtimale ihtimal verenler mütevahhiştir. Zira merkez-i taassuplarında İslâmiyet’in ulviyetine dair konferanslarla [^hâşiye9] takdis etmeleri bu ihtimali reddeder. Hem de düşmanlarımız onlar değil; asıl bizi bu kadar düşürüp i’lâ-yı kelimetullaha mani olan ve **cehalet** neticesi olan muhalefet-i şeriattır. Ve **zaruret** ve onun semeresi olan sû-i ahlâk ve harekettir ve **ihtilaf** ve onun mahsulü olan ağraz ve nifaktır ki ittihadımız bu **üç insafsız düşman**a hücumdur.
 
 Amma ecnebilerin vahşi oldukları kurûn-u vustâda; İslâmiyet, vahşete karşı husumet ve taassuba mecbur olduğu halde, adalet ve itidalini muhafaza etmiş. Hiçbir vakit engizisyon gibi etmemiş. Ve zaman-ı medeniyette ecnebiler medeni ve kuvvetli olduklarından, zararlı olan husumet ve taassup zâil olmuştur. Zira din nokta-i nazarından medenilere galebe çalmak ikna iledir, icbar ile değildir. Ve İslâmiyet’i, mahbub ve ulvi olduğunu, evamirine imtisalen ef’al ve ahlâk ile göstermek iledir. İcbar ve husumet, vahşilerin vahşetine karşıdır.
 
@@ -812,7 +812,7 @@ Kitaplar ve içtihadlar Kur’an’a dürbün olmalı, âyine olmalı; gölge ve
 
 28. Şems, hareket-i mihveriyesiyle silkinse meyveleri düşmez; silkinmezse yemişleri olan seyyarat düşüp dağılacaktır.
 
-29. Nur-u fikir, ziya-yı kalp ile ışıklanıp mezcolmazsa zulmettir, zulüm fışkırır. Gözün muzlim nehar-ı ebyazı, muzii [^Hâşiye10] leyle-i süveyda ile mezcolmazsa basarsız olduğu gibi fikret-i beyzada süveyda-i kalp bulunmazsa basîretsizdir.
+29. Nur-u fikir, ziya-yı kalp ile ışıklanıp mezcolmazsa zulmettir, zulüm fışkırır. Gözün muzlim nehar-ı ebyazı, muzii [^hâşiye10] leyle-i süveyda ile mezcolmazsa basarsız olduğu gibi fikret-i beyzada süveyda-i kalp bulunmazsa basîretsizdir.
 
 30. İlimde iz’an-ı kalp olmazsa cehildir. İltizam başka, itikad başkadır.
 
@@ -860,7 +860,7 @@ Adalet-i Kur’aniye âlem kapısında durup ribaya “Yasaktır, girmeye hakkı
 
 47. Hayatın yarası iltiyam bulur. İzzet-i İslâmiyenin ve namusun ve izzet-i milliyenin yaraları pek derindir.
 
-48. Öyle zaman olur ki bir kelime bir orduyu batırır, bir gülle otuz milyonun mahvına sebep olur. [^Hâşiye11] Öyle şerait tahtında olur ki küçük bir hareket, insanı a’lâ-yı illiyyîne çıkarır ve öyle hal olur ki küçük bir fiil, insanı esfel-i safilîne indirir.
+48. Öyle zaman olur ki bir kelime bir orduyu batırır, bir gülle otuz milyonun mahvına sebep olur. [^hâşiye11] Öyle şerait tahtında olur ki küçük bir hareket, insanı a’lâ-yı illiyyîne çıkarır ve öyle hal olur ki küçük bir fiil, insanı esfel-i safilîne indirir.
 
 49. Bir tane sıdk, bir harman yalanları yakar. Bir tane hakikat, bir harman hayalata müreccahtır.
 
@@ -938,7 +938,7 @@ Mevcudiyetimizin hâmisi olan İslâmiyet’ten elini gevşetme, dört el ile sa
 
 72. <span class="arabic" dir="rtl">اَلْجَمْعِيَّةُ الَّتٖى فٖيهَا التَّسَانُدُ اٰلَةٌ خُلِقَتْ لِتَحْرٖيكِ السَّكَنَاتِ وَالْجَمَاعَةُ الَّتٖى فٖيهَا التَّحَاسُدُ اٰلَةٌ خُلِقَتْ لِتَسْكٖينِ الْحَرَكَاتِ</span>
 
-73. Cemaatte vâhid-i sahih olmazsa; cem’ ve zam, kesir darbı gibi küçültür. [^Hâşiye12]
+73. Cemaatte vâhid-i sahih olmazsa; cem’ ve zam, kesir darbı gibi küçültür. [^hâşiye12]
 
 74. Adem-i kabul, kabul-ü ademle iltibas olunur. Adem-i kabul; adem-i delil-i sübut, onun delilidir. Kabul-ü adem, delil-i adem ister. Biri şek, biri inkârdır.
 
@@ -1090,7 +1090,7 @@ Eğer icaddaki vasıta hakiki olsaydı ve hakiki tesir verilseydi hem bir şuur-
 
 **Cây-ı dikkattir ki:** Cüz’î bir ihtiyarın tavassutu ile eser-i akıl bir insan şehri, intizamca semere-i vahiy bir arı kovanındaki cemaate yetişmez. Ve arıların meşher-i sanatı bir petek hüceyrat şehri; bir nar ve (cilnar) gülnardan intizamca geridir. Demek, kâinattaki cazibe-i umumiye hangi kalemden akmışsa cüz-i lâyetecezzadaki küçücük cazibeler o kalemin noktalarıdır.
 
-İslâmiyet der: <span class="arabic" dir="rtl">لَا خَالِقَ اِلَّا هُوَ</span> Hem vesait ve esbabı, müessir-i hakiki olarak kabul etmez. Vasıtaya mana-yı harfî nazarıyla bakar. Akide-i tevhid ve vazife-i teslim ve tefviz öyle ister. Tahrif sebebiyle şimdiki Hristiyanlık esbab ve vesaiti müessir bilir, mana-yı ismî nazarıyla bakar. Akide-i velediyet ve fikr-i ruhbaniyet öyle ister, öyle sevk eder. Onlar azizlerine mana-yı ismiyle birer menba-ı feyz ve –güneşin ziyasından bir fikre göre istihale etmiş lambanın nuru gibi– birer maden-i nur nazarıyla bakıyorlar. Biz ise evliyaya mana-yı harfiyle yani âyine güneşin ziyasını neşrettiği gibi birer ma’kes-i tecelli nazarıyla bakıyoruz. [^Hâşiye13]
+İslâmiyet der: <span class="arabic" dir="rtl">لَا خَالِقَ اِلَّا هُوَ</span> Hem vesait ve esbabı, müessir-i hakiki olarak kabul etmez. Vasıtaya mana-yı harfî nazarıyla bakar. Akide-i tevhid ve vazife-i teslim ve tefviz öyle ister. Tahrif sebebiyle şimdiki Hristiyanlık esbab ve vesaiti müessir bilir, mana-yı ismî nazarıyla bakar. Akide-i velediyet ve fikr-i ruhbaniyet öyle ister, öyle sevk eder. Onlar azizlerine mana-yı ismiyle birer menba-ı feyz ve –güneşin ziyasından bir fikre göre istihale etmiş lambanın nuru gibi– birer maden-i nur nazarıyla bakıyorlar. Biz ise evliyaya mana-yı harfiyle yani âyine güneşin ziyasını neşrettiği gibi birer ma’kes-i tecelli nazarıyla bakıyoruz. [^hâşiye13]
 
 Bu sırdandır ki bizde sülûk tevazudan başlar, mahviyetten geçer, fena fillah makamını görür. Gayr-ı mütenahî makamatta sülûka başlar. Ene ve nefs-i emmare kibriyle, gururuyla söner. Hakiki Hristiyanlık değil belki tahrif ve felsefe ile sarsılmış Hristiyan’da, ene levazımatıyla kuvvetleşir. Enesi kuvvetli, müteşahhıs, rütbeli, makam sahibi bir adam, Hristiyan olsa mütesallib olur. Fakat Müslüman olsa lâkayt olur.
 
@@ -1271,17 +1271,17 @@ Ankara Üniversitesi Nur talebeleri namına
 
 Abdullah
 
-[^Hâşiye1]: Eski Said, hiss-i kable’l-vuku ile 1371’de –başta Arap devletleri– âlem-i İslâm’ın ecnebi esaretinden ve istibdadından kurtulup İslâmî devletler teşkil edeceklerini kırk beş sene evvel haber vermiş. İki harb-i umumî ve otuz kırk sene istibdad-ı mutlakı düşünmemiş. 1370’te olan vaziyeti 1327’de olacak gibi müjde vermiş, tehirinin sebebini nazara almamış.
+[^hâşiye1]: Eski Said, hiss-i kable’l-vuku ile 1371’de –başta Arap devletleri– âlem-i İslâm’ın ecnebi esaretinden ve istibdadından kurtulup İslâmî devletler teşkil edeceklerini kırk beş sene evvel haber vermiş. İki harb-i umumî ve otuz kırk sene istibdad-ı mutlakı düşünmemiş. 1370’te olan vaziyeti 1327’de olacak gibi müjde vermiş, tehirinin sebebini nazara almamış.
 
-[^Hâşiye2]: İşte bu mezkûr davaya bir delil şudur ki: İki dehşetli harb-i umumînin ve şiddetli bir istibdad-ı mutlakın zuhuruyla beraber, bu davaya kırk beş sene sonra şimalin İsveç, Norveç, Finlandiya gibi küçük devletleri Kur’an’ı mekteplerinde ders vermek ve kabul etmek ve komünistliğe, dinsizliğe karşı set olmak için kabul etmeleri ve İngiliz’in mühim hatiplerinin bir kısmı Kur’an’ı İngiliz’e kabul ettirmeye taraftar çıkmaları ve küre-i arzın şimdiki en büyük devleti Amerika’nın bütün kuvvetiyle din hakikatlerine taraftar çıkması ve İslâmiyet’le Asya ve Afrika’nın saadet ve sükûnet ve musalaha bulacağına karar vermesi ve yeni doğan İslâm devletlerini okşaması ve teşvik etmesi ve onlarla ittifaka çalışması, kırk beş sene evvel olan bu müddeayı ispat ediyor, kuvvetli bir şahit olur.
+[^hâşiye2]: İşte bu mezkûr davaya bir delil şudur ki: İki dehşetli harb-i umumînin ve şiddetli bir istibdad-ı mutlakın zuhuruyla beraber, bu davaya kırk beş sene sonra şimalin İsveç, Norveç, Finlandiya gibi küçük devletleri Kur’an’ı mekteplerinde ders vermek ve kabul etmek ve komünistliğe, dinsizliğe karşı set olmak için kabul etmeleri ve İngiliz’in mühim hatiplerinin bir kısmı Kur’an’ı İngiliz’e kabul ettirmeye taraftar çıkmaları ve küre-i arzın şimdiki en büyük devleti Amerika’nın bütün kuvvetiyle din hakikatlerine taraftar çıkması ve İslâmiyet’le Asya ve Afrika’nın saadet ve sükûnet ve musalaha bulacağına karar vermesi ve yeni doğan İslâm devletlerini okşaması ve teşvik etmesi ve onlarla ittifaka çalışması, kırk beş sene evvel olan bu müddeayı ispat ediyor, kuvvetli bir şahit olur.
 
-[^Hâşiye3]: Evet Kur’an’ın üstadiyetinden ve dersinin işaratından fehmediyoruz ki: Kur’an’da mu’cizat-ı enbiyayı zikretmesiyle; beşerin istikbalde terakki edeceğini ve o mu’cizatın nazireleri istikbalde vücuda geleceğini beşere ders verip teşvik ediyor:
+[^hâşiye3]: Evet Kur’an’ın üstadiyetinden ve dersinin işaratından fehmediyoruz ki: Kur’an’da mu’cizat-ı enbiyayı zikretmesiyle; beşerin istikbalde terakki edeceğini ve o mu’cizatın nazireleri istikbalde vücuda geleceğini beşere ders verip teşvik ediyor:
 
 “Haydi çalış, bu mu’cizatın numunelerini göster. Süleyman aleyhisselâm gibi iki aylık yolu bir günde git! İsa aleyhisselâm gibi en dehşetli hastalığın tedavisine çalış! Hazret-i Musa’nın asâsı gibi taştan âb-ı hayatı çıkar, beşeri susuzluktan kurtar! İbrahim aleyhisselâm gibi ateş seni yakmayacak maddeleri bul, giy! Bazı enbiyalar gibi şark ve garpta en uzak sesleri işit, suretleri gör! Davud aleyhisselâm gibi demiri hamur gibi yumuşat, beşerin bütün sanatına medar olmak için demiri bal mumu gibi yap! Yusuf aleyhisselâm ve Nuh aleyhisselâmın birer mu’cizesi olan saat ve gemiden nasıl çok istifade ediyorsunuz. Öyle de sair enbiyanın size ders verdiği mu’cizelerden dahi o saat ve sefine gibi istifade ediniz, taklitlerini yapınız.”
 
 İşte buna kıyasen Kur’an, her cihetle beşeri maddî manevî terakkiyata sevk etmek için ders veriyor, üstad-ı küll olduğunu ispat ediyor.
 
-[^Hâşiye4]: Ey kardeşlerim! Kırk beş sene evvel Eski Said’in bu dersinden anlaşılıyor ki o Said siyasetle, içtimaiyat-ı İslâmiye ile ziyade alâkadardır. Fakat sakın zannetmeyiniz ki o, dini siyasete âlet veya vesile yapmak mesleğinde gitmiş. Hâşâ belki o, bütün kuvvetiyle siyaseti dine âlet ediyormuş. Ve derdi ki: “Dinin bir hakikatini bin siyasete tercih ederim.” Evet o zamanda kırk elli sene evvel hissetmiş ki bazı münafık zındıkların siyaseti dinsizliğe âlet etmeye teşebbüs niyetlerine ve fikirlerine mukabil, o da bütün kuvvetiyle siyaseti İslâmiyet’in hakaikine bir hizmetkâr, bir âlet yapmaya çalışmış.
+[^hâşiye4]: Ey kardeşlerim! Kırk beş sene evvel Eski Said’in bu dersinden anlaşılıyor ki o Said siyasetle, içtimaiyat-ı İslâmiye ile ziyade alâkadardır. Fakat sakın zannetmeyiniz ki o, dini siyasete âlet veya vesile yapmak mesleğinde gitmiş. Hâşâ belki o, bütün kuvvetiyle siyaseti dine âlet ediyormuş. Ve derdi ki: “Dinin bir hakikatini bin siyasete tercih ederim.” Evet o zamanda kırk elli sene evvel hissetmiş ki bazı münafık zındıkların siyaseti dinsizliğe âlet etmeye teşebbüs niyetlerine ve fikirlerine mukabil, o da bütün kuvvetiyle siyaseti İslâmiyet’in hakaikine bir hizmetkâr, bir âlet yapmaya çalışmış.
 
 Fakat o zamandan yirmi sene sonra gördü ki: O gizli münafık zındıkların garplılaşmak bahanesiyle, siyaseti dinsizliğe âlet yapmalarına mukabil, bir kısım dindar ehl-i siyaset dini siyaset-i İslâmiyeye âlet etmeye çalışmışlardı. İslâmiyet güneşi yerdeki ışıklara âlet ve tabi olamaz. Ve âlet yapmak İslâmiyet’in kıymetini tenzil etmektir, büyük bir cinayettir. Hattâ Eski Said o çeşit siyaset tarafgirliğinden gördü ki:
 
@@ -1299,25 +1299,25 @@ Nur Şakirdleri
 
 (*) Şimdi yüz mahkeme.
 
-[^Hâşiye5]: Hutbe-i Şamiye namında matbu Arabî risaleyi, Arabî bilmediğimiz için Üstadımızdan rica ettik ki: Bize bir iki gün ders ver. Birkaç gün zarfında söylediği dersin takririni kaleme aldık. Üstadımız ders verdiği vakit, bazı cümlelerini zihnimizde tam yerleştirmek için tekrar ederdi. Âhirdeki temsil ve hikâyeyi izahlı bulduğumuzdan en evvel onları üniversitelilerin ve dindar mebusların nazarlarına göstermemizin sebebi: Üstadımız derse başladığı vakit “Eski zamanda şimendiferde mektepli o iki muallim yerine sizleri ve bana şeriat hakkında sual soran kırk beş elli sene evvelki mebuslar yerine, şimdiki hakiki dindar mebusları kabul ve tasavvur ediyorum ve öylece konuşuyorum.” dediği için biz de ehl-i maarif ve dindar mebuslara, bera-yı malûmat bu dersimizi gösteriyoruz. Sonra isterlerse Hutbe-i Şamiye’den bütün dersimizi göstereceğiz. Münasip görülse neşir de edeceğiz.
+[^hâşiye5]: Hutbe-i Şamiye namında matbu Arabî risaleyi, Arabî bilmediğimiz için Üstadımızdan rica ettik ki: Bize bir iki gün ders ver. Birkaç gün zarfında söylediği dersin takririni kaleme aldık. Üstadımız ders verdiği vakit, bazı cümlelerini zihnimizde tam yerleştirmek için tekrar ederdi. Âhirdeki temsil ve hikâyeyi izahlı bulduğumuzdan en evvel onları üniversitelilerin ve dindar mebusların nazarlarına göstermemizin sebebi: Üstadımız derse başladığı vakit “Eski zamanda şimendiferde mektepli o iki muallim yerine sizleri ve bana şeriat hakkında sual soran kırk beş elli sene evvelki mebuslar yerine, şimdiki hakiki dindar mebusları kabul ve tasavvur ediyorum ve öylece konuşuyorum.” dediği için biz de ehl-i maarif ve dindar mebuslara, bera-yı malûmat bu dersimizi gösteriyoruz. Sonra isterlerse Hutbe-i Şamiye’den bütün dersimizi göstereceğiz. Münasip görülse neşir de edeceğiz.
 
 Âlem-i İslâm’daki siyaset-i İslâmiyeye dair Üstadımızdan bir ders almak isterdik. Halbuki otuz beş seneden beri siyaseti terk ettiğinden Eski Said’in siyaset-i İslâmiyeye temas eden bu Hutbe-i Şamiye tercümesi Eski Said hesabına bir derstir.
 
 Tahirî, Zübeyr, Bayram, Ceylan, Sungur, Abdullah, Ziya, Sadık, Salih, Hüsnü, Hamza
 
-[^Hâşiye6]: Bu tarih 1951 senesine aittir.
+[^hâşiye6]: Bu tarih 1951 senesine aittir.
 
-[^Hâşiye7]: Hēdim-i medeniyet: Medeniyeti yıkıcı.
+[^hâşiye7]: Hēdim-i medeniyet: Medeniyeti yıkıcı.
 
-[^Hâşiye8]: O zaman meşrutiyet, şimdi o kelime yerine cumhuriyet konulmuş.
+[^hâşiye8]: O zaman meşrutiyet, şimdi o kelime yerine cumhuriyet konulmuş.
 
-[^Hâşiye9]: Bismark ve Mister Karlayl gibilerin malûm beyanatlarına işaret eder.
+[^hâşiye9]: Bismark ve Mister Karlayl gibilerin malûm beyanatlarına işaret eder.
 
-[^Hâşiye10]: Hâşiye: Meali: Gözün gündüze benzeyen beyazı, geceye benzeyen siyahlığıyla beraber olmazsa göz, göz olmaz.
+[^hâşiye10]: Hâşiye: Meali: Gözün gündüze benzeyen beyazı, geceye benzeyen siyahlığıyla beraber olmazsa göz, göz olmaz.
 
-[^Hâşiye11]: Hâşiye: Sırp bir neferin Avusturya Veliahdine attığı bir tek gülle, Eski Harb-i Umumî’yi patlattırdı; otuz milyon nüfusun mahvına sebep oldu.
+[^hâşiye11]: Hâşiye: Sırp bir neferin Avusturya Veliahdine attığı bir tek gülle, Eski Harb-i Umumî’yi patlattırdı; otuz milyon nüfusun mahvına sebep oldu.
 
-[^Hâşiye12]: Hâşiye: Hesapta malûmdur ki darb ve cem’, ziyadeleştirir. Dört kere dört, on altı olur. Fakat kesirlerde darb ve cem’, bilakis küçültür. Sülüsü sülüs ile darbetmek, tüsü’ olur; yani dokuzda bir olur. Aynen onun gibi insanlarda sıhhat ve istikamet ile vahdet olmazsa ziyadeleşmekle küçülür, bozuk olur, kıymetsiz olur.
+[^hâşiye12]: Hâşiye: Hesapta malûmdur ki darb ve cem’, ziyadeleştirir. Dört kere dört, on altı olur. Fakat kesirlerde darb ve cem’, bilakis küçültür. Sülüsü sülüs ile darbetmek, tüsü’ olur; yani dokuzda bir olur. Aynen onun gibi insanlarda sıhhat ve istikamet ile vahdet olmazsa ziyadeleşmekle küçülür, bozuk olur, kıymetsiz olur.
 
-[^Hâşiye13]: Hâşiye: Nakşibendî rabıtası bu sırra bina edilmiştir.
+[^hâşiye13]: Hâşiye: Nakşibendî rabıtası bu sırra bina edilmiştir.
 

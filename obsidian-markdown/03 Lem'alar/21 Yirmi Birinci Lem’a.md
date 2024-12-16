@@ -37,7 +37,7 @@ Hem nasıl ki bir fabrikanın çarkları birbiriyle rekabetkârane uğraşmaz, b
 
 Evet, üç elif ittihat etmezse üç kıymeti var. Sırr-ı adediyet ile ittihat etse yüz on bir kıymet alır. Dört kere dört ayrı ayrı olsa on altı kıymeti var. Eğer sırr-ı uhuvvet ve ittihad-ı maksat ve ittifak-ı vazife ile tevafuk edip bir çizgi üstünde omuz omuza verseler, o vakit dört bin dört yüz kırk dört kuvvetinde ve kıymetinde olduğu gibi; hakiki sırr-ı ihlas ile on altı fedakâr kardeşlerin kıymet ve kuvvet-i maneviyesi dört binden geçtiğine, pek çok vukuat-ı tarihiye şehadet ediyor.
 
-Bu sırrın sırrı şudur ki: Hakiki, samimi bir ittifakta her bir fert, sair kardeşlerin gözüyle de bakabilir ve kulaklarıyla da işitebilir. Güya on hakiki müttehid adamın her biri yirmi gözle bakıyor, on akılla düşünüyor, yirmi kulakla işitiyor, yirmi elle çalışıyor bir tarzda manevî kıymeti ve kuvvetleri vardır. [^Hâşiye1]
+Bu sırrın sırrı şudur ki: Hakiki, samimi bir ittifakta her bir fert, sair kardeşlerin gözüyle de bakabilir ve kulaklarıyla da işitebilir. Güya on hakiki müttehid adamın her biri yirmi gözle bakıyor, on akılla düşünüyor, yirmi kulakla işitiyor, yirmi elle çalışıyor bir tarzda manevî kıymeti ve kuvvetleri vardır. [^hâşiye1]
 
 #### Üçüncü Düsturunuz
 Bütün kuvvetinizi ihlasta ve hakta bilmelisiniz.
@@ -105,7 +105,7 @@ Aynen öyle de emval-i uhreviyede sırr-ı ihlas ile iştirak ve sırr-ı uhuvve
 
 **İhlası kıran ikinci mani:** Hubb-u câhtan gelen şöhret-perestlik sâikasıyla ve şan ve şeref perdesi altında teveccüh-ü âmmeyi kazanmak, nazar-ı dikkati kendine celbetmekle enaniyeti okşamak ve nefs-i emmareye bir makam vermektir ki en mühim bir maraz-ı ruhî olduğu gibi “şirk-i hafî” tabir edilen riyakârlığa, hodfüruşluğa kapı açar, ihlası zedeler.
 
-Ey kardeşlerim! Kur’an-ı Hakîm’in hizmetindeki mesleğimiz hakikat ve uhuvvet olduğu ve uhuvvetin sırrı; şahsiyetini kardeşler içinde fâni edip [^Hâşiye2] onların nefislerini kendi nefsine tercih etmek olduğundan, mabeynimizde bu nevi hubb-u câhtan gelen rekabet tesir etmemek gerektir. Çünkü mesleğimize bütün bütün münafîdir. Madem kardeşlerin şerefi umumiyetle her ferde ait olabilir; o büyük şeref-i manevîyi, şahsî, hodfüruşane, rekabetkârane, cüz’î bir şerefe ve şöhrete feda etmek; Risale-i Nur şakirdlerinden yüz derece uzak olduğu ümidindeyim.
+Ey kardeşlerim! Kur’an-ı Hakîm’in hizmetindeki mesleğimiz hakikat ve uhuvvet olduğu ve uhuvvetin sırrı; şahsiyetini kardeşler içinde fâni edip [^hâşiye2] onların nefislerini kendi nefsine tercih etmek olduğundan, mabeynimizde bu nevi hubb-u câhtan gelen rekabet tesir etmemek gerektir. Çünkü mesleğimize bütün bütün münafîdir. Madem kardeşlerin şerefi umumiyetle her ferde ait olabilir; o büyük şeref-i manevîyi, şahsî, hodfüruşane, rekabetkârane, cüz’î bir şerefe ve şöhrete feda etmek; Risale-i Nur şakirdlerinden yüz derece uzak olduğu ümidindeyim.
 
 Evet, Risale-i Nur şakirdlerinin kalbi, aklı, ruhu; böyle aşağı, zararlı, süflî şeylere tenezzül etmez. Fakat herkeste nefs-i emmare bulunur. Bazı da hissiyat-ı nefsiye damarlara ilişir. Bir derece hükmünü; kalp, akıl ve ruhun rağmına olarak icra eder. Sizlerin kalp ve ruh ve aklınızı ittiham etmem. Risale-i Nur’un verdiği tesire binaen itimat ediyorum. Fakat nefis ve heva ve his ve vehim bazen aldatıyorlar. Onun için bazen şiddetli ikaz olunuyorsunuz. Bu şiddet, nefis ve heva ve his ve vehme bakıyor; ihtiyatlı davranınız.
 
@@ -120,7 +120,7 @@ Pederane, mürşidane mesleklerdeki gıptakârane hırs-ı sevap ve ulüvv-ü hi
 ***
 
 #### Bir kısım kardeşlerime hususi bir mektuptur
-Yazıda usanan ve ibadet ayları olan şuhur-u selâsede sair evradı, beş cihetle ibadet sayılan [^Hâşiye3] Risale-i Nur yazısına tercih eden kardeşlerime iki hadîs-i şerifin bir nüktesini söyleyeceğim.
+Yazıda usanan ve ibadet ayları olan şuhur-u selâsede sair evradı, beş cihetle ibadet sayılan [^hâşiye3] Risale-i Nur yazısına tercih eden kardeşlerime iki hadîs-i şerifin bir nüktesini söyleyeceğim.
 
 **Birincisi:** <span class="arabic" dir="rtl">يُوزَنُ مِدَادُ الْعُلَمَاءِ بِدِمَاءِ الشُّهَدَاءِ –اَوْ كَمَا قَالَ–</span> Yani “Mahşerde ulema-i hakikatin sarf ettikleri mürekkep, şehitlerin kanıyla muvazene edilir; o kıymette olur.”
 
@@ -136,11 +136,11 @@ Ey tembellik damarıyla yazıdan usanan ve ey sofi-meşrep kardeşler! Bu iki ha
 
 ***
 
-[^Hâşiye1]: Evet, sırr-ı ihlas ile samimi tesanüd ve ittihat, hadsiz menfaate medar olduğu gibi; korkulara hattâ ölüme karşı en mühim bir siper, bir nokta-i istinaddır. Çünkü ölüm gelse bir ruhu alır. Sırr-ı uhuvvet-i hakikiye ile rıza-yı İlahî yolunda, âhirete müteallik işlerde, kardeşleri adedince ruhları olduğundan biri ölse “Diğer ruhlarım sağlam kalsınlar, zira o ruhlar her vakit sevapları bana kazandırmakla manevî bir hayatı idame ettiklerinden ben ölmüyorum.” diyerek, ölümü gülerek karşılar. “Ve o ruhlar vasıtasıyla sevap cihetinde yaşıyorum, yalnız günah cihetinde ölüyorum.” der, rahatla yatar.
+[^hâşiye1]: Evet, sırr-ı ihlas ile samimi tesanüd ve ittihat, hadsiz menfaate medar olduğu gibi; korkulara hattâ ölüme karşı en mühim bir siper, bir nokta-i istinaddır. Çünkü ölüm gelse bir ruhu alır. Sırr-ı uhuvvet-i hakikiye ile rıza-yı İlahî yolunda, âhirete müteallik işlerde, kardeşleri adedince ruhları olduğundan biri ölse “Diğer ruhlarım sağlam kalsınlar, zira o ruhlar her vakit sevapları bana kazandırmakla manevî bir hayatı idame ettiklerinden ben ölmüyorum.” diyerek, ölümü gülerek karşılar. “Ve o ruhlar vasıtasıyla sevap cihetinde yaşıyorum, yalnız günah cihetinde ölüyorum.” der, rahatla yatar.
 
-[^Hâşiye2]: Evet, bahtiyar odur ki kevser-i Kur’anîden süzülen tatlı, büyük bir havuzu kazanmak için bir buz parçası nevindeki şahsiyetini ve enaniyetini o havuz içine atıp eritendir.
+[^hâşiye2]: Evet, bahtiyar odur ki kevser-i Kur’anîden süzülen tatlı, büyük bir havuzu kazanmak için bir buz parçası nevindeki şahsiyetini ve enaniyetini o havuz içine atıp eritendir.
 
-[^Hâşiye3]: Bu kıymetli mektupta Üstadımızın işaret ettiği beş nevi ibadetin kendilerinden izahını talep ettik. Aldığımız izah aşağıya yazılmıştır.
+[^hâşiye3]: Bu kıymetli mektupta Üstadımızın işaret ettiği beş nevi ibadetin kendilerinden izahını talep ettik. Aldığımız izah aşağıya yazılmıştır.
 
 1. En mühim bir mücahede olan ehl-i dalalete karşı manen mücahede etmektir.
 

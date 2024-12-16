@@ -44,14 +44,14 @@ Fakat ey kāri! Ben hata ettim, itiraf ederim. Sakın sen hata etme! Yırtık ü
 
 Ey kāri! Peşinen bunu itiraf ederim ki: Sanat-ı hat ve nazımda istidadımdan çok müştekiyim. Hattâ şimdi ismimi de düzgün yazamıyorum. Nazım, vezin ise ömrümde bir fıkra yapamamıştım. Birdenbire zihnime, nazma musırrane bir arzu geldi. Sahabelerin gazevatına dair Kürtçe <span class="arabic" dir="rtl">قَوْلِ نَوَالَاسٖيسَبَانْ</span> namında bir destan vardı. Onun ilahî tarzındaki tabiî nazmına ruhum hoşlanıyordu. Ben de kendime mahsus onun tarz-ı nazmını ihtiyar ettim. Nazma benzer bir nesir yazdım. Fakat vezin için kat’iyen tekellüf yapmadım. İsteyen adam, nazmı hatıra getirmeden zahmetsiz, nesren okuyabilir. Hem nesren olarak bakmalı, tâ mana anlaşılsın. Her kıtada ittisal-i mana vardır. Kafiyede tevakkuf edilmesin. Külah püskülsüz olur, vezin de kafiyesiz olur, nazım da kaidesiz olur. Zannımca lafız ve nazım, sanatça cazibedar olsa nazarı kendiyle meşgul eder. Nazarı manadan çevirmemek için perişan olması daha iyidir.
 
-Şu eserimde üstadım, Kur’an’dır. Kitabım, hayattır. Muhatabım, yine benim. Sen ise ey kāri müstemisin. Müstemiin tenkide hakkı yoktur; beğendiğini alır, beğenmediğine ilişmez. Şu eserim, bu mübarek ramazanın feyzi [^Hâşiye1] olduğundan, ümit ederim ki inşâallah din kardeşimin kalbine tesir eder de lisanı bana bir dua-i mağfiret bahşeder veya bir Fatiha okur.
+Şu eserimde üstadım, Kur’an’dır. Kitabım, hayattır. Muhatabım, yine benim. Sen ise ey kāri müstemisin. Müstemiin tenkide hakkı yoktur; beğendiğini alır, beğenmediğine ilişmez. Şu eserim, bu mübarek ramazanın feyzi [^hâşiye1] olduğundan, ümit ederim ki inşâallah din kardeşimin kalbine tesir eder de lisanı bana bir dua-i mağfiret bahşeder veya bir Fatiha okur.
 
 ## Eddâî
 
-Yıkılmış bir mezarım ki yığılmıştır içinde [^Hâşiye2]
-Said’den yetmiş dokuz emvat [^Hâşiye3] bâ-âsam âlâma.
+Yıkılmış bir mezarım ki yığılmıştır içinde [^hâşiye2]
+Said’den yetmiş dokuz emvat [^hâşiye3] bâ-âsam âlâma.
 Sekseninci olmuştur, mezara bir mezar taş
-Beraber ağlıyor [^Hâşiye4] hüsran-ı İslâm’a.
+Beraber ağlıyor [^hâşiye4] hüsran-ı İslâm’a.
 Mezar taşımla pür-emvat enîndar o mezarımla
 Revanım saha-i ukba-yı ferdâma.
 Yakînim var ki istikbal semavatı, zemin-i Asya
@@ -159,7 +159,7 @@ Demek şu Sure-i İhlas’ta, kendi miktar-ı kametinde müselsel hem müretteb 
 ## Sebep sırf zahirîdir
 
 İzzet-i azamet ister ki esbab-ı tabiî, perdedar-ı dest-i kudret ola aklın nazarında.
-Tevhid ve celal ister ki esbab-ı tabiî, dâmenkeş-i tesir-i hakiki ola [^Hâşiye5] kudret eserinde.
+Tevhid ve celal ister ki esbab-ı tabiî, dâmenkeş-i tesir-i hakiki ola [^hâşiye5] kudret eserinde.
 
 ***
 
@@ -327,7 +327,7 @@ Karıncanın karşısına, o zîşuur başının nısfı bile olamaz.
 Nasraniyet, ya intıfa ya ıstıfa bulacak. İslâm’a karşı teslim olup terk-i silah edecek.
 Mükerreren yırtıldı, purutluğa tâ geldi, purutlukta görmedi ona salah verecek.
 Perde yine yırtıldı, mutlak dalale düştü. Bir kısmı lâkin bazı yakınlaştı tevhide, onda felâh görecek.
-Hazırlanır şimdiden [^Hâşiye6] yırtılmaya başlıyor. Sönmezse safvet bulup İslâm’a mal olacak.
+Hazırlanır şimdiden [^hâşiye6] yırtılmaya başlıyor. Sönmezse safvet bulup İslâm’a mal olacak.
 Bu bir sırr-ı azîmdir, ona remz u işaret; Fahr-i Rusül demiştir: “İsa, Şer’im ile amel edip ümmetimden olacak.”
 
 ***
@@ -450,7 +450,7 @@ Umûr-u nâsta olmaz, müstenid ve mutemid.
 
 ## Bazen zıt, zıddını tazammun eder
 
-Zaman olur zıt, zıddını saklarmış. Lisan-ı siyasette lafız, mananın zıddıdır. Adalet külahını [^Hâşiye7]
+Zaman olur zıt, zıddını saklarmış. Lisan-ı siyasette lafız, mananın zıddıdır. Adalet külahını [^hâşiye7]
 Zulüm başına geçirmiş. Hamiyet libasını, hıyanet ucuz giymiş. 
 Cihad ve hem gazâya, bağy ismi takılmış. Esaret-i hayvanî,
 İstibdad-ı şeytanî; hürriyet nam verilmiş. 
@@ -469,7 +469,7 @@ Sonra döner, geliyor; tırnağının hem dişinin kirasını senden ister.
 ## Kuva-yı insaniye tahdid edilmediğinden cinayeti büyük olur
 
 Hayvanın hilafına, insandaki kuvveler, fıtrî tahdid olmamış. Onda çıkan hayr u şer, lâyetenahî gider.
-Onda olan hodgâmlık, bundan çıkan hodbinlik, gurur, inat birleşse; öyle günah oluyor [^Hâşiye8] ki beşer şimdiye kadar
+Onda olan hodgâmlık, bundan çıkan hodbinlik, gurur, inat birleşse; öyle günah oluyor [^hâşiye8] ki beşer şimdiye kadar
 Ona isim bulmamış. Cehennemin lüzumuna delil olduğu gibi cezası da yalnız cehennem olabilir.
 Hem mesela bir adam, tek yalancı sözünü doğru göstermek için İslâm’ın felaketini kalben arzu eder.
 Şu zaman da gösterdi: Cehennem lüzumsuz olmaz, cennet ucuz değildir.
@@ -513,7 +513,7 @@ Zulüm ve tahkir ateşi, tekebbürün sıkleti, tahakküm sâıkası… Aşağı
 Tahabbüb ve itaat, hürmet ve hem imtisal. Fakat merhamet ve ihsan yukarıdan inmeli,
 Hem şefkat ve terbiye… Beşer bunu isterse sarılmalı zekâta, ribayı tard etmeli.
 Kur’an’ın adaleti bab-ı âlemde durup ribaya der: “Yasaktır! Hakkın yoktur, dönmeli!”
-Dinlemedi bu emri, beşer yedi bir sille. [^Hâşiye9] Müdhişini yemeden bu emri dinlemeli.
+Dinlemedi bu emri, beşer yedi bir sille. [^hâşiye9] Müdhişini yemeden bu emri dinlemeli.
 
 ***
 
@@ -653,7 +653,7 @@ Onda hile, harama beşeri sevk etmiştir. Ahlâkın esasını şu noktadan bozmu
 
 Ferdi, şahsı ahlâksız hem fakir eylemiştir. Bunun şahidi çoktur. Kurûn-u ûlâdaki mecmu-u vahşet ve cinayet hem gadir ve hem hıyanet
 
-Şu medeniyet-i habîse tek bir defada kustu. Midesi [^Hâşiye10] daha bulanır. Âlem-i İslâm’daki istinkâf-ı manidar hem de bir cây-ı dikkat.
+Şu medeniyet-i habîse tek bir defada kustu. Midesi [^hâşiye10] daha bulanır. Âlem-i İslâm’daki istinkâf-ı manidar hem de bir cây-ı dikkat.
 
 Kabulde muzdariptir, soğuk da davranmıştır. Evet, şeriat-ı garrada olan nur-u İlahî, hâssa-i mümtazıdır: İstiğna, istiklaliyet.
 
@@ -689,7 +689,7 @@ Deha ise evvela nefs u cisme bakıyor, tabiata giriyor, nefsi tarla ediyor. İst
 
 Ruhu eder hizmetkâr, taneleri kuruyor. Şeytanın simasını beşerde gösteriyor. Hüda, hayateyne saadet veriyor. Dâreyne ziya neşrediyor.
 
-İnsanı yükseltiyor. Deccal-misal [^Hâşiye11] deha-yı a’ver, bir dâr ile bir hayatı anlar; madde-perest olur ve dünya-perver. İnsanı yapar birer canavar.
+İnsanı yükseltiyor. Deccal-misal [^hâşiye11] deha-yı a’ver, bir dâr ile bir hayatı anlar; madde-perest olur ve dünya-perver. İnsanı yapar birer canavar.
 
 Evet deha, sağır tabiata tapar. Kör kuvvete fermanber. Fakat hüda, şuurlu sanatı tanır, hikmetli kudrete bakar. Deha, zemine küfran perdesi çeker. Hüda, şükran nurunu serper.
 
@@ -772,7 +772,7 @@ Hurafata karıştı, attı nev-i insanı.
 
 Şu Jön Türk’ün hatası, bilmedi o bizdeki din hayatın esası. Millet ve İslâmiyet ayrı ayrı zannetti.
 Medeniyet müstemir, müstevli vehmeyledi. Saadet-i hayatı içinde görüyordu. Şimdi zaman gösterdi,
-Medeniyet sistemi [^Hâşiye12] bozuktu hem muzırdı, tecrübe-i kat’iye bize bunu gösterdi.
+Medeniyet sistemi [^hâşiye12] bozuktu hem muzırdı, tecrübe-i kat’iye bize bunu gösterdi.
 Din hayatın hayatı hem nuru hem esası. İhya-yı din ile olur şu milletin ihyası. İslâm bunu anladı.
 Başka dinin aksine, dinimize temessük derecesi nisbeten milletin terakkisi. İhmali nisbetinde idi
 Milletin tedennisi. Tarihî bir hakikat, ondan olmuş tenasi.
@@ -957,7 +957,7 @@ Aslî vazifesinde onu müşevveş etmek, tek bir kuruş yerine on bir kuruşu ve
 
 ## Zaika telgrafçıdır, telziz ile baştan çıkarma
 
-[^Hâşiye13] Rububiyet-i İlah hikmet ve inayeti, ağızla hem burunla iki merkezi teşkil eylemiştir, içinde hudut karakolu, hem
+[^hâşiye13] Rububiyet-i İlah hikmet ve inayeti, ağızla hem burunla iki merkezi teşkil eylemiştir, içinde hudut karakolu, hem
 
 Muhbirleri de koymuş. Şu âlem-i sağirde damarları telefon, âsabları telgraf hükmüne vaz’eylemiş. Şâmme telefonu, hem
 
@@ -999,7 +999,7 @@ Bakarsan kâinata, daire-i fünunun daire-i cehil olur. Bîçare hakikatler, kı
 
 ## Böyle zamanda tereffühte izn-i Şer’î bizi muhtar bırakmaz
 
-Lezaiz çağırdıkça “Sanki yedim.” demeli. Sanki yedim düstur eden, bir mescidi yemedi. [^Hâşiye14]
+Lezaiz çağırdıkça “Sanki yedim.” demeli. Sanki yedim düstur eden, bir mescidi yemedi. [^hâşiye14]
 
 Eskide ekser İslâm filcümle aç değildi. Tena’uma ihtiyar bir derece var idi.
 
@@ -1123,14 +1123,14 @@ Dalalet-i fikrîdir, zulümat-ı kalbîdir, israf-ı cesedîdir.
 
 <p class="arabic" dir="rtl">اِذَا تَاَنَّثَ الرِّجَالُ السُّفَهَاءُ بِالْهَوَسَاتِ § اِذًا تَرَجَّلَ النِّسَاءُ النَّاشِزَاتُ بِالْوَقَاحَاتِ</p>
 
-[^Hâşiye15]
+[^hâşiye15]
 
 Mimsiz medeniyet, taife-i nisayı yuvalardan uçurmuş, hürmetleri de kırmış, mebzul metaı yapmış. Şer’-i İslâm onları
 Rahmeten davet eder eski yuvalarına. Hürmetleri orada, rahatları evlerde, hayat-ı ailede. Temizlik ziynetleri.
 Haşmetleri, hüsn-ü hulk; lütf-u cemali, ismet; hüsn-ü kemali, şefkat; eğlencesi, evladı. Bunca esbab-ı ifsad, demir-sebat kararı
 Lâzımdır tâ dayansın. Bir meclis-i ihvanda güzel karı girdikçe riya ile rekabet, hased ile hodgâmlık debretir damarları!
 Yatmış olan hevesat, birdenbire uyanır. Taife-i nisada serbestî inkişafı, sebep olmuş beşerde ahlâk-ı seyyienin birdenbire inkişafı.
-Şu medeni beşerin hırçınlaşmış ruhunda, şu suretler denilen küçük cenazelerin, mütebessim meyyitlerin rolleri pek azîmdir hem müthiştir tesiri. [^Hâşiye16]
+Şu medeni beşerin hırçınlaşmış ruhunda, şu suretler denilen küçük cenazelerin, mütebessim meyyitlerin rolleri pek azîmdir hem müthiştir tesiri. [^hâşiye16]
 Memnû heykel, suretler: Ya zulm-ü mütehaccir ya mütecessid riya ya müncemid hevestir. Ya tılsımdır, celbeder o habîs ervahları.
 
 ***
@@ -1209,7 +1209,7 @@ Hem de görür rızkını. Ger insan kadar büyüse havassı hayret-feza, hayat�
 
 ## Maddiyyunluk, bir taun-u manevîdir
 
-Maddiyyunluk bir taun-u manevî, beşere de tutturdu şu müthiş bir sıtmayı. [^Hâşiye17] Hem de âni çarptırdı bir gazab-ı İlahî. Telkin hem de taklit,
+Maddiyyunluk bir taun-u manevî, beşere de tutturdu şu müthiş bir sıtmayı. [^hâşiye17] Hem de âni çarptırdı bir gazab-ı İlahî. Telkin hem de taklit,
 
 Tenkide kabiliyet-i tevessüü nisbeten, o taun da ediyor tevessü ve intişar. Telkini fenden almış, medeniyetten taklit.
 
@@ -1237,7 +1237,7 @@ Dem refahı, nazar-ı şer’îde yoktur; zira harbî bir gâvur hürmetsiz, ism
 
 ***
 
-## Kur’an, kendi kendini himaye edip hâkimiyetini idame eder [^Hâşiye18]
+## Kur’an, kendi kendini himaye edip hâkimiyetini idame eder [^hâşiye18]
 
 Bir zatı gördüm ki yeis ile müptela, bedbinlikle hasta idi. Dedi: Ulema azaldı, kemiyet keyfiyeti. Korkarız dinimiz sönecek de bir zaman
 
@@ -1293,7 +1293,7 @@ Kalp ile vicdan, mahall-i iman. Hads ile ilham, delil-i iman. Bir hiss-i sâdis,
 
 Zaruriyat-ı dinî, müsellemat-ı şer’î; kulûblerde hasıldır, ihtar ile huzuru, tezkir ile şuuru.
 
-Matlub da hasıl olur. İbare-i Arabî [^Hâşiye19] daha ulvi ediyor tezkiri hem ihtarı.
+Matlub da hasıl olur. İbare-i Arabî [^hâşiye19] daha ulvi ediyor tezkiri hem ihtarı.
 
 Onun için cumada hutbe-i Arabiye; zaruriyatı ihtar, müsellematı tezkir, maalkifaye olur onun tarz-ı tezkiri.
 
@@ -1723,40 +1723,40 @@ Buna dair şahidim:
 
 ***
 
-[^Hâşiye1]: \* Hattâ tarihi <span class="arabic" dir="rtl">نَجْمُ اَدَبٍ وُلِدَ لِهِلَالَىْ رَمَضَانَ</span> çıkmış. Yani “Ramazanın iki hilâlinden doğmuş bir edep yıldızıdır.” (Bin üç yüz otuz yedi eder.)
+[^hâşiye1]: \* Hattâ tarihi <span class="arabic" dir="rtl">نَجْمُ اَدَبٍ وُلِدَ لِهِلَالَىْ رَمَضَانَ</span> çıkmış. Yani “Ramazanın iki hilâlinden doğmuş bir edep yıldızıdır.” (Bin üç yüz otuz yedi eder.)
 
-[^Hâşiye2]: \** Bu kıta, onun imzasıdır.
+[^hâşiye2]: \** Bu kıta, onun imzasıdır.
 
-[^Hâşiye3]: \*** Her senede iki defa cisim tazelendiği için iki Said ölmüş demektir. Hem bu sene Said yetmiş dokuz senesindedir. Her bir senede bir Said ölmüş demektir ki bu tarihe kadar Said yaşayacak.
+[^hâşiye3]: \*** Her senede iki defa cisim tazelendiği için iki Said ölmüş demektir. Hem bu sene Said yetmiş dokuz senesindedir. Her bir senede bir Said ölmüş demektir ki bu tarihe kadar Said yaşayacak.
 
-[^Hâşiye4]: \**** Yirmi sene sonraki bu şimdiki hali, hiss-i kable’l-vuku ile hissetmiş.
+[^hâşiye4]: \**** Yirmi sene sonraki bu şimdiki hali, hiss-i kable’l-vuku ile hissetmiş.
 
-[^Hâşiye5]: Hakiki tesirden elini çeksin, icada karışmasın, demektir.
+[^hâşiye5]: Hakiki tesirden elini çeksin, icada karışmasın, demektir.
 
-[^Hâşiye6]: Bu dehşetli Harb-i Umumî neticesindeki vaziyete işaret eder. Belki İkinci Harb-i Umumî’den tam haber verir.
+[^hâşiye6]: Bu dehşetli Harb-i Umumî neticesindeki vaziyete işaret eder. Belki İkinci Harb-i Umumî’den tam haber verir.
 
-[^Hâşiye7]: Bu zamanı tam görmüş gibi bahseder.
+[^hâşiye7]: Bu zamanı tam görmüş gibi bahseder.
 
-[^Hâşiye8]: Bunda da bir işaret-i gaybiye var.
+[^hâşiye8]: Bunda da bir işaret-i gaybiye var.
 
-[^Hâşiye9]: Kuvvetli bir işaret-i gaybiyedir. Evet beşer dinlemedi, İkinci Harb-i Umumî ile bu dehşetli silleyi de yedi.
+[^hâşiye9]: Kuvvetli bir işaret-i gaybiyedir. Evet beşer dinlemedi, İkinci Harb-i Umumî ile bu dehşetli silleyi de yedi.
 
-[^Hâşiye10]: Demek, daha dehşetli kusacak. Evet, iki harb-i umumî ile öyle kustu ki hava, deniz, kara yüzlerini bulandırdı, kanla lekeledi.
+[^hâşiye10]: Demek, daha dehşetli kusacak. Evet, iki harb-i umumî ile öyle kustu ki hava, deniz, kara yüzlerini bulandırdı, kanla lekeledi.
 
-[^Hâşiye11]: Bunda da bir ince işaret var.
+[^hâşiye11]: Bunda da bir ince işaret var.
 
-[^Hâşiye12]: Tam bir işaret-i gaybiyedir. Sekeratta olan dinsiz, zalim medeniyete bakıyor.
+[^hâşiye12]: Tam bir işaret-i gaybiyedir. Sekeratta olan dinsiz, zalim medeniyete bakıyor.
 
-[^Hâşiye13]: İktisat Risalesi’nin çekirdeğidir. Belki on sahife olan İktisat Risalesi’ni kable’l-vücud on satırda okumuş.
+[^hâşiye13]: İktisat Risalesi’nin çekirdeğidir. Belki on sahife olan İktisat Risalesi’ni kable’l-vücud on satırda okumuş.
 
-[^Hâşiye14]: İstanbul’da Sanki Yedim namında bir mescid var. “Sanki yedim.” diyen adam, hevesinden kurtardığı paralarla bina etmiş.
+[^hâşiye14]: İstanbul’da Sanki Yedim namında bir mescid var. “Sanki yedim.” diyen adam, hevesinden kurtardığı paralarla bina etmiş.
 
-[^Hâşiye15]: Tesettür Risalesi’nin esasıdır. Yirmi sene sonra müellifinin mahkûmiyetine sebep gösteren bir mahkeme, kendini ve hâkimlerini ebedî mahkûm ve mahcup eylemiş.
+[^hâşiye15]: Tesettür Risalesi’nin esasıdır. Yirmi sene sonra müellifinin mahkûmiyetine sebep gösteren bir mahkeme, kendini ve hâkimlerini ebedî mahkûm ve mahcup eylemiş.
 
-[^Hâşiye16]: Nasıl meyyite bir karıya nefsanî nazarla bakmak, nefsin dehşetle alçaklığını gösterir. Öyle de rahmete muhtaç bir bîçare meyyitenin güzel tasvirine müştehiyane bir nazarla bakmak, ruhun hissiyat-ı ulviyesini söndürür.
+[^hâşiye16]: Nasıl meyyite bir karıya nefsanî nazarla bakmak, nefsin dehşetle alçaklığını gösterir. Öyle de rahmete muhtaç bir bîçare meyyitenin güzel tasvirine müştehiyane bir nazarla bakmak, ruhun hissiyat-ı ulviyesini söndürür.
 
-[^Hâşiye17]: Eski Harb-i Umumî’ye işaret eder.
+[^hâşiye17]: Eski Harb-i Umumî’ye işaret eder.
 
-[^Hâşiye18]: Otuz beş sene evvel yazılan bu makam, bu sene yazılmış tarzını gösteriyor. Demek, ramazan bereketiyle yazdırılmış bir nevi ihbar-ı gaybîdir.
+[^hâşiye18]: Otuz beş sene evvel yazılan bu makam, bu sene yazılmış tarzını gösteriyor. Demek, ramazan bereketiyle yazdırılmış bir nevi ihbar-ı gaybîdir.
 
-[^Hâşiye19]: On sene sonra gelen bir hâdiseyi hissetmiş, mukabeleye çalışmış.
+[^hâşiye19]: On sene sonra gelen bir hâdiseyi hissetmiş, mukabeleye çalışmış.

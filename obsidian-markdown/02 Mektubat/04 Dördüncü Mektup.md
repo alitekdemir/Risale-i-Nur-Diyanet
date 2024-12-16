@@ -34,7 +34,7 @@ Sonra senin yazdığın: “Bak kitab-ı kâinatın safha-i rengînine, ilâ âh
 *Şu zeminin yüzünü yaldızlayan*
 *Nâzenin mu’cizatı çün melek seyranına.*
 *Şu semanın arza bakan, cennete dikkat eden*
-*Binler müdakkik gözleriz biz.* [^Hâşiye1]
+*Binler müdakkik gözleriz biz.* [^hâşiye1]
 *Tûba-i hilkatten semavat şıkkına*
 *Hep Kehkeşan ağsanına*
 *Bir Cemil-i Zülcelal’in dest-i hikmetiyle takılmış*
@@ -59,5 +59,5 @@ Sonra senin yazdığın: “Bak kitab-ı kâinatın safha-i rengînine, ilâ âh
 
 ***
 
-[^Hâşiye1]: Yani cennet çiçeklerinin fidanlık ve mezraacığı olan zeminin yüzünde hadsiz mu’cizat-ı kudret teşhir edildiğinden, semavat âlemindeki melaikeler o mu’cizatı ve o hârikaları temaşa ettikleri gibi; ecram-ı semaviyenin gözleri hükmünde olan yıldızlar dahi güya melaikeler gibi zemin yüzündeki nâzenin masnuatı gördükçe cennet âlemine bakıyorlar ve o muvakkat hârikaları bâki bir surette cennette dahi temaşa ediyorlar gibi bir zemine, bir cennete bakıyorlar. Yani o iki âleme nezaretleri var, demektir.
+[^hâşiye1]: Yani cennet çiçeklerinin fidanlık ve mezraacığı olan zeminin yüzünde hadsiz mu’cizat-ı kudret teşhir edildiğinden, semavat âlemindeki melaikeler o mu’cizatı ve o hârikaları temaşa ettikleri gibi; ecram-ı semaviyenin gözleri hükmünde olan yıldızlar dahi güya melaikeler gibi zemin yüzündeki nâzenin masnuatı gördükçe cennet âlemine bakıyorlar ve o muvakkat hârikaları bâki bir surette cennette dahi temaşa ediyorlar gibi bir zemine, bir cennete bakıyorlar. Yani o iki âleme nezaretleri var, demektir.
 

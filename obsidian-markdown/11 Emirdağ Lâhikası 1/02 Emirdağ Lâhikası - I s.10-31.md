@@ -58,7 +58,7 @@ Gerçi bu çeşit ikramlar yazılmasaydı daha münasipti fakat bu kadar hadsiz 
 ***
 
 ##### Ankara Ehl-i Vukufunun İttifakla Verdikleri Raporun Suretidir
-Dolu bulunan cem’an beş sandık kitap, tarafımızdan açılarak okundu. [^Hâşiye1] Said Nursî tarafından telif edilen basılmış, basılmamış Risale-i Nur eczaları ve Risale-i Nur’a ekli Said Nursî ile bazı şakirdleri tarafından yazılmış kısmen ilmî ve dinî mektuplarla, şakirdlerin birbiriyle ve Said Nursî ile âdi muhabere mektupları ve klişeler, inceleme mevzuu salahiyetimiz dâhilinde görülerek incelendi. Bunların mahiyetini belirtmek için bu risale ve mektupları iki nev’e ayırmak gerektir:
+Dolu bulunan cem’an beş sandık kitap, tarafımızdan açılarak okundu. [^hâşiye1] Said Nursî tarafından telif edilen basılmış, basılmamış Risale-i Nur eczaları ve Risale-i Nur’a ekli Said Nursî ile bazı şakirdleri tarafından yazılmış kısmen ilmî ve dinî mektuplarla, şakirdlerin birbiriyle ve Said Nursî ile âdi muhabere mektupları ve klişeler, inceleme mevzuu salahiyetimiz dâhilinde görülerek incelendi. Bunların mahiyetini belirtmek için bu risale ve mektupları iki nev’e ayırmak gerektir:
 
 Risaleler: Bir âyetin tefsiri ve bir hadîsin şerhi maksadıyla yazılmış olanlarıyla; din, iman, Allah, Peygamber, Kur’an ve âhiret akidelerini ve ibarelerini açıkça anlatmak için temsillerle yazılmış ilmî görüşleri ve ihtiyarlarla gençlere hitap eden ahlâkî öğütler ve kısmen hayat tecrübesinden alınmış ibretli vak’alar ve esnafa ait faydalı menkıbeleri ihtiva eden, mevcudun yüzde doksanını teşkil eden risalelerdir ki –bunlarda– bütün bu risalelerde müellif hem samimi hem hasbî ve hem de ilim yolundan ve dinî esaslardan hiç ayrılmamıştır. Bunlarda dini âlet etmek ve cemiyet teşkil etmekle emniyeti ihlâl hareketinin bulunmadığı sarîhtir.
 
@@ -122,7 +122,7 @@ Evet, on dokuz sene bu gurbette yalnız iki yüz banknot ile şiddetli bir iktis
 
 Ben de derim: On adamın benden çekinmeleri yerine, on binler belki yüz binler Müslüman, Risale-i Nur’un dersine hiçbir maniye ehemmiyet vermeyerek devam ediyorlar. Hem bu memlekette hem hariç âlem-i İslâm’da çok kuvvetli hakikatleri ve çok kıymetli faydaları için tam bir revaç ile intişar eden Risale-i Nur’un binler nüshalarından her biri, benim yerimde benden mükemmel konuşuyor. Benim susmamla, onlar susmaz ve susturulmazlar.
 
-Hem madem mahkemece ispat edilmiş ki yirmi seneden beri siyasetle alâkamı kestiğim ve hiçbir emare aksine zuhur etmediği halde, elbette benimle görüşenden tevehhüm etmek pek manasızdır. [^Hâşiye2]
+Hem madem mahkemece ispat edilmiş ki yirmi seneden beri siyasetle alâkamı kestiğim ve hiçbir emare aksine zuhur etmediği halde, elbette benimle görüşenden tevehhüm etmek pek manasızdır. [^hâşiye2]
 
 ***
 
@@ -270,9 +270,9 @@ Said Nursî
 
 ***
 
-[^Hâşiye1]: Ehl-i vukuf raporundaki tenkit kısmı, mahkemede kat’î cevapları verildiğinden ve müdafaatımın âhirinde yazıldığından, burada yazılmadı. Zaten o tenkitler, üç dört risalede yalnız on cüz’î meseledir. Hem siyasî değil, ilmîdirler. Hem o itirazlar, sehiv ve hata olduğu, senetlerle mahkemede ispat edilmiştir.
+[^hâşiye1]: Ehl-i vukuf raporundaki tenkit kısmı, mahkemede kat’î cevapları verildiğinden ve müdafaatımın âhirinde yazıldığından, burada yazılmadı. Zaten o tenkitler, üç dört risalede yalnız on cüz’î meseledir. Hem siyasî değil, ilmîdirler. Hem o itirazlar, sehiv ve hata olduğu, senetlerle mahkemede ispat edilmiştir.
 
-[^Hâşiye2]: Garib ve acib bir hâdise: Bu ayda bir gün avluya indim, baktım. Gelen kar üstünde, Risale-i Nur’un eczalarında tevafukatına işaret eden boyalar, kırmızı-sarı mürekkebler misillü, o karın üstünde serpilmiş katreler ve noktalar var. Çok hayret ettim. Sair yerlere baktım, avlumdan başka yerlerde yoktu. Endişe ettim, kalben dedim: Risale-i Nur umum memleketle, belki Kur’an hesabına küre-i arzla o derece alâkadardır ki onun başına gelen beladan, musibetten bulutlar dahi kan ağlıyorlar. Bir iki adam çağırdım, onlar da hayret ettiler. Benim endişe ve telaşımı gören hane sahibinin biraderzadesi Mehmed Efendi zannetti ki ben karın çokluğundan yolu kapamasından telaş ediyorum. Ben yukarı çıktıktan sonra, yolu açmak için o karı iki tarafa atıp o işaretli manidar kırmızı-sarı hâdise-i cevviyeyi kapatmıştı. Ona dedim: “Kapatmasaydın daha iyi idi.” Aynı günde, Risale-i Nur aleyhinde üç hâdise zuhur eyledi:
+[^hâşiye2]: Garib ve acib bir hâdise: Bu ayda bir gün avluya indim, baktım. Gelen kar üstünde, Risale-i Nur’un eczalarında tevafukatına işaret eden boyalar, kırmızı-sarı mürekkebler misillü, o karın üstünde serpilmiş katreler ve noktalar var. Çok hayret ettim. Sair yerlere baktım, avlumdan başka yerlerde yoktu. Endişe ettim, kalben dedim: Risale-i Nur umum memleketle, belki Kur’an hesabına küre-i arzla o derece alâkadardır ki onun başına gelen beladan, musibetten bulutlar dahi kan ağlıyorlar. Bir iki adam çağırdım, onlar da hayret ettiler. Benim endişe ve telaşımı gören hane sahibinin biraderzadesi Mehmed Efendi zannetti ki ben karın çokluğundan yolu kapamasından telaş ediyorum. Ben yukarı çıktıktan sonra, yolu açmak için o karı iki tarafa atıp o işaretli manidar kırmızı-sarı hâdise-i cevviyeyi kapatmıştı. Ona dedim: “Kapatmasaydın daha iyi idi.” Aynı günde, Risale-i Nur aleyhinde üç hâdise zuhur eyledi:
 
 **Birincisi:** Afyon Adliyesiyle buradaki zabıta çavuşluğudur. Kitaplarımın iadesine dair müracaatıma mukabil “Daha temyizden tasdik gelmediğinden karışmayız.” diye o cihetten benim ümidimi kırdı.
 

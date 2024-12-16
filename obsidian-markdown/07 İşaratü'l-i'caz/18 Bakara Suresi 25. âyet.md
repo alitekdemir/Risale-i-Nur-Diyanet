@@ -97,7 +97,7 @@ Cevap: Yemek, içmek ve nikâhın faydaları, yalnız bekaya ve tenasüle münha
 
 Sual: Bu âlemde lezzet, elemin def’inden hasıl olur. Halbuki âhirette elem yoktur?
 
-Cevap: Elemin def’i, lezzetin sebeplerinden biridir. Yoksa lezzet, ona münhasır değildir. Ve keza âlem-i ebedînin bu âleme benzetilmesi, kıyas-ı maalfârıktır. Yani aralarında çok farklar bulunduğundan birbirine benzemez. Cennet ile Horhor Bahçesinin [^Hâşiye1] arasında ne nisbet varsa cennetin lezzetleriyle dünyanın lezzetleri arasında da aynı o nisbet vardır. Cennetin Horhor Bahçesi’nden dereceleri ne kadar çok yüksek ise uhrevî lezzetler de dünya lezzetlerine göre öyledir. Her iki âlem arasında bu büyük tefavüte, İbn-i Abbas <span class="arabic" dir="rtl">لَيْسَ فِى الْجَنَّةِ اِلَّا اَسْمَائُهَا</span> cümlesiyle işaret etmiştir. Yani “Cennette, dünya meyvelerinin yalnız isimleri vardır.” Yani isimleri birdir fakat lezzetleri ayrıdır.
+Cevap: Elemin def’i, lezzetin sebeplerinden biridir. Yoksa lezzet, ona münhasır değildir. Ve keza âlem-i ebedînin bu âleme benzetilmesi, kıyas-ı maalfârıktır. Yani aralarında çok farklar bulunduğundan birbirine benzemez. Cennet ile Horhor Bahçesinin [^hâşiye1] arasında ne nisbet varsa cennetin lezzetleriyle dünyanın lezzetleri arasında da aynı o nisbet vardır. Cennetin Horhor Bahçesi’nden dereceleri ne kadar çok yüksek ise uhrevî lezzetler de dünya lezzetlerine göre öyledir. Her iki âlem arasında bu büyük tefavüte, İbn-i Abbas <span class="arabic" dir="rtl">لَيْسَ فِى الْجَنَّةِ اِلَّا اَسْمَائُهَا</span> cümlesiyle işaret etmiştir. Yani “Cennette, dünya meyvelerinin yalnız isimleri vardır.” Yani isimleri birdir fakat lezzetleri ayrıdır.
 
 Cennette lezzetin devamı meselesi ise: Evet, lezzetin hakiki lezzet olması, zeval görmeyip devam etmesindendir. Zira elemin zevali lezzet olduğu gibi lezzetin zevali de elemdir hattâ zevalinin tasavvuru bile elemdir. Evet, bütün mecazî âşıkların enînleri, bağırıp çağırmaları, bu kısım elemdendir ve bütün divanlarıyla yaptıkları ağlamalar, vaveylâlar, hep mahbubların firak ve zevallerinin tasavvurundan neş’et eden elemdendir. Evet, pek çok muvakkat lezzetler var ki zevalleri daimî elemleri intac ettiği gibi; çok elemlerin zevali de leziz lezzetlere bâis olur. Lezzet ve nimet ise devam etmek şartıyla lezzet ve nimet sayılabilir.
 
@@ -221,5 +221,5 @@ Ve keza <span class="arabic" dir="rtl">مُطَهَّرَةٌ</span> kelimesi m�
 
 ***
 
-[^Hâşiye1]: Horhor, Van’da müellifin medresesinin adıdır.
+[^hâşiye1]: Horhor, Van’da müellifin medresesinin adıdır.
 

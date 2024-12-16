@@ -56,7 +56,7 @@ cümlesi, namaz tesbihatında okunurken inkişaf eden latîf bir nükteyi uzakta
 
 Gördüm ki gece âlemi, dünyanın yeni açılmış bir menzili gibidir. Yatsı namazında o âleme girdim. Hayalin fevkalâde inbisatından ve mahiyet-i insaniyenin bütün dünya ile alâkadarlığından, koca dünyayı o gecede bir menzil gibi gördüm. Zîhayatlar ve insanlar o derece küçüldüler, görünmeyecek derecede küçüldüler. Yalnız o menzili şenlendiren ve ünsiyetlendiren ve nurlandıran tek şahsiyet-i maneviye-i Muhammediyeyi (asm) hayalen müşahede ettim.
 
-Bir adam yeni bir menzile girdiği zaman, menzildeki zatlara selâm ettiği gibi “Binler selâm [^Hâşiye1] sana yâ Resulallah!” demeye bir arzuyu içimde coşar buldum. Güya bütün ins ve cinnin adedince selâm ediyorum, yani sana tecdid-i biat, memuriyetini kabul ve getirdiğin kanunlarına itaat ve evamirine teslim ve taarruzumuzdan selâmet bulacağını selâm ile ifade edip; benim dünyamın eczaları, zîşuur mahlukları olan umum cin ve insi konuşturup, her birerlerinin namına bir selâmı, mezkûr manalarla takdim ettim.
+Bir adam yeni bir menzile girdiği zaman, menzildeki zatlara selâm ettiği gibi “Binler selâm [^hâşiye1] sana yâ Resulallah!” demeye bir arzuyu içimde coşar buldum. Güya bütün ins ve cinnin adedince selâm ediyorum, yani sana tecdid-i biat, memuriyetini kabul ve getirdiğin kanunlarına itaat ve evamirine teslim ve taarruzumuzdan selâmet bulacağını selâm ile ifade edip; benim dünyamın eczaları, zîşuur mahlukları olan umum cin ve insi konuşturup, her birerlerinin namına bir selâmı, mezkûr manalarla takdim ettim.
 
 Hem o getirdiği nur ve hediye ile benim bu dünyamı tenvir ettiği gibi herkesin bu dünyadaki dünyalarını tenvir ediyor, nimetlendiriyor diye o hediyesine şâkirane bir mukabele nevinden “Binler salavat sana insin!” dedim. Yani senin bu iyiliğine karşı biz mukabele edemiyoruz, belki Hâlık’ımızın hazine-i rahmetinden gelen ve semavat ehlinin adedince rahmetler sana gelmesini niyaz ile şükranımızı izhar ediyoruz, manasını hayalen hissettim.
 
@@ -74,7 +74,7 @@ Aziz kardeşim!
 
 Vahdetü’l-vücuda dair bir parça izahat istiyorsunuz. Bu meseleye dair Otuz Birinci Mektup’un bir Lem’a’sında, Hazret-i Muhyiddin’in bu meseledeki fikrine karşı gayet kuvvetli ve izahlı bir cevap vardır. Şimdilik bu kadar deriz ki:
 
-Bu mesele-i vahdetü’l-vücudu şimdiki insanlara telkin etmek, ciddi zarar verir. Nasıl ki teşbihat ve temsiller, havassın elinden avamın eline ve ilmin elinden cehlin eline girse hakikat telakki edilir. [^Hâşiye2] Öyle de vahdetü’l-vücud meselesi gibi hakaik-i ulviye, ehl-i gaflet ve esbab içine dalan avamlara girse tabiat telakki edilir ve üç mühim zarar verir:
+Bu mesele-i vahdetü’l-vücudu şimdiki insanlara telkin etmek, ciddi zarar verir. Nasıl ki teşbihat ve temsiller, havassın elinden avamın eline ve ilmin elinden cehlin eline girse hakikat telakki edilir. [^hâşiye2] Öyle de vahdetü’l-vücud meselesi gibi hakaik-i ulviye, ehl-i gaflet ve esbab içine dalan avamlara girse tabiat telakki edilir ve üç mühim zarar verir:
 
 **Birincisi:** Vahdetü’l-vücudun meşrebi, Cenab-ı Hak hesabına kâinatı âdeta inkâr etmek iken, avama girdikçe; gafil avamlara, hususan maddiyyun fikirleriyle âlûde olan fikirlere girdikçe, kâinat ve maddiyat hesabına uluhiyeti inkâr yoluna gider.
 
@@ -121,7 +121,7 @@ Bunun içindir ki bayramlarda gaflet istila edip, gayr-ı meşru daireye sapmama
 
 <p class="arabic" dir="rtl">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ<br/>اِنَّ النَّفْسَ لَاَمَّارَةٌ بِالسُّٓوءِ</p>
 
-Meali: [^Hâşiye3] “Nefis daima kötü şeylere sevk eder.” âyetinin hem de <span class="arabic" dir="rtl">اَعْدٰى عَدُوِّكَ نَفْسُكَ الَّتٖى بَيْنَ جَنْبَيْكَ</span> mana-yı şerifi “Senin en zararlı düşmanın nefsindir.” hadîsinin bir nüktesidir.
+Meali: [^hâşiye3] “Nefis daima kötü şeylere sevk eder.” âyetinin hem de <span class="arabic" dir="rtl">اَعْدٰى عَدُوِّكَ نَفْسُكَ الَّتٖى بَيْنَ جَنْبَيْكَ</span> mana-yı şerifi “Senin en zararlı düşmanın nefsindir.” hadîsinin bir nüktesidir.
 
 Tezkiyesiz nefs-i emmaresi bulunmak şartıyla kendi nefsini beğenen ve seven adam, başkasını sevmez. Eğer zahirî sevse de samimi sevemez, belki ondaki menfaatini ve lezzetini sever. Daima kendini beğendirmeye ve sevdirmeye çalışır. Ve kusuru nefsine almaz belki avukat gibi kendini müdafaa ve tebrie eyler. Mübalağalar ile belki yalanlarla nefsini medih ve tenzih ederek âdeta takdis eder ve derecesine göre <span class="arabic" dir="rtl">مَنِ اتَّخَذَ اِلٰهَهُ هَوٰيهُ</span> âyetinin bir tokadını yer. Temeddühü ve sevdirmesi ise aksü’l-amel ile istiskali celbeder, soğuk düşürtür.
 
@@ -144,7 +144,7 @@ Birbirinden gayet uzak iki adedin sırr-ı münasebeti şudur ki: Katl ve küfü
 ##### Manidar Bir Tevafuk-u Latîfe
 Risale-i Nur şakirdlerini ittiham ettikleri ve cezalarını istedikleri 163’üncü maddesine, Risale-i Nur müellifinin medresesine, yüz elli bin lira verilmesine dair lâyihanın, 200 mebustan 163 mebusun adedine tevafuk edip, manen o tevafuk diyor ki: Hükûmet-i cumhuriyenin 163 mebusun takdirkârane imzaları, 163’üncü madde-i kanuniyenin hükmünü, onun hakkında iptal ediyor.
 
-Hem yine manidar tevafukat-ı latîfedendir ki Risale-i Nur’un 128 parçası, 115 parça kitap ediyor. Risale-i Nur’un şakirdlerinin ve müellifinin mebde-i tevkifi olan 27 Nisan 1935 tarihi ile mahkemenin karar ve hüküm tarihi olan 19 Ağustos 1935 tarihi olmasına nazaran, 115 gün olup Risale-i Nur kitapları adedine tevafuk etmekle beraber, istintak edilen 115 suçlu gösterilen eşhasın da adedine tam tamına tevafuk ettiği gibi gösteriyor ki: Risale-i Nur müellifinin ve şakirdlerinin başına gelen musibet, bir dest-i inayetle tanzim ediliyor. [^Hâşiye4]
+Hem yine manidar tevafukat-ı latîfedendir ki Risale-i Nur’un 128 parçası, 115 parça kitap ediyor. Risale-i Nur’un şakirdlerinin ve müellifinin mebde-i tevkifi olan 27 Nisan 1935 tarihi ile mahkemenin karar ve hüküm tarihi olan 19 Ağustos 1935 tarihi olmasına nazaran, 115 gün olup Risale-i Nur kitapları adedine tevafuk etmekle beraber, istintak edilen 115 suçlu gösterilen eşhasın da adedine tam tamına tevafuk ettiği gibi gösteriyor ki: Risale-i Nur müellifinin ve şakirdlerinin başına gelen musibet, bir dest-i inayetle tanzim ediliyor. [^hâşiye4]
 
 ***
 
@@ -269,11 +269,11 @@ Ve hakaik-i imaniye ve Kur’aniye ve hâdisat-ı Muhammediye (asm) ise ne kadar
 
 ***
 
-[^Hâşiye1]: Zat-ı Ahmediye’ye (asm) gelen rahmet, umum ümmetin ebedî zamandaki ihtiyacatına bakıyor. Onun için gayr-ı mütenahî salât yerindedir. Acaba dünya gibi koca, büyük ve gafletle karanlıklı, vahşetli ve hâlî bir haneye birisi girse ne kadar tedehhüş, tevahhuş, telaş eder ve birden o haneyi tenvir ederek enis, munis, habib, mahbub bir Yaver-i Ekrem sadırda görünüp, o hanenin Mâlik-i Rahîm-i Kerîm’ini o hanenin her eşyasıyla tarif edip tanıttırsa ne kadar sevinç, ünsiyet, sürur, ışık, ferah verdiğini kıyas ediniz. Zat-ı Risalet’teki salavatın kıymetini ve lezzetini takdir ediniz.
+[^hâşiye1]: Zat-ı Ahmediye’ye (asm) gelen rahmet, umum ümmetin ebedî zamandaki ihtiyacatına bakıyor. Onun için gayr-ı mütenahî salât yerindedir. Acaba dünya gibi koca, büyük ve gafletle karanlıklı, vahşetli ve hâlî bir haneye birisi girse ne kadar tedehhüş, tevahhuş, telaş eder ve birden o haneyi tenvir ederek enis, munis, habib, mahbub bir Yaver-i Ekrem sadırda görünüp, o hanenin Mâlik-i Rahîm-i Kerîm’ini o hanenin her eşyasıyla tarif edip tanıttırsa ne kadar sevinç, ünsiyet, sürur, ışık, ferah verdiğini kıyas ediniz. Zat-ı Risalet’teki salavatın kıymetini ve lezzetini takdir ediniz.
 
-[^Hâşiye2]: Nasıl ki iki melaike, teşbihin sırrı münasebetiyle Sevr ve Hut tesmiye edilen, avamca koca bir öküz ve koca bir balık telakki edilmiştir.
+[^hâşiye2]: Nasıl ki iki melaike, teşbihin sırrı münasebetiyle Sevr ve Hut tesmiye edilen, avamca koca bir öküz ve koca bir balık telakki edilmiştir.
 
-[^Hâşiye3]: Bu parçanın da herkese faydası var.
+[^hâşiye3]: Bu parçanın da herkese faydası var.
 
-[^Hâşiye4]: Cây-ı dikkattir ki Risale-i Nur şakirdlerinin tevkiflerinin bir kısmı 25 Nisan 1935 tarihinde başlamış olup, kararnamede suçlu gösterilen 117 kimse ise de ikisinin ismi mükerrer olmasına nazaran bu suretle şakirdlerin adedi 117 adedine o kısmın tevkifinden hüküm tarihine kadar 117 gün olmakla tevafuk edip evvelki tevafukata bir letafet daha katmıştır.
+[^hâşiye4]: Cây-ı dikkattir ki Risale-i Nur şakirdlerinin tevkiflerinin bir kısmı 25 Nisan 1935 tarihinde başlamış olup, kararnamede suçlu gösterilen 117 kimse ise de ikisinin ismi mükerrer olmasına nazaran bu suretle şakirdlerin adedi 117 adedine o kısmın tevkifinden hüküm tarihine kadar 117 gün olmakla tevafuk edip evvelki tevafukata bir letafet daha katmıştır.
 

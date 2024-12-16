@@ -62,7 +62,7 @@ Sonra Üstadımın tarihçe-i hayatını düşündüm. Baktım, dört mühim nok
 
 Hem Hazret-i Mevlana Hâlid neslen Osmanlı olduğu ve sünnet-i seniyeye bütün kuvvetiyle çalıştığı gibi üstadım da Kur’an-ı Hakîm’e hizmet noktasında, meşreben Hazret-i Osman-ı Zinnureyn’in arkasından gidip Hazret-i Mevlana gibi Risale-i Nur eczalarıyla –bütün kuvvetiyle– sünnet-i seniyenin ihyasına çalıştı.
 
-İşte bu dört noktadaki tevafukat, tam yüz sene fâsıla ile Risale-i Nur’un takviye-i din hususundaki tesiratı; Hazret-i Mevlana Hâlid’in tarîk-ı Nakşiye vasıtasıyla hizmeti gibi azîm görünüyor. [^Hâşiye1]
+İşte bu dört noktadaki tevafukat, tam yüz sene fâsıla ile Risale-i Nur’un takviye-i din hususundaki tesiratı; Hazret-i Mevlana Hâlid’in tarîk-ı Nakşiye vasıtasıyla hizmeti gibi azîm görünüyor. [^hâşiye1]
 
 Üstadım kendine ait medh ü senayı kabul etmiyor. Fakat Risale-i Nur Kur’an’a ait olup medh ü sena Kur’an’ın esrarına aittir. Yalnız Üstadımla Hazret-i Mevlana’nın birkaç farkı var:
 
@@ -142,9 +142,9 @@ Ehl-i iman –bilhassa şimdiki Risale-i Nur’un zâkir ve muvahhid şakirdleri
 
 O hal, o vaziyet el-ân devam ediyordu. Hattâ intihar derecesine kadar gelmişti. Dedim: “Aman ya Rabbi! Bundaki hikmet nedir?” ve o risaleyi ertesi güne ta’lik ettim.
 
-O akşam yani cumartesi gecesi, âlem-i menamda: Üstadım Atabey’in Zergendere Mescidi’nde imiş. Sabah namazına gidiyormuşum, tesadüfî bir karakol kumandanı bana dedi ki: “Nereye gidiyorsun?” Camiye, dedim. Beni takiben camiye o da girdi. Gördüm ki Üstadım bir karyola üzerindedir. Evvelki cemaatimizden hariç, içeride beş altı daha jandarma bulunuyor. Cemaat <span class="arabic" dir="rtl">لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهُ لَا شَرٖيكَ لَهُ … الخ</span> devam ediyorlar. O beraber girdiğimiz kumandan ise cemaatimize karşı “Aman siz ne yapıyorsunuz?” diyerek kendisinin leîmliğini ispat edip mağruriyetinden içeriye tükürdü. O anda Üstadım o dinsizin yüzüne tükürüp “Git yanımızdan pis!” dedi, tard etti. Hemen o zaman elimi sağ taraftaki deliğe uzattığımda bir kasatura geldi. Hiç meslek ve meşrebimize uymayan, her cihetle muhalif hareket eden Hasan isminde bir adam o kasaturayı alıp ve ucuyla o dinsizi göstererek “Aman efendim, aman hocam siz yalnız emir buyurunuz, bu dinsizin imhasına sebep ben olacağım.” dedi ve aynı zamanda bir sağ omuzuna, bir de sol omuzuna vurdu ve gitti. Bütün bu dinsizler bunu görünce tevehhüme düşüp “Başımıza bela bulduk, bizden hocanın yanına kimse gitmez. Ancak Edhem Çavuş [^Hâşiye2] var, onu gönderelim, bizim için yalvarsın, yakarsın; aman biz hepsinden vazgeçtik.” dediler.
+O akşam yani cumartesi gecesi, âlem-i menamda: Üstadım Atabey’in Zergendere Mescidi’nde imiş. Sabah namazına gidiyormuşum, tesadüfî bir karakol kumandanı bana dedi ki: “Nereye gidiyorsun?” Camiye, dedim. Beni takiben camiye o da girdi. Gördüm ki Üstadım bir karyola üzerindedir. Evvelki cemaatimizden hariç, içeride beş altı daha jandarma bulunuyor. Cemaat <span class="arabic" dir="rtl">لَا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهُ لَا شَرٖيكَ لَهُ … الخ</span> devam ediyorlar. O beraber girdiğimiz kumandan ise cemaatimize karşı “Aman siz ne yapıyorsunuz?” diyerek kendisinin leîmliğini ispat edip mağruriyetinden içeriye tükürdü. O anda Üstadım o dinsizin yüzüne tükürüp “Git yanımızdan pis!” dedi, tard etti. Hemen o zaman elimi sağ taraftaki deliğe uzattığımda bir kasatura geldi. Hiç meslek ve meşrebimize uymayan, her cihetle muhalif hareket eden Hasan isminde bir adam o kasaturayı alıp ve ucuyla o dinsizi göstererek “Aman efendim, aman hocam siz yalnız emir buyurunuz, bu dinsizin imhasına sebep ben olacağım.” dedi ve aynı zamanda bir sağ omuzuna, bir de sol omuzuna vurdu ve gitti. Bütün bu dinsizler bunu görünce tevehhüme düşüp “Başımıza bela bulduk, bizden hocanın yanına kimse gitmez. Ancak Edhem Çavuş [^hâşiye2] var, onu gönderelim, bizim için yalvarsın, yakarsın; aman biz hepsinden vazgeçtik.” dediler.
 
-O sabah bu garib rüyayı Zühdü Efendi ve Hâfız Ahmed ağabeylerime söyledim. Hattâ o gün Hâfız Ahmed, Üstadımı ziyaret için iki bardak su ile beraber Isparta’ya gitmek istedi. Fakir de gittiğine memnun oldu. Rüyayı tenbih ettim çünkü o gece gördüm. Nitekim söylemiş. Fakat çok acıklı haberden o kadar müteessir oldum ki o zaman anladım, ruhumdaki sıkıntı bu imiş. [^Hâşiye3]
+O sabah bu garib rüyayı Zühdü Efendi ve Hâfız Ahmed ağabeylerime söyledim. Hattâ o gün Hâfız Ahmed, Üstadımı ziyaret için iki bardak su ile beraber Isparta’ya gitmek istedi. Fakir de gittiğine memnun oldu. Rüyayı tenbih ettim çünkü o gece gördüm. Nitekim söylemiş. Fakat çok acıklı haberden o kadar müteessir oldum ki o zaman anladım, ruhumdaki sıkıntı bu imiş. [^hâşiye3]
 
 Lütfü
 
@@ -323,11 +323,11 @@ Sabri
 
 ***
 
-[^Hâşiye1]: Madem Hazret-i Mevlana Hâlid, milyonlar etbalarının ittifaklarıyla müceddiddir ve baştaki hadîs-i şerifin bir mâsadakıdır. Ve madem tam yüz sene sonra, dört mühim cihet-i tevafukla beraber Risale-i Nur aynı vazifeyi görüyor. Demek, nass-ı hadîs ile Risale-i Nur eczaları tecdid ve takviye-i din vazifesini görüyorlar.
+[^hâşiye1]: Madem Hazret-i Mevlana Hâlid, milyonlar etbalarının ittifaklarıyla müceddiddir ve baştaki hadîs-i şerifin bir mâsadakıdır. Ve madem tam yüz sene sonra, dört mühim cihet-i tevafukla beraber Risale-i Nur aynı vazifeyi görüyor. Demek, nass-ı hadîs ile Risale-i Nur eczaları tecdid ve takviye-i din vazifesini görüyorlar.
 
-[^Hâşiye2]: Cây-ı hayrettir ki o gecede Keçiborlu’da bulunan Edhem Çavuş herkesten evvel o hâdiseden müteessir olarak imdada gelmişti.
+[^hâşiye2]: Cây-ı hayrettir ki o gecede Keçiborlu’da bulunan Edhem Çavuş herkesten evvel o hâdiseden müteessir olarak imdada gelmişti.
 
-[^Hâşiye3]: Garib ve latîf bir tevafuktur ki Isparta’da cumartesi gecesinde başıma gelen gayet sıkıntılı bir hâdiseyi sekiz sene kemal-i sadakatle, hiç gücendirmeden bana hizmet eden Sıddık Süleyman aynı zamanda, benim gibi aynı sıkıntı çektiğinden ve sebebini de bilmediğinden Isparta’ya pazardan evvel geldi. Sıkıntısının manevî sebebini de anladı. Süleyman’ın ne kadar selim bir kalbi bulunduğu malûmdur. Hem aynı gecede, has talebelerin içinde letafet-i kalbiyle mümtaz Küçük Lütfü, bu fıkrada mezkûr rüyayı ve sıkıntıyı görüp aynı sıkıntıma iştirak ve az bir tabir ile aynı vaziyetimi müşahede ediyor.
+[^hâşiye3]: Garib ve latîf bir tevafuktur ki Isparta’da cumartesi gecesinde başıma gelen gayet sıkıntılı bir hâdiseyi sekiz sene kemal-i sadakatle, hiç gücendirmeden bana hizmet eden Sıddık Süleyman aynı zamanda, benim gibi aynı sıkıntı çektiğinden ve sebebini de bilmediğinden Isparta’ya pazardan evvel geldi. Sıkıntısının manevî sebebini de anladı. Süleyman’ın ne kadar selim bir kalbi bulunduğu malûmdur. Hem aynı gecede, has talebelerin içinde letafet-i kalbiyle mümtaz Küçük Lütfü, bu fıkrada mezkûr rüyayı ve sıkıntıyı görüp aynı sıkıntıma iştirak ve az bir tabir ile aynı vaziyetimi müşahede ediyor.
 
 Elhasıl: Süleyman’ın selim kalbi, Lütfü’nün latîf ruhu imdadıma koşmak istemişler. Demek ki Risale-i Nur’un şakirdlerinin ruhları birbiriyle alâkadardır. Cesetleri müteaddiddir, ruhları müttehid hükmündedir. <span class="arabic" dir="rtl">هٰذَا مِنْ فَضْلِ رَبّٖى</span>
 

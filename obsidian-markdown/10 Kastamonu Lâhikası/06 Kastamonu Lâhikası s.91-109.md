@@ -146,7 +146,7 @@ Bu çok kıymettar manevî hediyeyi almazdan üç gün evvel, aynen hediyeniz Ka
 
 Hem bu medar-ı sürur ve ferah olan hediye-i nuraniyeyi, bir hiss-i kable’l-vuku ile benim ruhum tam hissetmiş, akla haber vermemiş idi ki o gelmeden iki gün evvel, Feyzi ve Emin’in fıkrasında beyan edilen rüyayı gördüğüm gecenin gününde, sabahtan akşama kadar ve ikinci günü de kısmen, hiç görmediğim bir tarzda bir sevinç, bir sürur hissedip mütemadiyen bir bahane ile ferahımı izhar edip otuz kırk defa tebessüm ile güldüm.
 
-Hem ben ve hem Feyzi çok taaccüb ve hayret ettik. [^Hâşiye1] Otuz günde bir defa gülmeyen, bir günde otuz defa gülmek bizleri hayrette bıraktı. Şimdi anlaşıldı ki o sürur, o sevinç, mezkûr manevî fermanı temsil eden masumların ve ümmilerin kalemlerinin yazıları nesl-i âtinin sahaif-i hayatlarına, âlem-i İslâm’ın sahife-i mukadderatına ve ehl-i iman istikbalinin defterlerine neşr-i envar edeceklerinin ve o masumların hâlis ve safi amelleri ve hizmetleriyle sahife-i a’malimizde hasenatlarını yazıp kaydetmesinin ve Risale-i Nur şakirdlerinin mukadderatını mesudane idamesinin haberini veren, o daha gelmeyen hediyeden geliyordu. Benim, o azîm yekûnden hisseme düşen binden bir cüzü ruhen hissedilmiş, beni mesrurane heyecana getirmiş idi.
+Hem ben ve hem Feyzi çok taaccüb ve hayret ettik. [^hâşiye1] Otuz günde bir defa gülmeyen, bir günde otuz defa gülmek bizleri hayrette bıraktı. Şimdi anlaşıldı ki o sürur, o sevinç, mezkûr manevî fermanı temsil eden masumların ve ümmilerin kalemlerinin yazıları nesl-i âtinin sahaif-i hayatlarına, âlem-i İslâm’ın sahife-i mukadderatına ve ehl-i iman istikbalinin defterlerine neşr-i envar edeceklerinin ve o masumların hâlis ve safi amelleri ve hizmetleriyle sahife-i a’malimizde hasenatlarını yazıp kaydetmesinin ve Risale-i Nur şakirdlerinin mukadderatını mesudane idamesinin haberini veren, o daha gelmeyen hediyeden geliyordu. Benim, o azîm yekûnden hisseme düşen binden bir cüzü ruhen hissedilmiş, beni mesrurane heyecana getirmiş idi.
 
 Evet, böyle yüzer masumların makbul amelleri ve reddedilmez duaları sair kardeşlerimin defterlerine geçmesi misillü, benim gibi bir günahkârın sahife-i a’maline dahi girmesi, binler sürur ve sevinç verir. Böyle karanlık bir zamanda, bu ağır şerait altında böyle masumane ve kahramanane çalışmak için biz hem o masumları ve o ümmileri ve muallimlerini tebrik hem peder ve validelerini tebrik hem köylerini tebrik hem memleketlerini hem milletlerini hem Anadolu’yu tebrik ederiz.
 
@@ -236,7 +236,7 @@ Risale-i Nur’un küçük ve masum şakirdlerinin elli altmış talebesinin ve 
 
 Bu mübarek ümmi ihtiyarların kırk sene sonra Risale-i Nur hatırı için her işe tercihen yazıya başlamaları ve masum çocukların, Risale-i Nur’dan ders aldıkları ve yazdıkları risalelerin bir kısmıdır. Onların bu zamanda, bu ciddi çalışmaları gösteriyor ki Risale-i Nur’da öyle manevî zevk ve cazibedar bir nur var ki mekteplerde çocukları okumaya şevkle sevk etmek için icad ettikleri her nevi eğlence ve teşviklere galebe edecek bir lezzet, bir sürur, bir şevk Risale-i Nur veriyor ki çocuklar ve ümmi ihtiyarlar böyle hareket ediyorlar.
 
-Hem bu hal gösteriyor ki Risale-i Nur kökleşiyor. İnşâallah onu hiçbir şey koparamayacak, ensal-i âtiyede de devam edip gidecek. Aynen bu masum küçük şakirdler gibi Risale-i Nur’un cazibedar dairesine giren bu ümmi ihtiyarların, kısmen çobanların ve yörük ve efelerin bu zamanda, bu acib şerait içinde her şeye tercihen Risale-i Nur’a bu surette çalışmaları gösteriyor ki bu zamanda Risale-i Nur’a ekmekten ziyade ihtiyaç var ki çiftçiler, çobanlar, yörük efeler [^Hâşiye2] hâcat-ı zaruriyeden ziyade bir hâcat-ı zaruriyeyi, Risale-i Nur’un hakaikini görüyorlar.
+Hem bu hal gösteriyor ki Risale-i Nur kökleşiyor. İnşâallah onu hiçbir şey koparamayacak, ensal-i âtiyede de devam edip gidecek. Aynen bu masum küçük şakirdler gibi Risale-i Nur’un cazibedar dairesine giren bu ümmi ihtiyarların, kısmen çobanların ve yörük ve efelerin bu zamanda, bu acib şerait içinde her şeye tercihen Risale-i Nur’a bu surette çalışmaları gösteriyor ki bu zamanda Risale-i Nur’a ekmekten ziyade ihtiyaç var ki çiftçiler, çobanlar, yörük efeler [^hâşiye2] hâcat-ı zaruriyeden ziyade bir hâcat-ı zaruriyeyi, Risale-i Nur’un hakaikini görüyorlar.
 
 ***
 
@@ -268,9 +268,9 @@ Ben tahmin ediyorum ki: Bütün küre-i arzın bu yangınında ve fırtınaları
 
 ***
 
-[^Hâşiye1]: Evet, hiçbir vakit Üstadımızı bu kadar neşeli görmemiştik. Sebebini bilmediğimizden hayret ediyorduk.
+[^hâşiye1]: Evet, hiçbir vakit Üstadımızı bu kadar neşeli görmemiştik. Sebebini bilmediğimizden hayret ediyorduk.
 
 Emin, Feyzi
 
-[^Hâşiye2]: Bilhassa Risale-i Nur kahramanlarından Şükrü Efe ve bilhassa dağ kumandanı Çoban Veli’nin ve yörük aşiretlerinden Bahadır Süleyman’ın ve emsalinin gayretlerine işarettir.
+[^hâşiye2]: Bilhassa Risale-i Nur kahramanlarından Şükrü Efe ve bilhassa dağ kumandanı Çoban Veli’nin ve yörük aşiretlerinden Bahadır Süleyman’ın ve emsalinin gayretlerine işarettir.
 

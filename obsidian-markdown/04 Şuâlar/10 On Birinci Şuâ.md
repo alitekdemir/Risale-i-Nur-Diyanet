@@ -49,7 +49,7 @@ Bir kafile ellerinde çalgılar, şaraplar, zahirde gayet tatlı helvalar, bakla
 
 İkinci cemaat ve heyet, ellerinde terbiyenameler ve helâl yemekler ve mübarek şerbetler var. Bize hediye veriyorlar ve bi’l-ittifak beraber, pek ciddi ve kat’î diyorlar ki: “Eğer o evvelki heyetin sizi tecrübe için verilen hediyelerini alsanız, yeseniz bu gözümüz önündeki şu darağaçlarda başka gördükleriniz gibi asılacaksınız. Eğer bizim bu memleket hâkiminin fermanıyla getirdiğimiz hediyeleri evvelkinin yerine kabul edip ve terbiyenamelerdeki duaları ve evradları okusanız o asılmaktan kurtulacaksınız. O piyango dairesinde ihsan-ı şahane olarak her biriniz milyon altın biletini alacağınızı, görür gibi ve gündüz gibi inanınız. Eğer o haram ve şüpheli ve zehirli tatlıları yeseniz asılmaya gittiğiniz zamana kadar dahi o zehirin sancısını çekeceğinizi, bu fermanlar ve bizler müttefikan size kat’î haber veriyoruz.” diyorlar.
 
-İşte bu temsil gibi her vakit gördüğümüz ecel darağacının arkasında mukadderat-ı nev-i beşer piyangosundan ehl-i iman ve taat için –hüsn-ü hâtime şartıyla– ebedî ve tükenmez bir hazinenin bileti çıkacağını yüzde yüz ihtimal ile; sefahet ve haram ve itikadsızlık ve fıskta devam edenler –tövbe etmemek şartıyla– ya idam-ı ebedî (âhirete inanmayanlara) veya daimî ve karanlık haps-i münferid (beka-i ruha inanan ve sefahette gidenlere) ve şakavet-i ebediye i’lamını alacaklarını yüzde doksan dokuz ihtimal ile kat’î haber veren, başta ellerinde nişane-i tasdik olan hadsiz mu’cizeler bulunan yüz yirmi dört bin peygamberler ve onların verdikleri haberlerin izlerini ve sinemada gibi gölgelerini, keşif ile zevk ile görüp tasdik ederek imza basan yüz yirmi dört milyondan ziyade evliyalar (kaddesallahu esrarahum) ve o iki kısım meşahir-i insaniyenin haberlerini aklen kat’î bürhanlarla ve kuvvetli hüccetlerle –fikren ve mantıken– yakînî bir surette ispat ederek tasdik edip imza basan milyarlar gelen geçen muhakkikler, [^Hâşiye1] müçtehidler ve sıddıkînler; bi’l-icma, mütevatiren nev-i insanın güneşleri, kamerleri, yıldızları olan bu üç cemaat-i azîme ve bu üç taife-i ehl-i hakikat ve beşerin kudsî kumandanları olan bu üç büyük ve âlî heyetlerin fermanları ile verdikleri haberleri dinlemeyen ve saadet-i ebediyeye giden, onların gösterdikleri yol olan sırat-ı müstakimde gitmeyenler, yüzde doksan dokuz dehşetli tehlike ihtimalini nazara almayan ve bir tek muhbirin bir yolda tehlike var demesiyle o yolu bırakan başka uzun yolda hareket eden bir adam, elbette ve elbette vaziyeti şudur ki:
+İşte bu temsil gibi her vakit gördüğümüz ecel darağacının arkasında mukadderat-ı nev-i beşer piyangosundan ehl-i iman ve taat için –hüsn-ü hâtime şartıyla– ebedî ve tükenmez bir hazinenin bileti çıkacağını yüzde yüz ihtimal ile; sefahet ve haram ve itikadsızlık ve fıskta devam edenler –tövbe etmemek şartıyla– ya idam-ı ebedî (âhirete inanmayanlara) veya daimî ve karanlık haps-i münferid (beka-i ruha inanan ve sefahette gidenlere) ve şakavet-i ebediye i’lamını alacaklarını yüzde doksan dokuz ihtimal ile kat’î haber veren, başta ellerinde nişane-i tasdik olan hadsiz mu’cizeler bulunan yüz yirmi dört bin peygamberler ve onların verdikleri haberlerin izlerini ve sinemada gibi gölgelerini, keşif ile zevk ile görüp tasdik ederek imza basan yüz yirmi dört milyondan ziyade evliyalar (kaddesallahu esrarahum) ve o iki kısım meşahir-i insaniyenin haberlerini aklen kat’î bürhanlarla ve kuvvetli hüccetlerle –fikren ve mantıken– yakînî bir surette ispat ederek tasdik edip imza basan milyarlar gelen geçen muhakkikler, [^hâşiye1] müçtehidler ve sıddıkînler; bi’l-icma, mütevatiren nev-i insanın güneşleri, kamerleri, yıldızları olan bu üç cemaat-i azîme ve bu üç taife-i ehl-i hakikat ve beşerin kudsî kumandanları olan bu üç büyük ve âlî heyetlerin fermanları ile verdikleri haberleri dinlemeyen ve saadet-i ebediyeye giden, onların gösterdikleri yol olan sırat-ı müstakimde gitmeyenler, yüzde doksan dokuz dehşetli tehlike ihtimalini nazara almayan ve bir tek muhbirin bir yolda tehlike var demesiyle o yolu bırakan başka uzun yolda hareket eden bir adam, elbette ve elbette vaziyeti şudur ki:
 
 İki yolun –hadsiz muhbirlerin kat’î ihbarlarıyla– en kısa ve kolayı ve yüzde yüz cennet ve saadet-i ebediyeyi kazandıranı bırakıp en dağdağalı ve uzun ve sıkıntılı ve yüzde doksan dokuz cehennem hapsini ve şakavet-i daimeyi netice veren yolunu ihtiyar ettiği halde, dünyada iki yolun, bir tek muhbirin yalan olabilir haberiyle yüzde bir tek ihtimal tehlike ve bir ay hapis imkânı bulunan kısa yolu bırakıp, menfaatsiz –yalnız zararsız olduğu için– uzun yolu ihtiyar eden bedbaht, sarhoş divaneler gibi dehşetli ve uzakta görünen ve ona musallat olan ejderhalara ehemmiyet vermez, sineklerle uğraşıyor, yalnız onlara ehemmiyet verir derecede aklını, kalbini, ruhunu, insaniyetini kaybetmiş oluyor.
 
@@ -99,7 +99,7 @@ Cevaben dedim: “Ecnebi dinsizleri gibi de olamazsın. Çünkü onlar bir peyga
 ### Dördüncü Mesele
 Yine Gençlik Rehberi’nde izahı var. Bir zaman bana hizmet eden kardeşlerim tarafından ***sual edildi ki:***
 
-“Küre-i arzı herc ü merce getiren ve İslâm mukadderatıyla alâkadar olan bu dehşetli Harb-i Umumî’den elli gündür (şimdi yedi seneden geçti aynı hal) [^Hâşiye2] hiç sormuyorsun ve merak etmiyorsun. Halbuki bir kısım mütedeyyin ve âlim insanlar, cemaati ve camiyi bırakıp radyo dinlemeye koşuyorlar. Acaba bundan daha büyük bir hâdise mi var? Veya onunla meşgul olmanın zararı mı var?” dediler.
+“Küre-i arzı herc ü merce getiren ve İslâm mukadderatıyla alâkadar olan bu dehşetli Harb-i Umumî’den elli gündür (şimdi yedi seneden geçti aynı hal) [^hâşiye2] hiç sormuyorsun ve merak etmiyorsun. Halbuki bir kısım mütedeyyin ve âlim insanlar, cemaati ve camiyi bırakıp radyo dinlemeye koşuyorlar. Acaba bundan daha büyük bir hâdise mi var? Veya onunla meşgul olmanın zararı mı var?” dediler.
 
 ***Cevaben dedim ki:***
 
@@ -214,7 +214,7 @@ Hem madem gündüz bedahetle güneşi gösterdiği gibi; zemin yüzünde, mevsim
 
 Bahar kadar kudretine kolay gelen dâr-ı saadeti o mükerrem ve müşerref insanlar için açacak ve yapacak ve haşir ve kıyameti getirecek, diye **Muhyî** ve **Mümît** ve **Hay** ve **Kayyum** ve **Kadîr** ve **Alîm** isimleri, Hâlık’ımızdan sormamıza cevap veriyorlar.
 
-Evet, her baharda bütün ağaçları ve otların köklerini aynen ihya ve nebatî ve hayvanî üç yüz bin nevi haşrin ve neşrin numunelerini icad eden bir kudret, Muhammed ve Musa aleyhimessalâtü vesselâmların her birinin ümmetinin geçirdiği bin senelik zaman, karşı karşıya hayalen getirilip bakılsa haşrin ve neşrin bin misalini ve bin delilini iki bin baharda [^Hâşiye3] gösterdiği görülecek. Ve böyle bir kudretten haşr-i cismanîyi uzak görmek, bin derece körlük ve akılsızlıktır.
+Evet, her baharda bütün ağaçları ve otların köklerini aynen ihya ve nebatî ve hayvanî üç yüz bin nevi haşrin ve neşrin numunelerini icad eden bir kudret, Muhammed ve Musa aleyhimessalâtü vesselâmların her birinin ümmetinin geçirdiği bin senelik zaman, karşı karşıya hayalen getirilip bakılsa haşrin ve neşrin bin misalini ve bin delilini iki bin baharda [^hâşiye3] gösterdiği görülecek. Ve böyle bir kudretten haşr-i cismanîyi uzak görmek, bin derece körlük ve akılsızlıktır.
 
 Hem madem nev-i beşerin en meşhurları olan yüz yirmi dört bin peygamberler ittifak ile saadet-i ebediyeyi ve beka-yı uhrevîyi Cenab-ı Hakk’ın binler vaad ve ahidlerine istinaden ilan edip, mu’cizeleriyle doğru olduklarını ispat ettikleri gibi hadsiz ehl-i velayet, keşif ile ve zevk ile aynı hakikate imza basıyorlar. Elbette, o hakikat güneş gibi zahir olur, şüphe eden divane olur.
 
@@ -569,7 +569,7 @@ Aziz, sıddık kardeşlerim!
 
 Gerçi bu mesele, perişan vaziyetimden müşevveş ve letafetsiz olmuş. Fakat o müşevveş ibare altında çok kıymetli bir nevi i’cazı kat’î bildim. Maatteessüf ifadeye muktedir olamadım. Her ne kadar ibaresi sönük olsa da Kur’an’a ait olmak cihetiyle hem ibadet-i tefekküriye hem kudsî, yüksek, parlak bir cevherin sadefidir. Yırtık libasına değil, elindeki elmasa bakılsın.
 
-Hem bunu gayet hasta ve perişan ve gıdasız, bir iki gün ramazanda, mecburiyetle gayet mücmel ve kısa ve bir cümlede pek çok hakikatleri ve müteaddid hüccetleri dercederek yazdım. Kusura bakılmasın. [^Hâşiye4]
+Hem bunu gayet hasta ve perişan ve gıdasız, bir iki gün ramazanda, mecburiyetle gayet mücmel ve kısa ve bir cümlede pek çok hakikatleri ve müteaddid hüccetleri dercederek yazdım. Kusura bakılmasın. [^hâşiye4]
 
 Aziz, sıddık kardeşlerim!
 
@@ -642,7 +642,7 @@ Evet, Kur’an’da Zat-ı Ahmediye’ye en büyük makam vermek ve dört erkân
 ***
 
 #### Bu Onuncu Meseleye Bir Hâtime Olarak İki Hâşiyedir
-**Birincisi:** Bundan [^Hâşiye5] on iki sene evvel işittim ki en dehşetli ve muannid bir zındık, Kur’an’a karşı sû-i kasdını tercümesiyle yapmaya başlamış ve demiş ki: “Kur’an tercüme edilsin, tâ ne mal olduğu bilinsin.” Yani, lüzumsuz tekraratı herkes görsün ve tercümesi onun yerinde okunsun diye dehşetli bir plan çevirmiş.
+**Birincisi:** Bundan [^hâşiye5] on iki sene evvel işittim ki en dehşetli ve muannid bir zındık, Kur’an’a karşı sû-i kasdını tercümesiyle yapmaya başlamış ve demiş ki: “Kur’an tercüme edilsin, tâ ne mal olduğu bilinsin.” Yani, lüzumsuz tekraratı herkes görsün ve tercümesi onun yerinde okunsun diye dehşetli bir plan çevirmiş.
 
 Fakat Risale-i Nur’un cerh edilmez hüccetleri kat’î ispat etmiş ki Kur’an’ın hakiki tercümesi kabil değil ve lisan-ı nahvî olan lisan-ı Arabî yerinde Kur’an’ın meziyetlerini ve nüktelerini başka lisan muhafaza edemez ve her bir harfi, on adetten bine kadar sevap veren kelimat-ı Kur’aniyenin mu’cizane ve cem’iyetli tabirleri yerinde, beşerin âdi ve cüz’î tercümeleri tutamaz, onun yerinde camilerde okunmaz diye Risale-i Nur, her tarafta intişarıyla o dehşetli planı akîm bıraktı. Fakat o zındıktan ders alan münafıklar, yine şeytan hesabına Kur’an güneşini üflemekle söndürmeye, aptal çocuklar gibi ahmakane ve divanecesine çalışmaları hikmetiyle, bana gayet sıkı ve sıkıcı ve sıkıntılı bir halette bu Onuncu Mesele yazdırıldı tahmin ediyorum. Başkalarla görüşemediğim için hakikat-i hali bilemiyorum.
 
@@ -938,13 +938,13 @@ Ben bu mektubu, bu tadilat ile yazdığımız halde iki defa bir güvercin yanı
 
 ***
 
-[^Hâşiye1]: O muhakkiklerden tek birisi Risale-i Nur’dur. Yirmi senedir en muannid feylesofları ve mütemerrid zındıkları susturan eczaları meydandadır. Herkes okuyabilir ve kimse itiraz etmez.
+[^hâşiye1]: O muhakkiklerden tek birisi Risale-i Nur’dur. Yirmi senedir en muannid feylesofları ve mütemerrid zındıkları susturan eczaları meydandadır. Herkes okuyabilir ve kimse itiraz etmez.
 
-[^Hâşiye2]: Parantez içindeki not, 1946 senesine aittir.
+[^hâşiye2]: Parantez içindeki not, 1946 senesine aittir.
 
-[^Hâşiye3]: Sâbık her bir bahar; kıyameti kopmuş, ölmüş ve karşısındaki bahar, onun haşri hükmündedir.
+[^hâşiye3]: Sâbık her bir bahar; kıyameti kopmuş, ölmüş ve karşısındaki bahar, onun haşri hükmündedir.
 
-[^Hâşiye4]: Denizli Hapsinin meyvesine Onuncu Mesele olarak Emirdağı’nın ve bu ramazan-ı şerifin nurlu bir küçük çiçeğidir. Tekrarat-ı Kur’aniyenin bir hikmetini beyanla ehl-i dalaletin ufunetli ve zehirli evhamlarını izale eder.
+[^hâşiye4]: Denizli Hapsinin meyvesine Onuncu Mesele olarak Emirdağı’nın ve bu ramazan-ı şerifin nurlu bir küçük çiçeğidir. Tekrarat-ı Kur’aniyenin bir hikmetini beyanla ehl-i dalaletin ufunetli ve zehirli evhamlarını izale eder.
 
-[^Hâşiye5]: Bu risalenin telifinden on iki sene evvel. (Nâşir)
+[^hâşiye5]: Bu risalenin telifinden on iki sene evvel. (Nâşir)
 

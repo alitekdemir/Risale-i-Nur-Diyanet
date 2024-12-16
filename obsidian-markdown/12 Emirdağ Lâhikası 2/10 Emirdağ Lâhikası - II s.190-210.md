@@ -28,7 +28,7 @@ Kardeşiniz Said Nursî
 
 “Benimle görüşmek isteyen aziz kardeşlerime beyan ediyorum ki: İnsanlarla görüşmeye zaruret olmadıkça tahammülüm kalmadığından hem şimdi tesemmümden, zafiyetten, ihtiyarlıktan ve hasta bulunmuş olmaktan dolayı fazla konuşamıyorum. Buna mukabil, kat’iyen size haber veriyorum ki: Risale-i Nur’un her bir kitabı bir Said’dir. Siz hangi kitaba baksanız benimle karşı karşıya görüşmekten on defa ziyade hem faydalanır hem hakiki bir surette benimle görüşmüş olursunuz. Ben şuna karar vermiştim ki Allah için benimle görüşmek isteyenleri görüşmediklerine bedel her sabah okuduklarıma, dualarıma dâhil ediyorum ve etmekte devam edeceğim.”
 
-Şimdi bir iki aydır Üstadımız bir hizmetkârıyla dahi konuşamıyor. Konuştuğu vakit bir hararet başlıyor. Bunun hikmetini bir ihtara binaen söyledi ki: “Risale-i Nur bana hiç ihtiyaç bırakmıyor. Konuşmaya lüzum kalmadı. Hem ben âciz şahsımla binler dostlarımdan yirmi otuz dostla konuşabilirim. Yirmi adamın hatırı için binler adamın hatırını rencide etmemek için konuşmaktan men’edildim ihtimali kavîdir. Hususi görüşmediğim için mazur görsünler.” Hattâ bayramda musafaha etmek ve ona bakmaya tahammül edemiyor. [^Hâşiye1] Onun için hatırları kırılmasın.
+Şimdi bir iki aydır Üstadımız bir hizmetkârıyla dahi konuşamıyor. Konuştuğu vakit bir hararet başlıyor. Bunun hikmetini bir ihtara binaen söyledi ki: “Risale-i Nur bana hiç ihtiyaç bırakmıyor. Konuşmaya lüzum kalmadı. Hem ben âciz şahsımla binler dostlarımdan yirmi otuz dostla konuşabilirim. Yirmi adamın hatırı için binler adamın hatırını rencide etmemek için konuşmaktan men’edildim ihtimali kavîdir. Hususi görüşmediğim için mazur görsünler.” Hattâ bayramda musafaha etmek ve ona bakmaya tahammül edemiyor. [^hâşiye1] Onun için hatırları kırılmasın.
 
 ***
 
@@ -235,7 +235,7 @@ Eğer Demokrat Parti düşse ya Halk Partisi veya Millet Partisi iktidara gelece
 
 Milletçilere gelince:
 
-Eğer bu partide sırf İslâmiyet esas olsa [^Hâşiye2] Demokrat Partiye yardım ettiği gibi muhalif ve muarız olmayarak iktidara gelmesine çalışmaz. Eğer bu partide ırkçılık ve Türkçülük fikri esas ise birden hakiki Türk olmayan bu vatandaki ekseriyetin ancak onda üçü Türk’tür, kalan kısmı da başka milletlerle karışmıştır. O zaman Hürriyetin başında olduğu gibi bu asil ve masum Türk milleti aleyhine bir milliyetçilik tarafgirliği meydana gelecek, o vakit hakiki Türkleri ecnebiler boyunduruğu altına girmeye mecbur edecek. Veya Türkleşmiş sair unsurdan olan ve bu vatanda mevcud ırkçılık ve unsurculuk damarıyla bir ecnebiye istinad ile masum Türk milletini tahakkümleri altına alacaklar. Bu durum ise dehşetli, tehlikeli olduğundan **Kur’an ve vatan ve millet hesabına**, dindar ve dine hürmetkâr Demokrat Partinin iktidarda kalmasını temin etmeleri için ders veriyorum, dedi.
+Eğer bu partide sırf İslâmiyet esas olsa [^hâşiye2] Demokrat Partiye yardım ettiği gibi muhalif ve muarız olmayarak iktidara gelmesine çalışmaz. Eğer bu partide ırkçılık ve Türkçülük fikri esas ise birden hakiki Türk olmayan bu vatandaki ekseriyetin ancak onda üçü Türk’tür, kalan kısmı da başka milletlerle karışmıştır. O zaman Hürriyetin başında olduğu gibi bu asil ve masum Türk milleti aleyhine bir milliyetçilik tarafgirliği meydana gelecek, o vakit hakiki Türkleri ecnebiler boyunduruğu altına girmeye mecbur edecek. Veya Türkleşmiş sair unsurdan olan ve bu vatanda mevcud ırkçılık ve unsurculuk damarıyla bir ecnebiye istinad ile masum Türk milletini tahakkümleri altına alacaklar. Bu durum ise dehşetli, tehlikeli olduğundan **Kur’an ve vatan ve millet hesabına**, dindar ve dine hürmetkâr Demokrat Partinin iktidarda kalmasını temin etmeleri için ders veriyorum, dedi.
 
 Sayın Adnan Menderes,
 
@@ -274,7 +274,7 @@ Said Nursî
 
 Medar-ı ibret ve hayret ve şükrandır ki:
 
-Yirmi dokuz senedir, elli seneden beri benimle muarız gizli düşman komiteler bütün desiseleriyle aleyhimde adliyeyi, hükûmeti sevk etmeye çalışırken ve her desiseye baş vururken yüz otuz kitabımı, binler mektuplarımı tetkik ve taharri için adliyenin nazarını celbetmiş. O adliyeler beşi kat’î beraet ve umum kitapları suç yok diye iadeye karar vermeleri ve geçen Malatya Hâdisesi münasebetiyle yine gizli düşmanlarımız hükûmetin ve adliyenin nazar-ı dikkatini bizlere çevirmeye çalıştıkları halde, yirmi üç mahkeme demişler ki: “Suç bulamıyoruz.” [^Hâşiye3].
+Yirmi dokuz senedir, elli seneden beri benimle muarız gizli düşman komiteler bütün desiseleriyle aleyhimde adliyeyi, hükûmeti sevk etmeye çalışırken ve her desiseye baş vururken yüz otuz kitabımı, binler mektuplarımı tetkik ve taharri için adliyenin nazarını celbetmiş. O adliyeler beşi kat’î beraet ve umum kitapları suç yok diye iadeye karar vermeleri ve geçen Malatya Hâdisesi münasebetiyle yine gizli düşmanlarımız hükûmetin ve adliyenin nazar-ı dikkatini bizlere çevirmeye çalıştıkları halde, yirmi üç mahkeme demişler ki: “Suç bulamıyoruz.” [^hâşiye3].
 
 Acaba benim gibi dünya ehli ile münasebeti pek az ve Risale-i Nur gibi hakikati hiçbir şeye feda etmeyen, yüz otuz kitabında bu kadar aleyhimizde bahane arayanlar varken hiçbir suç bulunmaması ve yalnız Eskişehir’in bir tek mesele olan tesettürden başka o da cevap verildikten sonra kanaat-i vicdaniyeye çevrilmesi; halbuki Nur talebeleri gibi takvaya taraftar olanlardan bir tek adamın on mektubunda on günde onu mes’ul edecek bazı maddeler bulunur. Bu kadar hadsiz bir derecede kesretli bir şeyde medar-ı mes’uliyet adliyeler gösterememesi iki şeyden hâlî değil:
 
@@ -286,9 +286,9 @@ Said Nursî
 
 ***
 
-[^Hâşiye1]: Şimdi hem Ankara hem İstanbul hem Samsun hem Antalya Risale-i Nur’un neşrine başladığı cihetle, gizli din düşmanı komiteler o neşriyata karşı bir evham vermemek için şimdilik has dostları da kabul etmemeye mecbur oldu tâ Sözler’in tabı tamam oluncaya kadar.
+[^hâşiye1]: Şimdi hem Ankara hem İstanbul hem Samsun hem Antalya Risale-i Nur’un neşrine başladığı cihetle, gizli din düşmanı komiteler o neşriyata karşı bir evham vermemek için şimdilik has dostları da kabul etmemeye mecbur oldu tâ Sözler’in tabı tamam oluncaya kadar.
 
-[^Hâşiye2]: İslâmiyet milleti her şeye kâfidir. Din, dil bir ise millet de birdir. Din bir ise yine millet birdir.
+[^hâşiye2]: İslâmiyet milleti her şeye kâfidir. Din, dil bir ise millet de birdir. Din bir ise yine millet birdir.
 
-[^Hâşiye3]: Denizli’de bütün Risale-i Nur eczaları iade edilmesi ve İstanbul’da ve Ankara’da ele geçen bütün risaleleri iade etmeleri ve Tarsus-Mersin’de ellerine geçen umum risaleleri iade etmeleri ve dört ay Ankara bütün risaleleri tetkik ile iadesine ve beraetine karar vermeleri ve o beraet ve iadeyi Temyiz dört defa tasdik etmesi ve en ziyade uğraşan Afyon, dört sene sonra iki defa beraet ve iadesine karar vermesi gösteriyor ki adliyeler tamamıyla hakiki adaletle iş görmüşler ki yeni şeylerin ehemmiyeti kalmıyor.
+[^hâşiye3]: Denizli’de bütün Risale-i Nur eczaları iade edilmesi ve İstanbul’da ve Ankara’da ele geçen bütün risaleleri iade etmeleri ve Tarsus-Mersin’de ellerine geçen umum risaleleri iade etmeleri ve dört ay Ankara bütün risaleleri tetkik ile iadesine ve beraetine karar vermeleri ve o beraet ve iadeyi Temyiz dört defa tasdik etmesi ve en ziyade uğraşan Afyon, dört sene sonra iki defa beraet ve iadesine karar vermesi gösteriyor ki adliyeler tamamıyla hakiki adaletle iş görmüşler ki yeni şeylerin ehemmiyeti kalmıyor.
 

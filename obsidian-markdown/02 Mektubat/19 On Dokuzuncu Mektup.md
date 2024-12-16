@@ -1,38 +1,54 @@
 ---
+date: 
+aliases: 
+tags: 
+keywords: 
 source_name: Hizmet Vakfı & DİB asıl nüsha metni 2016
 source_url: https://www.risaleinur.hizmetvakfi.org/
 ---
-## On Dokuzuncu Mektup
+
+# On Dokuzuncu Mektup
+
 Bu risale, üç yüzden fazla mu’cizatı beyan eder. Risalet-i Ahmediyenin (asm) mu’cizesini beyan ettiği gibi kendisi de o mu’cizenin bir kerametidir. Üç dört nevi ile hârika olmuştur:
 
-**Birincisi:** Nakil ve rivayet olmakla beraber, yüz sahifeden fazla olduğu halde, kitaplara müracaat edilmeden, ezber olarak dağ, bağ köşelerinde, üç dört gün zarfında her günde iki üç saat çalışmak şartıyla mecmuu on iki saatte telif edilmesi, hârika bir vakıadır.
+## Birincisi
 
-**İkincisi:** Bu risale, uzunluğu ile beraber ne yazması usanç verir ve ne de okuması halâvetini kaybeder. Tembel ehl-i kalemi öyle bir şevk ve gayrete getirdi ki bu sıkıntılı ve usançlı bir zamanda, bu civarda bir sene zarfında yetmiş adede yakın nüshalar yazıldığı, o mu’cize-i risaletin bir kerameti olduğunu, muttali olanlara kanaat verdi.
+Nakil ve rivayet olmakla beraber, yüz sahifeden fazla olduğu halde, kitaplara müracaat edilmeden, ezber olarak dağ, bağ köşelerinde, üç dört gün zarfında her günde iki üç saat çalışmak şartıyla mecmuu on iki saatte telif edilmesi, hârika bir vakıadır.
 
-**Üçüncüsü:** Acemi ve tevafuktan haberi yok ve bize de daha tevafuk tezahür etmeden evvel onun ve başka sekiz müstensihin birbirini görmeden yazdıkları nüshalarda; lafz-ı **Resul-i Ekrem aleyhissalâtü vesselâm** kelimesi bütün risalede ve lafz-ı **Kur’an** beşinci parçasında öyle bir tarzda tevafuk etmeleri göründü ki zerre miktar insafı olan, tesadüfe vermez. Kim görmüşse kat’î hükmediyor ki bu bir sırr-ı gaybîdir, mu’cize-i Ahmediyenin (asm) bir kerametidir.
+## İkincisi
+
+Bu risale, uzunluğu ile beraber ne yazması usanç verir ve ne de okuması halâvetini kaybeder. Tembel ehl-i kalemi öyle bir şevk ve gayrete getirdi ki bu sıkıntılı ve usançlı bir zamanda, bu civarda bir sene zarfında yetmiş adede yakın nüshalar yazıldığı, o mu’cize-i risaletin bir kerameti olduğunu, muttali olanlara kanaat verdi.
+
+## Üçüncüsü
+
+Acemi ve tevafuktan haberi yok ve bize de daha tevafuk tezahür etmeden evvel onun ve başka sekiz müstensihin birbirini görmeden yazdıkları nüshalarda; lafz-ı **Resul-i Ekrem aleyhissalâtü vesselâm** kelimesi bütün risalede ve lafz-ı **Kur’an** beşinci parçasında öyle bir tarzda tevafuk etmeleri göründü ki zerre miktar insafı olan, tesadüfe vermez. Kim görmüşse kat’î hükmediyor ki bu bir sırr-ı gaybîdir, mu’cize-i Ahmediyenin (asm) bir kerametidir.
 
 Şu risalenin başındaki esaslar çok mühimdirler. Hem şu risaledeki ehadîs, hemen umumen eimme-i hadîsçe makbul ve sahih olmakla beraber, en kat’î hâdisat-ı risaleti beyan ediyorlar. O risalenin mezayasını söylemek lâzım gelse o risale kadar bir eser yazmak lâzım geldiğinden, müştak olanları onu bir kere okumasına havale ediyoruz.
 
-**Said Nursî**
+Said Nursî
 
-***İhtar:*** Şu risalede çok ehadîs-i şerife nakletmişim. Yanımda kütüb-ü hadîsiye bulunmuyor. Yazdığım hadîslerin lafzında yanlışım varsa ya tashih edilsin veyahut “hadîs-i bi’l-mana”dır, denilsin. Çünkü kavl-i racih odur ki: “Nakl-i hadîs-i bi’l-mana caizdir.” Yani hadîsin yalnız manasını alıp lafzını kendi zikreder. Madem öyledir, lafzında yanlışım varsa hadîs-i bi’l-mana nazarıyla bakılsın.
+## **İhtar:**
+
+Şu risalede çok ehadîs-i şerife nakletmişim. Yanımda kütüb-ü hadîsiye bulunmuyor. Yazdığım hadîslerin lafzında yanlışım varsa ya tashih edilsin veyahut “hadîs-i bi’l-mana”dır, denilsin. Çünkü kavl-i racih odur ki: “Nakl-i hadîs-i bi’l-mana caizdir.” Yani hadîsin yalnız manasını alıp lafzını kendi zikreder. Madem öyledir, lafzında yanlışım varsa hadîs-i bi’l-mana nazarıyla bakılsın.
 
 ***
 
-Mu’cizat-ı Ahmediye (asm)
+# Mu’cizat-ı Ahmediye (asm)
 
 <p class="arabic" dir="rtl">بِاسْمِهٖ سُبْحَانَهُ<br/> وَ اِنْ مِنْ شَىْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهٖ<br/>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ<br/>هُوَ الَّذٖٓى اَرْسَلَ رَسُولَهُ بِالْهُدٰى وَدٖينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدّٖينِ كُلِّهٖ وَ كَفٰى بِاللّٰهِ شَهٖيدًا ۞ مُحَمَّدٌ رَسُولُ اللّٰهِ … اِلٰى اٰخِرِ</p>
 
 Risalet-i Ahmediyeye (asm) dair On Dokuzuncu Söz’le Otuz Birinci Söz, nübüvvet-i Muhammediyeyi (asm) delail-i kat’iye ile ispat ettiklerinden, ispat cihetini onlara havale edip yalnız onlara bir tetimme olarak **on dokuz nükteli işaret**lerle, o büyük hakikatin bazı lem’alarını göstereceğiz.
 
-#### Birinci Nükteli İşaret
+## Birinci Nükteli İşaret
+
 Şu kâinatın sahip ve mutasarrıfı elbette bilerek yapıyor ve hikmetle tasarruf ediyor ve her tarafı görerek tedvir ediyor ve her şeyi bilerek, görerek terbiye ediyor ve her şeyde görünen hikmetleri, gayeleri, faydaları irade ederek tedvir ediyor.
 
 Madem yapan bilir, elbette bilen konuşur. Madem konuşacak, elbette zîşuur ve zîfikir ve konuşmasını bilenlerle konuşacak. Madem zîfikirle konuşacak, elbette zîşuurun içinde en cem’iyetli ve şuuru küllî olan insan nev’i ile konuşacaktır. Madem insan nev’i ile konuşacak, elbette insanlar içinde kabil-i hitap ve mükemmel insan olanlarla konuşacak.
 
 Madem en mükemmel ve istidadı en yüksek ve ahlâkı ulvi ve nev-i beşere mukteda olacak olanlarla konuşacaktır; elbette dost ve düşmanın ittifakıyla, en yüksek istidatta ve en âlî ahlâkta ve nev-i beşerin humsu ona iktida etmiş ve nısf-ı arz onun hükm-ü manevîsi altına girmiş ve istikbal onun getirdiği nurun ziyasıyla bin üç yüz sene ışıklanmış ve beşerin nurani kısmı ve ehl-i imanı, mütemadiyen günde beş defa onunla tecdid-i biat edip ona dua-yı rahmet ve saadet edip ona medih ve muhabbet etmiş olan Muhammed aleyhissalâtü vesselâm ile konuşacak ve konuşmuş ve resul yapacak ve yapmış ve sair nev-i beşere rehber yapacak ve yapmıştır.
 
-#### İkinci Nükteli İşaret
+## İkinci Nükteli İşaret
+
 Resul-i Ekrem aleyhissalâtü vesselâm iddia-yı nübüvvet etmiş, Kur’an-ı Azîmüşşan gibi bir fermanı göstermiş ve ehl-i tahkikin yanında bine kadar mu’cizat-ı bâhireyi göstermiştir. O mu’cizat, heyet-i mecmuasıyla dava-yı nübüvvetin vukuu kadar vücudları kat’îdir. Kur’an-ı Hakîm’in çok yerlerinde en muannid kâfirlerden naklettiği sihir isnad etmeleri gösteriyor ki o muannid kâfirler dahi mu’cizatın vücudlarını ve vukularını inkâr edemiyorlar. Yalnız, kendilerini aldatmak veya etbalarını kandırmak için –hâşâ– sihir demişler.
 
 Evet, mu’cizat-ı Ahmediyenin (asm) yüz tevatür kuvvetinde bir kat’iyeti vardır. Mu’cize ise Hâlık-ı kâinat tarafından onun davasına bir tasdiktir <span class="arabic" dir="rtl">صَدَقْتَ</span> hükmüne geçer.
@@ -49,7 +65,8 @@ Hem madem nev-i beşerde nübüvvet vardır. Ve yüz binler zat, nübüvvet dava
 
 Madem hükm-ü nübüvvetin illeti ve sebebi, Zat-ı Ahmedî’de (asm) daha mükemmel mevcuddur. Elbette hükm-ü nübüvvet, umum enbiyadan daha vâzıh bir kat’iyet ile ona sabittir.
 
-#### Üçüncü Nükteli İşaret
+## Üçüncü Nükteli İşaret
+
 Resul-i Ekrem aleyhissalâtü vesselâmın mu’cizatı çok mütenevvidir. Risaleti umumî olduğu için hemen ekser enva-ı kâinattan birer mu’cizeye mazhardır. Güya nasıl ki bir padişah-ı zîşanın bir yaver-i ekremi mütenevvi hediyelerle muhtelif akvamın mecmaı olan bir şehre geldiği vakit, her taife onun istikbaline bir mümessil gönderir; kendi taifesi lisanıyla ona hoşâmedî eder, onu alkışlar.
 
 Öyle de Sultan-ı ezel ve ebed’in en büyük yaveri olan Resul-i Ekrem aleyhissalâtü vesselâm, âleme teşrif edip ve küre-i arzın ahalisi olan nev-i beşere mebus olarak geldiği ve umum kâinatın Hâlık’ı tarafından umum kâinatın hakaikine karşı alâkadar olan envar-ı hakikat ve hedâyâ-yı maneviyeyi getirdiği zaman; taştan, sudan, ağaçtan, hayvandan, insandan tut tâ aydan, güneşten, yıldızlara kadar her taife, kendi lisan-ı mahsusuyla ve ellerinde birer mu’cizesini taşımasıyla, onun nübüvvetini alkışlamış ve hoşâmedî demiş.
@@ -70,14 +87,37 @@ Resul-i Ekrem aleyhissalâtü vesselâmın mu’cizatı çok mütenevvidir. Risa
 
 Şu ikinci kısım dahi iki kısımdır. **Biri:** Dava-yı nübüvvet vaktinde, ehl-i küfrün inadını kırmak veyahut ehl-i imanın kuvvet-i imanını ziyadeleştirmek için zuhura gelen hârikulâde mu’cizattır. Şakk-ı kamer ve parmağından suyun akması ve az taamla çokları doyurması ve hayvan ve ağaç ve taşın konuşması gibi yirmi nevi ve her bir nev’i manevî tevatür derecesinde ve her bir nev’in de çok mükerrer efradı vardır. **İkinci kısım:** İstikbalde ihbar ettiği hâdiselerdir ki Cenab-ı Hakk’ın talimiyle o da haber vermiş, haber verdiği gibi doğru çıkmıştır.
 
-İşte biz de şu âhirki kısımdan başlayıp icmalî bir fihriste göstereceğiz. [^Hâşiye1]
+```mermaid
+graph TB
 
-#### Dördüncü Nükteli İşaret
+    A["Nübüvvet-i Ahmediyenin Delaili"]
+    A --> B1["İrhasat"]
+    A --> B2["Sair Delail-i Nübüvvet"]
+    
+    B2 --> C1["Tasdikî Hârikalar"]
+    B2 --> C2["Asr-ı Saadetteki Hârikalar"]
+
+    C2 --> D1["Zatında"]
+    C2 --> D2["Âfakî ve Haricî"]
+
+    D2 --> E1["Manevî ve Kur’anî"]
+    D2 --> E2["Maddî ve Ekvanî"]
+
+    E2 --> F1["İnada ve İmana Yönelik"]
+    E2 --> F2["İstikbale Dair İhbarlar"]
+```
+
+İşte biz de şu âhirki kısımdan başlayıp icmalî bir fihriste göstereceğiz. [^hâşiye1]
+
+## Dördüncü Nükteli İşaret
+
 Resul-i Ekrem aleyhissalâtü vesselâmın Allâmü’l-guyub’un talimiyle haber verdiği umûr-u gaybiye, hadd ü hesaba gelmez. İ’caz-ı Kur’an’a dair olan Yirmi Beşinci Söz’de envaına işaret ve bir derece izah ve ispat ettiğimizden, geçmiş zamana dair ve enbiya-yı sâbıkaya dair ve hakaik-i İlahiyeye ve hakaik-i kevniyeye ve hakaik-i uhreviyeye dair ihbarat-ı gaybiyelerini Yirmi Beşinci Söz’e havale edip şimdilik bahsetmeyeceğiz.
 
 Yalnız kendinden sonra sahabe ve Âl-i Beyt’in başına gelen ve ümmetin ileride mazhar olacağı hâdisata dair pek çok ihbarat-ı sadıka-i gaybiyesi kısmından cüz’î birkaç misaline işaret edeceğiz. Ve şu hakikat tamamıyla anlaşılmak için altı esas mukaddime olarak beyan edeceğiz:
 
-**Birinci Esas:** Resul-i Ekrem aleyhissalâtü vesselâmın çendan her hali ve her tavrı, sıdkına ve nübüvvetine şahit olabilir fakat her hali, her tavrı hârikulâde olmak lâzım değildir. Çünkü Cenab-ı Hak onu beşer suretinde göndermiş, tâ insanın ahval-i içtimaiyelerinde ve dünyevî, uhrevî saadetlerini kazandıracak a’mal ve harekâtlarında rehber olsun ve imam olsun ve her biri birer mu’cizat-ı kudret-i İlahiye olan âdiyat içindeki hârikulâde olan sanat-ı Rabbaniyeyi ve tasarruf-u kudret-i İlahiyeyi göstersin.
+### Birinci Esas
+
+Resul-i Ekrem aleyhissalâtü vesselâmın çendan her hali ve her tavrı, sıdkına ve nübüvvetine şahit olabilir fakat her hali, her tavrı hârikulâde olmak lâzım değildir. Çünkü Cenab-ı Hak onu beşer suretinde göndermiş, tâ insanın ahval-i içtimaiyelerinde ve dünyevî, uhrevî saadetlerini kazandıracak a’mal ve harekâtlarında rehber olsun ve imam olsun ve her biri birer mu’cizat-ı kudret-i İlahiye olan âdiyat içindeki hârikulâde olan sanat-ı Rabbaniyeyi ve tasarruf-u kudret-i İlahiyeyi göstersin.
 
 Eğer ef’alinde beşeriyetten çıkıp hârikulâde olsaydı bizzat imam olamazdı; ef’aliyle, ahvaliyle, etvarıyla ders veremezdi. Fakat yalnız nübüvvetini muannidlere karşı ispat etmek için hârikulâde işlere mazhar olur ve inde’l-hace ara sıra mu’cizatı gösterirdi. Fakat sırr-ı teklif olan imtihan ve tecrübe muktezasıyla, elbette bedahet derecesinde ve ister istemez tasdike mecbur kalacak derecede mu’cize olmazdı.
 
@@ -85,7 +125,9 @@ Eğer ef’alinde beşeriyetten çıkıp hârikulâde olsaydı bizzat imam olama
 
 Cây-ı hayrettir ki Resul-i Ekrem aleyhissalâtü vesselâmın mübalağasız binler vecihte binler çeşit insan, her biri bir tek mu’cizesiyle veya bir delil-i nübüvvet ile veya bir kelâmı ile veya yüzünü görmesiyle ve hâkeza birer alâmetiyle iman getirdikleri halde, bütün bu binler ayrı ayrı insanları ve müdakkik mütefekkirleri imana getiren bütün o binler delail-i nübüvveti, nakl-i sahih ile ve âsâr-ı kat’iye ile şimdiki bedbaht bir kısım insanlara kâfi gelmiyor gibi dalalete sapıyorlar.
 
-**İkinci Esas:** Resul-i Ekrem aleyhissalâtü vesselâm hem beşerdir, beşeriyet itibarıyla beşer gibi muamele eder. Hem resuldür, risalet itibarıyla Cenab-ı Hakk’ın tercümanıdır, elçisidir. Risaleti, vahye istinad eder. Vahiy iki kısımdır:
+### İkinci Esas
+
+Resul-i Ekrem aleyhissalâtü vesselâm hem beşerdir, beşeriyet itibarıyla beşer gibi muamele eder. Hem resuldür, risalet itibarıyla Cenab-ı Hakk’ın tercümanıdır, elçisidir. Risaleti, vahye istinad eder. Vahiy iki kısımdır:
 
 **Biri:** “**Vahy-i sarîhî**”dir ki Resul-i Ekrem aleyhissalâtü vesselâm onda sırf bir tercümandır, mübelliğdir, müdahalesi yoktur. Kur’an ve bazı ehadîs-i kudsiye gibi…
 
@@ -95,7 +137,9 @@ Cây-ı hayrettir ki Resul-i Ekrem aleyhissalâtü vesselâmın mübalağasız b
 
 Nasıl ki bir vakit huzur-u Nebevîde derince bir gürültü işitildi. Ferman etti ki: “Şu gürültü, yetmiş senedir yuvarlanıp şimdi cehennemin dibine düşmüş bir taşın gürültüsüdür.” Bir saat sonra cevap geldi ki: “Yetmiş yaşına giren meşhur bir münafık ölüp cehenneme gitti.” Zat-ı Ahmediye aleyhissalâtü vesselâmın beliğ bir temsil ile beyan ettiği hâdisenin tevilini gösterdi.
 
-**Üçüncü Esas:** Naklolunan haberler eğer tevatür suretinde olsa kat’îdir. Tevatür iki kısımdır. [^Hâşiye2] Biri “sarîh tevatür”, biri “manevî tevatür”dür.
+### Üçüncü Esas
+
+Naklolunan haberler eğer tevatür suretinde olsa kat’îdir. Tevatür iki kısımdır. [^hâşiye2] Biri “sarîh tevatür”, biri “manevî tevatür”dür.
 
 Manevî tevatür de iki kısımdır. Biri sükûtîdir. Yani, sükût ile kabul gösterilmiş. Mesela, bir cemaat içinde bir adam, o cemaatin nazarı altında bir hâdiseyi haber verse cemaat onu tekzip etmezse sükût ile mukabele etse kabul etmiş gibi olur. Hususan haber verdiği hâdisede cemaat onunla alâkadar olsa hem tenkide müheyya ve hatayı kabul etmez ve yalanı çok çirkin görür bir cemaat olsa elbette onun sükûtu o hâdisenin vukuuna kuvvetli delâlet eder.
 
@@ -119,19 +163,25 @@ Evet fenn-i hadîsin muhakkikleri, nakkadları o derece hadîs ile hususiyet pey
 
 İşte bunun içindir ki bazı olur, bir mu’cizenin vücudu ve tahakkuku, bir hükmün vücudundan on derece daha kat’î olduğu halde, onun râvisi bir iki olur; hükmün râvisi on-yirmi olur.
 
-**Dördüncü Esas:** Resul-i Ekrem aleyhissalâtü vesselâmın istikbalden haber verdiği bazı hâdiseler, cüz’î birer hâdise değil; belki tekerrür eden birer hâdise-i külliyeyi, cüz’î bir surette haber verir. Halbuki o hâdisenin müteaddid vecihleri var. Her defa bir vechini beyan eder. Sonra râvi-i hadîs o vecihleri birleştirir, hilaf-ı vaki gibi görünür.
+### Dördüncü Esas
+
+Resul-i Ekrem aleyhissalâtü vesselâmın istikbalden haber verdiği bazı hâdiseler, cüz’î birer hâdise değil; belki tekerrür eden birer hâdise-i külliyeyi, cüz’î bir surette haber verir. Halbuki o hâdisenin müteaddid vecihleri var. Her defa bir vechini beyan eder. Sonra râvi-i hadîs o vecihleri birleştirir, hilaf-ı vaki gibi görünür.
 
 Mesela, Hazret-i Mehdi’ye dair muhtelif rivayetler var. Tafsilat ve tasvirat, başka başkadır. Halbuki Yirmi Dördüncü Söz’ün bir dalında ispat edildiği gibi Resul-i Ekrem aleyhissalâtü vesselâm, vahye istinaden, her bir asırda kuvve-i maneviye-i ehl-i imanı muhafaza etmek için hem dehşetli hâdiselerde yeise düşmemek için hem âlem-i İslâmiyet’in bir silsile-i nuraniyesi olan Âl-i Beyt’ine ehl-i imanı manevî rabtetmek için Mehdi’yi haber vermiş. Âhir zamanda gelen Mehdi gibi her bir asır Âl-i Beyt’ten bir nevi mehdi, belki mehdiler bulmuş. Hattâ Âl-i Beyt’ten ma’dud olan Abbasiye hulefasından Büyük Mehdi’nin çok evsafına câmi’ bir mehdi bulmuş.
 
 İşte Büyük Mehdi’den evvel gelen emsalleri, numuneleri olan hulefa-yı mehdiyyîn ve aktab-ı mehdiyyîn evsafları, asıl Mehdi’nin evsafına karışmış ve ondan rivayetler ihtilafa düşmüş.
 
-**Beşinci Esas:** Resul-i Ekrem aleyhissalâtü vesselâm <span class="arabic" dir="rtl">لَا يَعْلَمُ الْغَيْبَ اِلَّا اللّٰهُ</span> sırrınca kendi kendine gaybı bilmezdi; belki Cenab-ı Hak ona bildirirdi, o da bildirirdi. Cenab-ı Hak hem Hakîm’dir hem Rahîm’dir. Hikmet ve rahmeti ise umûr-u gaybiyeden çoğunun setrini iktiza ediyor, mübhem kalmasını istiyor. Çünkü şu dünyada insanın hoşuna gitmeyen şeyler daha çoktur. Vukuundan evvel onları bilmek elîmdir. İşte bu sır içindir ki ölüm ve ecel, mübhem bırakılmış ve insanın başına gelecek musibetler dahi perde-i gaybda kalmış.
+### Beşinci Esas
 
-İşte hikmet-i Rabbaniye ve rahmet-i İlahiye böyle iktiza ettiği için Resul-i Ekrem aleyhissalâtü vesselâmın ümmetine karşı ziyade hassas merhametini ziyade rencide etmemek ve âl ü ashabına karşı şedit şefkatini fazla incitmemek için vefat-ı Nebevî’den sonra, âl ü ashabının ve ümmetinin başlarına gelen müthiş hâdisatı, umumiyetle ve tafsilatıyla göstermemek [^Hâşiye3] mukteza-yı hikmet ve rahmettir. Fakat yine bazı hikmetler için mühim hâdisatı –fakat dehşetli bir surette değil– ona talim etmiş. O da ihbar etmiş.
+Resul-i Ekrem aleyhissalâtü vesselâm <span class="arabic" dir="rtl">لَا يَعْلَمُ الْغَيْبَ اِلَّا اللّٰهُ</span> sırrınca kendi kendine gaybı bilmezdi; belki Cenab-ı Hak ona bildirirdi, o da bildirirdi. Cenab-ı Hak hem Hakîm’dir hem Rahîm’dir. Hikmet ve rahmeti ise umûr-u gaybiyeden çoğunun setrini iktiza ediyor, mübhem kalmasını istiyor. Çünkü şu dünyada insanın hoşuna gitmeyen şeyler daha çoktur. Vukuundan evvel onları bilmek elîmdir. İşte bu sır içindir ki ölüm ve ecel, mübhem bırakılmış ve insanın başına gelecek musibetler dahi perde-i gaybda kalmış.
+
+İşte hikmet-i Rabbaniye ve rahmet-i İlahiye böyle iktiza ettiği için Resul-i Ekrem aleyhissalâtü vesselâmın ümmetine karşı ziyade hassas merhametini ziyade rencide etmemek ve âl ü ashabına karşı şedit şefkatini fazla incitmemek için vefat-ı Nebevî’den sonra, âl ü ashabının ve ümmetinin başlarına gelen müthiş hâdisatı, umumiyetle ve tafsilatıyla göstermemek [^hâşiye3] mukteza-yı hikmet ve rahmettir. Fakat yine bazı hikmetler için mühim hâdisatı –fakat dehşetli bir surette değil– ona talim etmiş. O da ihbar etmiş.
 
 Hem güzel hâdiseleri kısmen mücmel, kısmen tafsil ile bildirmiş. O da haber vermiş. Onun haberlerini de en yüksek bir derece-i takvada ve adilde ve sıdkta çalışan ve <span class="arabic" dir="rtl">وَمَنْ كَذَبَ عَلَىَّ مُتَعَمِّدًا فَلْيَتَبَوَّاْ مَقْعَدَهُ مِنَ النَّارِ</span> hadîsindeki tehditten şiddetle korkan ve <span class="arabic" dir="rtl">فَمَنْ اَظْلَمُ مِمَّنْ كَذَبَ عَلَى اللّٰهِ</span> âyetindeki şiddetli tehditten şiddetle kaçan muhaddisîn-i kâmilîn, bize sahih bir surette o haberleri nakletmişler.
 
-**Altıncı Esas:** Resul-i Ekrem aleyhissalâtü vesselâmın ahval ve evsafı, siyer ve tarih suretiyle beyan edilmiş. Fakat o evsaf ve ahval-i galibi, beşeriyetine bakar. Halbuki o Zat-ı Mübarek’in şahs-ı manevîsi ve mahiyet-i kudsiyesi o derece yüksek ve nuranidir ki siyer ve tarihte beyan olunan evsaf, o bâlâ kamete uygun gelmiyor, o yüksek kıymete muvafık düşmüyor.
+### Altıncı Esas
+
+Resul-i Ekrem aleyhissalâtü vesselâmın ahval ve evsafı, siyer ve tarih suretiyle beyan edilmiş. Fakat o evsaf ve ahval-i galibi, beşeriyetine bakar. Halbuki o Zat-ı Mübarek’in şahs-ı manevîsi ve mahiyet-i kudsiyesi o derece yüksek ve nuranidir ki siyer ve tarihte beyan olunan evsaf, o bâlâ kamete uygun gelmiyor, o yüksek kıymete muvafık düşmüyor.
 
 Çünkü <span class="arabic" dir="rtl">اَلسَّبَبُ كَالْفَاعِلِ</span> sırrınca her gün, hattâ şimdi de bütün ümmetinin ibadetleri kadar bir azîm ibadet sahife-i kemalâtına ilâve oluyor. Nihayetsiz rahmet-i İlahiyeye, nihayetsiz bir surette, nihayetsiz bir istidat ile mazhar olduğu gibi her gün hadsiz ümmetinin hadsiz duasına mazhar oluyor. Ve şu kâinatın neticesi ve en mükemmel meyvesi ve Hâlık-ı kâinat’ın tercümanı ve sevgilisi olan o Zat-ı Mübarek’in tamam-ı mahiyeti ve hakikat-i kemalâtı, siyer ve tarihe geçen beşerî ahval ve etvara sığışmaz.
 
@@ -147,7 +197,8 @@ Mesela, bir hurma çekirdeği var. O hurma çekirdeği toprak altına konup aç�
 
 Onun için çarşı içinde bir bedevî ile nizâ eden o zatı düşündüğü vakit, Refref’e binip Cebrail’i arkada bırakıp Kab-ı Kavseyn’e koşup giden Zat-ı Nuranisine, hayal gözünü kaldırıp bakmak lâzım gelir. Yoksa ya hürmetsizlik edecek veya nefs-i emmaresi inanmayacak.
 
-#### Beşinci Nükteli İşaret
+## Beşinci Nükteli İşaret
+
 Umûr-u gaybiyeye dair hadîslerin birkaç misalini zikrederiz:
 
 Resul-i Ekrem aleyhissalâtü vesselâm, nakl-i sahih ile ve mütevatir bir derecede bize vâsıl olmuş ki minber üstünde, cemaat-i sahabe içinde ferman etmiş ki:
@@ -276,7 +327,8 @@ deyip Hazret-i Ömer ve Osman ve Ali’nin şehit olacaklarını haber vermiş. 
 
 Şimdi ey bedbaht, kalpsiz, bîçare adam! Muhammed-i Arabî akıllı bir adam idi diye o Şems-i Hakikat’e karşı gözünü yuman bîçare insan! On beş enva-ı külliye-i mu’cizatından bir tek nev’i olan umûr-u gaybiyeden on beş ve belki yüz kısmından bir kısmını işittin. Manevî tevatür derecesinde kat’î bir kısmını duydun. Şu ihbar-ı gayb kısmının yüzden birisini akıl gözüyle gören bir zata “dâhî-i a’zam” denilir ki ferasetiyle istikbali keşfediyor. Binaenaleyh senin gibi haydi deha desek yüz dâhî-i a’zam derecesinde bir deha-yı kudsiyeyi taşıyan bir adam yanlış görür mü? Yanlış haber vermeye tenezzül eder mi? Böyle yüz derece bir deha-yı a’zam sahibinin saadet-i dâreyne dair sözlerini dinlememek, elbette yüz derece divaneliğin alâmetidir.
 
-#### Altıncı Nükteli İşaret
+## Altıncı Nükteli İşaret
+
 Nakl-i sahih-i kat’î ile, Hazret-i Fatıma’ya (r.anha) ferman etmiş ki: <span class="arabic" dir="rtl">اَنْتِ اَوَّلُ اَهْلِ بَيْتٖى لُحُوقًا بٖى</span> deyip “Âl-i Beyt’imden herkesten evvel vefat edip bana iltihak edeceksin.” diye söylemiş. Altı ay sonra, haber verdiği gibi aynen zuhur etmiş.
 
 Hem Ebâ Zer’e ferman etmiş: <span class="arabic" dir="rtl">سَتُخْرَجُ مِنْ هُنَا وَتَعٖيشُ وَحْدَكَ وَتَمُوتُ وَحْدَكَ</span> deyip Medine’den nefyedilip yalnız hayat geçirip yalnız bir sahrada vefat edeceğini haber vermiş. Yirmi sene sonra haber verdiği gibi çıkmış.
@@ -385,10 +437,13 @@ Hem Zeyd İbn-i Suvahan hakkında ferman etmiş ki: <span class="arabic" dir="rt
 
 Gör ki ne kadar kat’î, şüphesiz, parlak, kuvvetli, kavî bir bürhan-ı risalettir ki bütün bütün kalbi, aklı bozulmayan elbette iman edecek ki: Zat-ı Ahmediye aleyhissalâtü vesselâm, Hâlık-ı külli şey ve Allâmü’l-guyub olan bir Zat-ı Zülcelal’in resulüdür ve ondan haber alıyor.
 
-#### Yedinci Nükteli İşaret
+## Yedinci Nükteli İşaret
+
 Mu’cizat-ı Nebeviyenin bereket-i taam hususunda olan kısmından birkaç kat’î ve manen mütevatir misaline işaret edeceğiz. Bahisten evvel bir mukaddime zikri münasiptir.
 
-***Mukaddime:*** Şu gelecek bereketli mu’cizat misalleri, her biri müteaddid tarîkle, hattâ bazıları on altı tarîkle sahih bir surette nakledilmiş. Ekserisi, bir cemaat-i kesîre huzurunda vuku bulmuş; o cemaat içinde muteber ve sadık insanlar onlardan bahsedip nakletmişler. Mesela “Sa’ denilen dört avuç taamdan yetmiş adam yemişler, tok olmuşlar.” naklediyor. O yetmiş adam, onun sözünü işitiyor, tekzip etmiyor. Demek, sükût ile tasdik ediyorlar.
+### Mukaddime
+
+Şu gelecek bereketli mu’cizat misalleri, her biri müteaddid tarîkle, hattâ bazıları on altı tarîkle sahih bir surette nakledilmiş. Ekserisi, bir cemaat-i kesîre huzurunda vuku bulmuş; o cemaat içinde muteber ve sadık insanlar onlardan bahsedip nakletmişler. Mesela “Sa’ denilen dört avuç taamdan yetmiş adam yemişler, tok olmuşlar.” naklediyor. O yetmiş adam, onun sözünü işitiyor, tekzip etmiyor. Demek, sükût ile tasdik ediyorlar.
 
 Halbuki o asr-ı sıdk ve hakikatte ve o hakperest ve ciddi ve doğru adam olan sahabeler, zerre miktar yalanı görse red ve tekzip ederler. Halbuki bahsedeceğimiz vakıaları çoklar rivayet etmiş ve ötekiler de sükût ile tasdik etmişler. Demek, her bir hâdise manen mütevatir gibi kat’îdir.
 
@@ -406,61 +461,93 @@ Sonra ehl-i keşfin tasdikiyle; yetmiş defa Resul-i Ekrem aleyhissalâtü vesse
 
 İşte buna binaen “Bu zamana kadar uzun mesafeden gelen şu zamandan tâ o zamana kadar bu hâdiseleri nasıl bileceğiz ki karışmamış ve safidir?” hatıra gelmemelidir.
 
-**Berekete dair mu’cizat-ı kat’iyenin birinci misali:** Başta Buharî ve Müslim, Kütüb-ü Sitte-i Sahiha müttefikan haber veriyorlar ki Resul-i Ekrem aleyhissalâtü vesselâmın Hazret-i Zeyneb ile tezevvücü velîmesinde, Hazret-i Enes’in validesi Ümm-ü Süleym, bir iki avuç hurmayı yağ ile kavurarak bir kaba koyup Hazret-i Enes’le Peygamber aleyhissalâtü vesselâma gönderdi. Enes’e ferman etti ki: “Filan, filanı çağır. Hem kime tesadüf etsen davet et.” Enes de kime rast geldiyse çağırdı. Üç yüz kadar sahabe gelip Suffa ve Hücre-i Saadeti doldurdular. Ferman etti: <span class="arabic" dir="rtl">تَحَلَّقُوا عَشَرَةً عَشَرَةً</span> Yani “Onar onar halka olunuz!” Sonra mübarek elini o az taam üzerine koydu, dua etti “Buyurun!” dedi. Bütün o üç yüz adam yediler, tok olup kalktılar. Enes’e ferman etmiş: “Kaldır!” Enes demiş ki: “Bilmedim, taam kabını koyduğum vakit mi taam çoktu, yoksa kaldırdığım vakit mi çoktu, fark edemedim.”
+### Berekete dair mu’cizat-ı kat’iyenin birinci misali
 
-**İkinci Misal:** Mihmandar-ı Nebevî Ebu Eyyübi’l-Ensarî hanesine teşrif-i Nebevî hengâmında Ebu Eyyüb der ki: Resul-i Ekrem aleyhissalâtü vesselâm ve Ebubekir-i Sıddık’a kâfi gelecek iki kişilik yemek yaptım. Ona ferman etti: <span class="arabic" dir="rtl">اُدْعُ ثَلَاثٖينَ مِنْ اَشْرَافِ الْاَنْصَارِ</span> Otuz adam geldiler, yediler. Sonra ferman etti: <span class="arabic" dir="rtl">اُدْعُ سِتّٖينَ</span> Altmış daha davet ettim; geldiler, yediler. Sonra ferman etti: <span class="arabic" dir="rtl">اُدْعُ سَبْعٖينَ</span> Yetmiş daha davet ettim; geldiler, yediler. Kaplarda yemek daha kaldı. Bütün gelenler o mu’cize karşısında İslâmiyet’e girip biat ettiler. O iki kişilik taamdan yüz seksen adam yediler.
+Başta Buharî ve Müslim, Kütüb-ü Sitte-i Sahiha müttefikan haber veriyorlar ki Resul-i Ekrem aleyhissalâtü vesselâmın Hazret-i Zeyneb ile tezevvücü velîmesinde, Hazret-i Enes’in validesi Ümm-ü Süleym, bir iki avuç hurmayı yağ ile kavurarak bir kaba koyup Hazret-i Enes’le Peygamber aleyhissalâtü vesselâma gönderdi. Enes’e ferman etti ki: “Filan, filanı çağır. Hem kime tesadüf etsen davet et.” Enes de kime rast geldiyse çağırdı. Üç yüz kadar sahabe gelip Suffa ve Hücre-i Saadeti doldurdular. Ferman etti: <span class="arabic" dir="rtl">تَحَلَّقُوا عَشَرَةً عَشَرَةً</span> Yani “Onar onar halka olunuz!” Sonra mübarek elini o az taam üzerine koydu, dua etti “Buyurun!” dedi. Bütün o üç yüz adam yediler, tok olup kalktılar. Enes’e ferman etmiş: “Kaldır!” Enes demiş ki: “Bilmedim, taam kabını koyduğum vakit mi taam çoktu, yoksa kaldırdığım vakit mi çoktu, fark edemedim.”
 
-**Üçüncü Misal:** Hazret-i Ömer İbni’l-Hattab ve Ebu Hüreyre ve Seleme İbni’l-Ekva ve Ebu Amrate’l-Ensarî gibi müteaddid tarîklerle diyorlar ki: Bir gazvede ordu aç kaldı. Resul-i Ekrem aleyhissalâtü vesselâma müracaat ettiler. Ferman etti ki: “Heybelerinizde kalan bakiyye-i erzakı toplayınız!” Herkes azar birer parça hurma getirdi. En çok getiren dört avuç getirebildi. Bir kilime koydular. Seleme der ki: “Mecmuunu ben tahmin ettim, oturmuş bir keçi kadar ancak vardı.” Sonra Resul-i Ekrem aleyhissalâtü vesselâm bereketle dua edip ferman etti: “Herkes kabını getirsin!” Koşuştular, geldiler. O ordu içinde hiçbir kap kalmadı, hepsini doldurdular. Hem fazla kaldı. Sahabeden bir râvi demiş: “O bereketin gidişatından anladım, eğer ehl-i arz gelseydi onlara dahi kâfi gelecekti.”
+### İkinci Misal
 
-**Dördüncü Misal:** Başta Buharî ve Müslim, kütüb-ü sahiha beyan ediyorlar ki Abdurrahman İbn-i Ebî Bekir-i Sıddık der: Biz yüz otuz sahabe, bir seferde Resul-i Ekrem aleyhissalâtü vesselâm ile beraberdik. Dört avuç miktarı olan bir sa’, ekmek için hamur yapıldı. Bir keçi dahi kesildi, pişirildi; yalnız ciğer ve böbrekleri kebap yapıldı. Kasem ederim, o kebaptan yüz otuz sahabeden her birisine bir parça kesti, verdi. Sonra Resul-i Ekrem aleyhissalâtü vesselâm, pişmiş eti iki kâseye koydu. Biz umumumuz tok oluncaya kadar yedik, fazla kaldı. Ben fazlasını deveye yükledim.
+Mihmandar-ı Nebevî Ebu Eyyübi’l-Ensarî hanesine teşrif-i Nebevî hengâmında Ebu Eyyüb der ki: Resul-i Ekrem aleyhissalâtü vesselâm ve Ebubekir-i Sıddık’a kâfi gelecek iki kişilik yemek yaptım. Ona ferman etti: <span class="arabic" dir="rtl">اُدْعُ ثَلَاثٖينَ مِنْ اَشْرَافِ الْاَنْصَارِ</span> Otuz adam geldiler, yediler. Sonra ferman etti: <span class="arabic" dir="rtl">اُدْعُ سِتّٖينَ</span> Altmış daha davet ettim; geldiler, yediler. Sonra ferman etti: <span class="arabic" dir="rtl">اُدْعُ سَبْعٖينَ</span> Yetmiş daha davet ettim; geldiler, yediler. Kaplarda yemek daha kaldı. Bütün gelenler o mu’cize karşısında İslâmiyet’e girip biat ettiler. O iki kişilik taamdan yüz seksen adam yediler.
 
-**Beşinci Misal:** Kütüb-ü sahiha kat’iyetle beyan ediyorlar ki Gazve-i Garra-i Ahzab’da, meşhur Yevmü’l-Hendek’te, Hazret-i Câbirü’l-Ensarî kasem ile ilan ediyor: O günde, dört avuç olan bir sa’ arpa ekmeğinden, bir senelik bir keçi oğlağından bin adam yediler ve öylece kaldı. Hazret-i Câbir der ki: O gün yemek, hanemde pişirildi; bütün bin adam o sa’dan, o oğlaktan yediler, gittiler. Daha tenceremiz dolu kaynıyor, daha hamurumuz ekmek yapılıyor. O hamura, o tencereye mübarek ağzının suyunu koyup bereketle dua etmişti.
+### Üçüncü Misal
+
+Hazret-i Ömer İbni’l-Hattab ve Ebu Hüreyre ve Seleme İbni’l-Ekva ve Ebu Amrate’l-Ensarî gibi müteaddid tarîklerle diyorlar ki: Bir gazvede ordu aç kaldı. Resul-i Ekrem aleyhissalâtü vesselâma müracaat ettiler. Ferman etti ki: “Heybelerinizde kalan bakiyye-i erzakı toplayınız!” Herkes azar birer parça hurma getirdi. En çok getiren dört avuç getirebildi. Bir kilime koydular. Seleme der ki: “Mecmuunu ben tahmin ettim, oturmuş bir keçi kadar ancak vardı.” Sonra Resul-i Ekrem aleyhissalâtü vesselâm bereketle dua edip ferman etti: “Herkes kabını getirsin!” Koşuştular, geldiler. O ordu içinde hiçbir kap kalmadı, hepsini doldurdular. Hem fazla kaldı. Sahabeden bir râvi demiş: “O bereketin gidişatından anladım, eğer ehl-i arz gelseydi onlara dahi kâfi gelecekti.”
+
+### Dördüncü Misal
+
+Başta Buharî ve Müslim, kütüb-ü sahiha beyan ediyorlar ki Abdurrahman İbn-i Ebî Bekir-i Sıddık der: Biz yüz otuz sahabe, bir seferde Resul-i Ekrem aleyhissalâtü vesselâm ile beraberdik. Dört avuç miktarı olan bir sa’, ekmek için hamur yapıldı. Bir keçi dahi kesildi, pişirildi; yalnız ciğer ve böbrekleri kebap yapıldı. Kasem ederim, o kebaptan yüz otuz sahabeden her birisine bir parça kesti, verdi. Sonra Resul-i Ekrem aleyhissalâtü vesselâm, pişmiş eti iki kâseye koydu. Biz umumumuz tok oluncaya kadar yedik, fazla kaldı. Ben fazlasını deveye yükledim.
+
+### Beşinci Misal
+
+Kütüb-ü sahiha kat’iyetle beyan ediyorlar ki Gazve-i Garra-i Ahzab’da, meşhur Yevmü’l-Hendek’te, Hazret-i Câbirü’l-Ensarî kasem ile ilan ediyor: O günde, dört avuç olan bir sa’ arpa ekmeğinden, bir senelik bir keçi oğlağından bin adam yediler ve öylece kaldı. Hazret-i Câbir der ki: O gün yemek, hanemde pişirildi; bütün bin adam o sa’dan, o oğlaktan yediler, gittiler. Daha tenceremiz dolu kaynıyor, daha hamurumuz ekmek yapılıyor. O hamura, o tencereye mübarek ağzının suyunu koyup bereketle dua etmişti.
 
 İşte şu mu’cize-i bereketi, bin zatın huzurunda, onları ona alâkadar göstererek Hazret-i Câbir kasemle ilan ediyor. Demek şu hâdise, bin adam rivayet etmiş gibi kat’î denilebilir.
 
-**Altıncı Misal:** –Nakl-i sahih-i kat’î ile– hâdim-i Nebevî Hazret-i Enes’in amcası meşhur Ebu Talha der ki: Resul-i Ekrem aleyhissalâtü vesselâm; yetmiş seksen adamı, Enes’in koltuğu altında getirdiği az arpa ekmeğinden tok oluncaya kadar yedirdi. “O az ekmekleri parça parça ediniz!” emretti ve bereketle dua etti. Menzil dar olduğundan onar onar gelip yediler, tok olarak gittiler.
+### Altıncı Misal
 
-**Yedinci Misal:** –Nakl-i sahih-i kat’î ile– Şifa-i Şerif ve Müslim gibi kütüb-ü sahiha beyan ederler ki Hazret-i Câbirü’l-Ensarî diyor: Bir zat, Resul-i Ekrem aleyhissalâtü vesselâmdan iyali için taam istedi. Resul-i Ekrem aleyhissalâtü vesselâm, yarım yük arpa verdi. Çok zaman o adam iyali ile ve misafirleriyle o arpadan yediler. Bakıyorlar, bitmiyor. Noksaniyetini anlamak için ölçtüler. Sonra bereket dahi kalktı, noksan olmaya başladı. Resul-i Ekrem aleyhissalâtü vesselâma geldi, vak’ayı beyan etti. Ona cevaben ferman etti: <span class="arabic" dir="rtl">لَوْ لَمْ تَكِلْهُ لَاَكَلْتُمْ مِنْهُ وَ لَقَامَ بِكُمْ</span> Yani “Eğer kile ile tecrübe etmeseydiniz hayatınızca size yeterdi.”
+–Nakl-i sahih-i kat’î ile– hâdim-i Nebevî Hazret-i Enes’in amcası meşhur Ebu Talha der ki: Resul-i Ekrem aleyhissalâtü vesselâm; yetmiş seksen adamı, Enes’in koltuğu altında getirdiği az arpa ekmeğinden tok oluncaya kadar yedirdi. “O az ekmekleri parça parça ediniz!” emretti ve bereketle dua etti. Menzil dar olduğundan onar onar gelip yediler, tok olarak gittiler.
 
-**Sekizinci Misal:** Tirmizî ve Nesaî ve Beyhakî ve Şifa-i Şerif gibi kütüb-ü sahiha beyan ediyorlar ki Hazret-i Semuretebn-i Cündüb der: Resul-i Ekrem aleyhissalâtü vesselâma bir kâse et geldi. Sabahtan akşama kadar fevc fevc adamlar geldiler, yediler.
+### Yedinci Misal
+
+–Nakl-i sahih-i kat’î ile– Şifa-i Şerif ve Müslim gibi kütüb-ü sahiha beyan ederler ki Hazret-i Câbirü’l-Ensarî diyor: Bir zat, Resul-i Ekrem aleyhissalâtü vesselâmdan iyali için taam istedi. Resul-i Ekrem aleyhissalâtü vesselâm, yarım yük arpa verdi. Çok zaman o adam iyali ile ve misafirleriyle o arpadan yediler. Bakıyorlar, bitmiyor. Noksaniyetini anlamak için ölçtüler. Sonra bereket dahi kalktı, noksan olmaya başladı. Resul-i Ekrem aleyhissalâtü vesselâma geldi, vak’ayı beyan etti. Ona cevaben ferman etti: <span class="arabic" dir="rtl">لَوْ لَمْ تَكِلْهُ لَاَكَلْتُمْ مِنْهُ وَ لَقَامَ بِكُمْ</span> Yani “Eğer kile ile tecrübe etmeseydiniz hayatınızca size yeterdi.”
+
+### Sekizinci Misal
+
+Tirmizî ve Nesaî ve Beyhakî ve Şifa-i Şerif gibi kütüb-ü sahiha beyan ediyorlar ki Hazret-i Semuretebn-i Cündüb der: Resul-i Ekrem aleyhissalâtü vesselâma bir kâse et geldi. Sabahtan akşama kadar fevc fevc adamlar geldiler, yediler.
 
 İşte mukaddimede beyan ettiğimiz sırra binaen; şu vakıa-i bereket, yalnız Semure’nin rivayeti değil belki Semure, o yemeği yiyen cemaatlerin mümessili gibi onların namına ve tasdiklerine binaen ilan ediyor.
 
-**Dokuzuncu Misal:** Şifa-i Şerif sahibi ve meşhur İbn-i Ebî Şeybe ve Taberanî gibi mevsuk ve sahih muhakkikler rivayetiyle, Hazret-i Ebu Hüreyre der: Resul-i Ekrem aleyhissalâtü vesselâm bana emretti: “Mescid-i Şerif’in suffasını mesken ittihaz eden yüzden ziyade fukara-yı muhacirîni davet et!” Ben dahi onları aradım, topladım. Umumumuza bir tabla taam konuldu. Biz, istediğimiz kadar yedik, kalktık. O kâse konulduğu vakit nasıl idi, yine öyle dolu kaldı; yalnız parmakların izi taamda görünüyordu.
+### Dokuzuncu Misal
+
+Şifa-i Şerif sahibi ve meşhur İbn-i Ebî Şeybe ve Taberanî gibi mevsuk ve sahih muhakkikler rivayetiyle, Hazret-i Ebu Hüreyre der: Resul-i Ekrem aleyhissalâtü vesselâm bana emretti: “Mescid-i Şerif’in suffasını mesken ittihaz eden yüzden ziyade fukara-yı muhacirîni davet et!” Ben dahi onları aradım, topladım. Umumumuza bir tabla taam konuldu. Biz, istediğimiz kadar yedik, kalktık. O kâse konulduğu vakit nasıl idi, yine öyle dolu kaldı; yalnız parmakların izi taamda görünüyordu.
 
 İşte Hazret-i Ebu Hüreyre, umum kâmilîn-i Ehl-i Suffa tasdikine istinaden onlar namına haber verir. Demek, manen umum Ehl-i Suffa rivayet etmiş gibi kat’îdir. Hem hiç mümkün müdür ki o haber hak ve doğru olmasa o sadık ve kâmil zatlar sükût edip tekzip etmesinler.
 
-**Onuncu Misal:** Nakl-i sahih-i kat’î ile Hazret-i İmam-ı Ali der: Resul-i Ekrem aleyhissalâtü vesselâm, Benî-Abdülmuttalib’i cem’etti. Onlar kırk adam idiler. Onlardan bazıları bir deve yavrusunu yerdi ve dört kıyye süt içerdi. Halbuki umum onlara, bir avuç kadar bir yemek yaptı; umum yeyip tok oldular. Yemek eskisi gibi kaldı. Sonra üç dört adama ancak kâfi gelir ağaçtan bir kap içinde süt getirdi. Umumen içtiler, doydular. İçilmemiş gibi bâki kaldı.
+### Onuncu Misal
+
+Nakl-i sahih-i kat’î ile Hazret-i İmam-ı Ali der: Resul-i Ekrem aleyhissalâtü vesselâm, Benî-Abdülmuttalib’i cem’etti. Onlar kırk adam idiler. Onlardan bazıları bir deve yavrusunu yerdi ve dört kıyye süt içerdi. Halbuki umum onlara, bir avuç kadar bir yemek yaptı; umum yeyip tok oldular. Yemek eskisi gibi kaldı. Sonra üç dört adama ancak kâfi gelir ağaçtan bir kap içinde süt getirdi. Umumen içtiler, doydular. İçilmemiş gibi bâki kaldı.
 
 İşte Hazret-i Ali’nin şecaati ve sadakati kat’iyetinde bir mu’cize-i bereket…
 
-**On Birinci Misal:** Nakl-i sahih ile Hazret-i Ali ve Fatımatü’z-Zehra velîmesinde, Resul-i Ekrem aleyhissalâtü vesselâm, Bilâl-i Habeşî’ye emretti: “Dört beş avuç un ekmek yapılsın ve bir deve yavrusu kesilsin.” Hazret-i Bilâl der: Ben taamı getirdim, mübarek elini üstüne vurdu; sonra taife taife sahabeler geldiler, yediler, gittiler. O yemekten bâki kalan miktara yine bereketle dua etti, bütün Ezvac-ı Tahirat’a her birine birer kâse gönderildi. Emretti ki: “Hem yesinler hem yanlarına gelenlere yedirsinler.”
+### On Birinci Misal
+
+Nakl-i sahih ile Hazret-i Ali ve Fatımatü’z-Zehra velîmesinde, Resul-i Ekrem aleyhissalâtü vesselâm, Bilâl-i Habeşî’ye emretti: “Dört beş avuç un ekmek yapılsın ve bir deve yavrusu kesilsin.” Hazret-i Bilâl der: Ben taamı getirdim, mübarek elini üstüne vurdu; sonra taife taife sahabeler geldiler, yediler, gittiler. O yemekten bâki kalan miktara yine bereketle dua etti, bütün Ezvac-ı Tahirat’a her birine birer kâse gönderildi. Emretti ki: “Hem yesinler hem yanlarına gelenlere yedirsinler.”
 
 Evet, böyle mübarek bir izdivaçta, elbette böyle bir bereket lâzımdır ve vukuu kat’îdir.
 
-**On İkinci Misal:** Hazret-i İmam-ı Cafer-i Sadık, pederleri İmam-ı Muhammedü’l-Bâkır’dan, o da pederi İmam-ı Zeynelâbidîn’den, o dahi İmam-ı Ali’den nakleder ki: Fatımatü’z-Zehra, yalnız ikisine kâfi gelecek bir yemek pişirdi. Sonra Ali’yi gönderdi; tâ Resul-i Ekrem aleyhissalâtü vesselâm gelsin, beraber yesinler. Teşrif etti ve emretti ki o yemekten her bir ezvacına birer kâse gönderildi. Sonra kendine hem Ali’ye hem Fatıma ve evlatlarına birer kâse ayrıldıktan sonra, Hazret-i Fatıma der: “Tenceremizi kaldırdık, daha dolu olup taşıyordu. Meşiet-i İlahiye ile hayli zaman o yemekten yedik.”
+### On İkinci Misal
+
+Hazret-i İmam-ı Cafer-i Sadık, pederleri İmam-ı Muhammedü’l-Bâkır’dan, o da pederi İmam-ı Zeynelâbidîn’den, o dahi İmam-ı Ali’den nakleder ki: Fatımatü’z-Zehra, yalnız ikisine kâfi gelecek bir yemek pişirdi. Sonra Ali’yi gönderdi; tâ Resul-i Ekrem aleyhissalâtü vesselâm gelsin, beraber yesinler. Teşrif etti ve emretti ki o yemekten her bir ezvacına birer kâse gönderildi. Sonra kendine hem Ali’ye hem Fatıma ve evlatlarına birer kâse ayrıldıktan sonra, Hazret-i Fatıma der: “Tenceremizi kaldırdık, daha dolu olup taşıyordu. Meşiet-i İlahiye ile hayli zaman o yemekten yedik.”
 
 Acaba niçin bu nurani, yüksek silsile-i rivayetten gelen şu mu’cize-i berekete, gözün ile görmüş gibi inanmıyorsun? Evet, buna karşı şeytan dahi bahane bulamaz.
 
-**On Üçüncü Misal:** Ebu Davud ve Ahmed İbn-i Hanbel ve İmam-ı Beyhakî gibi sadûk imamlar, Dükeynü’l-Ahmesî İbn-i Saidi’l-Müzeynî’den hem altı kardeş ile beraber sohbete müşerref ve sahabelerden olan Nu’man İbn-i Mukarrini’l-Ahmesiyyi’l-Müzeynî’den hem Cerir’den naklederek, müteaddid tarîklerle Hazret-i Ömer İbni’l-Hattab’dan naklediyorlar ki:
+### On Üçüncü Misal
+
+Ebu Davud ve Ahmed İbn-i Hanbel ve İmam-ı Beyhakî gibi sadûk imamlar, Dükeynü’l-Ahmesî İbn-i Saidi’l-Müzeynî’den hem altı kardeş ile beraber sohbete müşerref ve sahabelerden olan Nu’man İbn-i Mukarrini’l-Ahmesiyyi’l-Müzeynî’den hem Cerir’den naklederek, müteaddid tarîklerle Hazret-i Ömer İbni’l-Hattab’dan naklediyorlar ki:
 
 Resul-i Ekrem aleyhissalâtü vesselâm, Hazret-i Ömer’e emretti: “Ahmesî kabilesinden gelen dört yüz atlıya yolculuk için zâd u zahîre ver!” Hazret-i Ömer dedi: “Yâ Resulallah! Mevcud zahîre, birkaç sa’dır. Kümesi, oturmuş bir deve yavrusu kadardır.” Ferman etti: “Git ver!” O da gitti, yarım yük hurmadan, dört yüz süvariye kifayet derecesinde zâd u zahîre verdi. Ve dedi: Hiç noksan olmamış gibi eski halinde kaldı.
 
 İşte şu mu’cize-i bereket, dört yüz adamla ve bâhusus Hazret-i Ömer ile münasebettar bir surette vukua gelmiştir. Rivayetlerin arkasında bunlar var. Bunların sükûtu, tasdiktir. İki üç haber-i vâhid deyip geçme! Böyle hâdiseler haber-i vâhid dahi olsa tevatür-ü manevî hükmünde kanaat verir.
 
-**On Dördüncü Misal:** Başta Buharî ve Müslim, kütüb-ü sahiha haber veriyorlar ki: Hazret-i Câbir’in pederi vefat eder; borcu çok, ziyade medyun. Borç sahipleri de Yahudiler. Câbir, pederinin asıl malını guremaya verdi, kabul etmediler. Halbuki bağındaki meyveleri, kaç senede deynine kâfi gelmeyecek. Resul-i Ekrem aleyhissalâtü vesselâm ferman etti: “Bağın meyvelerini koparınız, harman ediniz!” Öyle yaptılar. Resul-i Ekrem aleyhissalâtü vesselâm harman içinde gezdi, dua etti.
+### On Dördüncü Misal
+
+Başta Buharî ve Müslim, kütüb-ü sahiha haber veriyorlar ki: Hazret-i Câbir’in pederi vefat eder; borcu çok, ziyade medyun. Borç sahipleri de Yahudiler. Câbir, pederinin asıl malını guremaya verdi, kabul etmediler. Halbuki bağındaki meyveleri, kaç senede deynine kâfi gelmeyecek. Resul-i Ekrem aleyhissalâtü vesselâm ferman etti: “Bağın meyvelerini koparınız, harman ediniz!” Öyle yaptılar. Resul-i Ekrem aleyhissalâtü vesselâm harman içinde gezdi, dua etti.
 
 Sonra Câbir harmandan pederinin bütün guremasının borçlarını verdikten sonra, yine bir senede bağdan gelen mahsulat kadar harmanda kaldı. Bir rivayette, bütün guremaya verdiği kadar kaldı. O hâdiseden borç sahipleri olan Yahudiler, çok taaccüb edip hayrette kaldılar.
 
 İşte şu mu’cize-i bâhire-i bereket, yalnız Hazret-i Câbir gibi birkaç râvilerin haberi değil belki manevî tevatür hükmünde, o hâdise ile münasebettar, hadd-i tevatür derecesinde çok adamları temsil ederek rivayet etmişler.
 
-**On Beşinci Misal:** Başta Tirmizî ve İmam-ı Beyhakî gibi muhakkikler, Hazret-i Ebu Hüreyre’den nakl-i sahih ile beraber haber veriyorlar ki Ebu Hüreyre demiş ki: Bir gazvede –başka bir rivayette Gazve-i Tebük’te– ordu aç kaldı. Resul-i Ekrem aleyhissalâtü vesselâm ferman etti: <span class="arabic" dir="rtl">هَلْ مِنْ شَىْءٍ؟</span> “Bir şey var mı?” diye emretti. Ben dedim: “Heybede bir parça hurma var.” (Bir rivayette, on beş tane imiş.) Dedi: “Getir!” Getirdim. Mübarek elini soktu, bir kabza çıkardı, bir kaba bıraktı; bereketle dua buyurdular. Sonra onar onar askeri çağırdı, umumen yediler. Sonra ferman etti: <span class="arabic" dir="rtl">خُذْ مَا جِئْتَ بِهٖ وَاقْبِضْ عَلَيْهِ وَلَا تَكُبَّهُ</span> Ben aldım, elimi o heybeye soktum. Evvel getirdiğim kadar elime geçti.
+### On Beşinci Misal
+
+Başta Tirmizî ve İmam-ı Beyhakî gibi muhakkikler, Hazret-i Ebu Hüreyre’den nakl-i sahih ile beraber haber veriyorlar ki Ebu Hüreyre demiş ki: Bir gazvede –başka bir rivayette Gazve-i Tebük’te– ordu aç kaldı. Resul-i Ekrem aleyhissalâtü vesselâm ferman etti: <span class="arabic" dir="rtl">هَلْ مِنْ شَىْءٍ؟</span> “Bir şey var mı?” diye emretti. Ben dedim: “Heybede bir parça hurma var.” (Bir rivayette, on beş tane imiş.) Dedi: “Getir!” Getirdim. Mübarek elini soktu, bir kabza çıkardı, bir kaba bıraktı; bereketle dua buyurdular. Sonra onar onar askeri çağırdı, umumen yediler. Sonra ferman etti: <span class="arabic" dir="rtl">خُذْ مَا جِئْتَ بِهٖ وَاقْبِضْ عَلَيْهِ وَلَا تَكُبَّهُ</span> Ben aldım, elimi o heybeye soktum. Evvel getirdiğim kadar elime geçti.
 
 Sonra Resul-i Ekrem aleyhissalâtü vesselâm hayatında, Ebubekir ve Ömer ve Osman hayatında, o hurmalardan yedim. Başka bir tarîkte rivayet edilmiş ki: O hurmalardan kaç yük, fîsebilillah sarf ettim. Sonra Hazret-i Osman’ın katlinde, o hurma kabı ile nehb ve garet edildi, gitti.
 
 İşte Hoca-i kâinat olan Fahr-i Âlem aleyhissalâtü vesselâmın kudsî medresesi ve tekyesi olan Suffa’nın demirbaş bir mühim talebesi ve müridi ve kuvve-i hâfızanın ziyadesi için dua-yı Nebeviyeye mazhar olan Hazret-i Ebu Hüreyre, Gazve-i Tebük gibi bir mecma-ı nâsta vukuunu haber verdiği şu mu’cize-i bereket; manen bir ordu sözü kadar kat’î ve kuvvetli olmak gerektir.
 
-**On Altıncı Misal:** Başta Buharî, kütüb-ü sahiha –nakl-i kat’î ile– beyan ediyorlar ki: Hazret-i Ebu Hüreyre aç olmuş, Resul-i Ekrem aleyhissalâtü vesselâmın arkasından gidip menzil-i saadete gitmişler. Bakarlar ki bir kadeh süt, oraya hediye getirilmiş. Resul-i Ekrem aleyhissalâtü vesselâm emretti ki: “Ehl-i Suffa’yı çağır!” Ben kalbimden dedim ki: “Bu sütün bütününü ben içebilirim. Ben daha ziyade muhtacım.” Fakat emr-i Nebevî için onları topladım, getirdim. Yüzü mütecaviz idiler. Ferman etti: “Onlara içir!” Ben de o kadehteki sütü birer birer verdim. Her birisi doyuncaya kadar içer, diğerine veririm. Böyle birer birer içirerek bütün Ehl-i Suffa, o safi sütten içtiler.
+### On Altıncı Misal
+
+Başta Buharî, kütüb-ü sahiha –nakl-i kat’î ile– beyan ediyorlar ki: Hazret-i Ebu Hüreyre aç olmuş, Resul-i Ekrem aleyhissalâtü vesselâmın arkasından gidip menzil-i saadete gitmişler. Bakarlar ki bir kadeh süt, oraya hediye getirilmiş. Resul-i Ekrem aleyhissalâtü vesselâm emretti ki: “Ehl-i Suffa’yı çağır!” Ben kalbimden dedim ki: “Bu sütün bütününü ben içebilirim. Ben daha ziyade muhtacım.” Fakat emr-i Nebevî için onları topladım, getirdim. Yüzü mütecaviz idiler. Ferman etti: “Onlara içir!” Ben de o kadehteki sütü birer birer verdim. Her birisi doyuncaya kadar içer, diğerine veririm. Böyle birer birer içirerek bütün Ehl-i Suffa, o safi sütten içtiler.
 
 Sonra ferman etti ki: <span class="arabic" dir="rtl">بَقِىَ اَنَا وَاَنْتَ فَاشْرَبْ</span> Ben içtim. İçtikçe “İç!” ferman eder, tâ ben dedim: “Seni hak ile irsal eden Zat-ı Zülcelal’e kasem ederim, yer kalmadı ki içeyim.” Sonra kendisi aldı. Bismillah deyip hamdederek bakiyyesini içti. Yüz bin âfiyet olsun.
 
@@ -470,7 +557,9 @@ Acaba Hazret-i Ebu Hüreyre gibi sadık ve bütün hayatını hadîse ve dine va
 
 Yâ Rab! Şu Resul-i Ekrem aleyhissalâtü vesselâmın bereketi hürmetine, bize ihsan ettiğin maddî ve manevî rızkımıza bereket ihsan et!
 
-***Bir Nükte-i Mühimme:*** Malûmdur ki zayıf şeyler içtima ettikçe kuvvetleşir. İncecik ipler topak yapılsa kuvvetli halat olur. Kuvvetli halatlar topak yapılsa kimse koparamaz. İşte on beş enva-ı mu’cizattan yalnız bereket kısmındaki mu’cizatı ve o kısmın on beş kısmından ancak bir kısmını, on beş misal ile gösterdik. Her bir misal, tek başıyla, nübüvveti ispat eder bir derecede kuvvetli idi. Farz-ı muhal olarak bunların bir kısmını kuvvetsiz saysak da yine kuvvetsiz diyemeyiz. Çünkü kavî ile ittifak eden kavîleşir.
+### Bir Nükte-i Mühimme
+
+Malûmdur ki zayıf şeyler içtima ettikçe kuvvetleşir. İncecik ipler topak yapılsa kuvvetli halat olur. Kuvvetli halatlar topak yapılsa kimse koparamaz. İşte on beş enva-ı mu’cizattan yalnız bereket kısmındaki mu’cizatı ve o kısmın on beş kısmından ancak bir kısmını, on beş misal ile gösterdik. Her bir misal, tek başıyla, nübüvveti ispat eder bir derecede kuvvetli idi. Farz-ı muhal olarak bunların bir kısmını kuvvetsiz saysak da yine kuvvetsiz diyemeyiz. Çünkü kavî ile ittifak eden kavîleşir.
 
 Hem şu on beş misalin içtimaı; kat’î, şüphesiz bir tevatür-ü manevî ile kuvvetli bir mu’cize-i kübrayı gösterir. Şimdi şu mecmudaki mu’cize-i kübra, bereket mu’cizelerinden zikredilmemiş olan on dört kısm-ı âhere mezcedilse; kuvvetli halatları topak yapmak gibi koparılması mümkün olmayan bir mu’cize-i ekber, içinde görünür.
 
@@ -480,10 +569,13 @@ Evet, berekete dair o mu’cizeler gösteriyorlar ki: Muhammed-i Arabî aleyhiss
 
 Malûmdur ki Ceziretü’l-Arap, suyu ve ziraatı az bir yerdir. Onun için ahalisi, hususan bidayet-i İslâm’daki sahabeler, dıyk-ı maişete maruzdular. Hem susuzluğa çok defa giriftar oluyorlardı. İşte bu hikmete binaen, mu’cizat-ı bâhire-i Ahmediye aleyhissalâtü vesselâmın mühimleri, taam ve su hususunda tezahür etmiş. Bu hârikalar dava-yı nübüvvete delil ve mu’cize olmaktan ziyade, ihtiyaca binaen Resul-i Ekrem aleyhissalâtü vesselâma bir ikram-ı İlahî, bir ihsan-ı Rabbanî, bir ziyafet-i Rahmaniye hükmündedir. Çünkü o mu’cizatı görenler, nübüvveti tasdik etmişler. Fakat mu’cize zuhur ettikçe iman ziyadeleşir “nurun alâ nur” olur.
 
-#### Sekizinci İşaret
+## Sekizinci İşaret
+
 Su hususunda tezahür eden bir kısım mu’cizatı beyan eder.
 
-**Mukaddime:** Malûmdur ki cemaatler içinde vuku bulan hâdiseler, âhâdî bir surette nakledilse tekzip edilmediği vakit, doğruluğunu gösterir. Çünkü insanın fıtratında yalana yalandır demeye cibillî bir meyil vardır. Hususan her kavimden ziyade yalana karşı sükût etmez sahabeler olsa hususan hâdiseler, Resul-i Ekrem aleyhissalâtü vesselâma taalluk etse ve bilhassa nakleden, meşahir-i sahabeden olsa; elbette o haber-i vâhid sahibi, o hâdiseyi gören cemaati temsil eder hükmünde rivayet eder.
+### Mukaddime
+
+Malûmdur ki cemaatler içinde vuku bulan hâdiseler, âhâdî bir surette nakledilse tekzip edilmediği vakit, doğruluğunu gösterir. Çünkü insanın fıtratında yalana yalandır demeye cibillî bir meyil vardır. Hususan her kavimden ziyade yalana karşı sükût etmez sahabeler olsa hususan hâdiseler, Resul-i Ekrem aleyhissalâtü vesselâma taalluk etse ve bilhassa nakleden, meşahir-i sahabeden olsa; elbette o haber-i vâhid sahibi, o hâdiseyi gören cemaati temsil eder hükmünde rivayet eder.
 
 Halbuki şimdi bahsedeceğimiz mu’cizat-ı mâiyeyi, her bir misali çok tarîklerle, çok sahabelerin ellerinden, binler tabiînin muhakkikleri el atıp almışlar; sağlam olarak ikinci asır müçtehidlerinin ellerine vermişler. Onlar da kemal-i ciddiyetle ve hürmetle el atıp kabul edip arkalarındaki asrın muhakkiklerinin ellerine vermişler. Her tabaka, binler kuvvetli ellerden geçip gele gele tâ asrımıza gelmiş.
 
@@ -493,15 +585,21 @@ Hem asr-ı saadette yazılan kütüb-ü ehadîsiye sağlam olarak devredilip tâ
 
 Başta Buharî, Müslim, İmam-ı Mâlik, İmam-ı Şuayb, İmam-ı Katade gibi pek çok ehl-i sahih bir cemaat, sahabelerden, başta hâdim-i Nebevî Hazret-i Enes, Hazret-i Câbir, Hazret-i İbn-i Mesud gibi meşahir-i sahabenin bir cemaatinden, parmaklarından suyun kesretle akması ve orduya içirmesi nakl-i sahih-i kat’î ile beyan edilmiştir. Bu nevi mu’cize-i mâiyeden, pek çok misallerinden dokuz misali beyan edeceğiz.
 
-**Birinci Misal:** Başta Buharî, Müslim, kütüb-ü sahiha Hazret-i Enes’ten nakl-i sahih ile haber veriyorlar ki Hazret-i Enes diyor: Zevra nam mahalde, üç yüz kişi kadar, Resul-i Ekrem aleyhissalâtü vesselâm ile beraberdik. İkindi namazı için abdest almayı emretti. Su bulunmadı. Yalnız bir parça su emretti, getirdik. Mübarek ellerini içine batırdı. Gördüm ki parmaklarından çeşme gibi su akıyor. Sonra bütün maiyetindeki üç yüz adam geldiler, umumu abdest alıp içtiler.
+### Birinci Misal
+
+Başta Buharî, Müslim, kütüb-ü sahiha Hazret-i Enes’ten nakl-i sahih ile haber veriyorlar ki Hazret-i Enes diyor: Zevra nam mahalde, üç yüz kişi kadar, Resul-i Ekrem aleyhissalâtü vesselâm ile beraberdik. İkindi namazı için abdest almayı emretti. Su bulunmadı. Yalnız bir parça su emretti, getirdik. Mübarek ellerini içine batırdı. Gördüm ki parmaklarından çeşme gibi su akıyor. Sonra bütün maiyetindeki üç yüz adam geldiler, umumu abdest alıp içtiler.
 
 İşte şu misali Hazret-i Enes, üç yüz kişiyi temsil ederek haber veriyor. Mümkün müdür ki o üç yüz kişi, şu habere manen iştirak etmesinler hem iştirak etmedikleri halde, tekzip etmesinler.
 
-**İkinci Misal:** Başta Buharî, Müslim, kütüb-ü sahiha haber veriyorlar ki Hazret-i Câbir İbn-i Abdullahi’l-Ensarî beyan ediyor: Biz bin beş yüz kişi, Gazve-i Hudeybiye’de susadık. Resul-i Ekrem aleyhissalâtü vesselâm kırba denilen deriden bir kap sudan abdest aldı, sonra elini içine soktu. Gördüm ki parmaklarından çeşme gibi su akıyor. Bin beş yüz kişi içip kaplarını o kırbadan doldurdular. Salim İbn-i Ebi’l-Ca’d, Câbir’den sormuş: “Kaç kişi idiniz?” Câbir demiş ki: “Yüz bin kişi de olsaydı yine kâfi gelirdi. Fakat biz, on beş yüz (yani bin beş yüz) idik.”
+### İkinci Misal
+
+Başta Buharî, Müslim, kütüb-ü sahiha haber veriyorlar ki Hazret-i Câbir İbn-i Abdullahi’l-Ensarî beyan ediyor: Biz bin beş yüz kişi, Gazve-i Hudeybiye’de susadık. Resul-i Ekrem aleyhissalâtü vesselâm kırba denilen deriden bir kap sudan abdest aldı, sonra elini içine soktu. Gördüm ki parmaklarından çeşme gibi su akıyor. Bin beş yüz kişi içip kaplarını o kırbadan doldurdular. Salim İbn-i Ebi’l-Ca’d, Câbir’den sormuş: “Kaç kişi idiniz?” Câbir demiş ki: “Yüz bin kişi de olsaydı yine kâfi gelirdi. Fakat biz, on beş yüz (yani bin beş yüz) idik.”
 
 İşte şu mu’cize-i bâhirenin râvileri, manen bin beş yüz kadardırlar. Çünkü fıtrat-ı beşeriyede, yalana yalan demek bir meyl-i arzusu vardır. Sahabeler ise sıdk ve doğruluk için can ve mal ve peder ve validelerini ve kavim ve kabilelerini feda edip sıdk ve hak için fedai oldukları halde hem “Benden bilerek yalan bir şey haber veren, cehennem ateşinden yerini hazırlasın!” mealindeki hadîs-i şerifin tehdidine karşı, yalana mukabil sükût etmeleri mümkün değildir. Madem sükût ettiler; o haberi kabul ettiler, manen iştirak edip tasdik ediyorlar, demektir.
 
-**Üçüncü Misal:** Gazve-i Buvat’ta, yine Buharî, Müslim başta, kütüb-ü sahiha beyan ediyorlar ki Hazret-i Câbir dedi ki: Resul-i Ekrem aleyhissalâtü vesselâm ferman etti: <span class="arabic" dir="rtl">نَادِ بِالْوُضُوءِ</span> “Abdest almak için nida et!” dediler. “Su yok.” denildi. Resul-i Ekrem aleyhissalâtü vesselâm dedi: “Bir parça su bulunuz.” Gayet az su getirdik. Sonra o az su üstüne elini kapadı, bir şeyler okudu; bilmedim ne idi. Sonra ferman etti: <span class="arabic" dir="rtl">رِدْنَا بِجَفْنَةِ الرَّكْبِ</span> Yani kafilenin büyük teştini (tekne) getir. Bana getirildi, ben de Resul-i Ekrem aleyhissalâtü vesselâmın önüne koydum. O da elini içine koydu, parmaklarını açtı. Ben de o az suyu, mübarek eli üzerine döküyordum. Gördüm ki mübarek parmaklarından kesretle su aktı, sonra teşt doldu. Suya muhtaç olanları çağırdım; bütün geldiler, o sudan abdest alıp içtiler. Ben dedim: “Daha kimse kalmadı.” Elini kaldırdı, o cefne (yani tekne) lebâleb dolu kaldı.
+### Üçüncü Misal
+
+Gazve-i Buvat’ta, yine Buharî, Müslim başta, kütüb-ü sahiha beyan ediyorlar ki Hazret-i Câbir dedi ki: Resul-i Ekrem aleyhissalâtü vesselâm ferman etti: <span class="arabic" dir="rtl">نَادِ بِالْوُضُوءِ</span> “Abdest almak için nida et!” dediler. “Su yok.” denildi. Resul-i Ekrem aleyhissalâtü vesselâm dedi: “Bir parça su bulunuz.” Gayet az su getirdik. Sonra o az su üstüne elini kapadı, bir şeyler okudu; bilmedim ne idi. Sonra ferman etti: <span class="arabic" dir="rtl">رِدْنَا بِجَفْنَةِ الرَّكْبِ</span> Yani kafilenin büyük teştini (tekne) getir. Bana getirildi, ben de Resul-i Ekrem aleyhissalâtü vesselâmın önüne koydum. O da elini içine koydu, parmaklarını açtı. Ben de o az suyu, mübarek eli üzerine döküyordum. Gördüm ki mübarek parmaklarından kesretle su aktı, sonra teşt doldu. Suya muhtaç olanları çağırdım; bütün geldiler, o sudan abdest alıp içtiler. Ben dedim: “Daha kimse kalmadı.” Elini kaldırdı, o cefne (yani tekne) lebâleb dolu kaldı.
 
 İşte şu mu’cize-i bâhire-i Ahmediye (asm) manen mütevatirdir. Çünkü Hazret-i Câbir o işte başta olduğu için birinci söz onun hakkıdır. O, umumun namına ilan ediyor. Çünkü o vakit hizmet eden o zat idi; ilan, başta onun hakkıdır.
 
@@ -511,19 +609,31 @@ Başta Buharî, Müslim, İmam-ı Mâlik, İmam-ı Şuayb, İmam-ı Katade gibi 
 
 Hazret-i Musa aleyhisselâmın taştan on iki yerde çeşme gibi su akıtması, Resul-i Ekrem aleyhissalâtü vesselâmın on parmağından on musluk suyun akmasının derecesine çıkamaz. Çünkü taştan su akması mümkündür, âdiyat içinde naziri bulunur. Fakat et ve kemikten âb-ı kevser gibi suyun kesretle akmasının naziri, âdiyat içinde yoktur.
 
-**Dördüncü Misal:** Başta İmam-ı Mâlik, Muvatta kitab-ı muteberinde, Muaz İbn-i Cebel gibi meşahir-i sahabeden haber veriyor ki Hazret-i Muaz İbn-i Cebel dedi ki: Gazve-i Tebük’te bir çeşmeye rast geldik, sicim kalınlığında güç ile akıyordu. Resul-i Ekrem aleyhissalâtü vesselâm emretti ki: “Bir parça o suyu toplayınız.” Avuçlarında bir parça topladılar. Resul-i Ekrem aleyhissalâtü vesselâm, onunla elini yüzünü yıkadı; suyu çeşmeye koyduk. Birden çeşmenin menfezi açılıp kesretle aktı, bütün orduya kâfi geldi. Hattâ bir râvi olan İmam İbn-i İshak der ki: Gök gürültüsü gibi toprak altında o çeşmenin suyu gürültü yaparak öyle aktı. Resul-i Ekrem aleyhissalâtü vesselâm, Hazret-i Muaz’a ferman etti ki: <span class="arabic" dir="rtl">يُوشِكُ يَا مُعَاذُ اِنْ طَالَتْ بِكَ حَيَاةٌ اَنْ تَرٰى مَا هٰهُنَا قَدْ مُلِئَ جِنَانًا</span> Yani bu eser-i mu’cize olan mübarek su devam edip buraları bağa çevirecek, ömrün varsa göreceksin. Ve öyle olmuştur.
+### Dördüncü Misal
 
-**Beşinci Misal:** Başta Buharî, Hazret-i Bera’dan ve Müslim, Hazret-i Selemetebn-i Ekva’dan ve sair kütüb-ü sahiha başka râvilerden müttefikan haber veriyorlar ki: Gazve-i Hudeybiye’de bir kuyuya rast geldik. Biz bin dört yüz kişi idik. O kuyunun suyu, elli kişiyi ancak idare ederdi. Biz suyu çektik, içinde bir şey bırakmadık. Resul-i Ekrem aleyhissalâtü vesselâm geldi, kuyunun başına oturdu, bir kova su istedi; getirdik. Kovanın içine mübarek ağzının suyunu bıraktı ve dua etti, sonra o kovayı kuyuya döktü. Birden kuyu coştu ve kaynadı, ağzına kadar doldu. Bütün ordu, kendileri ve hayvanatı doyuncaya kadar içtiler, kaplarını da doldurdular.
+Başta İmam-ı Mâlik, Muvatta kitab-ı muteberinde, Muaz İbn-i Cebel gibi meşahir-i sahabeden haber veriyor ki Hazret-i Muaz İbn-i Cebel dedi ki: Gazve-i Tebük’te bir çeşmeye rast geldik, sicim kalınlığında güç ile akıyordu. Resul-i Ekrem aleyhissalâtü vesselâm emretti ki: “Bir parça o suyu toplayınız.” Avuçlarında bir parça topladılar. Resul-i Ekrem aleyhissalâtü vesselâm, onunla elini yüzünü yıkadı; suyu çeşmeye koyduk. Birden çeşmenin menfezi açılıp kesretle aktı, bütün orduya kâfi geldi. Hattâ bir râvi olan İmam İbn-i İshak der ki: Gök gürültüsü gibi toprak altında o çeşmenin suyu gürültü yaparak öyle aktı. Resul-i Ekrem aleyhissalâtü vesselâm, Hazret-i Muaz’a ferman etti ki: <span class="arabic" dir="rtl">يُوشِكُ يَا مُعَاذُ اِنْ طَالَتْ بِكَ حَيَاةٌ اَنْ تَرٰى مَا هٰهُنَا قَدْ مُلِئَ جِنَانًا</span> Yani bu eser-i mu’cize olan mübarek su devam edip buraları bağa çevirecek, ömrün varsa göreceksin. Ve öyle olmuştur.
 
-**Altıncı Misal:** Yine Müslim ve İbn-i Cerir-i Taberî gibi hadîsin dâhî imamları başta olarak, kütüb-ü sahiha nakl-i sahih ile meşhur Ebî Katade’den haber veriyorlar ki Ebî Katade diyor: Mûte gazve-i meşhuresinde, reislerin şehadetleri üzerine imdada gidiyorduk. Bende bir kırba vardı. Resul-i Ekrem aleyhissalâtü vesselâm bana ferman etti: <span class="arabic" dir="rtl">اِحْفَظْ عَلَىَّ مٖيضَئَتَكَ فَسَيَكُونُ لَهَا نَبَاٌ عَظٖيمٌ</span> Yani “Kırbanı sakla, onun büyük işi var.” Sonra susuzluk başladı. Yetmiş iki kişi idik –Taberî’nin nakline göre, üç yüz idik– susuz kaldık. Resul-i Ekrem aleyhissalâtü vesselâm dedi: “Kırbanı getir.” Ben getirdim. O da aldı, ağzını ağzına getirdi, içine nefes etti etmedi, bilmem; sonra yetmiş iki kişi geldiler, içtiler, kaplarını doldurdular. Sonra ben aldım, verdiğim gibi kalmıştı.
+### Beşinci Misal
+
+Başta Buharî, Hazret-i Bera’dan ve Müslim, Hazret-i Selemetebn-i Ekva’dan ve sair kütüb-ü sahiha başka râvilerden müttefikan haber veriyorlar ki: Gazve-i Hudeybiye’de bir kuyuya rast geldik. Biz bin dört yüz kişi idik. O kuyunun suyu, elli kişiyi ancak idare ederdi. Biz suyu çektik, içinde bir şey bırakmadık. Resul-i Ekrem aleyhissalâtü vesselâm geldi, kuyunun başına oturdu, bir kova su istedi; getirdik. Kovanın içine mübarek ağzının suyunu bıraktı ve dua etti, sonra o kovayı kuyuya döktü. Birden kuyu coştu ve kaynadı, ağzına kadar doldu. Bütün ordu, kendileri ve hayvanatı doyuncaya kadar içtiler, kaplarını da doldurdular.
+
+### Altıncı Misal
+
+Yine Müslim ve İbn-i Cerir-i Taberî gibi hadîsin dâhî imamları başta olarak, kütüb-ü sahiha nakl-i sahih ile meşhur Ebî Katade’den haber veriyorlar ki Ebî Katade diyor: Mûte gazve-i meşhuresinde, reislerin şehadetleri üzerine imdada gidiyorduk. Bende bir kırba vardı. Resul-i Ekrem aleyhissalâtü vesselâm bana ferman etti: <span class="arabic" dir="rtl">اِحْفَظْ عَلَىَّ مٖيضَئَتَكَ فَسَيَكُونُ لَهَا نَبَاٌ عَظٖيمٌ</span> Yani “Kırbanı sakla, onun büyük işi var.” Sonra susuzluk başladı. Yetmiş iki kişi idik –Taberî’nin nakline göre, üç yüz idik– susuz kaldık. Resul-i Ekrem aleyhissalâtü vesselâm dedi: “Kırbanı getir.” Ben getirdim. O da aldı, ağzını ağzına getirdi, içine nefes etti etmedi, bilmem; sonra yetmiş iki kişi geldiler, içtiler, kaplarını doldurdular. Sonra ben aldım, verdiğim gibi kalmıştı.
 
 İşte şu mu’cize-i bâhire-i Ahmediyeyi (asm) gör <span class="arabic" dir="rtl">اَللّٰهُمَّ صَلِّ وَ سَلِّمْ عَلَيْهِ وَ عَلٰى اٰلِهٖ بِعَدَدِ قَطَرَاتِ الْمَاءِ</span> de.
 
-**Yedinci Misal:** Başta Buharî ve Müslim olarak kütüb-ü sahiha, Hazret-i İmran İbn-i Husayn’dan haber veriyorlar ki İmran der: Bir seferde, Resul-i Ekrem aleyhissalâtü vesselâm ile beraber susuz kaldık. Bana ve Ali’ye ferman etti ki: “Filan mevkide bir kadın, iki kırba suyu hayvana yükletmiş, gidiyor; alıp buraya getiriniz.” Ben ve Ali beraber gittik, aynı yerde kadını, su yükü ile bulduk, getirdik. Sonra emretti: “Bir kaba bir parça su boşaltınız.” Boşalttık. Bereketle dua etti. Sonra yine suyu, o hayvandaki kırbaya koyduk. Ferman etti ki: “Herkes gelsin, kabını doldursun.” Bütün kafile geldi, kaplarını doldurdular, içtiler. Sonra ferman etti: “Kadına bir şeyler toplayınız.” Kadının eteğini doldurdular. İmran diyor ki: Ben tahayyül ediyordum ki gittikçe iki kırba doluyor, daha ziyadeleşiyor. Resul-i Ekrem aleyhissalâtü vesselâm o kadına ferman etti ki: <span class="arabic" dir="rtl">اِذْهَبٖى فَاِنَّا لَمْ نَاْخُذْ مِنْ مَائِكِ شَيْئًا وَلٰكِنَّ اللّٰهَ سَقٰينَا</span> Yani senin suyundan almadık, belki Cenab-ı Hak bize hazinesinden su içirdi.
+### Yedinci Misal
 
-**Sekizinci Misal:** Başta meşhur İbn-i Huzeyme Sahih’inde, râviler Hazret-i Ömer’den naklediyorlar ki: Gazve-i Tebük’te susuz kaldık. Hattâ bazılar devesini keser, susuzluktan içini sıkar, içerdi. Ebubekiri’s-Sıddık, Resul-i Ekrem aleyhissalâtü vesselâma dua etmek için rica etti. Resul-i Ekrem aleyhissalâtü vesselâm elini kaldırdı, daha elini indirmeden bulut toplandı, yağmur öyle geldi ki kaplarımızı doldurduk. Sonra su çekildi, ordumuza mahsus olarak hududumuzu tecavüz etmedi. Demek, tesadüf içine karışmamış, sırf bir mu’cize-i Ahmediyedir (asm).
+Başta Buharî ve Müslim olarak kütüb-ü sahiha, Hazret-i İmran İbn-i Husayn’dan haber veriyorlar ki İmran der: Bir seferde, Resul-i Ekrem aleyhissalâtü vesselâm ile beraber susuz kaldık. Bana ve Ali’ye ferman etti ki: “Filan mevkide bir kadın, iki kırba suyu hayvana yükletmiş, gidiyor; alıp buraya getiriniz.” Ben ve Ali beraber gittik, aynı yerde kadını, su yükü ile bulduk, getirdik. Sonra emretti: “Bir kaba bir parça su boşaltınız.” Boşalttık. Bereketle dua etti. Sonra yine suyu, o hayvandaki kırbaya koyduk. Ferman etti ki: “Herkes gelsin, kabını doldursun.” Bütün kafile geldi, kaplarını doldurdular, içtiler. Sonra ferman etti: “Kadına bir şeyler toplayınız.” Kadının eteğini doldurdular. İmran diyor ki: Ben tahayyül ediyordum ki gittikçe iki kırba doluyor, daha ziyadeleşiyor. Resul-i Ekrem aleyhissalâtü vesselâm o kadına ferman etti ki: <span class="arabic" dir="rtl">اِذْهَبٖى فَاِنَّا لَمْ نَاْخُذْ مِنْ مَائِكِ شَيْئًا وَلٰكِنَّ اللّٰهَ سَقٰينَا</span> Yani senin suyundan almadık, belki Cenab-ı Hak bize hazinesinden su içirdi.
 
-**Dokuzuncu Misal:** Meşhur Abdullah İbn-i Amr İbni’l-Âs’ın hafidi ve dört imamın ona itimat edip ve ondan tahric-i hadîs ettikleri Amr İbn-i Şuayb’dan nakl-i sahih ile haber veriyorlar ki demiş: Nübüvvetten evvel, Resul-i Ekrem aleyhissalâtü vesselâm amcası Ebu Talib ile deveye binip Arafa civarında Zilmecaz nam mevkiye geldikleri vakit Ebu Talib demiş: “Ben susadım.” Resul-i Ekrem aleyhissalâtü vesselâm inmiş, yere ayağını vurmuş, su çıkmış; Ebu Talib içmiştir.
+### Sekizinci Misal
+
+Başta meşhur İbn-i Huzeyme Sahih’inde, râviler Hazret-i Ömer’den naklediyorlar ki: Gazve-i Tebük’te susuz kaldık. Hattâ bazılar devesini keser, susuzluktan içini sıkar, içerdi. Ebubekiri’s-Sıddık, Resul-i Ekrem aleyhissalâtü vesselâma dua etmek için rica etti. Resul-i Ekrem aleyhissalâtü vesselâm elini kaldırdı, daha elini indirmeden bulut toplandı, yağmur öyle geldi ki kaplarımızı doldurduk. Sonra su çekildi, ordumuza mahsus olarak hududumuzu tecavüz etmedi. Demek, tesadüf içine karışmamış, sırf bir mu’cize-i Ahmediyedir (asm).
+
+### Dokuzuncu Misal
+
+Meşhur Abdullah İbn-i Amr İbni’l-Âs’ın hafidi ve dört imamın ona itimat edip ve ondan tahric-i hadîs ettikleri Amr İbn-i Şuayb’dan nakl-i sahih ile haber veriyorlar ki demiş: Nübüvvetten evvel, Resul-i Ekrem aleyhissalâtü vesselâm amcası Ebu Talib ile deveye binip Arafa civarında Zilmecaz nam mevkiye geldikleri vakit Ebu Talib demiş: “Ben susadım.” Resul-i Ekrem aleyhissalâtü vesselâm inmiş, yere ayağını vurmuş, su çıkmış; Ebu Talib içmiştir.
 
 Muhakkikînden birisi demiş ki: Şu hâdise nübüvvetten evvel olduğundan irhasat kabîlinden olmakla beraber, bin sene sonra aynı yerde Arafat çeşmesi çıkması, o hâdiseye binaen bir keramet-i Ahmediye (asm) sayılabilir.
 
@@ -535,18 +645,23 @@ Başta İmam-ı Beyhakî ve Hâkim olarak kütüb-ü sahiha, Hazret-i Ömer’de
 
 Hem dua-i Nebevî ile birden ve süratle ve daha elini indirmeden yağmurun gelmesi, çok tekerrür etmiş, tek başıyla bir mu’cize-i mütevatiredir. Bazı defa camide, minber üstünde elini kaldırmış, daha indirmeden yağmış; tevatür ile nakledilmiş.
 
-#### Dokuzuncu İşaret
+## Dokuzuncu İşaret
+
 Resul-i Ekrem aleyhissalâtü vesselâmın enva-ı mu’cizatından birisi de ağaçların insanlar gibi emrini dinlemeleri ve yerinden kalkıp yanına geldikleridir ki şu mu’cize-i şeceriye, mübarek parmaklarından suyun akması gibi manen mütevatirdir. Müteaddid suretleri var ve çok tarîklerle gelmiştir.
 
 Evet, Resul-i Ekrem aleyhissalâtü vesselâmın emri için ağaç, yerinden çıkıp yanına gelmesi, sarîhan mütevatir denilebilir. Çünkü meşahir-i sıddıkîn-i sahabeden Hazret-i Ali, Hazret-i İbn-i Abbas, Hazret-i İbn-i Mesud, Hazret-i İbn-i Ömer, Hazret-i Ya’lâ İbn-i Murre, Hazret-i Câbir, Hazret-i Enes İbn-i Mâlik, Hazret-i Büreyde, Hazret-i Üsame Bin Zeyd ve Hazret-i Gaylan İbn-i Seleme gibi sahabeler; her biri kat’iyet ile aynı mu’cize-i şeceriyeyi haber vermiş. Tabiînin yüzer imamları, mezkûr sahabelerden her bir sahabeden ayrı bir tarîk ile o mu’cize-i şeceriyeyi nakletmişler. Âdeta muzaaf tevatür suretinde bize nakletmişler. İşte şu mu’cize-i şeceriye, hiçbir şüphe kabul etmez bir tevatür-ü manevî-i kat’î hükmündedir.
 
 Şimdi o mu’cize-i kübranın, tekerrür ettiği halde, birkaç sahih suretlerini, birkaç misal ile beyan edeceğiz:
 
-**Birinci Misal:** Başta İmam-ı Mâce ve Darimî ve İmam-ı Beyhakî nakl-i sahihle Hazret-i Enes İbn-i Mâlik’ten ve Hazret-i Ali’den ve Bezzar ve İmam-ı Beyhakî Hazret-i Ömer’den haber veriyorlar ki üç sahabe demişler: Resul-i Ekrem aleyhissalâtü vesselâm, küffarın tekzibinden müteessir olarak mahzun idi. Dedi: <span class="arabic" dir="rtl">يَا رَبِّ اَرِنٖى اٰيَةً لَا اُبَالٖى مَنْ كَذَّبَنٖى بَعْدَهَا</span>
+### Birinci Misal
+
+Başta İmam-ı Mâce ve Darimî ve İmam-ı Beyhakî nakl-i sahihle Hazret-i Enes İbn-i Mâlik’ten ve Hazret-i Ali’den ve Bezzar ve İmam-ı Beyhakî Hazret-i Ömer’den haber veriyorlar ki üç sahabe demişler: Resul-i Ekrem aleyhissalâtü vesselâm, küffarın tekzibinden müteessir olarak mahzun idi. Dedi: <span class="arabic" dir="rtl">يَا رَبِّ اَرِنٖى اٰيَةً لَا اُبَالٖى مَنْ كَذَّبَنٖى بَعْدَهَا</span>
 
 Enes’in rivayetinde, Hazret-i Cebrail hazır idi. Vâdi kenarında bir ağaç vardı. Hazret-i Cebrail’in i’lamıyla, Resul-i Ekrem aleyhissalâtü vesselâm o ağacı çağırdı; tâ yanına geldi. Sonra “Git!” dedi. Tekrar gitti, yerine yerleşti.
 
-**İkinci Misal:** Allâme-i Mağrib Kadı İyaz Şifa-i Şerif’te ulvi bir senetle, doğru ve sağlam bir an’ane ile Hazret-i Abdullah İbn-i Ömer’den haber veriyor ki: Bir seferde Resul-i Ekrem aleyhissalâtü vesselâmın yanına bir bedevî geldi.
+### İkinci Misal
+
+Allâme-i Mağrib Kadı İyaz Şifa-i Şerif’te ulvi bir senetle, doğru ve sağlam bir an’ane ile Hazret-i Abdullah İbn-i Ömer’den haber veriyor ki: Bir seferde Resul-i Ekrem aleyhissalâtü vesselâmın yanına bir bedevî geldi.
 
 Ferman etti: <span class="arabic" dir="rtl">اَيْنَ تُرٖيدُ؟</span> “Nereye gidiyorsun?”
 
@@ -566,7 +681,9 @@ Ferman etti: <span class="arabic" dir="rtl">هٰذِهِ الشَّجَرَةُ 
 
 Hazret-i Büreyde İbn-i Hasibi’l-Eslemî tarîkinde, nakl-i sahih ile Büreyde dedi ki: Biz, Resul-i Ekrem aleyhissalâtü vesselâmın yanında iken, bir seferde bir a’rabî geldi. Bir âyet, yani bir mu’cize istedi. Resul-i Ekrem aleyhissalâtü vesselâm ferman etti: <span class="arabic" dir="rtl">قُلْ لِتِلْكَ الشَّجَرَةِ رَسُولُ اللّٰهِ يَدْعُوكِ</span> Bir ağaca işaret etti. Ağaç sağa ve sola meylederek köklerini yerden çıkarıp huzur-u Nebevîye geldi. <span class="arabic" dir="rtl">اَلسَّلَامُ عَلَيْكَ يَا رَسُولَ اللّٰهِ</span> dedi. Sonra a’rabî dedi: “Yine yerine gitsin.” Emretti, yerine gitti. A’rabî dedi: “İzin ver, sana secde edeyim.” Dedi: “İzin yok kimseye.” Dedi: “Öyle ise senin elini ayağını öpeceğim.” İzin verdi.
 
-**Üçüncü Misal:** Başta Sahih-i Müslim, kütüb-ü sahiha haber veriyorlar ki Câbir diyor: Biz bir seferde, Resul-i Ekrem aleyhissalâtü vesselâm ile beraberdik. Kaza-yı hâcet için bir yer aradı. Settareli bir yer yoktu. Sonra gitti, iki ağaç yanına. Bir ağacın dalını tuttu, çekti. Ağaç itaat ederek beraber gitti, öteki ağacın yanına getirdi. Mutî devenin yularını tutup çekildikte geldiği gibi o iki ağacı o suretle yan yana getirdi. Sonra dedi: <span class="arabic" dir="rtl">اِلْتَئِمَا عَلَىَّ بِاِذْنِ اللّٰهِ</span> Yani “Üstüme birleşiniz.” dedi. İkisi birleşerek settare oldular. Arkalarında kaza-yı hâcet ettikten sonra onlara emretti, yerlerine gittiler.
+### Üçüncü Misal
+
+Başta Sahih-i Müslim, kütüb-ü sahiha haber veriyorlar ki Câbir diyor: Biz bir seferde, Resul-i Ekrem aleyhissalâtü vesselâm ile beraberdik. Kaza-yı hâcet için bir yer aradı. Settareli bir yer yoktu. Sonra gitti, iki ağaç yanına. Bir ağacın dalını tuttu, çekti. Ağaç itaat ederek beraber gitti, öteki ağacın yanına getirdi. Mutî devenin yularını tutup çekildikte geldiği gibi o iki ağacı o suretle yan yana getirdi. Sonra dedi: <span class="arabic" dir="rtl">اِلْتَئِمَا عَلَىَّ بِاِذْنِ اللّٰهِ</span> Yani “Üstüme birleşiniz.” dedi. İkisi birleşerek settare oldular. Arkalarında kaza-yı hâcet ettikten sonra onlara emretti, yerlerine gittiler.
 
 İkinci bir rivayette, yine Hazret-i Câbir der ki bana emretti ki:
 
@@ -574,7 +691,9 @@ Hazret-i Büreyde İbn-i Hasibi’l-Eslemî tarîkinde, nakl-i sahih ile Büreyd
 
 Yani “O ağaçlara de: Resulullah’ın hâceti için birleşiniz.” Ben öyle dedim, onlar da birleştiler. Sonra ben beklerken Resul-i Ekrem aleyhissalâtü vesselâm çıkageldi. Başıyla sağa sola işaret etti, o iki ağaç yerlerine gittiler.
 
-**Dördüncü Misal:** Nakl-i sahih ile Resul-i Ekrem aleyhissalâtü vesselâmın cesur kumandanlarından ve hizmetkârlarından olan Üsame Bin Zeyd der ki: Bir seferde, Resul-i Ekrem aleyhissalâtü vesselâm ile beraberdik. Kaza-yı hâcet için hâlî, settareli bir yer bulunmuyordu. Ferman etti ki: <span class="arabic" dir="rtl">هَلْ تَرٰى مِنْ نَخْلٍ اَوْ حِجَارَةٍ</span> Dedim: Evet var. Emretti ve dedi:
+### Dördüncü Misal
+
+Nakl-i sahih ile Resul-i Ekrem aleyhissalâtü vesselâmın cesur kumandanlarından ve hizmetkârlarından olan Üsame Bin Zeyd der ki: Bir seferde, Resul-i Ekrem aleyhissalâtü vesselâm ile beraberdik. Kaza-yı hâcet için hâlî, settareli bir yer bulunmuyordu. Ferman etti ki: <span class="arabic" dir="rtl">هَلْ تَرٰى مِنْ نَخْلٍ اَوْ حِجَارَةٍ</span> Dedim: Evet var. Emretti ve dedi:
 
 <p class="arabic" dir="rtl">اِنْطَلِقْ وَقُلْ لَهُنَّ اِنَّ رَسُولَ اللّٰهِ يَاْمُرُكُنَّ اَنْ تَاْتٖينَ لِمَخْرَجِ رَسُولِ اللّٰهِ وَقُلْ لِلْحِجَارَةِ مِثْلَ ذٰلِكَ</p>
 
@@ -582,23 +701,32 @@ Yani ağaçlara de ki: “Resulullah’ın hâceti için birleşiniz.” ve taş
 
 Şu Hazret-i Câbir ve Üsame’nin beyan ettiği iki hâdiseyi, aynen Ya’lâ İbn-i Murre ve Gaylan İbn-i Selemeti’s-Sakafî ve Hazret-i İbn-i Mesud, Gazve-i Huneyn’de aynen haber veriyorlar.
 
-**Beşinci Misal:** İmam-ı İbn-i Fûrek ki kemal-i içtihad ve fazlından kinaye olarak Şafiiyy-i Sânî unvanını alan allâme-i asr, kat’î haber veriyor ki: Gazve-i Taif’te, Resul-i Ekrem aleyhissalâtü vesselâm gece at üstünde giderken uykusu geliyordu. O halde iken bir sidre ağacına rast geldi. Ağaç ona yol verip atını incitmemek için iki şakkoldu. Resul-i Ekrem aleyhissalâtü vesselâm, hayvan ile içinden geçti. Tâ zamanımıza kadar o ağaç, iki ayak üstünde, muhterem bir vaziyette kaldı.
+### Beşinci Misal
 
-**Altıncı Misal:** Hazret-i Ya’lâ tarîkında –nakl-i sahih ile– haber veriyor ki: Bir seferde, talha veya semure denilen bir ağaç geldi, Resul-i Ekrem aleyhissalâtü vesselâmın etrafında tavaf eder gibi döndü. Sonra yine yerine gitti. Resul-i Ekrem aleyhissalâtü vesselâm ferman etti ki: <span class="arabic" dir="rtl">اِنَّهَا اِسْتَاْذَنَتْ اَنْ تُسَلِّمَ عَلَىَّ</span> Yani o ağaç, Cenab-ı Hak’tan istedi ki bana selâm etsin.
+İmam-ı İbn-i Fûrek ki kemal-i içtihad ve fazlından kinaye olarak Şafiiyy-i Sânî unvanını alan allâme-i asr, kat’î haber veriyor ki: Gazve-i Taif’te, Resul-i Ekrem aleyhissalâtü vesselâm gece at üstünde giderken uykusu geliyordu. O halde iken bir sidre ağacına rast geldi. Ağaç ona yol verip atını incitmemek için iki şakkoldu. Resul-i Ekrem aleyhissalâtü vesselâm, hayvan ile içinden geçti. Tâ zamanımıza kadar o ağaç, iki ayak üstünde, muhterem bir vaziyette kaldı.
 
-**Yedinci Misal:** Muhaddisler nakl-i sahih ile İbn-i Mesud’dan beyan ediyorlar ki İbn-i Mesud dedi: Batn-ı Nahl denilen nam mevkide, Nusaybin ecinnileri ihtida için Resul-i Ekrem aleyhissalâtü vesselâma geldikleri vakit, bir ağaç o ecinnilerin geldiklerini haber verdi.
+### Altıncı Misal
+
+Hazret-i Ya’lâ tarîkında –nakl-i sahih ile– haber veriyor ki: Bir seferde, talha veya semure denilen bir ağaç geldi, Resul-i Ekrem aleyhissalâtü vesselâmın etrafında tavaf eder gibi döndü. Sonra yine yerine gitti. Resul-i Ekrem aleyhissalâtü vesselâm ferman etti ki: <span class="arabic" dir="rtl">اِنَّهَا اِسْتَاْذَنَتْ اَنْ تُسَلِّمَ عَلَىَّ</span> Yani o ağaç, Cenab-ı Hak’tan istedi ki bana selâm etsin.
+
+### Yedinci Misal
+
+Muhaddisler nakl-i sahih ile İbn-i Mesud’dan beyan ediyorlar ki İbn-i Mesud dedi: Batn-ı Nahl denilen nam mevkide, Nusaybin ecinnileri ihtida için Resul-i Ekrem aleyhissalâtü vesselâma geldikleri vakit, bir ağaç o ecinnilerin geldiklerini haber verdi.
 
 Hem İmam-ı Mücahid, o hadîste İbn-i Mesud’dan nakleder ki: O cinniler bir delil istediler. Resul-i Ekrem aleyhissalâtü vesselâm bir ağaca emretti; yerinden çıkıp geldi, sonra yine yerine gitti. İşte cin taifesine bir tek mu’cize kâfi geldi.
 
 Acaba bu mu’cize gibi bin mu’cizat işiten bir insan imana gelmezse cinnîlerin <span class="arabic" dir="rtl">يَقُولُ سَفٖيهُنَا عَلَى اللّٰهِ شَطَطًا</span> tabir ettikleri şeytanlardan daha şeytan olmaz mı?
 
-**Sekizinci Misal:** Sahih-i Tirmizî nakl-i sahih ile Hazret-i İbn-i Abbas’tan haber veriyorlar ki İbn-i Abbas dedi ki: Resul-i Ekrem aleyhissalâtü vesselâm bir a’rabîye ferman etti: <span class="arabic" dir="rtl">اَرَاَيْتَ اِنْ دَعَوْتُ هٰذَا الْعِذْقَ مِنْ هٰذِهِ النَّخْلَةِ اَتَشْهَدُ اَنّٖى رَسُولُ اللّٰهِ؟</span> “Ben, bu ağacın şu dalını çağırsam, yanıma gelse iman edecek misin?” “Evet” dedi. Resul-i Ekrem aleyhissalâtü vesselâm çağırdı. O urcun, ağacının başından kopup Resul-i Ekrem aleyhissalâtü vesselâmın yanına atladı, geldi. Sonra emretti, yine yerine gitti.
+### Sekizinci Misal
+
+Sahih-i Tirmizî nakl-i sahih ile Hazret-i İbn-i Abbas’tan haber veriyorlar ki İbn-i Abbas dedi ki: Resul-i Ekrem aleyhissalâtü vesselâm bir a’rabîye ferman etti: <span class="arabic" dir="rtl">اَرَاَيْتَ اِنْ دَعَوْتُ هٰذَا الْعِذْقَ مِنْ هٰذِهِ النَّخْلَةِ اَتَشْهَدُ اَنّٖى رَسُولُ اللّٰهِ؟</span> “Ben, bu ağacın şu dalını çağırsam, yanıma gelse iman edecek misin?” “Evet” dedi. Resul-i Ekrem aleyhissalâtü vesselâm çağırdı. O urcun, ağacının başından kopup Resul-i Ekrem aleyhissalâtü vesselâmın yanına atladı, geldi. Sonra emretti, yine yerine gitti.
 
 İşte bu sekiz misal gibi çok misaller var, çok tarîklerle nakledilmişler. Malûmdur ki yedi sekiz urgan toplansa kuvvetli bir halat olur. Binaenaleyh şu en meşhur sıddıkîn-ı sahabeden, böyle müteaddid tarîklerle ihbar edilen şu mu’cize-i şeceriye, elbette tevatür-ü manevî kuvvetindedir; belki tevatür-ü hakikidir. Zaten sahabeden sonra tabiînin eline geçtiği vakit, tevatür suretini alır. Hususan Buharî, Müslim, İbn-i Hibban, Tirmizî gibi kütüb-ü sahiha; tâ zaman-ı sahabeye kadar, o yolu o kadar sağlam yapmışlar ve tutmuşlar ki mesela Buharî’de görmek, aynı sahabeden işitmek gibidir.
 
 Acaba o Resul-i Ekrem aleyhissalâtü vesselâma ağaçlar –misallerde göründüğü gibi– onu tanıyıp risaletini tasdik edip ona selâm ederek ziyaret edip emirlerini dinleyerek itaat ettiği halde, kendilerine insan diyen bir kısım camid, akılsız mahluklar; onu tanımazsa, iman etmezse kuru ağaçtan çok edna, odun parçası gibi ehemmiyetsiz, kıymetsiz olarak ateşe lâyık olmaz mı?
 
-#### Onuncu İşaret
+## Onuncu İşaret
+
 Şu mu’cize-i şeceriyeyi daha ziyade takviye eden, mütevatir bir surette nakledilen hanînü’l-ciz’ mu’cizesidir. Evet, Mescid-i Şerif-i Nebevîde kuru direğin büyük bir cemaat içinde, muvakkaten firak-ı Ahmedîden (asm) ağlaması; beyan ettiğimiz mu’cize-i şeceriyenin misallerini hem teyid eder hem kuvvet verir. Çünkü o da ağaçtır, cinsi birdir. Fakat şunun şahsı mütevatirdir, öteki kısımlar her birinin nev’i mütevatirdir. Cüz’iyatları, misalleri çoğu sarîh tevatür derecesine çıkmıyor.
 
 Evet, Mescid-i Şerifte hurma ağacından olan kuru direk, Resul-i Ekrem aleyhissalâtü vesselâm hutbe okurken ona dayanıyordu. Sonra minber-i şerif yapıldığı vakit, Resul-i Ekrem aleyhissalâtü vesselâm minbere çıkıp hutbeye başladı. Okurken direk deve gibi enîn edip ağladı, bütün cemaat işitti. Tâ Resul-i Ekrem aleyhissalâtü vesselâm yanına geldi, elini üstüne koydu. Onunla konuştu, teselli verdi; sonra durdu. Şu mu’cize-i Ahmediye aleyhissalâtü vesselâm pek çok tarîklerle, tevatür derecesinde nakledilmiştir.
@@ -631,7 +759,8 @@ Meşhur Hasan-ı Basrî, şu hâdise-i mu’cizeyi şakirdlerine ders verdiği v
 
 Biz de deriz ki: Evet, hem ona iştiyak ve meyil ve muhabbet, onun sünnet-i seniyesine ve şeriat-ı garrasına ittiba iledir.
 
-##### Bir Nükte-i Mühimme
+### Bir Nükte-i Mühimme
+
 ***Eğer denilse:*** Neden Gazve-i Hendek’te dört avuç taamla bin adamı doyurmak olan mu’cize-i taamiye ve mübarek parmaklarından akan su ile bin beş yüz kişiye suyu doyuruncaya kadar içiren mu’cize-i mâiye, neden şu hanîn-i ciz’ mu’cizesi gibi şaşaa ile çok kesretli tarîklerle nakledilmemiş? Halbuki o ikisi, bundan daha ziyade bir cemaatte vuku bulmuş…
 
 ***Elcevap:*** Zuhur eden mu’cizeler, iki kısımdır. Bir kısmı, nübüvveti tasdik ettirmek için Hazret-i Peygamber aleyhissalâtü vesselâm elinde izhar ediliyor. Hanîn-i ciz’ şu nevidendir ki sırf nübüvvetin tasdiki için bir hüccet olarak zuhura gelmiş ki mü’minlerin imanını ziyadeleştirmek ve münafıkları ihlasa ve imana sevk etmek ve küffarı imana getirmek için zahir olmuş. Onun için avam ve havas herkes onu gördü, onun neşrine fazla ihtimam edildi.
@@ -650,14 +779,21 @@ Hem neden Hazret-i Enes, Câbir, Ebu Hüreyre’den çok geliyor; Hazret-i Ebube
 
 Hem madem sıddık, sadûk, sadık ve musaddak bir sahabenin meşhur bir namdarı, bir tarîk ile bir hâdiseyi haber verse yeter denilir, başkasının nakline ihtiyaç da kalmaz. Onun için bazı mühim hâdiseler, iki üç tarîk ile geliyor.
 
-#### On Birinci İşaret
+## On Birinci İşaret
+
 Onuncu İşaret, nasıl ki şecer taifesindeki mu’cize-i Nebeviyeyi gösterdi. On Birinci İşaret dahi cemadatta taş ve dağ taifesinin mu’cize-i Nebeviyeyi gösterdiklerine işaret edecek. İşte biz de o çok kesretli misallerinden yedi sekiz misali zikredeceğiz:
 
-**Birinci Misal:** Allâme-i Mağrib Hazret-i Kadı-yı İyaz, Şifa-i Şerif’inde ulvi bir senetle ve Buharî sahibi gibi mühim imamlardan nakl-i sahih ile haber veriyorlar ki Hâdim-i Nebevî Hazret-i İbn-i Mesud der ki: “Biz, Resul-i Ekrem aleyhissalâtü vesselâmın yanında taam yerken, taamın tesbihlerini işitiyorduk.”
+### Birinci Misal
 
-**İkinci Misal:** Nakl-i sahih ile Enes ve Ebu Zer’den kütüb-ü sahiha haber veriyorlar ki Hazret-i Enes (hâdim-i Nebevî) demiş ki: Resul-i Ekrem aleyhissalâtü vesselâmın yanında idik. Avucuna küçük taşları aldı, mübarek elinde tesbih etmeye başladılar. Sonra Ebubekiri’s-Sıddık’ın eline koydu, yine tesbih ettiler. Ebu Zerr-i Gıffarî tarîkında der ki: Sonra Hazret-i Ömer’in eline koydu, yine tesbih ettiler. Sonra aldı yere koydu, sustular. Sonra yine aldı, Hazret-i Osman’ın eline koydu, yine tesbihe başladılar. Sonra Hazret-i Enes ve Ebu Zer diyorlar ki: “Ellerimize koydu, sustular.”
+Allâme-i Mağrib Hazret-i Kadı-yı İyaz, Şifa-i Şerif’inde ulvi bir senetle ve Buharî sahibi gibi mühim imamlardan nakl-i sahih ile haber veriyorlar ki Hâdim-i Nebevî Hazret-i İbn-i Mesud der ki: “Biz, Resul-i Ekrem aleyhissalâtü vesselâmın yanında taam yerken, taamın tesbihlerini işitiyorduk.”
 
-**Üçüncü Misal:** Hazret-i Ali ve Hazret-i Câbir ve Hazret-i Âişe-i Sıddıka’dan nakl-i sahih ile sabittir ki: Dağ, taş, Resul-i Ekrem aleyhissalâtü vesselâma “Esselâmü aleyke ya Resulallah” diyorlardı.
+### İkinci Misal
+
+Nakl-i sahih ile Enes ve Ebu Zer’den kütüb-ü sahiha haber veriyorlar ki Hazret-i Enes (hâdim-i Nebevî) demiş ki: Resul-i Ekrem aleyhissalâtü vesselâmın yanında idik. Avucuna küçük taşları aldı, mübarek elinde tesbih etmeye başladılar. Sonra Ebubekiri’s-Sıddık’ın eline koydu, yine tesbih ettiler. Ebu Zerr-i Gıffarî tarîkında der ki: Sonra Hazret-i Ömer’in eline koydu, yine tesbih ettiler. Sonra aldı yere koydu, sustular. Sonra yine aldı, Hazret-i Osman’ın eline koydu, yine tesbihe başladılar. Sonra Hazret-i Enes ve Ebu Zer diyorlar ki: “Ellerimize koydu, sustular.”
+
+### Üçüncü Misal
+
+Hazret-i Ali ve Hazret-i Câbir ve Hazret-i Âişe-i Sıddıka’dan nakl-i sahih ile sabittir ki: Dağ, taş, Resul-i Ekrem aleyhissalâtü vesselâma “Esselâmü aleyke ya Resulallah” diyorlardı.
 
 Hazret-i Ali’nin tarîkında diyor ki: Bidayet-i nübüvvette, nevahi-i Mekke’de, Resul-i Ekrem aleyhissalâtü vesselâm ile beraber gezdiğimizde, ağaç ve taşa rast geldiğimiz vakit “Esselâmü aleyke yâ Resulallah” diyorlardı.
 
@@ -667,19 +803,25 @@ Hazret-i Âişe’nin tarîkında demiş: Resul-i Ekrem aleyhissalâtü vesselâ
 
 <p class="arabic" dir="rtl">لَمَّا اسْتَقْبَلَنٖى جَبْرَائٖيلُ بِالرِّسَالَةِ جَعَلْتُ لَا اَمُرُّ بِحَجَرٍ وَلَا شَجَرٍ اِلَّا قَالَ اَلسَّلَامُ عَلَيْكَ يَا رَسُولَ اللّٰهِ</p>
 
-**Dördüncü Misal:** Nakl-i sahih ile Hazret-i Abbas’tan haber veriyorlar ki: Resul-i Ekrem aleyhissalâtü vesselâm, Abbas’ı ve dört oğlunu (Abdullah, Ubeydullah, Fazl, Kusem) beraber, mülâet denilen bir perde altına alarak üzerlerine örttü. Dedi:
+### Dördüncü Misal
+
+Nakl-i sahih ile Hazret-i Abbas’tan haber veriyorlar ki: Resul-i Ekrem aleyhissalâtü vesselâm, Abbas’ı ve dört oğlunu (Abdullah, Ubeydullah, Fazl, Kusem) beraber, mülâet denilen bir perde altına alarak üzerlerine örttü. Dedi:
 
 <p class="arabic" dir="rtl">يَا رَبِّ هٰذَا عَمّٖى وَصِنْوُ اَبٖى وَ هٰؤُلَاءِ بَنُوهُ فَاسْتُرْهُمْ مِنَ النَّارِ كَسَتْرٖى اِيَّاهُمْ بِمُلَائَتٖى</p>
 
 deyip dua etti. Birden evin damı ve kapısı ve duvarları “Âmin, âmin!” diyerek duaya iştirak ettiler.
 
-**Beşinci Misal:** Başta Buharî, İbn-i Hibban, Davud, Tirmizî gibi kütüb-ü sahiha müttefikan Hazret-i Enes’ten, Ebu Hüreyre’den, Osman-ı Zinnureyn’den, Aşere-i Mübeşşere’den Said İbn-i Zeyd’den haber veriyorlar ki: Resul-i Ekrem aleyhissalâtü vesselâm, Ebubekiri’s-Sıddık, Ömerü’l-Faruk ve Osman-ı Zinnureyn ile Uhud Dağı’nın başına çıktılar. Cebel-i Uhud ya onların mehabetlerinden veya kendi sürur ve sevincinden lerzeye geldi, kımıldandı. Resul-i Ekrem aleyhissalâtü vesselâm ferman etti ki: <span class="arabic" dir="rtl">اُثْبُتْ يَا اُحُدُ فَاِنَّمَا عَلَيْكَ نَبِىٌّ وَ صِدّٖيقٌ وَ شَهٖيدَانِ</span>
+### Beşinci Misal
+
+Başta Buharî, İbn-i Hibban, Davud, Tirmizî gibi kütüb-ü sahiha müttefikan Hazret-i Enes’ten, Ebu Hüreyre’den, Osman-ı Zinnureyn’den, Aşere-i Mübeşşere’den Said İbn-i Zeyd’den haber veriyorlar ki: Resul-i Ekrem aleyhissalâtü vesselâm, Ebubekiri’s-Sıddık, Ömerü’l-Faruk ve Osman-ı Zinnureyn ile Uhud Dağı’nın başına çıktılar. Cebel-i Uhud ya onların mehabetlerinden veya kendi sürur ve sevincinden lerzeye geldi, kımıldandı. Resul-i Ekrem aleyhissalâtü vesselâm ferman etti ki: <span class="arabic" dir="rtl">اُثْبُتْ يَا اُحُدُ فَاِنَّمَا عَلَيْكَ نَبِىٌّ وَ صِدّٖيقٌ وَ شَهٖيدَانِ</span>
 
 Şu hadîs, Hazret-i Ömer ve Osman şehit olacaklarına bir ihbar-ı gaybîdir. Şu misalin tetimmesi olarak nakledilmiş ki: Resul-i Ekrem aleyhissalâtü vesselâm Mekke’den hicret ettiği ve küffarlar takibe çıktıkları vakit, Sebir namındaki dağa çıktılar. Sebir dedi: “Yâ Resulallah, benden ininiz! Korkarım, benim üstümde sizi vururlarsa Allah beni tazip eder. Onun için korkarım.” Cebel-i Hira çağırdı: <span class="arabic" dir="rtl">يَا رَسُولَ اللّٰهِ اِلَىَّ</span> “Bana gel.” Bu sır içindir ki ehl-i kalp, Sebir’de havf ve Hira’da da emniyeti hissederler.
 
 Bu misalden anlaşılır ki o koca dağlar, birer müstakil abddir, müsebbihtir ve vazifedardırlar. Peygamber aleyhissalâtü vesselâmı tanır ve severler, başıboş değillerdir.
 
-**Altıncı Misal:** Nakl-i sahih ile Hazret-i Abdullah İbn-i Ömer’den haber veriyorlar ki demiş: Resul-i Ekrem aleyhissalâtü vesselâm minberde hutbe okurken
+### Altıncı Misal
+
+Nakl-i sahih ile Hazret-i Abdullah İbn-i Ömer’den haber veriyorlar ki demiş: Resul-i Ekrem aleyhissalâtü vesselâm minberde hutbe okurken
 
 <p class="arabic" dir="rtl">وَمَا قَدَرُوا اللّٰهَ حَقَّ قَدْرِهٖ وَالْاَرْضُ جَمٖيعًا قَبْضَتُهُ يَوْمَ الْقِيَامَةِ وَالسَّمٰوَاتُ مَطْوِيَّاتٌ بِيَمٖينِهٖ</p>
 
@@ -689,22 +831,31 @@ Bu misalden anlaşılır ki o koca dağlar, birer müstakil abddir, müsebbihtir
 
 dediği vakit, minber öyle sarsıldı ve öyle lerzeye geldi ve titredi, korktuk ki Resul-i Ekrem aleyhissalâtü vesselâmı düşürecek bir derecede sallandı.
 
-**Yedinci Misal:** Nakl-i sahih ile Habrü’l-Ümme ve Tercümanü’l-Kur’an olan Hazret-i İbn-i Abbas ve hâdim-i Nebevî ve ulema-i azîme-i sahabeden olan İbn-i Mesud’dan haber veriyorlar ki demişler: Feth-i Mekke gününde, Kâbe ve etrafında, taşta rasasla mıhlanmış üç yüz altmış sanem vardı. Resul-i Ekrem aleyhissalâtü vesselâm elinde kavse benzer bir değnekle, o sanemlere birer birer işaret ederek <span class="arabic" dir="rtl">جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ اِنَّ الْبَاطِلَ كَانَ زَهُوقًا</span> deyip hangisine işaret etti, yere düştü. Sanemin yüzüne işaret ettiyse arkasına düşer, arkasına işaret ettiyse yüzüstüne düşer ve hâkeza sanemler yere yuvarlandılar.
+### Yedinci Misal
 
-**Sekizinci Misal:** Meşhur Buheyra-yı Rahip’in meşhur kıssasıdır ki: Nübüvvetten evvel, Resul-i Ekrem aleyhissalâtü vesselâm, amcası Ebu Talib ve bir kısım Kureyşî ile beraber Şam tarafına ticarete gidiyorlar. Buheyra-yı Rahip’in kilisesi civarına geldikleri vakit oturdular. İnsanlar ile ihtilat etmeyen münzevi Buheyra-yı Rahip birden çıkageldi. Kafile içinde Muhammedü’l-Emin’i (asm) gördü. Kafileye dedi: “Şu Seyyidü’l-âlemîn’dir ve peygamber olacaktır.” Kureyşîler dediler: “Neden biliyorsun?” Mübarek rahip dedi ki: “Siz gelirken baktım ki havada üstünüzde bir parça bulut vardı. Siz otururken şu Muhammedü’l-Emin (asm) tarafına bulut meyletti, gölge yaptı. Hem görüyordum ki taş, ağaç ona secde eder gibi bir vaziyet gördüm. Bu ise nebilere yapılır.”
+Nakl-i sahih ile Habrü’l-Ümme ve Tercümanü’l-Kur’an olan Hazret-i İbn-i Abbas ve hâdim-i Nebevî ve ulema-i azîme-i sahabeden olan İbn-i Mesud’dan haber veriyorlar ki demişler: Feth-i Mekke gününde, Kâbe ve etrafında, taşta rasasla mıhlanmış üç yüz altmış sanem vardı. Resul-i Ekrem aleyhissalâtü vesselâm elinde kavse benzer bir değnekle, o sanemlere birer birer işaret ederek <span class="arabic" dir="rtl">جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ اِنَّ الْبَاطِلَ كَانَ زَهُوقًا</span> deyip hangisine işaret etti, yere düştü. Sanemin yüzüne işaret ettiyse arkasına düşer, arkasına işaret ettiyse yüzüstüne düşer ve hâkeza sanemler yere yuvarlandılar.
+
+### Sekizinci Misal
+
+Meşhur Buheyra-yı Rahip’in meşhur kıssasıdır ki: Nübüvvetten evvel, Resul-i Ekrem aleyhissalâtü vesselâm, amcası Ebu Talib ve bir kısım Kureyşî ile beraber Şam tarafına ticarete gidiyorlar. Buheyra-yı Rahip’in kilisesi civarına geldikleri vakit oturdular. İnsanlar ile ihtilat etmeyen münzevi Buheyra-yı Rahip birden çıkageldi. Kafile içinde Muhammedü’l-Emin’i (asm) gördü. Kafileye dedi: “Şu Seyyidü’l-âlemîn’dir ve peygamber olacaktır.” Kureyşîler dediler: “Neden biliyorsun?” Mübarek rahip dedi ki: “Siz gelirken baktım ki havada üstünüzde bir parça bulut vardı. Siz otururken şu Muhammedü’l-Emin (asm) tarafına bulut meyletti, gölge yaptı. Hem görüyordum ki taş, ağaç ona secde eder gibi bir vaziyet gördüm. Bu ise nebilere yapılır.”
 
 İşte bu sekiz misal gibi belki seksen misal var. Bu sekiz misal birleştirilse öyle kopmaz bir zincir olur ki hiçbir şüphe onu koparamaz ve sarsamaz. Şu cins mu’cize umumiyeti itibarıyla yani cemadatın dava-yı nübüvvete delil olarak konuşmaları, manevî tevatür hükmünde yakîni ve kat’iyeti ifade eder. Her bir misal, mecmuun kuvvetinden, kendi kuvvetinden fazla bir kuvvet daha alır. Evet zayıf bir direk, kuvvetli direklerle omuz omuza geldiği vakit, muhkemleşir. Zayıf, kuvvetsiz bir adam, asker olup orduya girse öyle kuvvetleşir ki bin adama meydan okur.
 
-#### On İkinci İşaret
+## On İkinci İşaret
+
 On Birinci İşaret’le alâkadar olan üç misal fakat gayet mühim misallerdir.
 
-**Birinci Misal:** <span class="arabic" dir="rtl">وَمَا رَمَيْتَ اِذْ رَمَيْتَ وَلٰكِنَّ اللّٰهَ رَمٰى</span> nass-ı kat’îsiyle ve ehl-i tahkik umum müfessirlerin tahkikiyle ve umum ehl-i hadîsin ihbarıyla, Gazve-i Bedir’de, şu âyet haber veriyor ki Resul-i Ekrem aleyhissalâtü vesselâm bir avuç toprak ile küçük taşları aldı, küffar ordusunun yüzüne attı <span class="arabic" dir="rtl">شَاهَتِ الْوُجُوهُ</span> dedi. <span class="arabic" dir="rtl">شَاهَتِ الْوُجُوهُ</span> kelimesi bir kelâm iken onların her birinin kulağına gitmesi gibi; o bir avuç toprak dahi her bir kâfirin gözüne gitti. Her biri kendi gözü ile meşgul olup hücumda iken birden kaçtılar.
+### Birinci Misal
+
+<span class="arabic" dir="rtl">وَمَا رَمَيْتَ اِذْ رَمَيْتَ وَلٰكِنَّ اللّٰهَ رَمٰى</span> nass-ı kat’îsiyle ve ehl-i tahkik umum müfessirlerin tahkikiyle ve umum ehl-i hadîsin ihbarıyla, Gazve-i Bedir’de, şu âyet haber veriyor ki Resul-i Ekrem aleyhissalâtü vesselâm bir avuç toprak ile küçük taşları aldı, küffar ordusunun yüzüne attı <span class="arabic" dir="rtl">شَاهَتِ الْوُجُوهُ</span> dedi. <span class="arabic" dir="rtl">شَاهَتِ الْوُجُوهُ</span> kelimesi bir kelâm iken onların her birinin kulağına gitmesi gibi; o bir avuç toprak dahi her bir kâfirin gözüne gitti. Her biri kendi gözü ile meşgul olup hücumda iken birden kaçtılar.
 
 Hem Gazve-i Huneyn’de, başta İmam-ı Müslim olarak ehl-i hadîs haber veriyorlar ki: Gazve-i Huneyn’de –Bedir gibi– küffar, şiddetle hücum ederken yine bir avuç toprak atıp <span class="arabic" dir="rtl">شَاهَتِ الْوُجُوهُ</span> diyerek, her birinin kulağına bir <span class="arabic" dir="rtl">شَاهَتِ الْوُجُوهُ</span> kelimesi girdiği gibi; biiznillah her birinin yüzüne bir avuç toprak gitti. Gözleriyle meşgul olup kaçtılar.
 
 İşte Bedir’de ve Huneyn’deki hârika olan şu hâdise esbab-ı âdi ve kudret-i beşer dâhilinde olmadığından Kur’an-ı Mu’cizü’l-Beyan <span class="arabic" dir="rtl">وَمَا رَمَيْتَ اِذْ رَمَيْتَ وَلٰكِنَّ اللّٰهَ رَمٰى</span> ferman eder. Yani “O hâdise kudret-i beşer haricindedir. Kuvve-i beşeriye ile değil belki fevkalâde bir surette, kudret-i İlahiye ile olmuştur.”
 
-**İkinci Misal:** Başta Buharî, Müslim, kütüb-ü sahiha haber veriyorlar ki: Gazve-i Hayber’de bir Yahudi kadını, bir keçiyi biryan yapıp pişirmiş, gayet müessir bir zehir ile zehirlemiş. Resul-i Ekrem aleyhissalâtü vesselâma göndermiş. Sahabeler yemeye başladılar. Birden ferman etti: <span class="arabic" dir="rtl">اِرْفَعُوا اَيْدِيَكُمْ اِنَّهَا اَخْبَرَتْنٖى اَنَّهَا مَسْمُومَةٌ</span> Yani pişirilen keçi bana der ki: “Ben zehirliyim!” diye haber veriyor. Herkes elini çekti. Fakat o şiddetli zehirin tesirinden Bişr İbni’l-Berra, aldığı bir tek lokmadan vefat etti. Resul-i Ekrem aleyhissalâtü vesselâm, o Zeyneb ismindeki kadını çağırdı. Ferman etti: “Neden böyle yaptın?” O menhuse dedi: “Eğer peygamber isen sana zarar vermeyecek, eğer padişah isen insanları senden kurtarmak için yaptım.”
+### İkinci Misal
+
+Başta Buharî, Müslim, kütüb-ü sahiha haber veriyorlar ki: Gazve-i Hayber’de bir Yahudi kadını, bir keçiyi biryan yapıp pişirmiş, gayet müessir bir zehir ile zehirlemiş. Resul-i Ekrem aleyhissalâtü vesselâma göndermiş. Sahabeler yemeye başladılar. Birden ferman etti: <span class="arabic" dir="rtl">اِرْفَعُوا اَيْدِيَكُمْ اِنَّهَا اَخْبَرَتْنٖى اَنَّهَا مَسْمُومَةٌ</span> Yani pişirilen keçi bana der ki: “Ben zehirliyim!” diye haber veriyor. Herkes elini çekti. Fakat o şiddetli zehirin tesirinden Bişr İbni’l-Berra, aldığı bir tek lokmadan vefat etti. Resul-i Ekrem aleyhissalâtü vesselâm, o Zeyneb ismindeki kadını çağırdı. Ferman etti: “Neden böyle yaptın?” O menhuse dedi: “Eğer peygamber isen sana zarar vermeyecek, eğer padişah isen insanları senden kurtarmak için yaptım.”
 
 Bazı rivayette onu öldürtmemiş, bazı tarîkte öldürtmüş. Ehl-i tahkik demiş ki: Kendi öldürtmemiş fakat Bişr’in veresesine verilmiş, onlar öldürmüşler. Şu vak’a-i acibedeki vech-i i’cazı gösterecek iki üç noktayı dinle:
 
@@ -714,7 +865,9 @@ Bazı rivayette onu öldürtmemiş, bazı tarîkte öldürtmüş. Ehl-i tahkik d
 
 **Üçüncüsü:** Hem dessas Yahudiler, Resul-i Ekrem aleyhissalâtü vesselâma ve mukarrebîn-i sahabeye birden darbe vurmak istedikleri halde, birden gaibden haber verilmiş gibi hâdisenin inkişafı ve desiselerinin akîm kalması ve o ihbarın ifade ettiği vakıa doğru çıkması ve hiçbir vakit sahabeleri nazarında mütehalif bir haberi görülmeyen Zat-ı Ahmediye’nin “Şu keçinin kolu bana söylüyor.” demesi; herkesin kulağıyla o keçiden, o sözü işitmesi kadar kanaat-i kat’iyeleri olmuş.
 
-**Üçüncü Misal:** Hazret-i Musa aleyhisselâmın “yed-i beyza” ve “asâ” mu’cizesine nazire olarak üç hâdisede bir mu’cize-i Ahmediye:
+### Üçüncü Misal
+
+Hazret-i Musa aleyhisselâmın “yed-i beyza” ve “asâ” mu’cizesine nazire olarak üç hâdisede bir mu’cize-i Ahmediye:
 
 **Birincisi:** Hazret-i İmam-ı Ahmed İbn-i Hanbel, Ebî Saidi’l-Hudrî’den tahric ve tashih eder ki Resul-i Ekrem aleyhissalâtü vesselâm Katade İbn-i Nu’man’a karanlıklı, yağmurlu bir gecede bir değnek verir ve ferman eder ki: “Sana lamba gibi onar arşın her tarafta ışık verecek. Evine gittiğin zaman, bir siyah şahıs gölge göreceksin. O, şeytandır. Onu hanenden çıkar, tard et.” Katade değneği alır, gider. Yed-i beyza gibi ışık verir. Evine gider; o siyah şahsı görür, tard eder.
 
@@ -724,28 +877,37 @@ Bazı rivayette onu öldürtmemiş, bazı tarîkte öldürtmüş. Ehl-i tahkik d
 
 İşte bu iki kılınç asâ-yı Musa gibi birer mu’cizedir. Fakat asâ-yı Musa vefat-ı Musa’dan sonra vech-i i’cazı kalmadı. Fakat şunlar bâki kaldılar.
 
-#### On Üçüncü İşaret
+## On Üçüncü İşaret
+
 Mu’cizat-ı Ahmediye aleyhissalâtü vesselâmın hem mütevatir hem misalleri pek çok bir nev’i dahi hastalar ve yaralılar nefes-i mübareğiyle şifa bulmalarıdır. Şu nevi mu’cize-i Ahmediye aleyhissalâtü vesselâm, nev’i itibarıyla manevî mütevatirdir. Cüz’iyatları, bir kısmı dahi manevî mütevatir hükmündedir. Diğer kısmı âhâdî ise de ilm-i hadîsin müdakkik imamları tashih ve tahric ettikleri için kanaat-i ilmiye verir. Biz de pek çok misallerinden birkaç misalini zikredeceğiz:
 
-**Birinci Misal:** Allâme-i Mağrib Kadı-yı İyaz, Şifa-i Şerif’inde, ulvi bir an’ane ile ve müteaddid tarîklerle, Resul-i Ekrem aleyhissalâtü vesselâmın hâdimi ve bir kumandanı ve Hazret-i Ömer’in zamanında ordu-yu İslâm’ın baş kumandanı ve İran’ın fatihi ve Aşere-i Mübeşşere’den olan Hazret-i Sa’d İbn-i Ebî Vakkas diyor:
+### Birinci Misal
+
+Allâme-i Mağrib Kadı-yı İyaz, Şifa-i Şerif’inde, ulvi bir an’ane ile ve müteaddid tarîklerle, Resul-i Ekrem aleyhissalâtü vesselâmın hâdimi ve bir kumandanı ve Hazret-i Ömer’in zamanında ordu-yu İslâm’ın baş kumandanı ve İran’ın fatihi ve Aşere-i Mübeşşere’den olan Hazret-i Sa’d İbn-i Ebî Vakkas diyor:
 
 Gazve-i Uhud’da ben Resul-i Ekrem aleyhissalâtü vesselâmın yanında idim. Resul-i Ekrem aleyhissalâtü vesselâm, o gün kavsi kırılıncaya kadar küffara oklar attı. Sonra bana okları veriyordu “At!” diyordu. Nasl’sız, yani okun uçmasına yardım eden kanatları olmayan okları verirdi. Ve bana emrederdi: “At!” ben de atardım. Kanatlı oklar gibi uçardı, küffarın cesedine yerleşirdi. O halde iken, Katade İbn-i Nu’man’ın gözüne bir ok isabet etmiş, gözünü çıkarıp gözünün hadekası yüzünün üstüne indi. Resul-i Ekrem aleyhissalâtü vesselâm mübarek, şifalı eliyle onun gözünü alıp eski yuvasına yerleştirip iki gözünden en güzeli olarak hiçbir şey olmamış gibi şifa buldu.
 
-Şu vakıa çok iştihar etmiş. Hattâ Katade’nin bir hafidi, Ömer İbn-i Abdilaziz’in yanına geldiği vakit, kendini şöyle tarif etmiş: “Ben öyle bir zatın hafidiyim ki Resul-i Ekrem aleyhissalâtü vesselâm onun çıkmış gözünü yerine koyup birden şifa buldu. En güzel göz o olmuş.” diye nazım suretinde [^Hâşiye4] Hazret-i Ömer’e söylemiş; onun ile kendini tanıttırmış.
+Şu vakıa çok iştihar etmiş. Hattâ Katade’nin bir hafidi, Ömer İbn-i Abdilaziz’in yanına geldiği vakit, kendini şöyle tarif etmiş: “Ben öyle bir zatın hafidiyim ki Resul-i Ekrem aleyhissalâtü vesselâm onun çıkmış gözünü yerine koyup birden şifa buldu. En güzel göz o olmuş.” diye nazım suretinde [^hâşiye4] Hazret-i Ömer’e söylemiş; onun ile kendini tanıttırmış.
 
 Hem nakl-i sahih ile haber verilmiş ki: Meşhur Ebî Katade’nin, Yevm-i Zîkarad denilen gazvede, bir ok mübarek yüzüne isabet etmiş. Resul-i Ekrem aleyhissalâtü vesselâm, mübarek eliyle meshetmiş. Ebî Katade der ki: Kat’iyen ve aslâ ne acısını ve ne de cerahatini görmedim.
 
-**İkinci Misal:** Başta Buharî ve Müslim, kütüb-ü sahiha haber veriyorlar ki: Gazve-i Hayber’de, Resul-i Ekrem aleyhissalâtü vesselâm Aliyy-i Haydarî’yi bayraktar tayin ettiği halde, Ali’nin gözleri hastalıktan çok ağrıyordu. Resul-i Ekrem aleyhissalâtü vesselâm tiryak gibi tükürüğünü gözüne sürdüğü dakikada, şifa bularak hiçbir şey kalmadı. Sabahleyin Hayber Kalesi’nin pek ağır demir kapısını çekip elinde kalkan gibi tutup Kale-i Hayber’i fethetti.
+### İkinci Misal
+
+Başta Buharî ve Müslim, kütüb-ü sahiha haber veriyorlar ki: Gazve-i Hayber’de, Resul-i Ekrem aleyhissalâtü vesselâm Aliyy-i Haydarî’yi bayraktar tayin ettiği halde, Ali’nin gözleri hastalıktan çok ağrıyordu. Resul-i Ekrem aleyhissalâtü vesselâm tiryak gibi tükürüğünü gözüne sürdüğü dakikada, şifa bularak hiçbir şey kalmadı. Sabahleyin Hayber Kalesi’nin pek ağır demir kapısını çekip elinde kalkan gibi tutup Kale-i Hayber’i fethetti.
 
 Hem o vakıada, Seleme İbn-i Ekva’ın bacağına kılınç vurulmuş, yarılmış. Resul-i Ekrem aleyhissalâtü vesselâm ona nefes edip birden ayağı şifa bulmuş.
 
-**Üçüncü Misal:** Başta Nesaî olarak erbab-ı siyer, Osman İbn-i Huneyf’ten haber veriyorlar ki Osman diyor ki: Resul-i Ekrem aleyhissalâtü vesselâmın yanına bir âmâ geldi, dedi: “Benim gözlerimin açılması için dua et.” Resul-i Ekrem aleyhissalâtü vesselâm ona ferman etti:
+### Üçüncü Misal
+
+Başta Nesaî olarak erbab-ı siyer, Osman İbn-i Huneyf’ten haber veriyorlar ki Osman diyor ki: Resul-i Ekrem aleyhissalâtü vesselâmın yanına bir âmâ geldi, dedi: “Benim gözlerimin açılması için dua et.” Resul-i Ekrem aleyhissalâtü vesselâm ona ferman etti:
 
 <p class="arabic" dir="rtl">فَانْطَلِقْ وَتَوَضَّاْ ثُمَّ صَلِّ رَكْعَتَيْنِ وَقُلِ اللّٰهُمَّ اِنّٖى اَسْئَلُكَ وَاَتَوَجَّهُ اِلَيْكَ بِنَبِىِّ مُحَمَّدٍ نَبِىِّ الرَّحْمَةِ يَا مُحَمَّدُ اِنّٖى اَتَوَجَّهُ بِكَ اِلٰى رَبِّكَ اَنْ يَكْشِفَ عَنْ بَصَرٖى اَللّٰهُمَّ شَفِّعْهُ فِىَّ</p>
 
 O gitti, öyle yaptı, geldi. Gözü açılmış, güzel görüyormuş, gördük.
 
-**Dördüncü Misal:** Büyük bir imam olan İbn-i Vehb haber veriyor ki: Gazve-i Bedr’in on dört şehidinden birisi olan Muavviz İbn-i Afra’, Ebucehil ile dövüşürken Ebucehil-i Laîn, o kahramanın bir elini kesmiş. O da öteki eliyle elini tutup Resul-i Ekrem aleyhissalâtü vesselâmın yanına gelmiş. Resul-i Ekrem aleyhissalâtü vesselâm onun elini yine yerine yapıştırdı, tükürüğünü ona sürdü; birden şifa buldu. Yine harbe gitti, şehit oluncaya kadar harp etti.
+### Dördüncü Misal
+
+Büyük bir imam olan İbn-i Vehb haber veriyor ki: Gazve-i Bedr’in on dört şehidinden birisi olan Muavviz İbn-i Afra’, Ebucehil ile dövüşürken Ebucehil-i Laîn, o kahramanın bir elini kesmiş. O da öteki eliyle elini tutup Resul-i Ekrem aleyhissalâtü vesselâmın yanına gelmiş. Resul-i Ekrem aleyhissalâtü vesselâm onun elini yine yerine yapıştırdı, tükürüğünü ona sürdü; birden şifa buldu. Yine harbe gitti, şehit oluncaya kadar harp etti.
 
 Hem yine İmam-ı Celil İbn-i Vehb haber veriyor ki: O gazvede Hubeyb İbn-i Yesaf’ın omuz başına bir kılınç vurulmuş ki bir şakkı ayrılmış gibi dehşetli bir yara açılmış. Resul-i Ekrem aleyhissalâtü vesselâm onun kolunu omuzuna eliyle yapıştırmış, nefes etmiş; şifa bulmuş.
 
@@ -755,7 +917,8 @@ Hem yine İmam-ı Celil İbn-i Vehb haber veriyor ki: O gazvede Hubeyb İbn-i Ye
 
 ***
 
-##### Bu parça altın ve elmas ile yazılsa liyakati var
+### Bu parça altın ve elmas ile yazılsa liyakati var
+
 Evet sâbıkan bahsi geçmiş: Avucunda küçük taşların zikir ve tesbih etmesi <span class="arabic" dir="rtl">وَمَا رَمَيْتَ اِذْ رَمَيْتَ</span> sırrıyla aynı avucunda, küçücük taş ve toprak, düşmana top ve gülle hükmünde onları inhizama sevk etmesi <span class="arabic" dir="rtl">وَ انْشَقَّ الْقَمَرُ</span> nassı ile aynı avucunun parmağıyla kameri iki parça etmesi ve aynı el, çeşme gibi on parmağından suyun akması ve bir orduya içirmesi ve aynı el, hastalara ve yaralılara şifa olması, elbette o mübarek el, ne kadar hârika bir mu’cize-i kudret-i İlahiye olduğunu gösterir.
 
 Güya ahbap içinde o elin avucu küçük bir zikirhane-i Sübhanîdir ki küçücük taşlar dahi içine girse zikir ve tesbih ederler.
@@ -778,13 +941,21 @@ Acaba böyle bir zatın bir tek eli, böyle acib mu’cizata mazhar ve medar ols
 
 Şimdi haber verdiğimiz hakiki mütevatir veya manevî mütevatir veya tevatür hükmünde kat’iyeti ifade eden vakıalar hem ehl-i hadîs hem ehl-i şeriat hem ehl-i usûlü’d-din hem ekser tabakat-ı ulemada hükmünü öyle göstermiş. Gaflette bulunan avam veya gözünü kapayan nâdanlar bilmezlerse kabahat onlara aittir.
 
-**Beşinci Misal:** İmam-ı Bağavî tahrici ve tashihi ile haber veriyor ki: Ali ibni’l-Hakem’in Gazve-i Hendek’te küffarın darbesiyle ayağı kırıldı. Resul-i Ekrem aleyhissalâtü vesselâm meshetti. Dakikasında öyle şifa buldu ki atından inmedi.
+### Beşinci Misal
 
-**Altıncı Misal:** Başta İmam-ı Beyhakî, ehl-i hadîs haber veriyorlar ki: İmam-ı Ali gayet hasta idi. Izdırabından kendi kendine dua edip inliyordu. Resul-i Ekrem aleyhissalâtü vesselâm geldi, dedi: <span class="arabic" dir="rtl">اَللّٰهُمَّ اشْفِهٖ</span> Ve ayağıyla Hazret-i Ali’ye dokundu “Kalk!” dedi. Birden şifa buldu. İmam-ı Ali der ki: “Ondan sonra o hastalığı hiç görmedim.”
+İmam-ı Bağavî tahrici ve tashihi ile haber veriyor ki: Ali ibni’l-Hakem’in Gazve-i Hendek’te küffarın darbesiyle ayağı kırıldı. Resul-i Ekrem aleyhissalâtü vesselâm meshetti. Dakikasında öyle şifa buldu ki atından inmedi.
 
-**Yedinci Misal:** Şürehbile’l-Cuhfî’nin meşhur kıssasıdır ki: Avucunda etten bir ur vardı ki kılıncı ve atın dizginini tutamıyordu. Resul-i Ekrem aleyhissalâtü vesselâm eliyle avucundaki uru meshetti ve mübarek eliyle ovdu. O urdan hiçbir eser kalmadı.
+### Altıncı Misal
 
-**Sekizinci Misal:** Altı çocuğun her biri ayrı ayrı birer mu’cize-i Ahmediyeye mazhar oldu.
+Başta İmam-ı Beyhakî, ehl-i hadîs haber veriyorlar ki: İmam-ı Ali gayet hasta idi. Izdırabından kendi kendine dua edip inliyordu. Resul-i Ekrem aleyhissalâtü vesselâm geldi, dedi: <span class="arabic" dir="rtl">اَللّٰهُمَّ اشْفِهٖ</span> Ve ayağıyla Hazret-i Ali’ye dokundu “Kalk!” dedi. Birden şifa buldu. İmam-ı Ali der ki: “Ondan sonra o hastalığı hiç görmedim.”
+
+### Yedinci Misal
+
+Şürehbile’l-Cuhfî’nin meşhur kıssasıdır ki: Avucunda etten bir ur vardı ki kılıncı ve atın dizginini tutamıyordu. Resul-i Ekrem aleyhissalâtü vesselâm eliyle avucundaki uru meshetti ve mübarek eliyle ovdu. O urdan hiçbir eser kalmadı.
+
+### Sekizinci Misal
+
+Altı çocuğun her biri ayrı ayrı birer mu’cize-i Ahmediyeye mazhar oldu.
 
 **Birincisi:** İbn-i Ebî Şeybe –muhakkik-i kâmil ve muhaddis-i meşhur– haber veriyor ki: Bir kadın bir çocuğu, Resul-i Ekrem aleyhissalâtü vesselâmın yanına getirdi. O çocukta bir bela vardı, konuşmuyordu, aptal idi. Resul-i Ekrem aleyhissalâtü vesselâm bir su ile mazmaza etti, elini yıkadı. O suyu kadına verdi, çocuğa içirsin ferman etti. Çocuk o suyu içtikten sonra, hastalığından ve belasından bir şey kalmadı. Öyle bir akıl ve kemal sahibi oldu ki ukalâ-yı nâsın fevkine çıktı.
 
@@ -806,10 +977,13 @@ Hattâ kırk defa hacceden ve kırk sene sabah namazını yatsı abdestiyle kıl
 
 İşte asr-ı saadete yetişmiş böyle bir imam, böyle kat’î ve küllî hükmetmişse elbette ona gelen hiçbir hasta kalmamış ki illâ şifa bulmuş. Madem şifa bulmuş elbette müracaatlar binler olacaktır.
 
-#### On Dördüncü İşaret
+## On Dördüncü İşaret
+
 Resul-i Ekrem aleyhissalâtü vesselâmın enva-ı mu’cizatından bir nev-i azîmi, duasıyla zahir olan hârikalardır. Evet, şu nevi kat’î ve hakiki mütevatirdir. Cüz’iyat ve misalleri o kadar çoktur ki hesap edilmez. Misallerin çokları var ki onlar da mütevatir derecesine çıkmışlar. Belki tevatüre yakın meşhur olmuşlar. Bir kısmını öyle imamlar nakletmiş ki meşhur mütevatir gibi kat’iyeti ifade eder. Biz şu pek çok misallerinden tevatüre yakın ve meşhur derecesinde münteşir bazı misalleri, numune olarak ve her misalinde birkaç cüz’iyatını zikredeceğiz:
 
-**Birinci Misal:** Resul-i Ekrem aleyhissalâtü vesselâmın yağmur duası, tevatür derecesinde ve çok defa tekrar ile daima süratle kabul olması, başta İmam-ı Buharî ve İmam-ı Müslim, eimme-i hadîs nakletmişler. Hattâ bazı defa minber-i şerif üstünde, yağmur duası için elini kaldırıp indirmeden yağmış. Sâbıkan zikrettiğimiz gibi bir iki defa ordu susuz kaldığı vakit bulut geliyordu, yağmur veriyordu.
+### Birinci Misal
+
+Resul-i Ekrem aleyhissalâtü vesselâmın yağmur duası, tevatür derecesinde ve çok defa tekrar ile daima süratle kabul olması, başta İmam-ı Buharî ve İmam-ı Müslim, eimme-i hadîs nakletmişler. Hattâ bazı defa minber-i şerif üstünde, yağmur duası için elini kaldırıp indirmeden yağmış. Sâbıkan zikrettiğimiz gibi bir iki defa ordu susuz kaldığı vakit bulut geliyordu, yağmur veriyordu.
 
 Hattâ nübüvvetten evvel, cedd-i Nebi Abdülmuttalib, Resul-i Ekrem aleyhissalâtü vesselâmın küçüklük zamanında mübarek yüzüyle yağmur duasına giderdi. Onun yüzü hürmetine gelirdi ki o hâdise Abdülmuttalib’in bir şiiri ile iştihar bulmuş.
 
@@ -817,9 +991,13 @@ Hem vefat-ı Nebevîden sonra Hazret-i Ömer, Hazret-i Abbas’ı vesile yapıp 
 
 Hem İmam-ı Buharî ve Müslim haber veriyorlar ki: Yağmur için dua talep edildi. Resul-i Ekrem aleyhissalâtü vesselâm dua etti. Yağmur öyle geldi ki mecbur oldular: “Aman dua et, kesilsin.” Dua etti, birden kesildi.
 
-**İkinci Misal:** Tevatüre yakın meşhurdur ki Resul-i Ekrem aleyhissalâtü vesselâm, sahabe ve imana gelenler daha kırka vâsıl olmadan ve gizli ibadet etmekte iken dua etti: <span class="arabic" dir="rtl">اَللّٰهُمَّ اَعِزَّ الْاِسْلَامَ بِعُمَرِ ابْنِ الْخَطَّابِ اَوْ بِعَمْرِ ابْنِ الْهِشَامِ</span> Bir iki gün sonra, Hazret-i Ömer İbni’l-Hattab imana geldi ve İslâmiyet’i ilan ve i’zaz etmeye vesile oldu. “Faruk” unvan-ı âlîsini aldı.
+### İkinci Misal
 
-**Üçüncü Misal:** Bazı sahabe-i güzine, ayrı ayrı maksatlar için dua etmiş. Duası öyle parlak bir surette kabul olmuş ki o keramet-i duaiye, mu’cize derecesine çıkmış.
+Tevatüre yakın meşhurdur ki Resul-i Ekrem aleyhissalâtü vesselâm, sahabe ve imana gelenler daha kırka vâsıl olmadan ve gizli ibadet etmekte iken dua etti: <span class="arabic" dir="rtl">اَللّٰهُمَّ اَعِزَّ الْاِسْلَامَ بِعُمَرِ ابْنِ الْخَطَّابِ اَوْ بِعَمْرِ ابْنِ الْهِشَامِ</span> Bir iki gün sonra, Hazret-i Ömer İbni’l-Hattab imana geldi ve İslâmiyet’i ilan ve i’zaz etmeye vesile oldu. “Faruk” unvan-ı âlîsini aldı.
+
+### Üçüncü Misal
+
+Bazı sahabe-i güzine, ayrı ayrı maksatlar için dua etmiş. Duası öyle parlak bir surette kabul olmuş ki o keramet-i duaiye, mu’cize derecesine çıkmış.
 
 Ezcümle, başta Buharî ve Müslim haber veriyorlar ki İbn-i Abbas’a şöyle dua etmiş: <span class="arabic" dir="rtl">اَللّٰهُمَّ فَقِّهْهُ فِى الدّٖينِ وَعَلِّمْهُ التَّاْوٖيلَ</span> Duası öyle makbul olmuş ki İbn-i Abbas, Tercümanü’l-Kur’an unvan-ı zîşanını ve Habrü’l-Ümme, yani allâme-i ümmet rütbe-i âlîsini kazanmış. Hattâ çok genç iken, Hazret-i Ömer, onu ulema ve kudema-yı sahabe meclisine alıyordu.
 
@@ -851,7 +1029,9 @@ Hem Tufeyl İbn-i Amr, Resul-i Ekrem aleyhissalâtü vesselâmdan bir mu’cize 
 
 Hem Ebu Hüreyre, Resul-i Ekrem aleyhissalâtü vesselâma şekva etmiş ki “Nisyan bana ârız oluyor.” Resul-i Ekrem aleyhissalâtü vesselâm ferman etmiş, bir mendil şeklinde bir şey açmış. Sonra mübarek avucu ile gaibden bir şey alır gibi öyle avucunu oraya boşaltmış. İki üç defa öyle yaparak Ebu Hüreyre’ye demiş: “Şimdi mendili topla.” Toplamış. Bu sırr-ı manevî-i dua-yı Nebevî ile Ebu Hüreyre kasem eder ki: “Ondan sonra hiçbir şey unutmadım.” İşte bu vakıalar, ehadîs-i meşhuredendirler.
 
-**Dördüncü Misal:** Resul-i Ekrem aleyhissalâtü vesselâmın bedduasına mazhar olmuş birkaç vakıayı beyan ederiz:
+### Dördüncü Misal
+
+Resul-i Ekrem aleyhissalâtü vesselâmın bedduasına mazhar olmuş birkaç vakıayı beyan ederiz:
 
 **Birincisi:** Perviz denilen Fars padişahı, name-i Nebeviyeyi yırtmış. Resul-i Ekrem aleyhissalâtü vesselâma haber geldi. Şöyle beddua etti: <span class="arabic" dir="rtl">اَللّٰهُمَّ مَزِّقْهُ</span> “Yâ Rab! Nasıl mektubumu paraladı, sen de onu ve onun mülkünü parça parça et.” İşte şu bedduanın tesiriyledir ki o Kisra Perviz’in oğlu Şirveyh, hançer ile onu paraladı. Sa’d İbn-i Ebî Vakkas da saltanatını parça parça etti. Sasaniye Devleti’nin hiçbir yerde şevketi kalmadı. Fakat Kayser ve sair melikler, name-i Nebeviyeye hürmet ettikleri için mahvolmadılar.
 
@@ -859,7 +1039,9 @@ Hem Ebu Hüreyre, Resul-i Ekrem aleyhissalâtü vesselâma şekva etmiş ki “N
 
 **Üçüncüsü:** Mudariye denilen Arab’ın büyük bir kabilesi, Peygamber aleyhissalâtü vesselâmı tekzip ettikleri için onlara kaht ile beddua etti. Yağmur kesildi, kaht u galâ baş gösterdi. Sonra Mudariye kavminden olan kabile-i Kureyş, Resul-i Ekrem aleyhissalâtü vesselâma iltimas ettiler. Dua etti; yağmur geldi, kahtlık kalktı. Bu vakıa tevatür derecesinde meşhurdur.
 
-**Beşinci Misal:** Hususi adamlara bedduasının dehşetli kabulüdür. Bunun çok misalleri var. Kat’î üç misali numune olarak beyan ederiz:
+### Beşinci Misal
+
+Hususi adamlara bedduasının dehşetli kabulüdür. Bunun çok misalleri var. Kat’î üç misali numune olarak beyan ederiz:
 
 **Birincisi:** Utbe İbn-i Ebî Leheb hakkında şöyle beddua etti: <span class="arabic" dir="rtl">اَللّٰهُمَّ سَلِّطْ عَلَيْهِ كَلْبًا مِنْ كِلَابِكَ</span> Yani “Yâ Rab! Ona bir itini musallat et.” Sonra Utbe sefere giderken, bir arslan gelip kafile içinde onu arayıp bulmuş, parçalamış. Şu vakıa meşhurdur. Eimme-i hadîs, nakil ve tashih etmişler.
 
@@ -867,7 +1049,9 @@ Hem Ebu Hüreyre, Resul-i Ekrem aleyhissalâtü vesselâma şekva etmiş ki “N
 
 **Üçüncüsü:** Resul-i Ekrem aleyhissalâtü vesselâm görüyordu, bir adam sol eliyle yemek yer. Ferman etmiş: <span class="arabic" dir="rtl">كُلْ بِيَمٖينِكَ</span> “Sağ elinle ye.” demiş. O adam demiş: <span class="arabic" dir="rtl">لَا اَسْتَطٖيعُ</span> “Sağ elimle yapamıyorum.” Resul-i Ekrem aleyhissalâtü vesselâm demiş: <span class="arabic" dir="rtl">لَا اسْتَطَعْتَ</span> diye beddua etmiş. “Kaldıramayacaksın!” İşte ondan sonra o adam sağ elini hiç kaldıramamış.
 
-**Altıncı Misal:** Resul-i Ekrem aleyhissalâtü vesselâmın hem duası hem temasından zuhur eden pek çok hârikalarından, kat’iyet kesbetmiş birkaç hâdiseyi zikredeceğiz:
+### Altıncı Misal
+
+Resul-i Ekrem aleyhissalâtü vesselâmın hem duası hem temasından zuhur eden pek çok hârikalarından, kat’iyet kesbetmiş birkaç hâdiseyi zikredeceğiz:
 
 **Birincisi:** Hazret-i Hâlid İbn-i Velid’e (Seyfullah’a) birkaç saçını verip nusretine dua etmiş. Hazret-i Hâlid, o saçları külahında hıfzetmiş. İşte o saç ve duanın bereketi hürmetine, hiçbir harbe girmemiş illâ muzaffer çıkmış.
 
@@ -877,7 +1061,9 @@ Hem tavuk yumurtası kadar bir altını, ağzının tükürüğünü ona sürdü
 
 **Üçüncüsü:** Ümm-ü Mâlik isminde bir sahabiye “ukke” denilen küçük bir yağ tulumundan, Resul-i Ekrem aleyhissalâtü vesselâma yağ hediye ederdi. Bir defa Resul-i Ekrem aleyhissalâtü vesselâm ona dua edip ukkeyi vermiş, ferman etmiş ki: “Onu boşaltıp sıkmayınız.” Ümm-ü Mâlik ukkeyi almış. Ne vakit evlatları yağ isterlerse bereket-i dua-yı Nebevî ile ukkede yağ bulurlardı. Hayli zaman devam etti. Sonra sıktılar, bereket kesildi.
 
-**Yedinci Misal:** Resul-i Ekrem aleyhissalâtü vesselâmın duasıyla ve temasıyla, suların tatlılaşması ve güzel koku vermesinin çok hâdiseleri var. İki üç taneyi, numune olarak beyan ederiz:
+### Yedinci Misal
+
+Resul-i Ekrem aleyhissalâtü vesselâmın duasıyla ve temasıyla, suların tatlılaşması ve güzel koku vermesinin çok hâdiseleri var. İki üç taneyi, numune olarak beyan ederiz:
 
 **Birincisi:** İmam-ı Beyhakî başta, ehl-i hadîs haber veriyorlar ki: Bi’r-i Kubâ denilen kuyunun suyu bazı kesiliyordu, yani bitiyordu. Resul-i Ekrem aleyhissalâtü vesselâm abdest suyunu içine koyup dua ettikten sonra kesretle devam etti, daha hiç kesilmedi.
 
@@ -891,7 +1077,9 @@ Hem tavuk yumurtası kadar bir altını, ağzının tükürüğünü ona sürdü
 
 İşte bu beş cüzü; bazıları meşhur, bazı da mühim imamlar naklediyorlar. Bunlar ve burada nakledilmeyenlerle mecmuu, manevî tevatür gibi bir mu’cize-i mutlakanın tahakkukunu gösteriyorlar.
 
-**Sekizinci Misal:** Resul-i Ekrem aleyhissalâtü vesselâmın mesh ve duasıyla, sütsüz ve kısır keçilerin mübarek elinin temasıyla ve duasıyla sütlü hem çok sütlü olmaları misalleri ve cüz’iyatları çoktur. Biz yalnız meşhur ve kat’î iki üç misali, numune olarak zikrediyoruz:
+### Sekizinci Misal
+
+Resul-i Ekrem aleyhissalâtü vesselâmın mesh ve duasıyla, sütsüz ve kısır keçilerin mübarek elinin temasıyla ve duasıyla sütlü hem çok sütlü olmaları misalleri ve cüz’iyatları çoktur. Biz yalnız meşhur ve kat’î iki üç misali, numune olarak zikrediyoruz:
 
 **Birincisi:** Ehl-i siyerin bütün muteber kitapları haber veriyorlar ki: Resul-i Ekrem aleyhissalâtü vesselâm, Ebubekiri’s-Sıddık ile beraber hicret ederken Âtiket Binti’l-Huzaiye denilen Ümm-ü Mabed hanesine gelmişler. Gayet zayıf, sütsüz, kısır bir keçi orada vardı. Resul-i Ekrem aleyhissalâtü vesselâm, Ümm-ü Mabed’e ferman etti: “Bunda süt yok mudur?” Ümm-ü Mabed demiş ki: “Bunun vücudunda kan yoktur, nereden süt verecek?”
 
@@ -903,7 +1091,9 @@ Resul-i Ekrem aleyhissalâtü vesselâm gidip o keçinin beline elini sürmüş,
 
 İşte bunun gibi siyer kitaplarında daha başka cüz’iyatları var fakat bu numuneler, asıl maksada kâfidir.
 
-**Dokuzuncu Misal:** Resul-i Ekrem aleyhissalâtü vesselâm, bazı zatların başını ve yüzünü mübarek eliyle meshedip dua ettikten sonra, zahir olan hârikaların çok cüz’iyatından iştihar bulmuş birkaçını numune olarak beyan ediyoruz:
+### Dokuzuncu Misal
+
+Resul-i Ekrem aleyhissalâtü vesselâm, bazı zatların başını ve yüzünü mübarek eliyle meshedip dua ettikten sonra, zahir olan hârikaların çok cüz’iyatından iştihar bulmuş birkaçını numune olarak beyan ediyoruz:
 
 **Birincisi:** Umeyr İbn-i Sa’d’ın başına elini sürmüş, dua etmiş. Seksen yaşında o adam, o duanın bereketiyle, öldüğü vakit başında beyaz yoktu.
 
@@ -927,10 +1117,13 @@ Halbuki bahsettiğimiz şu altı cüz’iyat hem sahihtirler hem bazıları şö
 
 Aynen öyle de Resul-i Ekrem aleyhissalâtü vesselâmın sair letaifi ve duyguları ve cihazatı, çok hârikalara medardır. Kütüb-ü siyer ve tarih, o hârikaları beyan etmişler; sîret ve suret ve duygularında, çok delail-i nübüvvet bulunduğunu göstermişler.
 
-#### On Beşinci İşaret
+## On Beşinci İşaret
+
 Nasıl ki taşlar, ağaçlar, kamer, güneş onu tanıyorlar; birer mu’cizesini göstermekle nübüvvetini tasdik ediyorlar. Öyle de hayvanat taifesi, ölüler taifesi, cinler taifesi, melaikeler taifesi o Zat-ı Mübarek’i tanıyorlar ve nübüvvetini tasdik ediyorlar ki onlar, onu tanıdıklarını, her bir taifesi, bazı mu’cizatını göstermekle gösteriyorlar ve nübüvvetinin tasdikini ilan ediyorlar. Şu On Beşinci İşaret’in **üç şube**si var:
 
-**BİRİNCİ ŞUBESİ:** Hayvanat cinsi, Resul-i Ekrem aleyhissalâtü vesselâmı tanıyorlar ve mu’cizatını da izhar ediyorlar. Şu şubenin çok misalleri var. Biz yalnız burada, meşhur ve manevî tevatür derecesinde kat’î olmuş veya muhakkikîn-i eimmenin makbulü olmuş veya ümmet telakki-i bi’l-kabul etmiş olan bir kısım hâdiseleri, numune olarak zikredeceğiz:
+### BİRİNCİ ŞUBESİ
+
+Hayvanat cinsi, Resul-i Ekrem aleyhissalâtü vesselâmı tanıyorlar ve mu’cizatını da izhar ediyorlar. Şu şubenin çok misalleri var. Biz yalnız burada, meşhur ve manevî tevatür derecesinde kat’î olmuş veya muhakkikîn-i eimmenin makbulü olmuş veya ümmet telakki-i bi’l-kabul etmiş olan bir kısım hâdiseleri, numune olarak zikredeceğiz:
 
 **Birinci Hâdise:** Manevî tevatür derecesinde bir şöhretle, Resul-i Ekrem aleyhissalâtü vesselâm Ebubekiri’s-Sıddık ile küffarın takibinden kurtulmak için tahassun ettikleri Gār-ı Hira’nın kapısında, iki nöbetçi gibi iki güvercin gelip beklemeleri ve örümcek dahi perdedar gibi hârika bir tarzda, kalın bir ağ ile mağara kapısını örtmesidir.
 
@@ -974,11 +1167,17 @@ Hem Ümmü’l-Mü’minîn Ümm-ü Seleme haber veriyor ki: Bir ceylan, Resul-i
 
 Ey insan! İbret alınız… Kurt, arslan; Resul-i Ekrem aleyhissalâtü vesselâmı tanıyor, itaat ediyorlar. Sizlerin hayvandan, kurttan aşağı düşmemeye çalışmanız iktiza eder.
 
-**İKİNCİ ŞUBE:** Cenazelerin ve cinlerin ve melaikelerin, Resul-i Ekrem aleyhissalâtü vesselâmı tanımalarıdır. Bunun da çok hâdiseleri var. Numune için şöhret bulmuş ve mevsuk imamlar haber vermiş birkaç numuneyi, evvela cenazelerden göstereceğiz. Amma cin ve melaike ise o mütevatirdir; onların misalleri bir değil, bindir. İşte ölülerin konuşması misallerinden:
+### İKİNCİ ŞUBE
 
-**Birincisi şudur ki:** Ulema-i zahir ve bâtının, tabiîn zamanında en büyük reisi ve İmam-ı Ali’nin mühim ve sadık bir şakirdi olan Hasan-ı Basrî haber veriyor ki: Bir adam, Resul-i Ekrem aleyhissalâtü vesselâmın yanına gelerek ağlayıp sızladı. Dedi: “Benim küçük bir kızım vardı, şu yakın derede öldü, oraya attım.” Resul-i Ekrem aleyhissalâtü vesselâm ona acıdı. Ona dedi: “Gel oraya gideceğiz.” Gittiler. Resul-i Ekrem aleyhissalâtü vesselâm o ölmüş kızı çağırdı: “Yâ filane!” dedi. Birden o ölmüş kız <span class="arabic" dir="rtl">لَبَّيْكَ وَ سَعْدَيْكَ</span> dedi. Resul-i Ekrem aleyhissalâtü vesselâm ferman etti: “Tekrar peder ve validenin yanına gelmeyi arzu eder misin?” O dedi: “Yok, ben onlardan daha hayırlısını buldum.”
+Cenazelerin ve cinlerin ve melaikelerin, Resul-i Ekrem aleyhissalâtü vesselâmı tanımalarıdır. Bunun da çok hâdiseleri var. Numune için şöhret bulmuş ve mevsuk imamlar haber vermiş birkaç numuneyi, evvela cenazelerden göstereceğiz. Amma cin ve melaike ise o mütevatirdir; onların misalleri bir değil, bindir. İşte ölülerin konuşması misallerinden:
 
-**İkincisi:** İmam-ı Beyhakî ve İmam-ı İbn-i Adiyy gibi bazı mühim imamlar, Hazret-i Enes İbn-i Mâlik’ten haber veriyorlar ki Enes demiş: Bir ihtiyare kadının bir tek oğlu vardı, birden vefat etti. O saliha kadın çok müteessir oldu, dedi: “Yâ Rab! Senin rızan için Resul-i Ekrem aleyhissalâtü vesselâmın biatı ve hizmeti için hicret edip buraya geldim. Benim hayatımda istirahatimi temin edecek tek evlatçığımı, o Resul’ün hürmetine bağışla.” Enes der: “O ölmüş adam kalktı, bizimle yemek yedi.”
+#### Birincisi şudur ki
+
+Ulema-i zahir ve bâtının, tabiîn zamanında en büyük reisi ve İmam-ı Ali’nin mühim ve sadık bir şakirdi olan Hasan-ı Basrî haber veriyor ki: Bir adam, Resul-i Ekrem aleyhissalâtü vesselâmın yanına gelerek ağlayıp sızladı. Dedi: “Benim küçük bir kızım vardı, şu yakın derede öldü, oraya attım.” Resul-i Ekrem aleyhissalâtü vesselâm ona acıdı. Ona dedi: “Gel oraya gideceğiz.” Gittiler. Resul-i Ekrem aleyhissalâtü vesselâm o ölmüş kızı çağırdı: “Yâ filane!” dedi. Birden o ölmüş kız <span class="arabic" dir="rtl">لَبَّيْكَ وَ سَعْدَيْكَ</span> dedi. Resul-i Ekrem aleyhissalâtü vesselâm ferman etti: “Tekrar peder ve validenin yanına gelmeyi arzu eder misin?” O dedi: “Yok, ben onlardan daha hayırlısını buldum.”
+
+#### İkincisi
+
+İmam-ı Beyhakî ve İmam-ı İbn-i Adiyy gibi bazı mühim imamlar, Hazret-i Enes İbn-i Mâlik’ten haber veriyorlar ki Enes demiş: Bir ihtiyare kadının bir tek oğlu vardı, birden vefat etti. O saliha kadın çok müteessir oldu, dedi: “Yâ Rab! Senin rızan için Resul-i Ekrem aleyhissalâtü vesselâmın biatı ve hizmeti için hicret edip buraya geldim. Benim hayatımda istirahatimi temin edecek tek evlatçığımı, o Resul’ün hürmetine bağışla.” Enes der: “O ölmüş adam kalktı, bizimle yemek yedi.”
 
 İşte şu hâdise-i acibeye işaret ve ifade eden, İmam-ı Busayrî’nin Kaside-i Bürde’de şu fıkrasıdır:
 
@@ -986,15 +1185,19 @@ Ey insan! İbret alınız… Kurt, arslan; Resul-i Ekrem aleyhissalâtü vessel�
 
 Yani “Eğer alâmetleri, onun kadrine muvafık derecesinde azametini ve makbuliyetini gösterse idiler; değil yeni ölmüşler, belki onun ismiyle çürümüş kemikler de ihya edilebilirdi.”
 
-**Üçüncü Hâdise:** Başta İmam-ı Beyhakî gibi râviler, Abdullah İbn-i Ubeydullahi’l-Ensarî’den haber veriyorlar ki Abdullah demiş: Sabit İbn-i Kays İbn-i Şemmas’ın Yemame Harbi’nde şehit düştüğü ve kabre koyduğumuz vakit, ben hazırdım. Kabre konurken birden ondan bir ses geldi: <span class="arabic" dir="rtl">مُحَمَّدٌ رَسُولُ اللّٰهِ وَاَبُو بَكْرٍ الصِّدّٖيقُ وَعُمَرُ الشَّهٖيدُ وَعُثْمَانُ الْبَرُّ الرَّحٖيمُ</span> dedi. Sonra açtık, baktık; ölü, cansız. İşte o vakit, daha Hazret-i Ömer hilafete geçmeden şehadetini haber veriyor.
+#### Üçüncü Hâdise
 
-**Dördüncü Hâdise:** İmam-ı Taberanî ve Ebu Nuaym Delail-i Nübüvvet’te Nu’man İbn-i Beşir’den haber veriyorlar ki: Zeyd İbn-i Harice, çarşı içinde birden düşüp vefat etti. Eve getirdik. Akşam ve yatsı arasında etrafında kadınlar ağlarken birden <span class="arabic" dir="rtl">اَنْصِتُوا اَنْصِتُوا</span> “Susunuz!” dedi. Sonra fasih bir lisanla: <span class="arabic" dir="rtl">مُحَمَّدٌ رَسُولُ اللّٰهِ اَلسَّلَامُ عَلَيْكَ يَا رَسُولَ اللّٰهِ</span> diyerek bir miktar konuştu. Sonra baktık ki cansız vefat etmiş.
+Başta İmam-ı Beyhakî gibi râviler, Abdullah İbn-i Ubeydullahi’l-Ensarî’den haber veriyorlar ki Abdullah demiş: Sabit İbn-i Kays İbn-i Şemmas’ın Yemame Harbi’nde şehit düştüğü ve kabre koyduğumuz vakit, ben hazırdım. Kabre konurken birden ondan bir ses geldi: <span class="arabic" dir="rtl">مُحَمَّدٌ رَسُولُ اللّٰهِ وَاَبُو بَكْرٍ الصِّدّٖيقُ وَعُمَرُ الشَّهٖيدُ وَعُثْمَانُ الْبَرُّ الرَّحٖيمُ</span> dedi. Sonra açtık, baktık; ölü, cansız. İşte o vakit, daha Hazret-i Ömer hilafete geçmeden şehadetini haber veriyor.
+
+#### Dördüncü Hâdise
+
+İmam-ı Taberanî ve Ebu Nuaym Delail-i Nübüvvet’te Nu’man İbn-i Beşir’den haber veriyorlar ki: Zeyd İbn-i Harice, çarşı içinde birden düşüp vefat etti. Eve getirdik. Akşam ve yatsı arasında etrafında kadınlar ağlarken birden <span class="arabic" dir="rtl">اَنْصِتُوا اَنْصِتُوا</span> “Susunuz!” dedi. Sonra fasih bir lisanla: <span class="arabic" dir="rtl">مُحَمَّدٌ رَسُولُ اللّٰهِ اَلسَّلَامُ عَلَيْكَ يَا رَسُولَ اللّٰهِ</span> diyerek bir miktar konuştu. Sonra baktık ki cansız vefat etmiş.
 
 İşte cansız cenazeler onun risaletini tasdik etse, canlı olanlar tasdik etmese elbette o cani canlılar, cansızlardan daha cansız ve ölülerden daha ölüdürler.
 
 Amma melaikelerin Resul-i Ekrem aleyhissalâtü vesselâma hizmeti ve görünmesi ve cinnîlerin ona iman ve itaati, mütevatirdir. Nass-ı Kur’an ve çok âyâtla musarrahtır. Gazve-i Bedir’de beş bin melaike –nass-ı Kur’an ile– önde, sahabeler gibi ona hizmet edip asker olmuşlar. Hattâ o melekler, melaikeler içinde, Ashab-ı Bedir gibi şeref kazanmışlar. Şu meselede iki cihet var:
 
-**Birisi: **Cin ve melaikenin taifeleri, hayvan ve insanın taifeleri gibi vücudları kat’î ve bizimle münasebettar olduğu, Yirmi Dokuzuncu Söz’de iki kere iki dört eder derecesinde bir kat’iyetle ispat etmişiz. Onların ispatını, o Söz’e havale ederiz.
+**Birisi:** Cin ve melaikenin taifeleri, hayvan ve insanın taifeleri gibi vücudları kat’î ve bizimle münasebettar olduğu, Yirmi Dokuzuncu Söz’de iki kere iki dört eder derecesinde bir kat’iyetle ispat etmişiz. Onların ispatını, o Söz’e havale ederiz.
 
 **İkinci cihet:** Resul-i Ekrem aleyhissalâtü vesselâmın şerefiyle, eser-i mu’cizesi olarak, efrad-ı ümmeti onları görmek ve konuşmaktır.
 
@@ -1024,19 +1227,29 @@ Hem deriz ki:
 
 Resul-i Ekrem aleyhissalâtü vesselâmın nuruyla, terbiyesiyle ve onun arkasında gitmesiyle binler Şeyh-i Geylanî gibi aktablar, asfiyalar; melaikeler ve cinler ile görüşmüşler ve konuşuyorlar ve bu hâdise yüz tevatür derecesinde ve çok kesrettedir. Evet, ümmet-i Muhammed’in (asm) melaike ve cinlerle temasları ve tekellümleri ise Resul-i Ekrem aleyhissalâtü vesselâmın terbiye ve irşad-ı i’cazkâranesinin bir eseridir.
 
-**ÜÇÜNCÜ ŞUBE:** Resul-i Ekrem aleyhissalâtü vesselâmın hıfzı ve ismeti, bir mu’cize-i bâhiredir. <span class="arabic" dir="rtl">وَاللّٰهُ يَعْصِمُكَ مِنَ النَّاسِ</span> âyet-i kerîmesinin hakikat-i bâhiresi, çok mu’cizatı gösterir. Evet, Resul-i Ekrem aleyhissalâtü vesselâm çıktığı vakit, değil yalnız bir taifeye bir kavme bir kısım ehl-i siyasete veya bir dine; belki umum padişahlara ve umum ehl-i dine tek başıyla meydan okudu. Halbuki onun amcası en büyük düşman ve kavim ve kabilesi düşman iken yirmi üç sene nöbettarsız, tekellüfsüz, muhafazasız ve pek çok defa sû-i kasda maruz kaldığı halde, kemal-i saadetle, rahat döşeğinde vefat edip Mele-i A’lâ’ya çıkmasına kadar hıfz ve ismeti <span class="arabic" dir="rtl">وَاللّٰهُ يَعْصِمُكَ مِنَ النَّاسِ</span> ne kadar kuvvetli bir hakikati ifade ettiğini ve ne kadar metin bir nokta-i istinad olduğunu, güneş gibi gösterir. Biz yalnız numune için kat’iyet kesbetmiş birkaç hâdiseyi zikredeceğiz:
+### ÜÇÜNCÜ ŞUBE
 
-**Birinci Hâdise:** Ehl-i siyer ve hadîs, müttefikan haber veriyorlar ki: Kureyş kabilesi, Resul-i Ekrem aleyhissalâtü vesselâmı öldürtmek için kat’î ittifak ettiler. Hattâ insan suretine girmiş bir şeytanın tedbiriyle, Kureyş içine fitne düşmemek için her kabileden lâekall bir adam içinde bulunup iki yüze yakın, Ebucehil ve Ebu Leheb’in taht-ı hükmünde olarak Resul-i Ekrem aleyhissalâtü vesselâmın hane-i saadetini bastılar. Resul-i Ekrem aleyhissalâtü vesselâmın yanında Hazret-i Ali vardı. Ona dedi: “Sen bu gece benim yatağımda yat.” Resul-i Ekrem aleyhissalâtü vesselâm beklemiş, tâ Kureyş gelmiş, bütün hanenin etrafını tutmuşlar. O vakit çıktı, bir parça toprak başlarına attı. Hiçbirisi onu görmedi, içlerinden çıktı, gitti. Gār-ı Hira’da iki güvercin ve bir örümcek, bütün Kureyş’e karşı ona nöbettar olup muhafaza ettiler.
+Resul-i Ekrem aleyhissalâtü vesselâmın hıfzı ve ismeti, bir mu’cize-i bâhiredir. <span class="arabic" dir="rtl">وَاللّٰهُ يَعْصِمُكَ مِنَ النَّاسِ</span> âyet-i kerîmesinin hakikat-i bâhiresi, çok mu’cizatı gösterir. Evet, Resul-i Ekrem aleyhissalâtü vesselâm çıktığı vakit, değil yalnız bir taifeye bir kavme bir kısım ehl-i siyasete veya bir dine; belki umum padişahlara ve umum ehl-i dine tek başıyla meydan okudu. Halbuki onun amcası en büyük düşman ve kavim ve kabilesi düşman iken yirmi üç sene nöbettarsız, tekellüfsüz, muhafazasız ve pek çok defa sû-i kasda maruz kaldığı halde, kemal-i saadetle, rahat döşeğinde vefat edip Mele-i A’lâ’ya çıkmasına kadar hıfz ve ismeti <span class="arabic" dir="rtl">وَاللّٰهُ يَعْصِمُكَ مِنَ النَّاسِ</span> ne kadar kuvvetli bir hakikati ifade ettiğini ve ne kadar metin bir nokta-i istinad olduğunu, güneş gibi gösterir. Biz yalnız numune için kat’iyet kesbetmiş birkaç hâdiseyi zikredeceğiz:
 
-**İkinci Hâdise:** Vakıat-ı kat’iyedendir ki mağaradan çıkıp Medine tarafına gittikleri vakit, Kureyş rüesası mühim bir mal mukabilinde, Süraka isminde gayet cesur bir adamı gönderdiler; tâ takip edip onları öldürmeye çalışsın. Resul-i Ekrem aleyhissalâtü vesselâm, Ebubekir-i Sıddık ile beraber Gār’dan çıkıp giderken gördüler ki Süraka geliyor. Ebubekir-i Sıddık telaş etti. Resul-i Ekrem aleyhissalâtü vesselâm mağarada dediği gibi <span class="arabic" dir="rtl">لَا تَحْزَنْ اِنَّ اللّٰهَ مَعَنَا</span> dedi. Süraka’ya bir baktı, Süraka’nın atının ayakları yere saplandı, kaldı. Tekrar kurtuldu, yine takip etti. Tekrar atının ayaklarının saplandığı yerden duman gibi bir şey çıkıyordu. O vakit anladı ki ne onun elinden ve ne de kimsenin elinden gelmez ki ona ilişsin. “El-Aman!” dedi. Resul-i Ekrem aleyhissalâtü vesselâm aman verdi. Fakat dedi: “Git öyle yap ki başkası gelmesin!”
+#### Birinci Hâdise
+
+Ehl-i siyer ve hadîs, müttefikan haber veriyorlar ki: Kureyş kabilesi, Resul-i Ekrem aleyhissalâtü vesselâmı öldürtmek için kat’î ittifak ettiler. Hattâ insan suretine girmiş bir şeytanın tedbiriyle, Kureyş içine fitne düşmemek için her kabileden lâekall bir adam içinde bulunup iki yüze yakın, Ebucehil ve Ebu Leheb’in taht-ı hükmünde olarak Resul-i Ekrem aleyhissalâtü vesselâmın hane-i saadetini bastılar. Resul-i Ekrem aleyhissalâtü vesselâmın yanında Hazret-i Ali vardı. Ona dedi: “Sen bu gece benim yatağımda yat.” Resul-i Ekrem aleyhissalâtü vesselâm beklemiş, tâ Kureyş gelmiş, bütün hanenin etrafını tutmuşlar. O vakit çıktı, bir parça toprak başlarına attı. Hiçbirisi onu görmedi, içlerinden çıktı, gitti. Gār-ı Hira’da iki güvercin ve bir örümcek, bütün Kureyş’e karşı ona nöbettar olup muhafaza ettiler.
+
+#### İkinci Hâdise
+
+Vakıat-ı kat’iyedendir ki mağaradan çıkıp Medine tarafına gittikleri vakit, Kureyş rüesası mühim bir mal mukabilinde, Süraka isminde gayet cesur bir adamı gönderdiler; tâ takip edip onları öldürmeye çalışsın. Resul-i Ekrem aleyhissalâtü vesselâm, Ebubekir-i Sıddık ile beraber Gār’dan çıkıp giderken gördüler ki Süraka geliyor. Ebubekir-i Sıddık telaş etti. Resul-i Ekrem aleyhissalâtü vesselâm mağarada dediği gibi <span class="arabic" dir="rtl">لَا تَحْزَنْ اِنَّ اللّٰهَ مَعَنَا</span> dedi. Süraka’ya bir baktı, Süraka’nın atının ayakları yere saplandı, kaldı. Tekrar kurtuldu, yine takip etti. Tekrar atının ayaklarının saplandığı yerden duman gibi bir şey çıkıyordu. O vakit anladı ki ne onun elinden ve ne de kimsenin elinden gelmez ki ona ilişsin. “El-Aman!” dedi. Resul-i Ekrem aleyhissalâtü vesselâm aman verdi. Fakat dedi: “Git öyle yap ki başkası gelmesin!”
 
 Şu hâdise münasebetiyle bunu da beyan ederiz ki sahih bir surette haber veriyorlar: Bir çoban, onları gördükten sonra Kureyş’e haber vermek için Mekke’ye gitmiş. Mekke’ye dâhil olduğu vakit, ne için geldiğini unutmuş. Ne kadar çalışmış ise hatırına getirememiş. Mecbur olmuş, dönmüş. Sonra anlamış ki ona unutturulmuş.
 
-**Üçüncü Hâdise:** Gazve-i Gatafan ve Enmar’da müteaddid tarîklerle eimme-i hadîs haber veriyorlar ki: Gavres isminde cesur bir kabile reisi, kimse görmeden tam Resul-i Ekrem aleyhissalâtü vesselâmın başı üzerine gelerek, yalın kılınç elinde olduğu halde, Resul-i Ekrem aleyhissalâtü vesselâma dedi: “Kim seni benden kurtaracak?” Demiş: “Allah!” Sonra böyle dua etti: <span class="arabic" dir="rtl">اَللّٰهُمَّ اكْفِنٖيهِ بِمَا شِئْتَ</span> Birden o Gavres, iki omuzu ortasına gaibden bir darbe yer; o kılınç elinden düşer, yere yuvarlanır. Resul-i Ekrem aleyhissalâtü vesselâm kılıncı eline alır “Şimdi seni kim kurtaracak?” der, sonra affeder. O adam gider taifesine. O pek cüretkâr, cesur adama herkes hayrette kalır. “Ne oldu sana, ne için bir şey yapamadın?” dediler. O dedi: “Hâdise böyle oldu. Ben şimdi, insanların en iyisinin yanından geliyorum.”
+#### Üçüncü Hâdise
+
+Gazve-i Gatafan ve Enmar’da müteaddid tarîklerle eimme-i hadîs haber veriyorlar ki: Gavres isminde cesur bir kabile reisi, kimse görmeden tam Resul-i Ekrem aleyhissalâtü vesselâmın başı üzerine gelerek, yalın kılınç elinde olduğu halde, Resul-i Ekrem aleyhissalâtü vesselâma dedi: “Kim seni benden kurtaracak?” Demiş: “Allah!” Sonra böyle dua etti: <span class="arabic" dir="rtl">اَللّٰهُمَّ اكْفِنٖيهِ بِمَا شِئْتَ</span> Birden o Gavres, iki omuzu ortasına gaibden bir darbe yer; o kılınç elinden düşer, yere yuvarlanır. Resul-i Ekrem aleyhissalâtü vesselâm kılıncı eline alır “Şimdi seni kim kurtaracak?” der, sonra affeder. O adam gider taifesine. O pek cüretkâr, cesur adama herkes hayrette kalır. “Ne oldu sana, ne için bir şey yapamadın?” dediler. O dedi: “Hâdise böyle oldu. Ben şimdi, insanların en iyisinin yanından geliyorum.”
 
 Hem şu hâdise gibi Gazve-i Bedir’de bir münafık, Resul-i Ekrem aleyhissalâtü vesselâmı bir gaflet vaktinde kimse görmeden, tam arkasından kılınç kaldırıp vururken birden Resul-i Ekrem aleyhissalâtü vesselâm bakmış. O titreyip kılınç elinden yere düşmüş.
 
-**Dördüncü Hâdise:** Manevî tevatüre yakın bir şöhretle ve ekser ehl-i tefsirin
+#### Dördüncü Hâdise
+
+Manevî tevatüre yakın bir şöhretle ve ekser ehl-i tefsirin
 
 <p class="arabic" dir="rtl">اِنَّا جَعَلْنَا فٖٓى اَعْنَاقِهِمْ اَغْلَالًا فَهِىَ اِلَى الْاَذْقَانِ فَهُمْ مُقْمَحُونَ ۞ وَجَعَلْنَا مِنْ بَيْنِ اَيْدٖيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَاَغْشَيْنَاهُمْ فَهُمْ لَا يُبْصِرُونَ</p>
 
@@ -1046,13 +1259,19 @@ Hem yine Ebucehil kabilesinden –bir tarîkte– Velid İbn-i Mugire, yine Resu
 
 Hem –nakl-i sahih ile– Ebubekir-i Sıddık’tan haber veriyorlar ki: Sure-i <span class="arabic" dir="rtl">تَبَّتْ يَدَٓا اَبٖى لَهَبٍ</span> nâzil olduktan sonra, Ebu Leheb’in karısı Ümm-ü Cemil denilen “Hammalete’l-Hatab” bir taş alıp Mescid-i Haram’a gelmiş. Ebubekir ile Resul-i Ekrem aleyhissalâtü vesselâm orada oturuyorlarmış. Gözü Ebubekir-i Sıddık’ı görüyor, soruyor: “Yâ Ebâ Bekir! Senin arkadaşın nerede? Ben işitmişim ki beni hicvetmiş. Ben görsem bu taşı ağzına vuracağım.” Yanında iken Hazret-i Peygamber aleyhissalâtü vesselâmı görmemiş. Elbette hıfz-ı İlahîde olan bir Sultan-ı Levlâk’i, böyle bir cehennem oduncusu, onun huzuruna girip göremez. Ağzına mı düşmüş!
 
-**Beşinci Hâdise:** Haber-i sahih ile haber veriliyor ki: Âmir İbn-i Tufeyl ve Erbed İbn-i Kays ikisi ittifak ederek Resul-i Ekrem aleyhissalâtü vesselâmın yanına gitmişler. Âmir demiş: “Ben onu meşgul edeceğim, sen onu vuracaksın!” Sonra bakıyor ki bir şey yapmıyor. Gittikten sonra arkadaşına dedi: “Neden vurmadın?” Dedi: “Nasıl vuracağım, ne kadar niyet ettim, bakıyorum ki ikimizin ortasına sen geçiyorsun. Seni nasıl vuracağım?”
+#### Beşinci Hâdise
 
-**Altıncı Hâdise:** Nakl-i sahih ile haber veriliyor ki: Gazve-i Uhud’da veya Huneyn’de Şeybe İbn-i Osmane’l-Hacebî –ki Hazret-i Hamza, onun hem amcasını hem pederini öldürmüştü– intikamını almak için gizli geldi. Tâ Resul-i Ekrem aleyhissalâtü vesselâmın arkasından yalın kılınç kaldırdı. Birden kılınç elinden düştü. Resul-i Ekrem aleyhissalâtü vesselâm ona baktı, elini göğsüne koydu. Şeybe der ki: “O dakikada dünyada ondan daha sevgili adam bana olmazdı.” İmana geldi. Resul-i Ekrem aleyhissalâtü vesselâm ferman etti: “Haydi git, harp et!” Şeybe dedi: “Ben gittim, Resul-i Ekrem aleyhissalâtü vesselâm önünde harp ettim. Eğer o vakit pederim de rast gelseydi vuracaktım.”
+Haber-i sahih ile haber veriliyor ki: Âmir İbn-i Tufeyl ve Erbed İbn-i Kays ikisi ittifak ederek Resul-i Ekrem aleyhissalâtü vesselâmın yanına gitmişler. Âmir demiş: “Ben onu meşgul edeceğim, sen onu vuracaksın!” Sonra bakıyor ki bir şey yapmıyor. Gittikten sonra arkadaşına dedi: “Neden vurmadın?” Dedi: “Nasıl vuracağım, ne kadar niyet ettim, bakıyorum ki ikimizin ortasına sen geçiyorsun. Seni nasıl vuracağım?”
+
+#### Altıncı Hâdise
+
+Nakl-i sahih ile haber veriliyor ki: Gazve-i Uhud’da veya Huneyn’de Şeybe İbn-i Osmane’l-Hacebî –ki Hazret-i Hamza, onun hem amcasını hem pederini öldürmüştü– intikamını almak için gizli geldi. Tâ Resul-i Ekrem aleyhissalâtü vesselâmın arkasından yalın kılınç kaldırdı. Birden kılınç elinden düştü. Resul-i Ekrem aleyhissalâtü vesselâm ona baktı, elini göğsüne koydu. Şeybe der ki: “O dakikada dünyada ondan daha sevgili adam bana olmazdı.” İmana geldi. Resul-i Ekrem aleyhissalâtü vesselâm ferman etti: “Haydi git, harp et!” Şeybe dedi: “Ben gittim, Resul-i Ekrem aleyhissalâtü vesselâm önünde harp ettim. Eğer o vakit pederim de rast gelseydi vuracaktım.”
 
 Hem Feth-i Mekke gününde Fedale namında birisi, Resul-i Ekrem aleyhissalâtü vesselâmın yanına vurmak niyetiyle geldi. Resul-i Ekrem aleyhissalâtü vesselâm ona bakıp tebessüm etti “Nefsinle ne konuştun?” dedi ve Fedale için taleb-i mağfiret etti. Fedale imana geldi ve dedi ki: “O vakit ondan daha ziyade dünyada sevgilim olmazdı.”
 
-**Yedinci Hâdise:** Nakl-i sahih ile Yahudiler sû-i kasd niyetiyle Resul-i Ekrem aleyhissalâtü vesselâmın oturduğu yere üstünden büyük bir taş atmak anında, Resul-i Ekrem aleyhissalâtü vesselâm o dakikada hıfz-ı İlahî ile kalkmış; o sû-i kasd de akîm kalmış.
+#### Yedinci Hâdise
+
+Nakl-i sahih ile Yahudiler sû-i kasd niyetiyle Resul-i Ekrem aleyhissalâtü vesselâmın oturduğu yere üstünden büyük bir taş atmak anında, Resul-i Ekrem aleyhissalâtü vesselâm o dakikada hıfz-ı İlahî ile kalkmış; o sû-i kasd de akîm kalmış.
 
 Bu yedi misal gibi çok hâdiseler vardır. Başta İmam-ı Buharî ve İmam-ı Müslim ve eimme-i hadîs, Hazret-i Âişe’den naklediyorlar ki: <span class="arabic" dir="rtl">وَاللّٰهُ يَعْصِمُكَ مِنَ النَّاسِ</span> âyeti nâzil olduktan sonra, ara sıra Resul-i Ekrem aleyhissalâtü vesselâmı muhafaza eden zatlara ferman etti: <span class="arabic" dir="rtl">يَا اَيُّهَا النَّاسُ انْصَرِفُوا فَقَدْ عَصَمَنٖى رَبّٖى عَزَّ وَجَلَّ</span> Yani “Nöbettarlığa lüzum yok, benim Rabb’im beni hıfzediyor.”
 
@@ -1062,10 +1281,13 @@ Evet, nasıl ki bir padişahın büyük ve müfettiş bir memurunu her bir daire
 
 Öyle de anlaşılıyor ki bütün devair-i saltanat-ı İlahiyede, melekten tut tâ sineğe ve örümceğe kadar her bir taife onu tanır ve bilir veya bildirilir. Demek, Hâtemü’l-enbiya ve Resul-ü Rabbi’l-âlemîn’dir. Ve umum enbiyanın fevkinde risaletinin şümulü var.
 
-#### On Altıncı İşaret
+## On Altıncı İşaret
+
 İrhasat denilen, bi’set-i nübüvvetten evvel fakat nübüvvetle alâkadar olarak vücuda gelen hârikalar dahi delail-i nübüvvettir. Şu da **üç kısım**dır:
 
-**BİRİNCİ KISIM:** Nass-ı Kur’an’la; Tevrat, İncil, Zebur ve suhuf-u enbiyanın, nübüvvet-i Ahmediye aleyhissalâtü vesselâma dair verdikleri haberdir.
+### BİRİNCİ KISIM
+
+Nass-ı Kur’an’la; Tevrat, İncil, Zebur ve suhuf-u enbiyanın, nübüvvet-i Ahmediye aleyhissalâtü vesselâma dair verdikleri haberdir.
 
 Evet, madem o kitaplar semavîdirler ve madem o kitap sahipleri enbiyadırlar; elbette ve herhalde onların dinlerini nesheden ve kâinatın şeklini değiştiren ve yerin yarısını getirdiği bir nur ile ışıklandıran bir zattan bahsetmeleri, zarurî ve kat’îdir.
 
@@ -1075,7 +1297,9 @@ Evet, küçük hâdiseleri haber veren o kitaplar, nev-i beşerin en büyük hâ
 
 Madem mutlak bir surette tasdik vardır ve madem şu tasdikin vücudunu iktiza eden kat’î bir illet ve esaslı bir sebep vardır, biz dahi o tasdikin vücuduna delâlet eden üç hüccet-i kātıa ile ispat edeceğiz:
 
-**Birinci Hüccet:** Resul-i Ekrem aleyhissalâtü vesselâm Kur’an’ın lisanıyla onlara der ki: “Kitaplarınızda, benim tasdikim ve evsafım vardır. Benim beyan ettiğim şeylerde, kitaplarınız beni tasdik ediyor.”
+#### Birinci Hüccet
+
+Resul-i Ekrem aleyhissalâtü vesselâm Kur’an’ın lisanıyla onlara der ki: “Kitaplarınızda, benim tasdikim ve evsafım vardır. Benim beyan ettiğim şeylerde, kitaplarınız beni tasdik ediyor.”
 
 <p class="arabic" dir="rtl">قُلْ فَاْتُوا بِالتَّوْرٰيةِ فَاتْلُوهَٓا اِنْ كُنْتُمْ صَادِقٖينَ ۞ قُلْ تَعَالَوْا نَدْعُ اَبْنَٓاءَنَا وَاَبْنَٓاءَكُمْ وَنِسَٓاءَنَا وَنِسَٓاءَكُمْ وَاَنْفُسَنَا وَاَنْفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَلْ لَعْنَةَ اللّٰهِ عَلَى الْكَاذِبٖينَ</p>
 
@@ -1083,7 +1307,9 @@ gibi âyetlerle, onlara meydan okuyor. “Tevratınızı getiriniz, okuyunuz ve 
 
 Hem demiş: “Ya yanlışımı bulunuz veyahut sizinle mahvoluncaya kadar cihad edeceğim!” Halbuki bunlar, harbi ve perişaniyeti ve hicreti ihtiyar ettiler. Demek yanlışını bulamadılar. Bir yanlış bulunsaydı onlar kurtulurlardı.
 
-**İkinci Hüccet:** Tevrat, İncil ve Zebur’un ibareleri; Kur’an gibi i’cazları olmadığından hem mütemadiyen tercüme tercüme üstüne olduğundan, pek çok yabani kelimeler içlerine karıştı. Hem müfessirlerin sözleri ve yanlış tevilleri, onların âyetleriyle iltibas edildi. Hem bazı nâdanların ve bazı ehl-i garazın tahrifatı da ilâve edildi. Şu surette o kitaplarda tahrifat, tağyirat çoğaldı. Hattâ Şeyh Rahmetullah-i Hindî (allâme-i meşhur) kütüb-ü sâbıkanın binler yerde tahrifatını, keşişlerine ve Yahudi ve Nasâra ulemasına ispat ederek iskât etmiş.
+#### İkinci Hüccet
+
+Tevrat, İncil ve Zebur’un ibareleri; Kur’an gibi i’cazları olmadığından hem mütemadiyen tercüme tercüme üstüne olduğundan, pek çok yabani kelimeler içlerine karıştı. Hem müfessirlerin sözleri ve yanlış tevilleri, onların âyetleriyle iltibas edildi. Hem bazı nâdanların ve bazı ehl-i garazın tahrifatı da ilâve edildi. Şu surette o kitaplarda tahrifat, tağyirat çoğaldı. Hattâ Şeyh Rahmetullah-i Hindî (allâme-i meşhur) kütüb-ü sâbıkanın binler yerde tahrifatını, keşişlerine ve Yahudi ve Nasâra ulemasına ispat ederek iskât etmiş.
 
 İşte bu kadar tahrifatla beraber, şu zamanda dahi meşhur Hüseyin-i Cisrî rahmetullahi aleyh o kitaplardan yüz on dört delil nübüvvet-i Ahmediyeye dair çıkarmıştır. “Risale-i Hamîdiye”de yazmış. O risaleyi de Manastırlı merhum İsmail Hakkı tercüme etmiş. Kim arzu ederse ona müracaat eder, görür.
 
@@ -1109,45 +1335,47 @@ Hem bunlar gibi Selmanü’l-Farisî, o da evvel Nasrani idi. Resul-i Ekrem aley
 
 Hem Temim namında mühim bir âlim hem meşhur Habeş reisi Necaşî hem Habeş Nasâra’sı hem Necran papazları, bütün müttefikan haber veriyorlar ki: “Biz, evsaf-ı Nebeviyeyi kitaplarımızda gördük, onun için imana geldik.”
 
-**Üçüncü Hüccet:** İşte bir numune olarak Tevrat, İncil, Zebur’un Peygamberimiz aleyhissalâtü vesselâma ait âyetlerinin birkaç numunesini göstereceğiz:
+#### Üçüncü Hüccet
 
-Birincisi, Zebur’da şöyle bir âyet var:
+İşte bir numune olarak Tevrat, İncil, Zebur’un Peygamberimiz aleyhissalâtü vesselâma ait âyetlerinin birkaç numunesini göstereceğiz:
+
+**Birincisi, Zebur’da şöyle bir âyet var:**
 
 <p class="arabic" dir="rtl">اَللّٰهُمَّ ابْعَثْ لَنَا مُقٖيمَ السُّنَّةِ بَعْدَ الْفَتْرَةِ</p>
 
 “Mukîmü’s-Sünne” ise ism-i Ahmedîdir.
 
-İncil’in âyeti:
+**İncil’in âyeti:**
 
 <p class="arabic" dir="rtl">قَالَ الْمَسٖيحُ اِنّٖى ذَاهِبٌ اِلٰى اَبٖى وَ اَبٖيكُمْ لِيَبْعَثَ لَكُمُ الْفَارَقْلٖيطَا</p>
 
 Yani “Ben gidiyorum tâ size Faraklit gelsin!” Yani, Ahmed gelsin.
 
-İncil’in ikinci bir âyeti:
+**İncil’in ikinci bir âyeti:**
 
 <p class="arabic" dir="rtl">اِنّٖى اَطْلُبُ مِنْ رَبّٖى فَارَقْلٖيطًا يَكُونُ مَعَكُمْ اِلَى الْاَبَدِ</p>
 
 Yani “Ben Rabb’imden, hakkı bâtıldan fark eden bir peygamberi istiyorum ki ebede kadar beraberinizde bulunsun.” Faraklit <span class="arabic" dir="rtl">اَلْفَارِقُ بَيْنَ الْحَقِّ وَ الْبَاطِلِ</span> manasında Peygamber’in o kitaplarda ismidir.
 
-Tevrat’ın âyeti:
+**Tevrat’ın âyeti:**
 
 <p class="arabic" dir="rtl">اِنَّ اللّٰهَ قَالَ لِاِبْرَاهٖيمَ اِنَّ هَاجَرَ تَلِدُ وَيَكُونُ مِنْ وَلَدِهَا مَنْ يَدُهُ فَوْقَ الْجَمٖيعِ وَيَدُ الْجَمٖيعِ مَبْسُوطَةٌ اِلَيْهِ بِالْخُشُوعِ</p>
 
 Yani “Hazret-i İsmail’in validesi olan Hacer, evlat sahibesi olacak ve onun evladından öyle birisi çıkacak ki o veledin eli, umumun fevkinde olacak ve umumun eli huşû ve itaatle ona açılacak.”
 
-Tevrat’ın ikinci bir âyeti:
+**Tevrat’ın ikinci bir âyeti:**
 
 <p class="arabic" dir="rtl">وَقَالَ يَا مُوسٰى اِنّٖى مُقٖيمٌ لَهُمْ نَبِيًّا مِنْ بَنٖى اِخْوَتِهِمْ مِثْلَكَ وَاُجْرٖى قَوْلٖى فٖى فَمِهٖ وَالرَّجُلُ الَّذٖى لَايَقْبَلُ قَوْلَ النَّبِىِّ الَّذٖى يَتَكَلَّمُ بِاِسْمٖى فَاَنَا اَنْتَقِمُ مِنْهُ</p>
 
 Yani “Benî-İsrail’in kardeşleri olan Benî-İsmail’den senin gibi birini göndereceğim. Ben sözümü onun ağzına koyacağım, benim vahyimle konuşacak. Onu kabul etmeyene azap vereceğim.”
 
-Tevrat’ın üçüncü bir âyeti:
+**Tevrat’ın üçüncü bir âyeti:**
 
 <p class="arabic" dir="rtl">قَالَ مُوسٰى رَبِّ اِنّٖى اَجِدُ فِى التَّوْرٰيةِ اُمَّةً هُمْ خَيْرُ اُمَّةٍ اُخْرِجَتْ لِلنَّاسِ يَاْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرِ وَيُؤْمِنُونَ بِاللّٰهِ فَاجْعَلْهُمْ اُمَّتٖى قَالَ تِلْكَ اُمَّةُ مُحَمَّدٍ</p>
 
 ***İhtar:*** Muhammed ismi, o kitaplarda “Müşeffah” ve “El-Münhamenna” ve “Hımyata” gibi Süryanî isimler suretinde “Muhammed” manasındaki İbranî isimleriyle gelmiş. Yoksa sarîh Muhammed ismi az vardı. Sarîh miktarını dahi hasûd Yahudiler tahrif etmişler.
 
-Zebur’un âyeti:
+**Zebur’un âyeti:**
 
 <p class="arabic" dir="rtl">يَا دَاوُدُ يَاْتٖى بَعْدَكَ نَبِىٌّ يُسَمّٰى اَحْمَدَ وَمُحَمَّدًا صَادِقًا سَيِّدًا اُمَّتُهُ مَرْحُومَةٌ</p>
 
@@ -1155,7 +1383,7 @@ Hem Abâdile-i Seb’adan ve kütüb-ü sâbıkada çok tetkikat yapan Abdullah 
 
 <p class="arabic" dir="rtl">يَا اَيُّهَا النَّبِىُّ اِنَّا اَرْسَلْنَاكَ شَاهِدًا وَمُبَشِّرًا وَنَذٖيرًا وَحِرْزًا لِلْاُمِّيّٖينَ اَنْتَ عَبْدٖى سَمَّيْتُكَ الْمُتَوَكِّلَ لَيْسَ بِفَظٍّ وَلَا غَلٖيظٍ وَلَا صَخَّابٍ فِى الْاَسْوَاقِ وَلَا يَدْفَعُ بِالسَّيِّئَةِ السَّيِّئَةَ بَلْ يَعْفُو وَيَغْفِرُ وَلَنْ يَقْبِضَهُ اللّٰهُ حَتّٰى يُقٖيمَ بِهِ الْمِلَّةَ الْعَوْجَاءَ بِاَنْ يَقُولُوا لَا اِلٰهَ اِلَّا اللّٰهُ</p>
 
-Tevrat’ın bir âyeti daha:
+**Tevrat’ın bir âyeti daha:**
 
 <p class="arabic" dir="rtl">مُحَمَّدٌ رَسُولُ اللّٰهِ مَوْلِدُهُ بِمَكَّةَ وَهِجْرَتُهُ بِطَيْبَةَ وَمُلْكُهُ بِالشَّامِ وَاُمَّتُهُ الْحَمَّادُونَ</p>
 
@@ -1167,7 +1395,7 @@ Tevrat’ın diğer bir âyeti daha:
 
 İşte şu âyette, Benî-İshak’ın kardeşleri olan Benî-İsmail’den ve Hazret-i Musa’dan sonra gelen peygambere hitap ediyor.
 
-Tevrat’ın diğer bir âyeti daha:
+**Tevrat’ın diğer bir âyeti daha:**
 
 <p class="arabic" dir="rtl">عَبْدِىَ الْمُخْتَارُ لَيْسَ بِفَظٍّ وَلَا غَلٖيظٍ</p>
 
@@ -1201,7 +1429,7 @@ Yine İncil-i Yuhanna, On Altıncı Bab ve yedinci âyeti şudur: “Amma ben, s
 
 Hem İncil-i Yuhanna, On Altıncı Bab, sekizinci âyeti: “O dahi geldikte; dünyayı günaha dair, salaha dair ve hükme dair ilzam edecektir.” İşte dünyanın fesadını salaha çeviren ve günahlardan ve şirkten kurtaran ve siyaset ve hâkimiyet-i dünyayı tebdil eden Muhammed-i Arabî aleyhissalâtü vesselâmdan başka kim gelmiş?
 
-Hem İncil-i Yuhanna, On Altıncı Bab, on birinci âyet: “Zira bu âlemin reisinin gelmesinin hükmü gelmiştir.” İşte “Âlemin Reisi” [^Hâşiye5] elbette Seyyidü’l-beşer olan Ahmed-i Muhammed aleyhissalâtü vesselâmdır.
+Hem İncil-i Yuhanna, On Altıncı Bab, on birinci âyet: “Zira bu âlemin reisinin gelmesinin hükmü gelmiştir.” İşte “Âlemin Reisi” [^hâşiye5] elbette Seyyidü’l-beşer olan Ahmed-i Muhammed aleyhissalâtü vesselâmdır.
 
 Hem İncil-i Yuhanna, On Altıncı Bab ve on üçüncü âyet: “Amma o Hak ruhu geldiği zaman, sizi bi’l-cümle hakikate irşad edecektir. Zira kendisinden söylemiyor. Bi’l-cümle işittiğini söyleyerek gelecek nesnelerden size haber verecek.” İşte bu âyet sarîhtir. Acaba umum insanları birden hakikate davet eden ve her haberini vahiyden veren ve Cebrail’den işittiğini söyleyen ve kıyamet ve âhiretten tafsilen haber veren, Muhammed-i Arabî aleyhissalâtü vesselâmdan başka kimdir ve kim olabilir?
 
@@ -1219,7 +1447,7 @@ Hem İncil’de “El-Baraklit” veyahut “El-Faraklit” ki İncil tefsirleri
 
 İncil’in bir yerinde, İsa aleyhisselâm demiş: “Ben gideceğim tâ dünyanın reisi gelsin.” Acaba Hazret-i İsa aleyhisselâmdan sonra dünyanın reisi olacak ve hak ve bâtılı fark ve temyiz edip Hazret-i İsa aleyhisselâmın yerinde insanları irşad edecek, Resul-i Ekrem aleyhissalâtü vesselâmdan başka kim gelmiştir? Demek, Hazret-i İsa aleyhisselâm ümmetine daima müjde ediyor ve haber veriyor ki: “Birisi gelecek, bana ihtiyaç kalmayacak. Ben, onun bir mukaddimesiyim ve müjdecisiyim.” Nasıl ki şu âyet-i kerîme:
 
-<span class="arabic" dir="rtl">وَاِذْ قَالَ عٖيسَى ابْنُ مَرْيَمَ يَا بَنٖٓى اِسْرَٓائٖيلَ اِنّٖى رَسُولُ اللّٰهِ اِلَيْكُمْ مُصَدِّقًا لِمَا بَيْنَ يَدَىَّ مِنَ التَّوْرٰيةِ وَمُبَشِّرًا بِرَسُولٍ يَاْتٖى مِنْ بَعْدِى اسْمُهُٓ اَحْمَدُ</span> [^Hâşiye6]
+<span class="arabic" dir="rtl">وَاِذْ قَالَ عٖيسَى ابْنُ مَرْيَمَ يَا بَنٖٓى اِسْرَٓائٖيلَ اِنّٖى رَسُولُ اللّٰهِ اِلَيْكُمْ مُصَدِّقًا لِمَا بَيْنَ يَدَىَّ مِنَ التَّوْرٰيةِ وَمُبَشِّرًا بِرَسُولٍ يَاْتٖى مِنْ بَعْدِى اسْمُهُٓ اَحْمَدُ</span> [^hâşiye6]
 
 Evet, İncil’de Hazret-i İsa aleyhisselâm, çok defalar ümmetine müjde veriyor. İnsanların en mühim bir reisi geleceğini ve o zatı da bazı isimler ile yâd ediyor. O isimler elbette Süryanî ve İbranîdirler. Ehl-i tahkik görmüşler. O isimler “Ahmed, Muhammed, Farikun beyne’l-hakk-ı ve’l-bâtıl” manasındadırlar. Demek İsa aleyhisselâm, çok defa Ahmed aleyhissalâtü vesselâmdan beşaret veriyor.
 
@@ -1231,7 +1459,9 @@ Evet, İncil’de Hazret-i İsa aleyhisselâm, çok defalar ümmetine müjde ver
 
 Acaba bütün bu kütüb-ü enbiyada bu kadar ehemmiyetle, mükerrer âyetlerde bahsettikleri, Âhir Zaman Peygamberi Hazret-i Muhammed aleyhissalâtü vesselâmdan başka kim olabilir?
 
-**İKİNCİ KISIM** irhasattan ve delail-i nübüvvetten maksat şudur ki: Bi’set-i Ahmediyeden evvel, zaman-ı fetrette kâhinler hem **o zamanın bir derece evliya ve ârif-i billah olan bir kısım insanları; Resul-i Ekrem aleyhissalâtü vesselâmın geleceğini haber vermişler ve ihbarlarını da neşretmişler, şiirleriyle gelecek asırlara bırakmışlar.** Onlar çoktur; biz, ehl-i siyer ve tarihin nakil ve kabul ettikleri meşhur ve münteşir olan bir kısmını zikredeceğiz. Ezcümle:
+### İKİNCİ KISIM
+
+İrhasattan ve delail-i nübüvvetten maksat şudur ki: Bi’set-i Ahmediyeden evvel, zaman-ı fetrette kâhinler hem **o zamanın bir derece evliya ve ârif-i billah olan bir kısım insanları; Resul-i Ekrem aleyhissalâtü vesselâmın geleceğini haber vermişler ve ihbarlarını da neşretmişler, şiirleriyle gelecek asırlara bırakmışlar.** Onlar çoktur; biz, ehl-i siyer ve tarihin nakil ve kabul ettikleri meşhur ve münteşir olan bir kısmını zikredeceğiz. Ezcümle:
 
 Yemen padişahlarından Tübba’ isminde bir melik, Resul-i Ekrem aleyhissalâtü vesselâmın evsafını eski kitaplarda görmüş, iman etmiş. Şöyle bir şiirini ilan etmiş:
 
@@ -1239,35 +1469,49 @@ Yemen padişahlarından Tübba’ isminde bir melik, Resul-i Ekrem aleyhissalât
 
 Yani “Ben Ahmed’in (asm) risaletini tasdik ediyorum. Ben onun zamanına yetişseydim ona vezir ve ammizade olurdum.” Yani Ali gibi ona fedai bir hâdim olurdum.
 
-**İkincisi:** Meşhur Kuss İbn-i Sâide ki kavm-i Arab’ın en meşhur ve mühim hatibi ve muvahhid bir zat-ı ruşen-zamirdir. İşte şu zat da bi’set-i Nebevîden evvel risalet-i Ahmediyeyi şu şiirle ilan ediyor:
+#### İkincisi
+
+Meşhur Kuss İbn-i Sâide ki kavm-i Arab’ın en meşhur ve mühim hatibi ve muvahhid bir zat-ı ruşen-zamirdir. İşte şu zat da bi’set-i Nebevîden evvel risalet-i Ahmediyeyi şu şiirle ilan ediyor:
 
 <p class="arabic" dir="rtl">اَرْسَلَ فٖينَا اَحْمَدَ خَيْرَ نَبِىٍّ قَدْ بُعِثَ § صَلّٰى عَلَيْهِ اللّٰهُ مَا عَجَّ لَهُ رَكْبٌ وَ حُثَّ</p>
 
-**Üçüncüsü:** Resul-i Ekrem aleyhissalâtü vesselâmın ecdadından olan Kâ’b İbn-i Lüeyy, nübüvvet-i Ahmediyeyi (asm) ilham eseri olarak şöyle ilan etmiş:
+#### Üçüncüsü
+
+Resul-i Ekrem aleyhissalâtü vesselâmın ecdadından olan Kâ’b İbn-i Lüeyy, nübüvvet-i Ahmediyeyi (asm) ilham eseri olarak şöyle ilan etmiş:
 
 <p class="arabic" dir="rtl">عَلٰى غَفْلَةٍ يَاْتِى النَّبِىُّ مُحَمَّدٌ فَيُخْبِرُ اَخْبَارًا صَدُوقًا خَبٖيرُهَا</p>
 
 Yani “Füc’eten, Muhammedü’n-Nebi gelecek, doğru haberleri verecek.”
 
-**Dördüncüsü:** Yemen padişahlarından Seyf İbn-i Zîyezen, kütüb-ü sâbıkada Resul-i Ekrem aleyhissalâtü vesselâmın evsafını görmüş; iman etmiş, müştak olmuş idi. Resul-i Ekrem aleyhissalâtü vesselâmın ceddi Abdülmuttalib, Yemen’e kafile-i Kureyş ile gittiği zaman, Seyf İbn-i Zîyezen onları çağırmış. Onlara demiş ki:
+#### Dördüncüsü
+
+Yemen padişahlarından Seyf İbn-i Zîyezen, kütüb-ü sâbıkada Resul-i Ekrem aleyhissalâtü vesselâmın evsafını görmüş; iman etmiş, müştak olmuş idi. Resul-i Ekrem aleyhissalâtü vesselâmın ceddi Abdülmuttalib, Yemen’e kafile-i Kureyş ile gittiği zaman, Seyf İbn-i Zîyezen onları çağırmış. Onlara demiş ki:
 
 <p class="arabic" dir="rtl">اِذَا وُلِدَ بِتِهَامَةَ وَلَدٌ بَيْنَ كَتْفَيْهِ شَامَةٌ كَانَتْ لَهُ الْاِمَامَةُ وَاِنَّكَ يَا عَبْدَ الْمُطَّلِبِ لَجَدُّهُ</p>
 
 Yani “Hicaz’da bir çocuk dünyaya gelir. Onun iki omuzu arasında hâtem gibi bir nişan var. İşte o çocuk umum insanlara imam olacak!” Sonra gizli Abdülmuttalib’i çağırmış “O çocuğun ceddi de sensin.” diye kerametkârane, bi’setten evvel haber vermiş.
 
-**Beşincisi:** Varaka İbn-i Nevfel (Hatice-i Kübra’nın ammizadelerinden) bidayet-i vahiyde Resul-i Ekrem aleyhissalâtü vesselâm telaş etmiş. Hatice-i Kübra o hâdiseyi, meşhur Varaka İbn-i Nevfel’e hikâye etmiş. Varaka demiş: “Onu bana gönder.” Resul-i Ekrem aleyhissalâtü vesselâm Varaka’nın yanına gitmiş, mebde-i vahiydeki vaziyeti hikâye etmiş. Varaka demiş: <span class="arabic" dir="rtl">بَشِّرْ يَا مُحَمَّدُ اِنّٖى اَشْهَدُ اَنَّكَ اَنْتَ النَّبِىُّ الْمُنْتَظَرُ وَبَشَّرَ بِكَ عٖيسٰى</span>
+#### Beşincisi
+
+Varaka İbn-i Nevfel (Hatice-i Kübra’nın ammizadelerinden) bidayet-i vahiyde Resul-i Ekrem aleyhissalâtü vesselâm telaş etmiş. Hatice-i Kübra o hâdiseyi, meşhur Varaka İbn-i Nevfel’e hikâye etmiş. Varaka demiş: “Onu bana gönder.” Resul-i Ekrem aleyhissalâtü vesselâm Varaka’nın yanına gitmiş, mebde-i vahiydeki vaziyeti hikâye etmiş. Varaka demiş: <span class="arabic" dir="rtl">بَشِّرْ يَا مُحَمَّدُ اِنّٖى اَشْهَدُ اَنَّكَ اَنْتَ النَّبِىُّ الْمُنْتَظَرُ وَبَشَّرَ بِكَ عٖيسٰى</span>
 
 Yani “Telaş etme, o halet vahiydir. Sana müjde! İntizar edilen Nebi sensin! İsa seninle müjde vermiş.”
 
-**Altıncısı:** Askelânu’l-Hımyerî nam ârif-i billah, bi’setten evvel Kureyşîleri gördüğü vakit “İçinizde dava-yı nübüvvet eden var mı?” “Yok.” derlerdi. Sonra bi’set vaktinde yine sormuş; “Evet” demişler “Biri dava-yı nübüvvet ediyor.” Demiş: “İşte âlem onu bekliyor.”
+#### Altıncısı
 
-**Yedincisi:** Nasâra ulema-yı be-namından İbnü’l-Alâ, bi’setten ve Peygamber’i görmeden evvel haber vermiş. Sonra gelmiş. Hazret-i Peygamber aleyhissalâtü vesselâmı görmüş, demiş:
+Askelânu’l-Hımyerî nam ârif-i billah, bi’setten evvel Kureyşîleri gördüğü vakit “İçinizde dava-yı nübüvvet eden var mı?” “Yok.” derlerdi. Sonra bi’set vaktinde yine sormuş; “Evet” demişler “Biri dava-yı nübüvvet ediyor.” Demiş: “İşte âlem onu bekliyor.”
+
+#### Yedincisi
+
+Nasâra ulema-yı be-namından İbnü’l-Alâ, bi’setten ve Peygamber’i görmeden evvel haber vermiş. Sonra gelmiş. Hazret-i Peygamber aleyhissalâtü vesselâmı görmüş, demiş:
 
 <p class="arabic" dir="rtl">وَالَّذٖى بَعَثَكَ بِالْحَقِّ لَقَدْ وَجَدْتُ صِفَتَكَ فِى الْاِنْجٖيلِ وَبَشَّرَ بِكَ ابْنُ الْبَتُولِ</p>
 
 Yani “Ben senin sıfatını İncil’de gördüm, iman ettim. İbn-i Meryem, İncil’de senin geleceğini müjde etmiş.”
 
-**Sekizincisi:** Bahsi geçen Habeş padişahı Necaşî demiş: <span class="arabic" dir="rtl">لَيْتَ لٖى خِدْمَتَهُ بَدَلًا عَنْ هٰذِهِ السَّلْطَنَةِ</span> Yani “Keşke şu saltanata bedel Muhammed-i Arabî aleyhissalâtü vesselâmın hizmetkârı olsaydım. O hizmetkârlık, saltanatın pek fevkindedir.”
+#### Sekizincisi
+
+Bahsi geçen Habeş padişahı Necaşî demiş: <span class="arabic" dir="rtl">لَيْتَ لٖى خِدْمَتَهُ بَدَلًا عَنْ هٰذِهِ السَّلْطَنَةِ</span> Yani “Keşke şu saltanata bedel Muhammed-i Arabî aleyhissalâtü vesselâmın hizmetkârı olsaydım. O hizmetkârlık, saltanatın pek fevkindedir.”
 
 Şimdi ilham-ı Rabbanî ile gaibden haber veren bu âriflerden sonra; **gaibden ruh ve cin vasıtasıyla haber veren kâhinler, pek sarîh bir surette Resul-i Ekrem aleyhissalâtü vesselâmın geleceğini ve nübüvvetini haber vermişler.** Onlar çoktur; biz, onlardan meşhurları ve manevî tevatür hükmüne geçmiş ve ekser tarih ve siyerde nakledilmiş birkaçını zikredeceğiz. Onların uzun kıssalarını ve sözlerini siyer kitaplarına havale edip yalnız icmalen bahsedeceğiz.
 
@@ -1291,7 +1535,7 @@ Yine bir hâtif-i cinnî, Sâmia İbn-i Karreti’l-Gatafanî’ye böyle bağı
 
 Bu hâtiflerin beşaretleri ve haber vermeleri pek meşhurdur ve çoktur.
 
-Hem nasıl kâhinler, hâtifler haber vermişler, öyle de **sanemler **dahi** ve sanemlere kesilen kurbanlar dahi Resul-i Ekrem aleyhissalâtü vesselâmın risaletini haber vermişler.**
+Hem nasıl kâhinler, hâtifler haber vermişler, öyle de **sanemler** dahi ve sanemlere kesilen kurbanlar dahi Resul-i Ekrem aleyhissalâtü vesselâmın risaletini haber vermişler.
 
 Ezcümle, kıssa-i meşhuredendir ki Mâzen kabilesinin sanemi bağırıp demiş:
 
@@ -1315,39 +1559,61 @@ Nasıl ki kâhinler, ârif-i billahlar, hâtifler, hattâ sanemler ve kurbanlar,
 
 Evet, hatt-ı kadîm ile bazı taşlarda bulunan <span class="arabic" dir="rtl">مُحَمَّدٌ مُصْلِحٌ اَمٖينٌ</span> Resul-i Ekrem aleyhissalâtü vesselâmdan ibarettir. Çünkü ondan evvel, zamanına pek yakın, yalnız yedi Muhammed ismi var, başka yoktur. O yedi adamın hiçbir cihetle “Muslih-i Emin” tabirine liyakatleri yoktur.
 
-**ÜÇÜNCÜ KISIM** irhasattan Resul-i Ekrem aleyhissalâtü vesselâmın **veladeti hengâmında** vücuda gelen hârikalardır ve hâdiselerdir. O hâdiseler, onun veladetiyle alâkadar bir surette vücuda gelmiş. Hem **bi’setten evvel** bazı hâdiseler var ki doğrudan doğruya birer mu’cizesidir. Bunlar çoktur. Numune olarak meşhur olmuş ve eimme-i hadîs kabul etmiş ve sıhhatleri tahakkuk etmiş birkaç numuneyi zikredeceğiz:
+### ÜÇÜNCÜ KISIM
 
-**Birincisi:** Veladet-i Nebevî gecesinde hem annesi hem annesinin yanında bulunan Osman İbni’l-Âs’ın annesi hem Abdurrahman İbn-i Avf’ın annesinin gördükleri azîm bir nurdur ki üçü de demişler: “Veladeti anında biz öyle bir nur gördük ki o nur, maşrık ve mağribi bize aydınlattırdı.”
+İrhasattan Resul-i Ekrem aleyhissalâtü vesselâmın **veladeti hengâmında** vücuda gelen hârikalardır ve hâdiselerdir. O hâdiseler, onun veladetiyle alâkadar bir surette vücuda gelmiş. Hem **bi’setten evvel** bazı hâdiseler var ki doğrudan doğruya birer mu’cizesidir. Bunlar çoktur. Numune olarak meşhur olmuş ve eimme-i hadîs kabul etmiş ve sıhhatleri tahakkuk etmiş birkaç numuneyi zikredeceğiz:
 
-**İkincisi:** O gece Kâbe’deki sanemlerin çoğu başı aşağı düşmüş.
+#### Birincisi
 
-**Üçüncüsü:** Meşhur Kisra’nın eyvanı yani saray-ı meşhuresi o gece sallanıp inşikak etmesi ve on dört şerefesinin düşmesidir.
+Veladet-i Nebevî gecesinde hem annesi hem annesinin yanında bulunan Osman İbni’l-Âs’ın annesi hem Abdurrahman İbn-i Avf’ın annesinin gördükleri azîm bir nurdur ki üçü de demişler: “Veladeti anında biz öyle bir nur gördük ki o nur, maşrık ve mağribi bize aydınlattırdı.”
 
-**Dördüncüsü:** Sava’nın takdis edilen küçük denizinin o gecede yere batması ve İstahr-Âbad’da bin senedir daima iş’al edilen, yanan ve sönmeyen, Mecusilerin mabud ittihaz ettikleri ateşin veladet gecesinde sönmesi.
+#### İkincisi
+
+O gece Kâbe’deki sanemlerin çoğu başı aşağı düşmüş.
+
+#### Üçüncüsü
+
+Meşhur Kisra’nın eyvanı yani saray-ı meşhuresi o gece sallanıp inşikak etmesi ve on dört şerefesinin düşmesidir.
+
+#### Dördüncüsü
+
+Sava’nın takdis edilen küçük denizinin o gecede yere batması ve İstahr-Âbad’da bin senedir daima iş’al edilen, yanan ve sönmeyen, Mecusilerin mabud ittihaz ettikleri ateşin veladet gecesinde sönmesi.
 
 İşte şu üç dört hâdise işarettir ki o yeni dünyaya gelen zat; ateş-perestliği kaldıracak, Fars saltanatının sarayını parçalayacak, izn-i İlahî ile olmayan şeylerin takdisini men’edecektir.
 
-**Beşincisi:** Çendan veladet gecesinde değil fakat veladete pek yakın olduğu cihetle, o hâdiseler de irhasat-ı Ahmediyedir ki (asm) Sure-i <span class="arabic" dir="rtl">اَلَمْ تَرَ كَيْفَ</span> de nass-ı kat’î ile beyan edilen “Vak’a-i Fil”dir ki Kâbe’yi tahrip etmek için Ebrehe namında Habeş meliki gelip Fil-i Mahmudî namında cesîm bir fili öne sürüp gelmiş. Mekke’ye yakın olduğu vakit fil yürümemiş. Çare bulamamış, dönmüşler. Ebabil kuşları onları mağlup etmiş ve perişan etmiş, kaçmışlar. Bu kıssa-i acibe, tarih kitaplarında tafsilen meşhurdur.
+#### Beşincisi
+
+Çendan veladet gecesinde değil fakat veladete pek yakın olduğu cihetle, o hâdiseler de irhasat-ı Ahmediyedir ki (asm) Sure-i <span class="arabic" dir="rtl">اَلَمْ تَرَ كَيْفَ</span> de nass-ı kat’î ile beyan edilen “Vak’a-i Fil”dir ki Kâbe’yi tahrip etmek için Ebrehe namında Habeş meliki gelip Fil-i Mahmudî namında cesîm bir fili öne sürüp gelmiş. Mekke’ye yakın olduğu vakit fil yürümemiş. Çare bulamamış, dönmüşler. Ebabil kuşları onları mağlup etmiş ve perişan etmiş, kaçmışlar. Bu kıssa-i acibe, tarih kitaplarında tafsilen meşhurdur.
 
 İşte şu hâdise Resul-i Ekrem aleyhissalâtü vesselâmın delail-i nübüvvetindendir. Çünkü veladete pek yakın bir zamanda, kıblesi ve mevlidi ve sevgili vatanı olan Kâbe-i Mükerreme, gaybî ve hârika bir surette Ebrehe’nin tahribinden kurtulmuştur.
 
-**Altıncısı:** Resul-i Ekrem aleyhissalâtü vesselâm küçüklüğünde Halîme-i Sa’diye’nin yanında iken, Halîme ve Halîme’nin zevcinin şehadetleriyle; güneşten rahatsız olmamak için çok defa üstünde bir bulut parçasının ona gölge ettiğini görmüşler ve halka söylemişler ve o vakıa sıhhatle şöhret bulmuş.
+#### Altıncısı
+
+Resul-i Ekrem aleyhissalâtü vesselâm küçüklüğünde Halîme-i Sa’diye’nin yanında iken, Halîme ve Halîme’nin zevcinin şehadetleriyle; güneşten rahatsız olmamak için çok defa üstünde bir bulut parçasının ona gölge ettiğini görmüşler ve halka söylemişler ve o vakıa sıhhatle şöhret bulmuş.
 
 Hem Şam tarafına on iki yaşında iken gittiği vakit, Buheyra-yı Rahip’in şehadetiyle, bir parça bulut, Resul-i Ekrem aleyhissalâtü vesselâmın başına gölge ettiğini görmüş ve göstermiş.
 
 Hem yine bi’setten evvel Resul-i Ekrem aleyhissalâtü vesselâm, bir defa Hatice-i Kübra’nın Meysere ismindeki hizmetkârıyla ticaretten geldiği zaman, Hatice-i Kübra, Resul-i Ekrem aleyhissalâtü vesselâmın başında iki meleğin bulut tarzında gölge ettiklerini görmüş. Kendi hizmetkârı olan Meysere’ye demiş. Meysere dahi Hatice-i Kübra’ya demiş: “Bütün seferimizde ben öyle görüyordum.”
 
-**Yedincisi:** Nakl-i sahih ile sabittir ki: Resul-i Ekrem aleyhissalâtü vesselâm, bi’setten evvel bir ağacın altında oturdu; o yer kuru idi, birden yeşillendi. Ağacın dalları, onun başı üzerine eğilip kıvrılarak gölge yapmıştır.
+#### Yedincisi
 
-**Sekizincisi:** Resul-i Ekrem aleyhissalâtü vesselâm ufak iken, Ebu Talib’in evinde kalıyordu. Ebu Talib, çoluk ve çocuğu ile onunla beraber yerlerse karınları doyardı. Ne vakit o zat yemekte bulunmazsa tok olmuyorlardı. Şu hâdise hem meşhurdur hem kat’îdir.
+Nakl-i sahih ile sabittir ki: Resul-i Ekrem aleyhissalâtü vesselâm, bi’setten evvel bir ağacın altında oturdu; o yer kuru idi, birden yeşillendi. Ağacın dalları, onun başı üzerine eğilip kıvrılarak gölge yapmıştır.
+
+#### Sekizincisi
+
+Resul-i Ekrem aleyhissalâtü vesselâm ufak iken, Ebu Talib’in evinde kalıyordu. Ebu Talib, çoluk ve çocuğu ile onunla beraber yerlerse karınları doyardı. Ne vakit o zat yemekte bulunmazsa tok olmuyorlardı. Şu hâdise hem meşhurdur hem kat’îdir.
 
 Hem Resul-i Ekrem aleyhissalâtü vesselâmın küçüklüğünde ona bakan ve hizmet eden Ümm-ü Eymen demiş: “Hiçbir vakit Resul-i Ekrem aleyhissalâtü vesselâm açlık ve susuzluktan şikayet etmedi, ne küçüklüğünde ve ne de büyüklüğünde.”
 
-**Dokuzuncusu:** Murdiası olan Halîme-i Sa’diye’nin malında ve keçilerinin sütünde, kabilesinin hilafına olarak çok bereketi ve ziyade olmasıdır. Bu vakıa hem meşhurdur hem kat’îdir.
+#### Dokuzuncusu
+
+Murdiası olan Halîme-i Sa’diye’nin malında ve keçilerinin sütünde, kabilesinin hilafına olarak çok bereketi ve ziyade olmasıdır. Bu vakıa hem meşhurdur hem kat’îdir.
 
 Hem sinek onu taciz etmezdi, onun cesed-i mübareğine ve libasına konmazdı. Nasıl ki evladından olan Seyyid Abdülkadir-i Geylanî (ks) dahi ceddinden o hali irsiyet almıştı, sinek ona da konmazdı.
 
-**Onuncusu:** Resul-i Ekrem aleyhissalâtü vesselâm dünyaya geldikten sonra, bâhusus veladet gecesinde, yıldızların düşmesinin çoğalmasıdır ki şu hâdise On Beşinci Söz’de kat’iyen bürhanlarıyla ispat ettiğimiz üzere; şu yıldızların sukutu, şeyatîn ve cinlerin gaybî haberlerden kesilmesine alâmet ve işarettir.
+#### Onuncusu
+
+Resul-i Ekrem aleyhissalâtü vesselâm dünyaya geldikten sonra, bâhusus veladet gecesinde, yıldızların düşmesinin çoğalmasıdır ki şu hâdise On Beşinci Söz’de kat’iyen bürhanlarıyla ispat ettiğimiz üzere; şu yıldızların sukutu, şeyatîn ve cinlerin gaybî haberlerden kesilmesine alâmet ve işarettir.
 
 İşte madem Resul-i Ekrem aleyhissalâtü vesselâm vahiy ile dünyaya çıktı; elbette yarım yamalak ve yalanlar ile karışık, kâhinlerin ve gaibden haber verenlerin ve cinlerin ihbaratına set çekmek lâzımdır ki vahye bir şüphe îras etmesinler ve vahye benzemesin.
 
@@ -1357,9 +1623,10 @@ Evet, bi’setten evvel kâhinlik çoktu. Kur’an nâzil olduktan sonra onlara 
 
 ***Elhasıl:*** Resul-i Ekrem aleyhissalâtü vesselâmın nübüvvetinden evvel nübüvvetini tasdik ettiren ve tasdik eden pek çok vakıalar, pek çok zatlar zahir olmuşlar.
 
-Evet, dünyaya manen reis olacak [^Hâşiye7] ve dünyanın manevî şeklini değiştirecek ve dünyayı âhirete mezraa yapacak ve dünyanın mahlukatının kıymetlerini ilan edecek ve cin ve inse saadet-i ebediyeye yol gösterecek ve fâni cin ve insi idam-ı ebedîden kurtaracak ve dünyanın hikmet-i hilkatini ve tılsım-ı muğlakını ve muammasını açacak ve Hâlık-ı kâinat’ın makasıdını bilecek ve bildirecek ve o Hâlık’ı tanıyıp umuma tanıttıracak bir zat; elbette o daha gelmeden her şey her nevi her taife onun geleceğini sevecek ve bekleyecek ve hüsn-ü istikbal edecek ve alkışlayacak ve Hâlık’ı tarafından bildirilirse o da bildirecek. Nasıl ki sâbık işaretlerde ve misallerde gördük ki her bir nev-i mahlukat, onu hüsn-ü istikbal ediyor gibi mu’cizatını gösteriyorlar; mu’cize lisanıyla nübüvvetini tasdik ediyorlar.
+Evet, dünyaya manen reis olacak [^hâşiye7] ve dünyanın manevî şeklini değiştirecek ve dünyayı âhirete mezraa yapacak ve dünyanın mahlukatının kıymetlerini ilan edecek ve cin ve inse saadet-i ebediyeye yol gösterecek ve fâni cin ve insi idam-ı ebedîden kurtaracak ve dünyanın hikmet-i hilkatini ve tılsım-ı muğlakını ve muammasını açacak ve Hâlık-ı kâinat’ın makasıdını bilecek ve bildirecek ve o Hâlık’ı tanıyıp umuma tanıttıracak bir zat; elbette o daha gelmeden her şey her nevi her taife onun geleceğini sevecek ve bekleyecek ve hüsn-ü istikbal edecek ve alkışlayacak ve Hâlık’ı tarafından bildirilirse o da bildirecek. Nasıl ki sâbık işaretlerde ve misallerde gördük ki her bir nev-i mahlukat, onu hüsn-ü istikbal ediyor gibi mu’cizatını gösteriyorlar; mu’cize lisanıyla nübüvvetini tasdik ediyorlar.
 
-#### On Yedinci İşaret
+## On Yedinci İşaret
+
 Resul-i Ekrem aleyhissalâtü vesselâmın Kur’an’dan sonra en büyük mu’cizesi, **kendi zatıdır**. Yani onda içtima etmiş ahlâk-ı âliyedir ki her bir haslette en yüksek tabakada olduğuna, dost ve düşman ittifak ediyorlar. Hattâ şecaat kahramanı Hazret-i Ali, mükerreren diyordu: “Harbin dehşetlendiği vakit, biz Resul-i Ekrem aleyhissalâtü vesselâmın arkasına iltica edip tahassun ediyorduk.” Ve hâkeza… Bütün ahlâk-ı hamîdede en yüksek ve yetişilmeyecek bir dereceye mâlik idi. Şu mu’cize-i ekberi, Allâme-i Mağrib Kadı İyaz’ın Şifa-i Şerif’ine havale ediyoruz. Elhak o zat, o mu’cize-i ahlâk-ı hamîdeyi pek güzel beyan edip ispat etmiştir.
 
 Hem pek büyük ve dost ve düşmanla musaddak bir mu’cize-i Ahmediye (asm) **şeriat-ı kübrasıdır** ki ne misli gelmiş ve ne de gelecek. Şu mu’cize-i a’zamın bir derece beyanını, bütün yazdığımız otuz üç Söz ve otuz üç Mektup’a ve otuz bir Lem’a’ya ve on üç Şuâ’ya havale ediyoruz.
@@ -1380,12 +1647,13 @@ Hem Resul-i Ekrem aleyhissalâtü vesselâm Kureyş’e demiş ki: “Yolda gide
 
 İşte Muhammed-i Arabî aleyhissalâtü vesselâmın bir tek sözünün tasdiki için koca arz vazifesini terk eder, koca güneş şahit olur. Böyle bir zatı tasdik etmeyen ve emrini tutmayanın ne derece bedbaht olduğunu ve onu tasdik edip emrine <span class="arabic" dir="rtl">سَمِعْنَا وَ اَطَعْنَا</span> diyenlerin ne kadar bahtiyar olduklarını anla <span class="arabic" dir="rtl">اَلْحَمْدُ لِلّٰهِ عَلَى الْاٖيمَانِ وَ الْاِسْلَامِ</span> de.
 
-#### On Sekizinci İşaret
+## On Sekizinci İşaret
+
 Resul-i Ekrem aleyhissalâtü vesselâmın en büyük ve ebedî ve yüzer delail-i nübüvveti câmi’ ve kırk vecihle i’cazı ispat edilmiş bir mu’cizesi dahi **Kur’an-ı Hakîm’dir.**
 
 İşte şu mu’cize-i ekberin beyanına dair Yirmi Beşinci Söz takriben yüz elli sahifede, kırk vech-i i’cazını icmalen beyan ve ispat etmiştir. Öyle ise şu mahzen-i mu’cizat olan mu’cize-i a’zamı o Söz’e havale ederek yalnız iki üç nükteyi beyan edeceğiz:
 
-**BİRİNCİ NÜKTE:**
+### BİRİNCİ NÜKTE
 
 ***Eğer denilse:*** İ’caz-ı Kur’an belâgattadır. Halbuki umum tabakatın hakları var ki i’cazında hisseleri bulunsun. Halbuki belâgattaki i’cazı, binde ancak bir muhakkik âlim anlayabilir?
 
@@ -1409,11 +1677,10 @@ Hattâ yalnız kulağı bulunan ve bir derece mana fehmeden avam tabakasına kar
 
 Kur’an-ı Mu’cizü’l-Beyan meydana çıktığı vakit bütün âleme meydan okudu ve insanlarda iki şiddetli his uyandırdı:
 
-**Birisi:** Dostlarında hiss-i taklidi, yani sevgili Kur’an’ın üslubuna karşı benzemeklik arzusu ve onun gibi konuşmak hissi…
+- **Birisi:** Dostlarında hiss-i taklidi, yani sevgili Kur’an’ın üslubuna karşı benzemeklik arzusu ve onun gibi konuşmak hissi…
+- **İkincisi:** Düşmanlarda bir hiss-i tenkit ve muaraza, yani Kur’an üslubuna mukabele etmekle dava-yı i’cazı kırmak hissi…
 
-**İkincisi:** Düşmanlarda bir hiss-i tenkit ve muaraza, yani Kur’an üslubuna mukabele etmekle dava-yı i’cazı kırmak hissi…
-
-İşte bu iki hiss-i şedit ile milyonlar Arabî kitaplar yazılmışlar, meydandadır. Şimdi bütün bu kitapların en beliğleri, en fasihleri Kur’an’la beraber okunduğu vakit, her kim dinlese kat’iyen diyecek ki Kur’an bunların hiçbirisine benzemiyor. Demek Kur’an, umum bu kitapların derecesinde değildir. Öyle ise herhalde, ya Kur’an umumunun altında olacak; o ise yüz derece muhal olmakla beraber, hiç kimse hattâ şeytan bile olsa diyemez. [^Hâşiye8] Öyle ise Kur’an-ı Mu’cizü’l-Beyan, yazılan umum kitapların fevkindedir.
+İşte bu iki hiss-i şedit ile milyonlar Arabî kitaplar yazılmışlar, meydandadır. Şimdi bütün bu kitapların en beliğleri, en fasihleri Kur’an’la beraber okunduğu vakit, her kim dinlese kat’iyen diyecek ki Kur’an bunların hiçbirisine benzemiyor. Demek Kur’an, umum bu kitapların derecesinde değildir. Öyle ise herhalde, ya Kur’an umumunun altında olacak; o ise yüz derece muhal olmakla beraber, hiç kimse hattâ şeytan bile olsa diyemez. [^hâşiye8] Öyle ise Kur’an-ı Mu’cizü’l-Beyan, yazılan umum kitapların fevkindedir.
 
 Hattâ manayı da fehmetmeyen cahil, âmî tabakaya karşı da Kur’an-ı Hakîm, usandırmamak suretiyle i’cazını gösterir. Evet o âmî, cahil adam der ki: “En güzel, en meşhur bir beyti iki üç defa işitsem bana usanç veriyor. Şu Kur’an ise hiç usandırmıyor, gittikçe daha ziyade dinlemesi hoşuma gidiyor. Öyle ise bu, insan sözü değildir.”
 
@@ -1423,7 +1690,7 @@ Hattâ az sözden ve gürültüden müteessir olan hastalara ve sekeratta olanla
 
 ***Elhasıl:*** Kırk muhtelif tabakata ve ayrı ayrı insanlara, kırk vecihle Kur’an-ı Hakîm i’cazını gösterir veya i’cazının vücudunu ihsas eder. Kimseyi mahrum bırakmaz.
 
-Hattâ yalnız gözü bulunan [^Hâşiye9] kulaksız, kalpsiz, ilimsiz tabakasına karşı da Kur’an’ın bir nevi alâmet-i i’cazı vardır. Şöyle ki:
+Hattâ yalnız gözü bulunan [^hâşiye9] kulaksız, kalpsiz, ilimsiz tabakasına karşı da Kur’an’ın bir nevi alâmet-i i’cazı vardır. Şöyle ki:
 
 Hâfız Osman hattıyla ve basmasıyla olan Kur’an-ı Mu’cizü’l-Beyan’ın yazılan kelimeleri birbirine bakıyor.
 
@@ -1439,17 +1706,16 @@ Ve Kur’an’ın birbirine bakan iki sahifesinde, birbirine bakan cümleleri k�
 
 İşte tertib-i Kur’an irşad-ı Nebevî ile, münteşir ve matbu Kur’anlar da ilham-ı İlahî ile olduğundan Kur’an-ı Hakîm’in nakşında ve o hattında, bir nevi alâmet-i i’caz işareti var. Çünkü o vaziyet, ne tesadüfün işi ve ne de fikr-i beşerin düşünüşüdür. Fakat bazı inhiraf var ki o da tabın noksanıdır ki tam muntazam olsaydı kelimeler tam birbiri üzerine düşecekti.
 
-Hem Kur’an’ın Medine’de nâzil olan mutavassıt ve uzun surelerinin her bir sahifesinde “lafzullah” pek bedî’ bir tarzda tekrar edilmiş. Ağleben ya beş ya altı ya yedi ya sekiz ya dokuz ya on bir adet tekrar ile beraber bir yaprağın iki yüzünde ve karşı karşıya gelen sahifede güzel ve manidar bir münasebet-i adediye gösterir. [^Hâşiye10]
+Hem Kur’an’ın Medine’de nâzil olan mutavassıt ve uzun surelerinin her bir sahifesinde “lafzullah” pek bedî’ bir tarzda tekrar edilmiş. Ağleben ya beş ya altı ya yedi ya sekiz ya dokuz ya on bir adet tekrar ile beraber bir yaprağın iki yüzünde ve karşı karşıya gelen sahifede güzel ve manidar bir münasebet-i adediye gösterir. [^hâşiye10.1] [^hâşiye10.2] [^hâşiye10.3] [^hâşiye10.4]
 
-**İKİNCİ NÜKTE:** Hazret-i Musa aleyhisselâmın zamanında sihrin revacı olduğundan mühim mu’cizatı, ona benzer bir tarzda geldiği ve Hazret-i İsa aleyhisselâmın zamanında ilm-i tıp revaçta olduğundan mu’cizatının galibi, o cinsten geldiği gibi Resul-i Ekrem aleyhissalâtü vesselâmın dahi zamanında Ceziretü’l-Arap’ta en ziyade revaçta dört şey idi:
+### İKİNCİ NÜKTE
 
-**Birincisi:** Belâgat ve fesahat.
+Hazret-i Musa aleyhisselâmın zamanında sihrin revacı olduğundan mühim mu’cizatı, ona benzer bir tarzda geldiği ve Hazret-i İsa aleyhisselâmın zamanında ilm-i tıp revaçta olduğundan mu’cizatının galibi, o cinsten geldiği gibi Resul-i Ekrem aleyhissalâtü vesselâmın dahi zamanında Ceziretü’l-Arap’ta en ziyade revaçta dört şey idi:
 
-**İkincisi:** Şiir ve hitabet.
-
-**Üçüncüsü:** Kâhinlik ve gaibden haber vermek.
-
-**Dördüncüsü:** Hâdisat-ı maziyeyi ve vakıat-ı kevniyeyi bilmek idi.
+- **Birincisi:** Belâgat ve fesahat.
+- **İkincisi:** Şiir ve hitabet.
+- **Üçüncüsü:** Kâhinlik ve gaibden haber vermek.
+- **Dördüncüsü:** Hâdisat-ı maziyeyi ve vakıat-ı kevniyeyi bilmek idi.
 
 İşte Kur’an-ı Mu’cizü’l-Beyan geldiği zaman, bu dört nevi malûmat sahiplerine karşı meydan okudu:
 
@@ -1513,9 +1779,14 @@ Hem nasıl ki insanın başındaki göz bebeğini yerinde yerleştirmek, bütün
 
 İşte insanın sözlerinde, Kur’an’ın kelimeleri gibi kelimeler, belki cümleler, âyetler bulunabilir. Fakat Kur’an’da, çok münasebat gözetilerek bir tarz ile yerleştirildiği yerde; bir ilm-i muhit lâzım ki öyle yerli yerine yerleşsin.
 
-**ÜÇÜNCÜ NÜKTE:** Kur’an-ı Mu’cizü’l-Beyan’ın hülâsatü’l-hülâsa bir icmal-i mahiyeti için bir vakit Arabî ibare ile bir tefekkür-ü hakikiyi, Cenab-ı Hak benim kalbime ihsan etmişti. Şimdi aynen o tefekkürü, Arabî olarak yazacağız, sonra manasını beyan edeceğiz. İşte:
+### ÜÇÜNCÜ NÜKTE
 
-<p class="arabic" dir="rtl">سُبْحَانَ مَنْ شَهِدَ عَلٰى وَحْدَانِيَّتِهٖ وَصَرَّحَ بِاَوْصَافِ جَمَالِهٖ وَجَلَالِهٖ وَكَمَالِهٖ اَلْقُرْاٰنُ الْحَكٖيمُ الْمُنَوَّرُ جِهَاتُهُ السِّتُّ اَلْحَاوٖى لِسِرِّ اِجْمَاعِ كُلِّ كُتُبِ الْاَنْبِيَاءِ وَالْاَوْلِيَاءِ وَالْمُوَحِّدٖينَ الْمُخْتَلِفٖينَ فِى الْاَعْصَارِ وَالْمَشَارِبِ وَالْمَسَالِكِ الْمُتَّفِقٖينَ بِقُلُوبِهِمْ وَعُقُولِهِمْ عَلٰى تَصْدٖيقِ اَسَاسَاتِ الْقُرْاٰنِ وَكُلِّيَّاتِ اَحْكَامِهٖ عَلٰى وَجْهِ الْاِجْمَالِ وَهُوَ مَحْضُ الْوَحْىِ بِاِجْمَاعِ الْمُنْزِلِ وَالْمُنْزَلِ وَالْمُنْزَلِ عَلَيْهِ وَعَيْنُ الْهِدَايَةِ بِالْبَدَاهَةِ وَمَعْدَنُ اَنْوَارِ الْاٖيمَانِ بِالضَّرُورَةِ وَمَجْمَعُ الْحَقَائِقِ بِالْيَقٖينِ وَمُوصِلٌ اِلَى السَّعَادَةِ بِالْعَيَانِ وَذُو الْاَثْمَارِ الْكَامِلٖينَ بِالْمُشَاهَدَةِ وَمَقْبُولُ الْمَلَكِ وَالْاِنْسِ وَالْجَانِّ بِالْحَدْسِ الصَّادِقِ مِنْ تَفَارٖيقِ الْاَمَارَاتِ وَالْمُؤَيَّدُ بِالدَّلَائِلِ الْعَقْلِيَّةِ بِاِتِّفَاقِ الْعُقَلَاءِ الْكَامِلٖينَ وَالْمُصَدَّقُ مِنْ جِهَةِ الْفِطْرَةِ السَّلٖيمَةِ بِشَهَادَةِ اِطْمِئْنَانِ الْوِجْدَانِ وَالْمُعْجِزَةُ الْاَبَدِيَّةُ الْبَاقٖى وَجْهُ اِعْجَازِهٖ عَلٰى مَرِّ الزَّمَانِ بِالْمُشَاهَدَةِ وَالْمُنْبَسِطُ دَائِرَةُ اِرْشَادِهٖ مِنَ الْمَلَاِ الْاَعْلٰى اِلٰى مَكْتَبِ الصِّبْيَانِ يَسْتَفٖيدُ مِنْ عَيْنِ دَرْسٍ اَلْمَلٰئِكَةُ مَعَ الصَّبِيّٖينَ وَ كَذَا هُوَ ذُو الْبَصَرِ الْمُطْلَقِ يَرَى الْاَشْيَاءَ بِكَمَالِ الْوُضُوحِ وَالظُّهُورِ وَيُحٖيطُ بِهَا وَيُقَلِّبُ الْعَالَمَ فٖى يَدِهٖ وَيُعَرِّفُهُ لَنَا كَمَا يُقَلِّبُ صَانِعُ السَّاعَةِ السَّاعَةَ فٖى كَفِّهٖ وَيُعَرِّفُهَا لِلنَّاسِ فَهٰذَا الْقُرْاٰنُ الْعَظٖيمُ الشَّانِ هُوَ الَّذٖى يَقُولُ مُكَرَّرًا اَللّٰهُ لَا اِلٰهَ اِلَّا هُوَ فَاعْلَمْ اَنَّهُ لَا اِلٰهَ اِلَّا اللّٰهُ</p>
+Kur’an-ı Mu’cizü’l-Beyan’ın hülâsatü’l-hülâsa bir icmal-i mahiyeti için bir vakit Arabî ibare ile bir tefekkür-ü hakikiyi, Cenab-ı Hak benim kalbime ihsan etmişti. Şimdi aynen o tefekkürü, Arabî olarak yazacağız, sonra manasını beyan edeceğiz. İşte:
+
+<p class="arabic" dir="rtl">سُبْحَانَ مَنْ شَهِدَ عَلٰى وَحْدَانِيَّتِهٖ وَصَرَّحَ بِاَوْصَافِ جَمَالِهٖ وَجَلَالِهٖ وَكَمَالِهٖ اَلْقُرْاٰنُ الْحَكٖيمُ الْمُنَوَّرُ جِهَاتُهُ السِّتُّ اَلْحَاوٖى لِسِرِّ اِجْمَاعِ كُلِّ كُتُبِ الْاَنْبِيَاءِ وَالْاَوْلِيَاءِ وَالْمُوَحِّدٖينَ الْمُخْتَلِفٖينَ فِى الْاَعْصَارِ وَالْمَشَارِبِ وَالْمَسَالِكِ الْمُتَّفِقٖينَ بِقُلُوبِهِمْ وَعُقُولِهِمْ عَلٰى تَصْدٖيقِ اَسَاسَاتِ الْقُرْاٰنِ وَكُلِّيَّاتِ اَحْكَامِهٖ عَلٰى وَجْهِ الْاِجْمَالِ وَهُوَ مَحْضُ الْوَحْىِ بِاِجْمَاعِ الْمُنْزِلِ وَالْمُنْزَلِ وَالْمُنْزَلِ عَلَيْهِ وَعَيْنُ الْهِدَايَةِ بِالْبَدَاهَةِ وَمَعْدَنُ اَنْوَارِ الْاٖيمَانِ بِالضَّرُورَةِ وَمَجْمَعُ الْحَقَائِقِ بِالْيَقٖينِ وَمُوصِلٌ اِلَى السَّعَادَةِ بِالْعَيَانِ وَذُو الْاَثْمَارِ الْكَامِلٖينَ بِالْمُشَاهَدَةِ وَمَقْبُولُ الْمَلَكِ وَالْاِنْسِ وَالْجَانِّ بِالْحَدْسِ الصَّادِقِ مِنْ تَفَارٖيقِ الْاَمَارَاتِ وَالْمُؤَيَّدُ بِالدَّلَائِلِ الْعَقْلِيَّةِ بِاِتِّفَاقِ الْعُقَلَاءِ الْكَامِلٖينَ وَالْمُصَدَّقُ مِنْ جِهَةِ الْفِطْرَةِ السَّلٖيمَةِ بِشَهَادَةِ اِطْمِئْنَانِ الْوِجْدَانِ وَالْمُعْجِزَةُ الْاَبَدِيَّةُ الْبَاقٖى وَجْهُ اِعْجَازِهٖ عَلٰى مَرِّ الزَّمَانِ بِالْمُشَاهَدَةِ وَالْمُنْبَسِطُ دَائِرَةُ اِرْشَادِهٖ مِنَ الْمَلَاِ الْاَعْلٰى اِلٰى مَكْتَبِ الصِّبْيَانِ يَسْتَفٖيدُ مِنْ عَيْنِ دَرْسٍ اَلْمَلٰئِكَةُ مَعَ الصَّبِيّٖينَ وَ كَذَا هُوَ ذُو الْبَصَرِ الْمُطْلَقِ يَرَى الْاَشْيَاءَ بِكَمَالِ الْوُضُوحِ وَالظُّهُورِ وَيُحٖيطُ بِهَا وَيُقَلِّبُ الْعَالَمَ فٖى يَدِهٖ وَيُعَرِّفُهُ لَنَا كَمَا يُقَلِّبُ صَانِعُ السَّاعَةِ السَّاعَةَ فٖى كَفِّهٖ وَيُعَرِّفُهَا لِلنَّاسِ فَهٰذَا الْقُرْاٰنُ الْعَظٖيمُ الشَّانِ هُوَ الَّذٖى يَقُولُ مُكَرَّرًا
+<br/>اَللّٰهُ لَا اِلٰهَ اِلَّا هُوَ فَاعْلَمْ اَنَّهُ لَا اِلٰهَ اِلَّا اللّٰهُ</p>
+
+^[Sübhânemen Şehide Alâ Vahdâniyyetihi<br>ve Sarraha Bi-Evsâfi Cemâlihi ve Celâlihi ve Kemâlihi <br>el-Kur'ânü'l-Hakîmü'l-Münevverü Cihetühü's-Sittü<br>el-Hâvî Lisırri İcmâi Külli Kütübi'l-Enbiyâ ve'l-Evliyâ ve'l-Muvahhidînel Muhtelifîne<br>fi'l-A'sâri ve'l-Meşâribi ve'l-Mesâliki el-Mütevfikîne Bi-Kulûbihim ve Ukûlihim<br>Alâ Tasdîki Esâsâti'l-Kur'ân ve Külliyyâti Ahkâmihi Alâ Vec-hi'l-İcmâl<br>ve Huve Mahzûru'l-Vahyi Bi-İcmâi'l-Münzili ve'l-Münzeli ve'l-Münzel Aleyhi<br>ve Aynü'l-Hidâyeti Bi'l-Bedâhe ve Ma‘denü Envâri'l-Îmân Bi'd-Darûre<br>ve Mecma‘u'l-Hakâiki Bi'l-Yakîn ve Muvsilun İle's-Saâdeti Bi'l-Ayân<br>ve Zü'l-Esmâri'l-Kâmilîne Bi'l-Müşâhede<br>ve Makbûlu'l-Melek ve'l-İns ve'l-Cân Bi'l-Hads-i Sâdık Min Tefârîki'l-Emârât<br>ve'l-Müeyyedü Bi'd-Delâili'l-Akliyye Bi't-Tifâki'l-Ukalâi'l-Kâmilîne<br>ve'l-Musaddaku Min Cihati'l-Fıtrati's-Selîme Bi-Şehâdeti İtmînâni'l-Vicdân<br>ve'l-Mu'cizetü'l-Ebediyye el-Bâkî Vec-hü İ'câzihi Alâ Merri'z-Zamân Bi'l-Müşâhede<br>ve'l-Münbesitü Dâiretü İrşâdihi Mine'l-Melâi'l-A'lâ İle Mektebi's-Sıbyân<br>Yestefîdu Min Aynin Dersin el-Melâike Ma‘a's-Sıbiyyîn<br>ve Kezâ Huve Zü'l-Basari'l-Mutlak Yera'l-Eşyâe Bi-Kemâli'l-Vuzûh ve'z-Zuhûr<br>ve Yuhîtü Bihâ ve Yukallibu'l-Âlemi fi Yedihi ve Yu‘arrifuhu Lenâ Kemâ Yukallibu Sâni'u's-Sâati's-Sâate fi Keffihi ve Yu‘arrifuhâ li'n-Nâs<br>Fehâzâ'l-Kur'ânü'l-Azîmu'ş-Şân Huve'llezî Yekûlu Mükererren:<br>Allâhu Lâ İlâhe İllâ Hu Fea‘lem Ennehû Lâ İlâhe İllâllâh.]
 
 **İşte şu tefekkür-ü Arabînin tercümesi ve meali şudur ki:**
 
@@ -1545,30 +1816,39 @@ Hem Kur’an’ın içinde öyle bir göz var ki bütün kâinatı görür, ihat
 
 <p class="arabic" dir="rtl">اَللّٰهُمَّ اجْعَلِ الْقُرْاٰنَ لَنَا فِى الدُّنْيَا قَرٖينًا وَ فِى الْقَبْرِ مُونِسًا وَ فِى الْقِيَامَةِ شَفٖيعًا وَ عَلَى الصِّرَاطِ نُورًا وَ مِنَ النَّارِ سِتْرًا وَ حِجَابًا وَ فِى الْجَنَّةِ رَفٖيقًا وَ اِلَى الْخَيْرَاتِ كُلِّهَا دَلٖيلًا وَ اِمَامًا<br/>اَللّٰهُمَّ نَوِّرْ قُلُوبَنَا وَ قُبُورَنَا بِنُورِ الْاٖيمَانِ وَ الْقُرْاٰنِ وَ نَوِّرْ بُرْهَانَ الْقُرْاٰنِ بِحَقِّ وَ بِحُرْمَةِ مَنْ اُنْزِلَ عَلَيْهِ الْقُرْاٰنُ عَلَيْهِ وَ عَلٰى اٰلِهِ الصَّلَاةُ وَ السَّلَامُ مِنَ الرَّحْمٰنِ الْحَنَّانِ اٰمٖينَ</p>
 
-#### On Dokuzuncu Nükteli İşaret
+## On Dokuzuncu Nükteli İşaret
+
 Sâbık işaretlerde, Resul-i Ekrem aleyhissalâtü vesselâm Cenab-ı Hakk’ın resulü olduğu gayet kat’î ve şüphesiz bir surette ispat edildi. İşte risaleti binler delail-i kat’iye ile sabit olan Muhammed-i Arabî aleyhissalâtü vesselâm, vahdaniyet-i İlahiyenin ve saadet-i ebediyenin en parlak bir delili ve en kat’î bir bürhanıdır.
 
 Biz şu işarette; o muşrık, parlak delile ve nâtık-ı sadık bürhana, hülâsatü’l-hülâsa bir icmal ile küçük bir tarif yapacağız. Çünkü madem o delildir ve neticesi marifet-i İlahiyedir elbette delili tanımak ve vech-i delâletini bilmek lâzımdır. Öyle ise biz de gayet muhtasar bir hülâsa ile vech-i delâletini ve sıhhatini beyan edeceğiz. Şöyle ki:
 
 Resul-i Ekrem aleyhissalâtü vesselâm, şu kâinatın mevcudatı gibi Hâlık-ı kâinat’ın vücuduna ve vahdetine kendi zatı delâlet ettiği gibi o, kendi delâlet-i zatiyesini bütün mevcudatın delâletiyle beraber, lisanıyla ilan etmiştir. Madem delildir; biz o delilin hüccet ve istikametine ve sıdk ve hakkaniyetine, **on beş esas**ta işaret ederiz:
 
-**Birinci Esas:** Hem zatıyla hem lisanıyla hem delâlet-i haliyle hem kāliyle kâinatın Sâni’ine delâlet eden şu delil hem hakikat-i kâinatça musaddak hem sadıktır. Çünkü bütün mevcudatın vahdaniyete delâletleri, elbette vahdaniyeti söyleyen zatı tasdik hükmündedir. Demek, söylediği dava da umum kâinatça musaddaktır.
+### Birinci Esas
+
+Hem zatıyla hem lisanıyla hem delâlet-i haliyle hem kāliyle kâinatın Sâni’ine delâlet eden şu delil hem hakikat-i kâinatça musaddak hem sadıktır. Çünkü bütün mevcudatın vahdaniyete delâletleri, elbette vahdaniyeti söyleyen zatı tasdik hükmündedir. Demek, söylediği dava da umum kâinatça musaddaktır.
 
 Hem beyan ettiği kemal-i mutlak olan vahdaniyet-i İlahiye ve hayr-ı mutlak olan saadet-i ebediye, bütün hakaik-i âlemin hüsün ve kemaline muvafık ve mutabık olduğundan o, davasında elbette sadıktır.
 
 Demek Resul-i Ekrem aleyhissalâtü vesselâm, vahdaniyet-i İlahiyeye ve saadet-i ebediyeye bir bürhan-ı nâtık-ı sadık ve musaddaktır.
 
-**İkinci Esas:** Hem o delil-i sadık ve musaddak, madem umum enbiyanın fevkinde binler mu’cizat ve neshedilmeyen bir şeriat ve umum cin ve inse şâmil bir davet sahibi olduğundan elbette umum enbiyanın reisidir. Öyle ise umum enbiyanın mu’cizatlarının sırrını ve ittifaklarını câmi’dir. Demek, bütün enbiyanın kuvvet-i icmaı ve mu’cizatlarının şehadeti, onun sıdk ve hakkaniyetine bir nokta-i istinad teşkil eder.
+### İkinci Esas
+
+Hem o delil-i sadık ve musaddak, madem umum enbiyanın fevkinde binler mu’cizat ve neshedilmeyen bir şeriat ve umum cin ve inse şâmil bir davet sahibi olduğundan elbette umum enbiyanın reisidir. Öyle ise umum enbiyanın mu’cizatlarının sırrını ve ittifaklarını câmi’dir. Demek, bütün enbiyanın kuvvet-i icmaı ve mu’cizatlarının şehadeti, onun sıdk ve hakkaniyetine bir nokta-i istinad teşkil eder.
 
 Hem onun terbiyesi ve irşadı ve nur-u şeriatıyla kemal bulan bütün evliya ve asfiyanın sultanı ve üstadıdır. Öyle ise onların sırr-ı kerametlerini ve icmakârane tasdiklerini ve tahkiklerinin kuvvetini câmi’dir. Çünkü onlar üstadlarının açtığı ve kapıyı açık bıraktığı yolda gitmişler, hakikati bulmuşlar. Öyle ise onların bütün kerametleri ve tahkikatları ve icmaları, o mukaddes üstadlarının sıdk ve hakkaniyeti için bir nokta-i istinad temin eder.
 
 Hem o bürhan-ı vahdaniyet, sâbık işaretlerde görüldüğü gibi o kadar kat’î, yakînî ve bâhir mu’cizeleri ve hârika irhasatları ve şüphesiz delail-i nübüvveti var ve o zatı öyle bir tasdik ediyor ki kâinat toplansa onların tasdikini iptal edemez!
 
-**Üçüncü Esas:** Hem o mu’cizat-ı bâhire sahibi olan vahdaniyet dellâlı ve saadet-i ebediye müjdecisi, kendi zat-ı mübareğinde öyle ahlâk-ı âliye ve vazife-i risaletinde öyle secaya-yı sâmiye ve tebliğ ettiği şeriat ve dininde öyle hasail-i gâliye vardır ki en şedit düşman dahi onu tasdik ediyor, inkâra mecal bulamıyor. Madem zatında ve vazifesinde ve dininde, en yüksek ve güzel ahlâkları ve en ulvi ve mükemmel seciyeleri ve en kıymettar ve makbul hasletleri bulunuyor; elbette o zat, mevcudattaki kemalâtın ve ahlâk-ı âliyenin misali ve mümessili ve timsali ve üstadıdır.
+### Üçüncü Esas
+
+Hem o mu’cizat-ı bâhire sahibi olan vahdaniyet dellâlı ve saadet-i ebediye müjdecisi, kendi zat-ı mübareğinde öyle ahlâk-ı âliye ve vazife-i risaletinde öyle secaya-yı sâmiye ve tebliğ ettiği şeriat ve dininde öyle hasail-i gâliye vardır ki en şedit düşman dahi onu tasdik ediyor, inkâra mecal bulamıyor. Madem zatında ve vazifesinde ve dininde, en yüksek ve güzel ahlâkları ve en ulvi ve mükemmel seciyeleri ve en kıymettar ve makbul hasletleri bulunuyor; elbette o zat, mevcudattaki kemalâtın ve ahlâk-ı âliyenin misali ve mümessili ve timsali ve üstadıdır.
 
 Öyle ise zatında ve vazifesinde ve dininde şu kemalât ise hakkaniyetine ve sıdkına o kadar kuvvetli bir nokta-i istinaddır ki hiçbir cihette sarsılmaz.
 
-**Dördüncü Esas:** Hem maden-i kemalât ve muallim-i ahlâk-ı âliye olan o dellâl-ı vahdaniyet ve saadet, kendi kendine söylemiyor belki söylettiriliyor. Evet, Hâlık-ı kâinat tarafından söylettiriliyor. Üstad-ı Ezelîsinden ders alır, sonra ders verir. Çünkü sâbık işaretlerde kısmen beyan edilen binler delail-i nübüvvetle Hâlık-ı kâinat, bütün o mu’cizatı onun elinde halk etmekle gösterdi ki o, onun hesabına konuşuyor, onun kelâmını tebliğ ediyor.
+### Dördüncü Esas
+
+Hem maden-i kemalât ve muallim-i ahlâk-ı âliye olan o dellâl-ı vahdaniyet ve saadet, kendi kendine söylemiyor belki söylettiriliyor. Evet, Hâlık-ı kâinat tarafından söylettiriliyor. Üstad-ı Ezelîsinden ders alır, sonra ders verir. Çünkü sâbık işaretlerde kısmen beyan edilen binler delail-i nübüvvetle Hâlık-ı kâinat, bütün o mu’cizatı onun elinde halk etmekle gösterdi ki o, onun hesabına konuşuyor, onun kelâmını tebliğ ediyor.
 
 Hem ona gelen Kur’an ise içinde, dışında kırk vech-i i’caz ile gösterir ki o, Cenab-ı Hakk’ın tercümanıdır.
 
@@ -1578,35 +1858,57 @@ Hem onu dinleyen bütün ehl-i hakikat, keşif ve tahkik ile tasdik etmişler ve
 
 Öyle ise onun sıdk ve hakkaniyeti, bu dört gayet kuvvetli esasların icmaına istinad eder.
 
-**Beşinci Esas:** Hem o Tercüman-ı Kelâm-ı Ezelî ervahları görüyor, melaikelerle sohbet ediyor, cin ve insi de irşad ediyor. Değil ins ve cin âlemi, belki âlem-i ervah ve âlem-i melaike fevkinde ders alıyor. Ve maverasında münasebeti var ve ıttılaı vardır. Sâbık mu’cizatı ve tevatürle kat’î macera-yı hayatı şu hakikati ispat etmiştir.
+### Beşinci Esas
+
+Hem o Tercüman-ı Kelâm-ı Ezelî ervahları görüyor, melaikelerle sohbet ediyor, cin ve insi de irşad ediyor. Değil ins ve cin âlemi, belki âlem-i ervah ve âlem-i melaike fevkinde ders alıyor. Ve maverasında münasebeti var ve ıttılaı vardır. Sâbık mu’cizatı ve tevatürle kat’î macera-yı hayatı şu hakikati ispat etmiştir.
 
 Öyle ise kâhinler ve sair gaibden haber verenler gibi onun haberlerine değil cin, değil ervah, değil melaike, belki Cibril’den başka Melaike-i Mukarrebîn dahi karışamıyor. Hattâ ekser evkatta onun arkadaşı olan Hazret-i Cebrail’i dahi bazı geri bırakıyor.
 
-**Altıncı Esas:** Hem o melek, cin ve beşerin seyyidi olan zat, şu kâinat ağacının en münevver ve mükemmel meyvesi ve rahmet-i İlahiyenin timsali ve muhabbet-i Rabbaniyenin misali ve Hakk’ın en münevver bürhanı ve hakikatin en parlak siracı ve tılsım-ı kâinatın miftahı ve muamma-yı hilkatin keşşafı ve hikmet-i âlemin şârihi ve saltanat-ı İlahiyenin dellâlı ve mehasin-i sanat-ı Rabbaniyenin vassafı ve câmiiyet-i istidat cihetiyle o zat, mevcudattaki kemalâtın en mükemmel enmuzecidir.
+### Altıncı Esas
+
+Hem o melek, cin ve beşerin seyyidi olan zat, şu kâinat ağacının en münevver ve mükemmel meyvesi ve rahmet-i İlahiyenin timsali ve muhabbet-i Rabbaniyenin misali ve Hakk’ın en münevver bürhanı ve hakikatin en parlak siracı ve tılsım-ı kâinatın miftahı ve muamma-yı hilkatin keşşafı ve hikmet-i âlemin şârihi ve saltanat-ı İlahiyenin dellâlı ve mehasin-i sanat-ı Rabbaniyenin vassafı ve câmiiyet-i istidat cihetiyle o zat, mevcudattaki kemalâtın en mükemmel enmuzecidir.
 
 Öyle ise o zatın şu evsafı ve şahsiyet-i maneviyesi işaret eder, belki gösterir ki o zat, kâinatın illet-i gayesidir. Yani o zata şu kâinatın Hâlık’ı bakmış, kâinatı halk etmiştir. Eğer onu icad etmeseydi kâinatı dahi icad etmezdi denilebilir. Evet, cin ve inse getirdiği hakaik-i Kur’aniye ve envar-ı imaniye ve zatında görünen ahlâk-ı âliye ve kemalât-ı sâmiye, şu hakikate şahid-i kātı’dır.
 
-**Yedinci Esas:** Hem o bürhan-ı Hak ve sirac-ı hakikat, öyle bir din ve şeriat göstermiştir ki iki cihanın saadetini temin edecek desatiri câmi’dir. Ve câmi’ olmakla beraber, kâinatın hakaikini ve vezaifini ve Hâlık-ı kâinat’ın esmasını ve sıfâtını, kemal-i hakkaniyetle beyan etmiştir.
+### Yedinci Esas
+
+Hem o bürhan-ı Hak ve sirac-ı hakikat, öyle bir din ve şeriat göstermiştir ki iki cihanın saadetini temin edecek desatiri câmi’dir. Ve câmi’ olmakla beraber, kâinatın hakaikini ve vezaifini ve Hâlık-ı kâinat’ın esmasını ve sıfâtını, kemal-i hakkaniyetle beyan etmiştir.
 
 İşte o İslâmiyet ve şeriat, öyle bir tarzda muhit ve mükemmeldir ve öyle bir surette kâinatı kendiyle beraber tarif eder ki onun mahiyetine dikkat eden elbette anlar ki o din, bu güzel kâinatı yapan zatın o kâinatı kendiyle beraber tarif edecek bir beyannamesidir ve bir tarifesidir.
 
 Nasıl ki bir sarayın ustası, o saraya münasip bir tarife yapar. Kendini vasıflarıyla göstermek için bir tarife kaleme alır; öyle de din ve şeriat-ı Muhammediyede (asm) öyle bir ihata, bir ulviyet, bir hakkaniyet görünüyor ki kâinatı halk ve tedbir edenin kaleminden çıktığını gösterir. Ve o kâinatı güzelce tanzim eden kim ise şu dini güzelce tanzim eden yine odur. Evet, o nizam-ı ekmel, elbette bu nazm-ı ecmeli ister.
 
-**Sekizinci Esas:** İşte mezkûr sıfatlarla muttasıf ve her cihet ile sarsılmaz kuvvetli istinad noktalarına dayanan Muhammed-i Arabî aleyhissalâtü vesselâm, âlem-i şehadete müteveccih olarak âlem-i gayb namına, cin ve insin başları üzerine ilan ederek; istikbalde gelecek asırlar arkasında duran akvama ve milletlere hitap edip öyle bir nida eder ki umum cin ve inse, umum yerlere, umum asırlara işittiriyor. Evet işitiyoruz!
+### Sekizinci Esas
 
-**Dokuzuncu Esas:** Hem öyle yüksek, kuvvetli hitap ediyor ki bütün asırlar onu dinler. Evet, aks-i sadâsını her bir asır işitiyor.
+İşte mezkûr sıfatlarla muttasıf ve her cihet ile sarsılmaz kuvvetli istinad noktalarına dayanan Muhammed-i Arabî aleyhissalâtü vesselâm, âlem-i şehadete müteveccih olarak âlem-i gayb namına, cin ve insin başları üzerine ilan ederek; istikbalde gelecek asırlar arkasında duran akvama ve milletlere hitap edip öyle bir nida eder ki umum cin ve inse, umum yerlere, umum asırlara işittiriyor. Evet işitiyoruz!
 
-**Onuncu Esas:** Hem o zatın gidişatında görünüyor ki görüyor, öyle haber veriyor. Çünkü en tehlikeli vakitlerde, kemal-i metanetle tereddütsüz, telaşsız söylüyor. Bazı olur tek başıyla dünyaya meydan okuyor.
+### Dokuzuncu Esas
 
-**On Birinci Esas:** Hem bütün kuvvetiyle öyle kuvvetli davet edip çağırır ki yarı yeri ve nev-i beşerin beşte birini sesine karşı “Lebbeyk” dedirtti <span class="arabic" dir="rtl">سَمِعْنَا وَ اَطَعْنَا</span> söylettirdi.
+Hem öyle yüksek, kuvvetli hitap ediyor ki bütün asırlar onu dinler. Evet, aks-i sadâsını her bir asır işitiyor.
 
-**On İkinci Esas:** Hem öyle bir ciddiyetle davet ve öyle esaslı bir surette terbiye eder ki düsturlarını asırların cephesinde ve aktarın taşlarında nakşediyor ve dehirlerin yüzlerinde pâyidar ediyor.
+### Onuncu Esas
 
-**On Üçüncü Esas: **Hem tebliğ ettiği ahkâmın sağlamlığına öyle bir vüsuk ve güvenmekle söylüyor ve davet ediyor ki dünya toplansa onu bir hükmünden geri çevirip pişman edemez. Buna şahit, bütün tarih-i hayatı ve siyer-i seniyesidir.
+Hem o zatın gidişatında görünüyor ki görüyor, öyle haber veriyor. Çünkü en tehlikeli vakitlerde, kemal-i metanetle tereddütsüz, telaşsız söylüyor. Bazı olur tek başıyla dünyaya meydan okuyor.
 
-**On Dördüncü Esas:** Hem öyle bir itminan ile bir itimat ile davet eder, tebliğ eder ki kimseden minnet almaz, hiçbir müşkülata karşı telaş etmez, tereddütsüz, kemal-i samimiyetle ve safvetle ve herkesten evvel kendisi amel edip kabul ederek getirdiği ahkâmı ilan eder. Buna şahit ise herkesçe, dost ve düşmanca malûm olan meşhur zühdü ve istiğnası ve dünyanın fâni müzeyyenatına adem-i tenezzülüdür.
+### On Birinci Esas
 
-**On Beşinci Esas:** Hem getirdiği dine herkesten ziyade itaati ve Hâlık’ına karşı herkesten ziyade ubudiyeti ve menhiyata karşı herkesten ziyade takvası, kat’iyen gösterir ki o, Sultan-ı ezel ve ebed’in mübelliğidir, elçisidir ve o Mabud-u Bi’l-hakk’ın en hâlis abdidir ve kelâm-ı ezelînin tercümanıdır.
+Hem bütün kuvvetiyle öyle kuvvetli davet edip çağırır ki yarı yeri ve nev-i beşerin beşte birini sesine karşı “Lebbeyk” dedirtti <span class="arabic" dir="rtl">سَمِعْنَا وَ اَطَعْنَا</span> söylettirdi.
+
+### On İkinci Esas
+
+Hem öyle bir ciddiyetle davet ve öyle esaslı bir surette terbiye eder ki düsturlarını asırların cephesinde ve aktarın taşlarında nakşediyor ve dehirlerin yüzlerinde pâyidar ediyor.
+
+### On Üçüncü Esas
+
+em tebliğ ettiği ahkâmın sağlamlığına öyle bir vüsuk ve güvenmekle söylüyor ve davet ediyor ki dünya toplansa onu bir hükmünden geri çevirip pişman edemez. Buna şahit, bütün tarih-i hayatı ve siyer-i seniyesidir.
+
+### On Dördüncü Esas
+
+Hem öyle bir itminan ile bir itimat ile davet eder, tebliğ eder ki kimseden minnet almaz, hiçbir müşkülata karşı telaş etmez, tereddütsüz, kemal-i samimiyetle ve safvetle ve herkesten evvel kendisi amel edip kabul ederek getirdiği ahkâmı ilan eder. Buna şahit ise herkesçe, dost ve düşmanca malûm olan meşhur zühdü ve istiğnası ve dünyanın fâni müzeyyenatına adem-i tenezzülüdür.
+
+### On Beşinci Esas
+
+Hem getirdiği dine herkesten ziyade itaati ve Hâlık’ına karşı herkesten ziyade ubudiyeti ve menhiyata karşı herkesten ziyade takvası, kat’iyen gösterir ki o, Sultan-ı ezel ve ebed’in mübelliğidir, elçisidir ve o Mabud-u Bi’l-hakk’ın en hâlis abdidir ve kelâm-ı ezelînin tercümanıdır.
 
 Şu on beş adet esasların neticesi şudur ki: Mezkûr evsaf ile muttasıf şu zat; bütün kuvvetiyle, bütün hayatında mükerreren ve mütemadiyen <span class="arabic" dir="rtl">فَاعْلَمْ اَنَّهُ لَٓا اِلٰهَ اِلَّا اللّٰهُ</span> der, vahdaniyeti ilan eder.
 
@@ -1614,7 +1916,8 @@ Nasıl ki bir sarayın ustası, o saraya münasip bir tarife yapar. Kendini vas�
 
 ***
 
-#### Bir İkram-ı İlahî ve Bir Eser-i İnayet-i Rabbaniye
+## Bir İkram-ı İlahî ve Bir Eser-i İnayet-i Rabbaniye
+
 <span class="arabic" dir="rtl">وَ اَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ</span> mazmununa mâsadak olmak emeliyle deriz: Şu risalenin telifinde, Cenab-ı Hakk’ın bir eser-i inayetini ve rahmetini zikredeceğim. Tâ şu risaleyi okuyanlar, ehemmiyetle baksınlar.
 
 İşte şu risalenin telifi hiç kalbimde yoktu. Çünkü risalet-i Ahmediyeye (asm) dair Otuz Birinci ve On Dokuzuncu Sözler yazılmıştı. Birdenbire, şu risaleyi yazmak için mücbir bir hatıra kalbe geldi. Hem kuvve-i hâfızam, musibetler neticesi olarak sönmüştü. Hem meşrebimde, yazdığım eserlerde, nakil suretiyle –“Kāle-Kıyle” suretiyle– gitmemiştim. Hem yanımda kütüb-ü hadîsiye ve siyer kitapları yoktur. Bununla beraber “Tevekkeltü alallah” diyerek başladım.
@@ -1626,29 +1929,24 @@ Nasıl ki bir sarayın ustası, o saraya münasip bir tarife yapar. Kendini vas�
 Evet, biz müsveddeyi yazıyorduk, Üstadımız da söylüyordu. Yanında hiç kitap yoktu hiç müracaat da etmiyordu. Birdenbire gayet süratli söylüyordu, biz de yazıyorduk. İki üç saatte, otuz kırk, daha fazla sahife yazıyorduk. Bizim de kanaatimiz geldi ki bu muvaffakıyet, mu’cizat-ı Nebeviyenin bir kerametidir.
 
 Daimî hizmetkârı: **Abdullah Çavuş**
-
 Hizmetkârı ve müsvedde kâtibi: **Süleyman Sami**
-
 Müsvedde kâtibi ve âhiret kardeşi: **Hâfız Hâlid**
-
 Müsvedde ve tebyiz kâtibi: **Hâfız Tevfik**
 
 ***
 
-### Mu’cizat-ı Ahmediye’nin Birinci Zeyli
+# Mu’cizat-ı Ahmediye’nin Birinci Zeyli
+
 **On Dokuzuncu Söz, risalet-i Ahmediyeye (asm) ve zeyli, şakk-ı kamer mu’cizesine dair olduğundan makam münasebetiyle buraya alınmıştır.**
 
 <p class="arabic" dir="rtl">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ</p>
 
-**On dört reşehat**ı tazammun eden On Dördüncü Lem’a’nın
+**On dört reşehat**ı tazammun eden On Dördüncü Lem’a’nın **Birinci Reşhası**
 
-**Birinci Reşhası:** Rabb’imizi bize tarif eden üç büyük, küllî muarrif var.
-
-**Birisi:** Şu kitab-ı kâinattır ki bir nebze şehadetini on üç lem’a ile Nur risalesinden On Üçüncü Ders’ten işittik.
-
-**Birisi:** Şu kitab-ı kebirin âyet-i kübrası olan Hâtemü’l-enbiya aleyhissalâtü vesselâmdır.
-
-**Birisi de** Kur’an-ı Azîmüşşan’dır.
+Rabb’imizi bize tarif eden üç büyük, küllî muarrif var.
+- **Birisi:** Şu kitab-ı kâinattır ki bir nebze şehadetini on üç lem’a ile Nur risalesinden On Üçüncü Ders’ten işittik.
+- **Birisi:** Şu kitab-ı kebirin âyet-i kübrası olan Hâtemü’l-enbiya aleyhissalâtü vesselâmdır.
+- **Birisi de** Kur’an-ı Azîmüşşan’dır.
 
 Şimdi şu ikinci bürhan-ı nâtıkî olan Hâtemü’l-enbiya aleyhissalâtü vesselâmı tanımalıyız, dinlemeliyiz.
 
@@ -1656,35 +1954,53 @@ Evet, o bürhanın şahs-ı manevîsine bak: Sath-ı arz bir mescid, Mekke bir m
 
 Zira o <span class="arabic" dir="rtl">لَا اِلٰهَ اِلَّا اللّٰهُ</span> der, dava eder. Bütün sağ ve sol, yani mazi ve müstakbel taraflarında saf tutan o nurani zâkirler aynı kelimeyi tekrar ederek, icma ederek manen ‌<span class="arabic" dir="rtl">صَدَقْتَ وَ بِالْحَقِّ نَطَقْتَ</span>‌ derler. Hangi vehmin haddi var ki böyle hesapsız imzalarla teyid edilen bir müddeaya parmak karıştırsın?
 
-**İkinci Reşha:** O nurani bürhan-ı tevhid, nasıl ki iki cenahın icma ve tevatürüyle teyid ediliyor. Öyle de Tevrat ve İncil gibi kütüb-ü semaviyenin [^Hâşiye11] yüzler işaratı ve irhasatın binler rumuzatı ve hâtiflerin meşhur beşaratı ve kâhinlerin mütevatir şehadatı ve şakk-ı kamer gibi binler mu’cizatının delâlatı ve şeriatın hakkaniyeti ile teyid ve tasdik ettikleri gibi; zatında gayet kemaldeki ahlâk-ı hamîdesi ve vazifesinde nihayet hüsnündeki secaya-yı gâliyesi ve kemal-i emniyeti ve kuvvet-i imanını ve gayet itminanını ve nihayet vüsukunu gösteren fevkalâde takvası, fevkalâde ubudiyeti, fevkalâde ciddiyeti, fevkalâde metaneti; davasında nihayet derecede sadık olduğunu güneş gibi aşikâre gösteriyor.
+## İkinci Reşha
 
-**Üçüncü Reşha:** Eğer istersen gel, asr-ı saadete, Ceziretü’l-Arab’a gideriz. Hayalen olsun onu vazife başında görüp ziyaret ederiz. İşte bak, hüsn-ü sîret ve cemal-i suret ile mümtaz bir zatı görüyoruz ki elinde mu’ciz-nüma bir kitap, lisanında hakaik-aşina bir hitap, bütün benî-Âdem’e, belki cin ve inse ve meleğe, belki bütün mevcudata karşı bir hutbe-i ezeliyeyi tebliğ ediyor. Sırr-ı hilkat-i âlem olan muamma-i acibanesini hall ve şerh edip ve sırr-ı kâinat olan tılsım-ı muğlakını fetih ve keşfederek bütün mevcudattan sorulan, bütün ukûlü hayret içinde meşgul eden üç müşkül ve müthiş sual-i azîm olan “Necisin? Nereden geliyorsun? Nereye gidiyorsun?” suallerine mukni, makbul cevap verir.
+O nurani bürhan-ı tevhid, nasıl ki iki cenahın icma ve tevatürüyle teyid ediliyor. Öyle de Tevrat ve İncil gibi kütüb-ü semaviyenin [^hâşiye11] yüzler işaratı ve irhasatın binler rumuzatı ve hâtiflerin meşhur beşaratı ve kâhinlerin mütevatir şehadatı ve şakk-ı kamer gibi binler mu’cizatının delâlatı ve şeriatın hakkaniyeti ile teyid ve tasdik ettikleri gibi; zatında gayet kemaldeki ahlâk-ı hamîdesi ve vazifesinde nihayet hüsnündeki secaya-yı gâliyesi ve kemal-i emniyeti ve kuvvet-i imanını ve gayet itminanını ve nihayet vüsukunu gösteren fevkalâde takvası, fevkalâde ubudiyeti, fevkalâde ciddiyeti, fevkalâde metaneti; davasında nihayet derecede sadık olduğunu güneş gibi aşikâre gösteriyor.
 
-**Dördüncü Reşha:** Bak! Öyle bir ziya-yı hakikat neşreder ki eğer onun o nurani daire-i hakikat-i irşadından hariç bir surette kâinata baksan elbette kâinatın şeklini bir matemhane-i umumî hükmünde ve mevcudatı birbirine ecnebi, belki düşman ve camidatı dehşetli cenazeler ve bütün zevi’l-hayatı zeval ve firakın sillesiyle ağlayan yetimler hükmünde görürsün.
+## Üçüncü Reşha
+
+Eğer istersen gel, asr-ı saadete, Ceziretü’l-Arab’a gideriz. Hayalen olsun onu vazife başında görüp ziyaret ederiz. İşte bak, hüsn-ü sîret ve cemal-i suret ile mümtaz bir zatı görüyoruz ki elinde mu’ciz-nüma bir kitap, lisanında hakaik-aşina bir hitap, bütün benî-Âdem’e, belki cin ve inse ve meleğe, belki bütün mevcudata karşı bir hutbe-i ezeliyeyi tebliğ ediyor. Sırr-ı hilkat-i âlem olan muamma-i acibanesini hall ve şerh edip ve sırr-ı kâinat olan tılsım-ı muğlakını fetih ve keşfederek bütün mevcudattan sorulan, bütün ukûlü hayret içinde meşgul eden üç müşkül ve müthiş sual-i azîm olan “Necisin? Nereden geliyorsun? Nereye gidiyorsun?” suallerine mukni, makbul cevap verir.
+
+## Dördüncü Reşha
+
+Bak! Öyle bir ziya-yı hakikat neşreder ki eğer onun o nurani daire-i hakikat-i irşadından hariç bir surette kâinata baksan elbette kâinatın şeklini bir matemhane-i umumî hükmünde ve mevcudatı birbirine ecnebi, belki düşman ve camidatı dehşetli cenazeler ve bütün zevi’l-hayatı zeval ve firakın sillesiyle ağlayan yetimler hükmünde görürsün.
 
 Şimdi bak, onun neşrettiği nur ile o matemhane-i umumî, şevk u cezbe içinde bir zikirhaneye inkılab etti. O ecnebi, düşman mevcudat, birer dost ve kardeş şekline girdi. O camidat-ı meyyite-i sâmite; birer munis memur, birer musahhar hizmetkâr vaziyetini aldı ve o ağlayıcı ve şekva edici kimsesiz yetimler, birer tesbih içinde zâkir veya vazife paydosundan şâkir suretine girdi.
 
-**Beşinci Reşha:** Hem o nur ile kâinattaki harekât, tenevvüat, tebeddülat, tagayyürat; manasızlıktan ve abesiyetten ve tesadüf oyuncaklığından çıkıp birer mektubat-ı Rabbaniye, birer sahife-i âyât-ı tekviniye, birer meraya-yı esma-i İlahiye ve âlem dahi bir kitab-ı hikmet-i Samedaniye mertebesine çıktılar.
+## Beşinci Reşha
+
+Hem o nur ile kâinattaki harekât, tenevvüat, tebeddülat, tagayyürat; manasızlıktan ve abesiyetten ve tesadüf oyuncaklığından çıkıp birer mektubat-ı Rabbaniye, birer sahife-i âyât-ı tekviniye, birer meraya-yı esma-i İlahiye ve âlem dahi bir kitab-ı hikmet-i Samedaniye mertebesine çıktılar.
 
 Hem insanı bütün hayvanatın mâdûnuna düşüren hadsiz zaaf ve aczi, fakr u ihtiyacatı ve bütün hayvanlardan daha bedbaht eden, vasıta-i nakl-i hüzün ve elem ve gam olan aklı, o nur ile nurlandığı vakit, insan bütün hayvanat, bütün mahlukat üstüne çıkar. O nurlanmış acz, fakr, akıl ile niyaz ile nâzenin bir sultan ve fîzar ile nazdar bir halife-i zemin olur.
 
 Demek, o nur olmazsa kâinat da insan da hattâ her şey dahi hiçe iner. Evet, elbette böyle bedî’ bir kâinatta, böyle bir zat lâzımdır. Yoksa kâinat ve eflâk olmamalıdır.
 
-**Altıncı Reşha:** İşte o zat, bir saadet-i ebediyenin muhbiri, müjdecisi ve rahmet-i bînihayenin kâşifi ve ilancısı ve saltanat-ı rububiyetin mehasininin dellâlı, seyircisi ve künuz-u esma-i İlahiyenin keşşafı, göstericisi olduğundan; böyle baksan –yani ubudiyeti cihetiyle– onu bir misal-i muhabbet, bir timsal-i rahmet, bir şeref-i insaniyet, en nurani bir semere-i şecere-i hilkat göreceksin. Şöyle baksan –yani risaleti cihetiyle– bir bürhan-ı Hak, bir sirac-ı hakikat, bir şems-i hidayet, bir vesile-i saadet görürsün.
+## Altıncı Reşha
+
+İşte o zat, bir saadet-i ebediyenin muhbiri, müjdecisi ve rahmet-i bînihayenin kâşifi ve ilancısı ve saltanat-ı rububiyetin mehasininin dellâlı, seyircisi ve künuz-u esma-i İlahiyenin keşşafı, göstericisi olduğundan; böyle baksan –yani ubudiyeti cihetiyle– onu bir misal-i muhabbet, bir timsal-i rahmet, bir şeref-i insaniyet, en nurani bir semere-i şecere-i hilkat göreceksin. Şöyle baksan –yani risaleti cihetiyle– bir bürhan-ı Hak, bir sirac-ı hakikat, bir şems-i hidayet, bir vesile-i saadet görürsün.
 
 İşte bak, nasıl berk-i hâtıf gibi onun nuru, şarktan garbı tuttu ve nısf-ı arz ve hums-u beşer, onun hediye-i hidayetini kabul edip hırz-ı can etti. Bizim nefis ve şeytanımıza ne oluyor ki böyle bir zatın bütün davalarının esası olan <span class="arabic" dir="rtl">لَا اِلٰهَ اِلَّا اللّٰهُ</span> ı, bütün meratibiyle beraber kabul etmesin?
 
-**Yedinci Reşha:** İşte bak, şu cezire-i vâsiada vahşi ve âdetlerine mutaassıp ve inatçı muhtelif akvamı, ne çabuk âdât ve ahlâk-ı seyyie-i vahşiyanelerini def’aten kal’ u ref’ ederek bütün ahlâk-ı hasene ile teçhiz edip bütün âleme muallim ve medeni ümeme üstad eyledi. Bak! Değil zahirî bir tasallut, belki akılları, ruhları, kalpleri, nefisleri fetih ve teshir ediyor. Mahbub-u kulûb, muallim-i ukûl, mürebbi-i nüfus, sultan-ı ervah oldu.
+## Yedinci Reşha
 
-**Sekizinci Reşha:** Bilirsin ki sigara gibi küçük bir âdeti, küçük bir kavimde büyük bir hâkim, büyük bir himmetle ancak daimî kaldırabilir. Halbuki bak bu zat, büyük ve çok âdetleri hem inatçı, mutaassıp büyük kavimlerden, zahirî küçük bir kuvvetle, küçük bir himmetle, az bir zamanda ref’edip yerlerine öyle secaya-yı âliyeyi ki dem ve damarlarına karışmış derecede sabit olarak vaz’ ve tesbit eyliyor. Bunun gibi daha pek çok hârika icraatı yapıyor.
+İşte bak, şu cezire-i vâsiada vahşi ve âdetlerine mutaassıp ve inatçı muhtelif akvamı, ne çabuk âdât ve ahlâk-ı seyyie-i vahşiyanelerini def’aten kal’ u ref’ ederek bütün ahlâk-ı hasene ile teçhiz edip bütün âleme muallim ve medeni ümeme üstad eyledi. Bak! Değil zahirî bir tasallut, belki akılları, ruhları, kalpleri, nefisleri fetih ve teshir ediyor. Mahbub-u kulûb, muallim-i ukûl, mürebbi-i nüfus, sultan-ı ervah oldu.
+
+## Sekizinci Reşha
+
+Bilirsin ki sigara gibi küçük bir âdeti, küçük bir kavimde büyük bir hâkim, büyük bir himmetle ancak daimî kaldırabilir. Halbuki bak bu zat, büyük ve çok âdetleri hem inatçı, mutaassıp büyük kavimlerden, zahirî küçük bir kuvvetle, küçük bir himmetle, az bir zamanda ref’edip yerlerine öyle secaya-yı âliyeyi ki dem ve damarlarına karışmış derecede sabit olarak vaz’ ve tesbit eyliyor. Bunun gibi daha pek çok hârika icraatı yapıyor.
 
 İşte şu asr-ı saadeti görmeyenlere Ceziretü’l-Arab’ı gözlerine sokuyoruz. Haydi yüzer feylesofu alsınlar, oraya gitsinler, yüz sene çalışsınlar. O zatın, o zamana nisbeten bir senede yaptığının yüzden birisini acaba yapabilirler mi?
 
-**Dokuzuncu Reşha:** Hem bilirsin, küçük bir adam, küçük bir haysiyetle, küçük bir cemaatte, küçük bir meselede, münazaralı bir davada hicabsız, pervasız; küçük fakat hacalet-âver bir yalanı, düşmanları yanında hilesini hissettirmeyecek derecede teessür ve telaş göstermeden söyleyemez. Şimdi bak bu zata; pek büyük bir vazifede, pek büyük bir vazifedar, pek büyük bir haysiyetle, pek büyük emniyete muhtaç bir halde, pek büyük bir cemaatte, pek büyük husumet karşısında, pek büyük meselelerde, pek büyük davada, pek büyük bir serbestiyetle, bilâ-perva, bilâ-tereddüt, bilâ-hicab, telaşsız, samimi bir safvetle, büyük bir ciddiyetle, hasımlarının damarlarına dokunduracak şedit, ulvi bir surette söylediği sözlerinde hiç hilaf bulunabilir mi? Hiç hile karışması mümkün müdür? Kellâ! <span class="arabic" dir="rtl">اِنْ هُوَ اِلَّا وَحْىٌ يُوحٰى</span>
+## Dokuzuncu Reşha
+
+Hem bilirsin, küçük bir adam, küçük bir haysiyetle, küçük bir cemaatte, küçük bir meselede, münazaralı bir davada hicabsız, pervasız; küçük fakat hacalet-âver bir yalanı, düşmanları yanında hilesini hissettirmeyecek derecede teessür ve telaş göstermeden söyleyemez. Şimdi bak bu zata; pek büyük bir vazifede, pek büyük bir vazifedar, pek büyük bir haysiyetle, pek büyük emniyete muhtaç bir halde, pek büyük bir cemaatte, pek büyük husumet karşısında, pek büyük meselelerde, pek büyük davada, pek büyük bir serbestiyetle, bilâ-perva, bilâ-tereddüt, bilâ-hicab, telaşsız, samimi bir safvetle, büyük bir ciddiyetle, hasımlarının damarlarına dokunduracak şedit, ulvi bir surette söylediği sözlerinde hiç hilaf bulunabilir mi? Hiç hile karışması mümkün müdür? Kellâ! <span class="arabic" dir="rtl">اِنْ هُوَ اِلَّا وَحْىٌ يُوحٰى</span>
 
 Evet hak aldatmaz, hakikatbîn aldanmaz. Hak olan mesleği hileden müstağnidir; hakikatbîn gözüne hayalin ne haddi var ki hakikat görünsün, aldatsın?
 
-**Onuncu Reşha:** İşte bak, ne kadar merak-âver, ne kadar cazibedar, ne kadar lüzumlu, ne kadar dehşetli hakaiki gösterir ve mesaili ispat eder.
+## Onuncu Reşha
+
+İşte bak, ne kadar merak-âver, ne kadar cazibedar, ne kadar lüzumlu, ne kadar dehşetli hakaiki gösterir ve mesaili ispat eder.
 
 Bilirsin ki en ziyade insanı tahrik eden meraktır. Hattâ eğer sana denilse: “Yarı ömrünü, yarı malını versen; Kamer’den ve Müşteri’den biri gelir, Kamer’de ve Müşteri’de ne var ne yok, ahvalini sana haber verecek. Hem doğru olarak senin istikbalini ve başına ne geleceğini doğru olarak haber verecek.” Merakın varsa vereceksin.
 
@@ -1694,11 +2010,15 @@ Hem öyle acayip bir âlemden hakiki olarak bahsediyor ve öyle bir inkılabdan 
 
 Hem öyle bir istikbalden doğru olarak haber veriyor ki, şu dünyevî istikbal, ona nisbeten bir katre serap hükmündedir. Hem öyle bir saadetten pek ciddi olarak haber veriyor ki bütün saadet-i dünyeviye, ona nisbeten bir berk-i zâilin bir şems-i sermede nisbeti gibidir.
 
-**On Birinci Reşha:** Böyle acib ve muamma-âlûd şu kâinatın perde-i zahiriyesi altında elbette ve elbette böyle acayip bizi bekliyor. Böyle acayibi haber verecek, böyle hârika ve fevkalâde mu’ciz-nüma bir zat lâzımdır. Hem bu zatın gidişatından görünüyor ki: O, görmüş ve görüyor ve gördüğünü söylüyor. Hem bizi nimetleriyle perverde eden şu semavat ve arzın İlahı bizden ne istiyor, marziyatı nedir, pek sağlam olarak bize ders veriyor.
+## On Birinci Reşha
+
+Böyle acib ve muamma-âlûd şu kâinatın perde-i zahiriyesi altında elbette ve elbette böyle acayip bizi bekliyor. Böyle acayibi haber verecek, böyle hârika ve fevkalâde mu’ciz-nüma bir zat lâzımdır. Hem bu zatın gidişatından görünüyor ki: O, görmüş ve görüyor ve gördüğünü söylüyor. Hem bizi nimetleriyle perverde eden şu semavat ve arzın İlahı bizden ne istiyor, marziyatı nedir, pek sağlam olarak bize ders veriyor.
 
 Hem bunlar gibi daha pek çok merak-âver, lüzumlu hakaiki ders veren bu zata karşı her şeyi bırakıp ona koşmak, onu dinlemek lâzım gelirken; ekser insanlara ne olmuş ki sağır olup kör olmuşlar, belki divane olmuşlar ki bu hakkı görmüyorlar, bu hakikati işitmiyorlar, anlamıyorlar?
 
-**On İkinci Reşha:** İşte şu zat, şu mevcudat Hâlık’ının vahdaniyetine hakkaniyeti derecesinde hak bir bürhan-ı nâtık, bir delil-i sadık olduğu gibi; haşrin ve saadet-i ebediyenin dahi bir bürhan-ı kātı’ı, bir delil-i sâtııdır. Belki nasıl ki o zat, hidayetiyle saadet-i ebediyenin sebeb-i husulü ve vesile-i vusulüdür. Öyle de duasıyla, niyazıyla o saadetin sebeb-i vücudu ve vesile-i icadıdır. Haşir meselesinde geçen şu sırrı, makam münasebetiyle tekrar ederiz:
+## On İkinci Reşha
+
+İşte şu zat, şu mevcudat Hâlık’ının vahdaniyetine hakkaniyeti derecesinde hak bir bürhan-ı nâtık, bir delil-i sadık olduğu gibi; haşrin ve saadet-i ebediyenin dahi bir bürhan-ı kātı’ı, bir delil-i sâtııdır. Belki nasıl ki o zat, hidayetiyle saadet-i ebediyenin sebeb-i husulü ve vesile-i vusulüdür. Öyle de duasıyla, niyazıyla o saadetin sebeb-i vücudu ve vesile-i icadıdır. Haşir meselesinde geçen şu sırrı, makam münasebetiyle tekrar ederiz:
 
 İşte bak, o zat öyle bir salât-ı kübrada dua ediyor ki güya şu cezire, belki arz, onun azametli namazıyla namaz kılar, niyaz eder. Bak hem öyle bir cemaat-i uzmada niyaz ediyor ki güya benî-Âdem’in zaman-ı Âdem’den asrımıza, kıyamete kadar bütün nurani kâmil insanlar, ona ittiba ile iktida edip duasına âmin diyorlar.
 
@@ -1710,7 +2030,9 @@ Bak, hem öyle yüksek bir fîzar-ı istimdadkârane ve öyle tatlı bir niyaz-�
 
 Bak, hem öyle Semî’, Kerîm bir Kadîr’den, öyle Basîr, Rahîm bir Alîm’den hâcetini istiyor ki bilmüşahede en hafî bir zîhayatın en hafî bir hâcetini, bir niyazını görür, işitir, kabul eder, merhamet eder. Çünkü istediğini –velev lisan-ı hal ile olsun– verir ve öyle bir suret-i hakîmane, basîrane, rahîmanede verir ki şüphe bırakmaz bu terbiye ve tedbir öyle bir Semî’ ve Basîr ve öyle bir Kerîm ve Rahîm’e hastır.
 
-**On Üçüncü Reşha:** Acaba bütün efazıl-ı benî-Âdem’i arkasına alıp arz üstünde durup arş-ı a’zama müteveccihen el kaldırıp dua eden şu şeref-i nev-i insan ve ferîd-i kevn ü zaman ve bihakkın fahr-i kâinat ne istiyor? Bak dinle:
+## On Üçüncü Reşha
+
+Acaba bütün efazıl-ı benî-Âdem’i arkasına alıp arz üstünde durup arş-ı a’zama müteveccihen el kaldırıp dua eden şu şeref-i nev-i insan ve ferîd-i kevn ü zaman ve bihakkın fahr-i kâinat ne istiyor? Bak dinle:
 
 Saadet-i ebediye istiyor, beka istiyor, lika istiyor, cennet istiyor. Hem meraya-yı mevcudatta ahkâmını ve cemallerini gösteren bütün esma-i kudsiye-i İlahiye ile beraber istiyor.
 
@@ -1728,7 +2050,9 @@ Meşhudatımızın tafsilatını başka vakte ta’lik edip o mu’ciz-nüma ve 
 
 Şuâat-ı Marifeti’n-Nebi namındaki Türkçe bir risalede ve On Dokuzuncu Mektup’ta ve şu Söz’de icmalen işaret ettiğimiz delail-i nübüvvet-i Ahmediyeyi (asm) beyan etmişim. Hem onda Kur’an-ı Hakîm’in vücuh-u i’cazı icmalen zikredilmiş. Yine “Lemaat” namında Türkçe bir risalede ve Yirmi Beşinci Söz’de Kur’an’ın kırk vecihle mu’cize olduğunu icmalen beyan ve kırk vücuh-u i’cazına işaret etmişim. O kırk vecihte, yalnız nazımda olan belâgatı “İşaratü’l-İ’caz” namındaki bir tefsir-i Arabîde kırk sahife içinde yazmışım. Eğer ihtiyacın varsa şu üç kitaba müracaat edebilirsin.
 
-**On Dördüncü Reşha:** Mahzen-i mu’cizat ve mu’cize-i kübra olan Kur’an-ı Hakîm; nübüvvet-i Ahmediye ile vahdaniyet-i İlahiyeyi o derece kat’î ispat ediyor ki başka bürhana hâcet bırakmıyor. Biz de onun tarifine ve medar-ı tenkit olmuş bir iki lem’a-i i’cazına işaret ederiz.
+## On Dördüncü Reşha
+
+Mahzen-i mu’cizat ve mu’cize-i kübra olan Kur’an-ı Hakîm; nübüvvet-i Ahmediye ile vahdaniyet-i İlahiyeyi o derece kat’î ispat ediyor ki başka bürhana hâcet bırakmıyor. Biz de onun tarifine ve medar-ı tenkit olmuş bir iki lem’a-i i’cazına işaret ederiz.
 
 İşte Rabb’imizi bize tarif eden Kur’an-ı Hakîm;
 - Şu kitab-ı kebir-i kâinatın bir tercüme-i ezeliyesi.
@@ -1777,7 +2101,8 @@ Hem der: <span class="arabic" dir="rtl">وَ جَعَلَ الشَّمْسَ س�
 
 ***
 
-### Şakk-ı Kamer Mu’cizesine Dairdir
+# Şakk-ı Kamer Mu’cizesine Dairdir
+
 **On Dokuzuncu ve Otuz Birinci Sözlerin Zeyli**
 
 <p class="arabic" dir="rtl">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ<br/>اِقْتَرَبَتِ السَّاعَةُ وَ انْشَقَّ الْقَمَرُ ۞ وَاِنْ يَرَوْا اٰيَةً يُعْرِضُوا وَ يَقُولُوا سِحْرٌ مُسْتَمِرٌّ</p>
@@ -1788,31 +2113,41 @@ Kamer gibi parlak bir mu’cize-i Ahmediye (asm) olan inşikak-ı kameri, evham-
 
 Şakk-ı kamer yüzünden bu evham bulutlarını dağıtacak çok noktalardan şimdilik **beş nokta**yı dinle:
 
-***Birinci Nokta:*** O zaman, o zemindeki küffarın gayet şedit derecede inatları tarihen malûm ve meşhur olduğu halde, Kur’an-ı Hakîm’in <span class="arabic" dir="rtl">وَ انْشَقَّ الْقَمَرُ</span> demesiyle şu vak’ayı umum âleme ihbar ettiği halde, Kur’an’ı inkâr eden o küffardan hiçbir kimse şu âyetin tekzibine, yani ihbar ettiği şu vakıanın inkârına ağız açmamışlar. Eğer o zamanda o hâdise o küffarca kat’î ve vaki bir hâdise olmasa idi, şu sözü serrişte ederek gayet dehşetli bir tekzibe ve Peygamber’in iptal-i davasına hücum göstereceklerdi.
+## Birinci Nokta
+
+O zaman, o zemindeki küffarın gayet şedit derecede inatları tarihen malûm ve meşhur olduğu halde, Kur’an-ı Hakîm’in <span class="arabic" dir="rtl">وَ انْشَقَّ الْقَمَرُ</span> demesiyle şu vak’ayı umum âleme ihbar ettiği halde, Kur’an’ı inkâr eden o küffardan hiçbir kimse şu âyetin tekzibine, yani ihbar ettiği şu vakıanın inkârına ağız açmamışlar. Eğer o zamanda o hâdise o küffarca kat’î ve vaki bir hâdise olmasa idi, şu sözü serrişte ederek gayet dehşetli bir tekzibe ve Peygamber’in iptal-i davasına hücum göstereceklerdi.
 
 Halbuki şu vak’aya dair siyer ve tarih, o vak’a ile münasebettar küffarın adem-i vukuuna dair hiçbir şeyini nakletmemişlerdir. Yalnız <span class="arabic" dir="rtl">وَ يَقُولُوا سِحْرٌ مُسْتَمِرٌّ</span> âyetinin beyan ettiği gibi tarihçe menkul olan şudur ki: O hâdiseyi gören küffar “Sihirdir.” demişler ve “Bize sihir gösterdi. Eğer sair taraflardaki kervan ve kafileler görmüşlerse hakikattir. Yoksa bize sihir etmiş.” demişler. Sonra sabahleyin Yemen ve başka taraflardan gelen kafileler ihbar ettiler ki: “Böyle bir hâdiseyi gördük.” Sonra küffar, Fahr-i Âlem (asm) hakkında –hâşâ– “Yetim-i Ebu Talib’in sihri, semaya da tesir etti.” dediler.
 
-***İkinci Nokta:*** Sa’d-ı Taftazanî gibi eâzım-ı muhakkikînin ekseri demişler ki: İnşikak-ı kamer; parmaklarından su akması umum bir orduya su içirmesi, camide hutbe okurken dayandığı kuru direğin müfarakat-ı Ahmediyeden (asm) ağlaması umum cemaatin işitmesi gibi mütevatirdir. Yani öyle tabakadan tabakaya bir cemaat-i kesîre nakletmiştir ki kizbe ittifakları muhaldir. Hâle gibi meşhur bir kuyruklu yıldızın bin sene evvel çıkması gibi mütevatirdir. Görmediğimiz Serendip Adası’nın vücudu gibi tevatürle vücudu kat’îdir, demişler. İşte böyle gayet kat’î ve şuhudî mesailde teşkikat-ı vehmiye yapmak, akılsızlıktır. Yalnız muhal olmamak kâfidir. Halbuki şakk-ı kamer, bir volkanla inşikak eden bir dağ gibi mümkündür.
+## İkinci Nokta
 
-***Üçüncü Nokta:*** Mu’cize dava-yı nübüvvetin ispatı için münkirleri ikna etmek içindir, icbar etmek için değildir. Öyle ise dava-yı nübüvveti işitenler için ikna edecek bir derecede mu’cize göstermek lâzımdır. Sair taraflara göstermek veyahut icbar derecesinde bir bedahetle izhar etmek, Hakîm-i Zülcelal’in hikmetine münafî olduğu gibi sırr-ı teklife dahi muhaliftir. Çünkü “Akla kapı açmak, ihtiyarı elinden almamak” sırr-ı teklif iktiza ediyor.
+Sa’d-ı Taftazanî gibi eâzım-ı muhakkikînin ekseri demişler ki: İnşikak-ı kamer; parmaklarından su akması umum bir orduya su içirmesi, camide hutbe okurken dayandığı kuru direğin müfarakat-ı Ahmediyeden (asm) ağlaması umum cemaatin işitmesi gibi mütevatirdir. Yani öyle tabakadan tabakaya bir cemaat-i kesîre nakletmiştir ki kizbe ittifakları muhaldir. Hâle gibi meşhur bir kuyruklu yıldızın bin sene evvel çıkması gibi mütevatirdir. Görmediğimiz Serendip Adası’nın vücudu gibi tevatürle vücudu kat’îdir, demişler. İşte böyle gayet kat’î ve şuhudî mesailde teşkikat-ı vehmiye yapmak, akılsızlıktır. Yalnız muhal olmamak kâfidir. Halbuki şakk-ı kamer, bir volkanla inşikak eden bir dağ gibi mümkündür.
+
+## Üçüncü Nokta
+
+Mu’cize dava-yı nübüvvetin ispatı için münkirleri ikna etmek içindir, icbar etmek için değildir. Öyle ise dava-yı nübüvveti işitenler için ikna edecek bir derecede mu’cize göstermek lâzımdır. Sair taraflara göstermek veyahut icbar derecesinde bir bedahetle izhar etmek, Hakîm-i Zülcelal’in hikmetine münafî olduğu gibi sırr-ı teklife dahi muhaliftir. Çünkü “Akla kapı açmak, ihtiyarı elinden almamak” sırr-ı teklif iktiza ediyor.
 
 Eğer Fâtır-ı Hakîm, inşikak-ı kameri, feylesofların hevesatına göre bütün âleme göstermek için bir iki saat öyle bıraksa idi ve beşerin umum tarihlerine geçse idi, o vakit sair hâdisat-ı semaviye gibi ya dava-yı nübüvvete delil olmazdı ve risalet-i Ahmediyeye (asm) hususiyeti kalmazdı veyahut bedahet derecesinde öyle bir mu’cize olacaktı ki aklı icbar edecek, aklın ihtiyarını elinden alacak, ister istemez nübüvveti tasdik edecek. Ebucehil gibi kömür ruhlu, Ebubekir-i Sıddık gibi elmas ruhlu adamlar bir seviyede kalıp sırr-ı teklif zayi olacaktı.
 
 İşte bu sır içindir ki hem âni hem gece hem vakt-i gaflet hem ihtilaf-ı metali’ ve sis ve bulut gibi sair mevanii perde ederek umum âleme gösterilmedi veyahut tarihlere geçirilmedi.
 
-**Dördüncü Nokta:** Şu hâdise, gece vakti herkes gaflette iken âni bir surette vuku bulduğundan etraf-ı âlemde elbette görülmeyecek. Bazı efrada görünse de gözüne inanmayacak. İnandırsa da elbette böyle mühim bir hâdise, haber-i vâhid ile tarihlere bâki bir sermaye olmayacak.
+## Dördüncü Nokta
+
+Şu hâdise, gece vakti herkes gaflette iken âni bir surette vuku bulduğundan etraf-ı âlemde elbette görülmeyecek. Bazı efrada görünse de gözüne inanmayacak. İnandırsa da elbette böyle mühim bir hâdise, haber-i vâhid ile tarihlere bâki bir sermaye olmayacak.
 
 Bazı kitaplarda “Kamer iki parça olduktan sonra yere inmiş.” ilâvesi ise ehl-i tahkik reddetmişler. “Şu mu’cize-i bâhireyi kıymetten düşürmek niyetiyle, belki bir münafık ilhak etmiş.” demişler.
 
 Hem mesela o vakit, cehalet sisiyle muhat İngiltere, İspanya’da yeni gurûb; Amerika’da gündüz; Çin’de, Japonya’da sabah olduğu gibi başka yerlerde başka esbab-ı maniaya binaen elbette görülmeyecek. Şimdi bu akılsız muterize bak, diyor ki: “İngiltere, Çin, Japon, Amerika gibi akvamın tarihleri bundan bahsetmiyor. Öyle ise vuku bulmamış.” Bin nefrin onun gibi Avrupa kâselislerinin başına!
 
-**Beşinci Nokta:** İnşikak-ı kamer, kendi kendine bazı esbaba binaen vuku bulmuş, tesadüfî, tabiî bir hâdise değil ki âdi ve tabiî kanunlarına tatbik edilsin. Belki şems ve kamerin Hâlık-ı Hakîm’i, Resulünün risaletini tasdik ve davasını tenvir için hârikulâde olarak o hâdiseyi îka etmiştir. Sırr-ı irşad ve sırr-ı teklif ve hikmet-i risaletin iktizasıyla, hikmet-i rububiyetin istediği insanlara ilzam-ı hüccet için gösterilmiştir.
+## Beşinci Nokta
+
+İnşikak-ı kamer, kendi kendine bazı esbaba binaen vuku bulmuş, tesadüfî, tabiî bir hâdise değil ki âdi ve tabiî kanunlarına tatbik edilsin. Belki şems ve kamerin Hâlık-ı Hakîm’i, Resulünün risaletini tasdik ve davasını tenvir için hârikulâde olarak o hâdiseyi îka etmiştir. Sırr-ı irşad ve sırr-ı teklif ve hikmet-i risaletin iktizasıyla, hikmet-i rububiyetin istediği insanlara ilzam-ı hüccet için gösterilmiştir.
 
 O sırr-ı hikmetin iktiza etmedikleri, istemedikleri ve dava-yı nübüvveti henüz işitmedikleri aktar-ı zemindeki insanlara göstermemek için sis ve bulut ve ihtilaf-ı metali’ haysiyetiyle; bazı memleketin kameri daha çıkmaması ve bazıların güneşleri çıkması ve bir kısmının sabahı olması ve bir kısmının güneşi yeni gurûb etmesi gibi o hâdiseyi görmeye mani pek çok esbaba binaen gösterilmemiş.
 
 Eğer umum onlara dahi gösterilse idi, o halde ya işaret-i Ahmediyenin (asm) neticesi ve mu’cize-i nübüvvet olarak gösterilecekti; o vakit risaleti bedahet derecesine çıkacaktı. Herkes tasdike mecbur olurdu, aklın ihtiyarı kalmazdı. İman ise aklın ihtiyarıyladır. Sırr-ı teklif zayi olurdu. Eğer sırf bir hâdise-i semaviye olarak gösterilse idi, risalet-i Ahmediye (asm) ile münasebeti kesilirdi ve onunla hususiyeti kalmazdı.
 
-***Elhasıl:*** Şakk-ı kamerin imkânında şüphe kalmadı, kat’î ispat edildi. Şimdi vukuuna delâlet eden çok bürhanlarından altısına [^Hâşiye12] işaret ederiz. Şöyle ki:
+***Elhasıl:*** Şakk-ı kamerin imkânında şüphe kalmadı, kat’î ispat edildi. Şimdi vukuuna delâlet eden çok bürhanlarından altısına [^hâşiye12] işaret ederiz. Şöyle ki:
 
 Ehl-i adalet olan sahabelerin vukuuna icmaı.
 
@@ -1836,7 +2171,8 @@ Sema-yı risaletin kamer-i müniri olan Hâtem-i Divan-ı Nübüvvet, nasıl ki 
 
 ***
 
-### Mu’cizat-ı Ahmediye (asm) Zeylinin Bir Parçasıdır
+# Mu’cizat-ı Ahmediye (asm) Zeylinin Bir Parçasıdır
+
 **Risalet-i Ahmediye (asm) delaili hakkında olup Mi’rac Risalesi’nin Üçüncü Esası’nın nihayetindeki üç mühim müşkülden birinci müşküle ait suale, muhtasar bir fihriste suretinde verilen cevaptır.**
 
 ***Sual:*** Şu mi’rac-ı azîm, ne için Muhammed-i Arabî aleyhissalâtü vesselâma mahsustur?
@@ -1887,7 +2223,7 @@ Hem Rabbü’l-âlemîn, meyve-i âlem olan insana, âlemi içine alacak bir vü
 
 **Hâşiye:** En mühim bir ceride-i İslâmiyede, umum âlem-i İslâm’a taalluk eden ve gayet ehemmiyetli siyasîlerden ve hayat-ı içtimaiye ile çok alâkadar olan umum hukukçulardan 1927 senesinde Avrupa’da toplanan bir kongrede mühim ecnebi feylesoflar, şeriat-ı Muhammediyeye (asm) dair bu aşağıda yazılan Arabî fıkranın aynını kendi lisanlarıyla söylemişler. O Arabî ceridenin naklettiği Arabî ifadeyi aynen yazıyoruz ve tercümesini de Arabî ifadenin altına ilâve ediyoruz. Nur Çeşmesi’nin âhirinde yazılan ecnebi feylesoflardan kırk üç tanesinin beyanatı, bu iki kahraman feylesofun beyanatıyla kırk beş tane şahid-i sadık oluyor. <span class="arabic" dir="rtl">اَلْفَضْلُ مَا شَهِدَتْ بِهِ الْاَعْدَاءُ</span> “Fazilet odur ki düşmanlar dahi onu tasdik etsin.”
 
-**Arabî ceridenin beyanatı:**
+## Arabî ceridenin beyanatı
 
 <p class="arabic" dir="rtl">وَقَدْ اِعْتَرَفَ حَتّٰى عُلَمَاءُ الْغَرْبِ بِسُمُوِّ مَبَادِى الْاِسْلَامِ وَصَلَاحِهَا لِلْعَالَمِ …</p>
 
@@ -1897,7 +2233,7 @@ Hem Rabbü’l-âlemîn, meyve-i âlem olan insana, âlemi içine alacak bir vü
 
 <p class="arabic" dir="rtl">وَ قَالَ بَرْنَارْد شَوْ : لَقَدْ كَانَ دٖينُ مُحَمَّدٍ(ع ص م)مَوْضِعَ التَّقْدٖيرِ السَّامٖى دَائِمًا لِمَا يَنْطَوٖى عَلَيْهِ مِنْ حَيَوِيَّةٍ مُدْهِشَةٍ لِاَنَّهُ عَلٰى مَا يَلُوحُ لٖى هُوَ الدّٖينُ الْوَحٖيدُ الَّذٖى لَهُ مَلَكَةُ الْهَضْمِ لِاَطْوَارِ الْحَيَاةِ الْمُخْتَلِفَةِ وَالَّذٖى يَسْتَطٖيعُ لِذٰلِكَ اَنْ يَجْذِبَ اِلَيْهِ كُلَّ جَيْلٍ مِنَ النَّاسِ وَ اَرٰى وَاجِبًا اَنْ يُدْعٰى مُحَمَّدٌ(ع ص م)مُنْقِذَ الْاِنْسَانِيَّةِ وَ اَعْتَقِدُ اَنَّ رَجُلًا مِثْلَهُ اِذَا تَوَلّٰى زَعَامَةَ الْعَالَمِ الْحَدٖيثِ نَجَحَ فٖى حَلِّ مُشْكِلَاتِهٖ وَاَحَلَّ فِى الْعَالَمِ السَّلَامَةَ وَالسَّعَادَةَ (يَعْنِى الْمُسَالَمَةَ وَالصُّلْحَ الْعُمُومِىَّ) <br/>وَمَا اَشَدَّ حَاجَةَ الْعَالَمِ اَلْيَوْمَ اِلَيْهَا …</p>
 
-**Tercümesinin bir hülâsası:**
+## Tercümesinin bir hülâsası
 
 Evet, garp uleması ve feylesofları itiraf ve ikrar etmişler ki: “İslâmiyet’in kanunları, yüksek bir tarzda âlemin ıslahına kâfidir.”
 
@@ -1909,7 +2245,8 @@ Hem diyor: “Ben itikad ediyorum ki Muhammed’in misli, yani sîretinde, tarz�
 
 ***
 
-### Âyetü’l-Kübra Risalesi’nin Risalet-i Ahmediyeden Bahseden On Altıncı Mertebesi
+# Âyetü’l-Kübra Risalesi’nin Risalet-i Ahmediyeden Bahseden On Altıncı Mertebesi
+
 *(Makam münasebetiyle buraya ilhak edilmiştir.)*
 
 Sonra o dünya seyyahı, kendi aklına dedi ki: Madem bu kâinatın mevcudatıyla Mâlik’imi ve Hâlık’ımı arıyorum. Elbette her şeyden evvel bu mevcudatın en meşhuru ve a’dasının tasdikiyle dahi en mükemmeli ve en büyük kumandanı ve en namdar hâkimi ve sözce en yükseği ve akılca en parlağı ve on dört asrı faziletiyle ve Kur’an’ıyla ışıklandıran Muhammed-i Arabî aleyhissalâtü vesselâmı ziyaret etmek ve aradığımı ondan sormak için asr-ı saadete gitmeliyiz, diyerek aklıyla beraber o asra girdi. Gördü ki:
@@ -1918,15 +2255,21 @@ O asır, hakikaten o zat ile bir saadet-i beşeriye asrı olmuş. Çünkü en be
 
 Hem kendi aklına dedi: Biz, en evvel bu fevkalâde zatın bir derece kıymetini ve sözlerinin hakkaniyetini ve ihbaratının doğruluğunu bilmeliyiz, sonra Hâlık’ımızı ondan sormalıyız, diyerek taharriye başladı. Bulduğu hadsiz kat’î delillerden burada yalnız dokuz küllîlerine birer kısa işaret edilecek.
 
-**Birincisi:** Bu zatta –hattâ düşmanlarının tasdikiyle dahi– bütün güzel huyların ve hasletlerin bulunması<span class="arabic" dir="rtl">وَ انْشَقَّ الْقَمَرُ ۞ وَمَا رَمَيْتَ اِذْ رَمَيْتَ وَلٰكِنَّ اللّٰهَ رَمٰى</span> âyetlerinin sarahatiyle, bir parmağının işaretiyle kamer iki parça olması ve bir avucu ile a’dasının ordusuna attığı az bir toprak, umum o ordunun gözlerine girmesiyle kaçmaları ve susuz kalmış kendi ordusuna, beş parmağından akan kevser gibi suyu kifayet derecesinde içirmesi gibi; nass-ı kat’î ile ve bir kısmı tevatür ile yüzer mu’cizatın onun elinde zahir olmasıdır. Bu mu’cizatın üç yüzden ziyade bir kısmı, On Dokuzuncu Mektup Mu’cizat-ı Ahmediye (asm) namındaki hârika ve kerametli bir risalede kat’î delilleriyle beraber beyan edildiğinden onları ona havale ederek dedi ki:
+## Birincisi
+
+Bu zatta –hattâ düşmanlarının tasdikiyle dahi– bütün güzel huyların ve hasletlerin bulunması<span class="arabic" dir="rtl">وَ انْشَقَّ الْقَمَرُ ۞ وَمَا رَمَيْتَ اِذْ رَمَيْتَ وَلٰكِنَّ اللّٰهَ رَمٰى</span> âyetlerinin sarahatiyle, bir parmağının işaretiyle kamer iki parça olması ve bir avucu ile a’dasının ordusuna attığı az bir toprak, umum o ordunun gözlerine girmesiyle kaçmaları ve susuz kalmış kendi ordusuna, beş parmağından akan kevser gibi suyu kifayet derecesinde içirmesi gibi; nass-ı kat’î ile ve bir kısmı tevatür ile yüzer mu’cizatın onun elinde zahir olmasıdır. Bu mu’cizatın üç yüzden ziyade bir kısmı, On Dokuzuncu Mektup Mu’cizat-ı Ahmediye (asm) namındaki hârika ve kerametli bir risalede kat’î delilleriyle beraber beyan edildiğinden onları ona havale ederek dedi ki:
 
 Bu kadar ahlâk-ı hasene ve kemalâtla beraber bu kadar mu’cizat-ı bâhiresi bulunan bir zat, elbette en doğru sözlüdür. Ahlâksızların işi olan hileye, yalana, yanlışa tenezzül etmesi kabil değil.
 
-**İkincisi:** Elinde bu kâinat sahibinin bir fermanı bulunduğu ve o fermanı, her asırda üç yüz milyondan ziyade insanların onu kabul ve tasdik ettikleri ve o ferman olan Kur’an-ı Azîmüşşan’ın yedi vecihle hârika olmasıdır. Ve bu Kur’an’ın kırk vecihle mu’cize olduğunu ve kâinat Hâlık’ının sözü bulunduğunu kuvvetli delilleriyle beraber Yirmi Beşinci Söz Mu’cizat-ı Kur’aniye namında ve Risale-i Nur’un bir güneşi olan meşhur bir risalede tafsilen beyan edilmesinden onu, ona havale ederek dedi:
+## İkincisi
+
+Elinde bu kâinat sahibinin bir fermanı bulunduğu ve o fermanı, her asırda üç yüz milyondan ziyade insanların onu kabul ve tasdik ettikleri ve o ferman olan Kur’an-ı Azîmüşşan’ın yedi vecihle hârika olmasıdır. Ve bu Kur’an’ın kırk vecihle mu’cize olduğunu ve kâinat Hâlık’ının sözü bulunduğunu kuvvetli delilleriyle beraber Yirmi Beşinci Söz Mu’cizat-ı Kur’aniye namında ve Risale-i Nur’un bir güneşi olan meşhur bir risalede tafsilen beyan edilmesinden onu, ona havale ederek dedi:
 
 Böyle ayn-ı hak ve hakikat bir fermanın tercümanı ve tebliğ edicisi bir zatta (asm) fermana cinayet ve ferman sahibine hıyanet hükmünde olan yalan olamaz ve bulunamaz.
 
-**Üçüncüsü:** O zat (asm) öyle bir şeriat, bir İslâmiyet, bir ubudiyet, bir dua, bir davet, bir iman ile meydana çıkmış ki onların ne misli var ne de olur. Ve onlardan daha mükemmel ne bulunmuş ve ne de bulunur.
+## Üçüncüsü
+
+O zat (asm) öyle bir şeriat, bir İslâmiyet, bir ubudiyet, bir dua, bir davet, bir iman ile meydana çıkmış ki onların ne misli var ne de olur. Ve onlardan daha mükemmel ne bulunmuş ve ne de bulunur.
 
 Çünkü ümmi bir zatta zuhur eden o **şeriat**; on dört asrı ve nev-i beşerin humsunu, âdilane hakkaniyet üzere, müdakkikane, hadsiz kanunlarıyla idare etmesi emsal kabul etmez.
 
@@ -1942,19 +2285,31 @@ Hem **iman**da öyle fevkalâde bir kuvvet ve hârika bir yakîn ve mu’cizane 
 
 İşte böyle emsalsiz bir şeriat ve misilsiz bir İslâmiyet ve hârika bir ubudiyet ve fevkalâde bir dua ve cihan-pesendane bir davet ve mu’cizane bir iman sahibinde, elbette hiçbir cihetle yalan olamaz ve aldatmaz diye anladı ve aklı dahi tasdik etti.
 
-**Dördüncüsü:** Enbiyaların icmaı nasıl ki vücud ve vahdaniyet-i İlahiyeye gayet kuvvetli bir delildir. Öyle de bu zatın doğruluğuna ve risaletine gayet sağlam bir şehadettir. Çünkü enbiya aleyhimüsselâmın doğruluklarına ve peygamber olmalarına medar olan ne kadar kudsî sıfatlar, mu’cizeler ve vazifeler varsa; o zatta en ileride olduğu tarihçe musaddaktır.
+## Dördüncüsü
+
+Enbiyaların icmaı nasıl ki vücud ve vahdaniyet-i İlahiyeye gayet kuvvetli bir delildir. Öyle de bu zatın doğruluğuna ve risaletine gayet sağlam bir şehadettir. Çünkü enbiya aleyhimüsselâmın doğruluklarına ve peygamber olmalarına medar olan ne kadar kudsî sıfatlar, mu’cizeler ve vazifeler varsa; o zatta en ileride olduğu tarihçe musaddaktır.
 
 Demek, onlar nasıl ki lisan-ı kāl ile Tevrat, İncil ve Zebur ve suhuflarında bu zatın geleceğini haber verip insanlara beşaret vermişler ki kütüb-ü mukaddesenin o beşaretli işaratından yirmiden fazla ve pek zahir bir kısmı, On Dokuzuncu Mektup’ta güzelce beyan ve ispat edilmiş. Öyle de lisan-ı halleriyle, yani nübüvvetleriyle ve mu’cizeleriyle; kendi mesleklerinde ve vazifelerinde en ileri, en mükemmel olan bu zatı tasdik edip davasını imza ediyorlar. Ve lisan-ı kāl ve icma ile vahdaniyete delâlet ettikleri gibi lisan-ı hal ve ittifakla bu zatın sadıkıyetine şehadet ediyorlar, diye anladı.
 
-**Beşincisi:** Bu zatın düsturlarıyla ve terbiyeti ve tebaiyetiyle ve arkasında gitmeleriyle hakka, hakikate, kemalâta, keramata, keşfiyata, müşahedata yetişen binler evliya vahdaniyete delâlet ettikleri gibi; üstadları olan bu zatın sadıkıyetine ve risaletine icma ve ittifak ile şehadet ediyorlar. Ve âlem-i gaybdan verdiği haberlerin bir kısmını nur-u velayetle müşahede etmeleri ve umumunu nur-u imanla ya ilmelyakîn veya aynelyakîn veya hakkalyakîn suretinde itikad ve tasdik etmeleri, üstadları olan bu zatın derece-i hakkaniyet ve sadıkıyetini güneş gibi gösterdiğini gördü.
+## Beşincisi
 
-**Altıncısı:** Bu zatın ümmiliğiyle beraber getirdiği hakaik-i kudsiye ve ihtira ettiği ulûm-u âliye ve keşfettiği marifet-i İlahiyenin dersiyle ve talimiyle, mertebe-i ilmiyede en yüksek makama yetişen milyonlar asfiya-i müdakkikîn ve sıddıkîn-i muhakkikîn ve dâhî hükema-i mü’minîn, bu zatın üssü’l-esas davası olan vahdaniyeti, kuvvetli bürhanlarıyla bi’l-ittifak ispat ve tasdik ettikleri gibi; bu muallim-i ekberin ve bu üstad-ı a’zamın hakkaniyetine ve sözlerinin hakikat olduğuna ittifakla şehadetleri, gündüz gibi bir hüccet-i risaleti ve sadıkıyetidir. Mesela, Risale-i Nur yüz parçasıyla, sadakatinin bir tek bürhanıdır.
+Bu zatın düsturlarıyla ve terbiyeti ve tebaiyetiyle ve arkasında gitmeleriyle hakka, hakikate, kemalâta, keramata, keşfiyata, müşahedata yetişen binler evliya vahdaniyete delâlet ettikleri gibi; üstadları olan bu zatın sadıkıyetine ve risaletine icma ve ittifak ile şehadet ediyorlar. Ve âlem-i gaybdan verdiği haberlerin bir kısmını nur-u velayetle müşahede etmeleri ve umumunu nur-u imanla ya ilmelyakîn veya aynelyakîn veya hakkalyakîn suretinde itikad ve tasdik etmeleri, üstadları olan bu zatın derece-i hakkaniyet ve sadıkıyetini güneş gibi gösterdiğini gördü.
 
-**Yedincisi:** Âl ü ashab namında nev-i beşerin enbiyadan sonra feraset ve dirayet ve kemalâtla en meşhur, en muhterem, en namdarı, en dindar, en keskin nazarlı taife-i azîmesi; kemal-i merak ile ve gayet dikkat ve nihayet ciddiyetle, bu zatın bütün gizli ve aşikâr hallerini ve fikirlerini ve vaziyetlerini taharri ve teftiş ve tetkik etmeleri neticesinde, bu zatın dünyada en sadık ve en yüksek ve en haklı ve hakikatli olduğuna ittifakla, icma ile sarsılmaz tasdikleri ve kuvvetli imanları, güneşin ziyasına delâlet eden gündüz gibi bir delildir diye anladı.
+## Altıncısı
 
-**Sekizincisi:** Bu kâinat nasıl ki kendini icad ve idare ve tertip eden ve tasvir ve takdir ve tedbir ile bir saray gibi bir kitap gibi bir sergi gibi bir temaşagâh gibi tasarruf eden sâni’ine ve kâtibine ve nakkaşına delâlet eder. Öyle de kâinatın hilkatindeki makasıd-ı İlahiyeyi bilecek ve bildirecek ve tahavvülatındaki Rabbanî hikmetleri talim edecek ve vazifedarane harekâtındaki neticeleri ders verecek ve mahiyetindeki kıymetini ve içindeki mevcudatın kemalâtını ilan edecek ve o kitab-ı kebirin manalarını ifade edecek bir yüksek dellâl, bir doğru keşşaf, bir muhakkik üstad ve bir sadık muallim istediği ve iktiza ettiği ve her halde bulunmasına delâlet ettiği cihetle, elbette bu vazifeleri herkesten ziyade yapan bu zatın hakkaniyetine ve bu kâinat Hâlık’ının en yüksek ve sadık bir memuru olduğuna şehadet ettiğini bildi.
+Bu zatın ümmiliğiyle beraber getirdiği hakaik-i kudsiye ve ihtira ettiği ulûm-u âliye ve keşfettiği marifet-i İlahiyenin dersiyle ve talimiyle, mertebe-i ilmiyede en yüksek makama yetişen milyonlar asfiya-i müdakkikîn ve sıddıkîn-i muhakkikîn ve dâhî hükema-i mü’minîn, bu zatın üssü’l-esas davası olan vahdaniyeti, kuvvetli bürhanlarıyla bi’l-ittifak ispat ve tasdik ettikleri gibi; bu muallim-i ekberin ve bu üstad-ı a’zamın hakkaniyetine ve sözlerinin hakikat olduğuna ittifakla şehadetleri, gündüz gibi bir hüccet-i risaleti ve sadıkıyetidir. Mesela, Risale-i Nur yüz parçasıyla, sadakatinin bir tek bürhanıdır.
 
-**Dokuzuncusu:** Madem bu sanatlı ve hikmetli masnuatıyla kendi hünerlerini ve sanatkârlığının kemalâtını teşhir etmek ve bu süslü ve ziynetli nihayetsiz mahlukatıyla kendini tanıttırmak ve sevdirmek ve bu lezzetli ve kıymetli hesapsız nimetleriyle kendine teşekkür ve hamdettirmek ve bu şefkatli ve himayetli umumî terbiye ve iaşe ile hattâ ağızların en ince zevklerini ve iştihaların her nevini tatmin edecek bir surette ihzar edilen Rabbanî it’amlar ve ziyafetlerle, kendi rububiyetine karşı minnettarane, müteşekkirane ve perestişkârane ibadet ettirmek ve mevsimlerin tebdili ve gece ve gündüzün tahvili ve ihtilafı gibi azametli ve haşmetli tasarrufat ve icraat ve dehşetli ve hikmetli faaliyet ve hallakıyet ile kendi uluhiyetini izhar ederek, o uluhiyete karşı iman ve teslim ve inkıyad ve itaat ettirmek ve her vakit iyiliği ve iyileri himaye ve fenalığı ve fenaları izale ve semavî tokatlarla zalimleri ve yalancıları imha etmek cihetiyle, hakkaniyet ve adaletini göstermek isteyen perde arkasında birisi var.
+## Yedincisi
+
+Âl ü ashab namında nev-i beşerin enbiyadan sonra feraset ve dirayet ve kemalâtla en meşhur, en muhterem, en namdarı, en dindar, en keskin nazarlı taife-i azîmesi; kemal-i merak ile ve gayet dikkat ve nihayet ciddiyetle, bu zatın bütün gizli ve aşikâr hallerini ve fikirlerini ve vaziyetlerini taharri ve teftiş ve tetkik etmeleri neticesinde, bu zatın dünyada en sadık ve en yüksek ve en haklı ve hakikatli olduğuna ittifakla, icma ile sarsılmaz tasdikleri ve kuvvetli imanları, güneşin ziyasına delâlet eden gündüz gibi bir delildir diye anladı.
+
+## Sekizincisi
+
+Bu kâinat nasıl ki kendini icad ve idare ve tertip eden ve tasvir ve takdir ve tedbir ile bir saray gibi bir kitap gibi bir sergi gibi bir temaşagâh gibi tasarruf eden sâni’ine ve kâtibine ve nakkaşına delâlet eder. Öyle de kâinatın hilkatindeki makasıd-ı İlahiyeyi bilecek ve bildirecek ve tahavvülatındaki Rabbanî hikmetleri talim edecek ve vazifedarane harekâtındaki neticeleri ders verecek ve mahiyetindeki kıymetini ve içindeki mevcudatın kemalâtını ilan edecek ve o kitab-ı kebirin manalarını ifade edecek bir yüksek dellâl, bir doğru keşşaf, bir muhakkik üstad ve bir sadık muallim istediği ve iktiza ettiği ve her halde bulunmasına delâlet ettiği cihetle, elbette bu vazifeleri herkesten ziyade yapan bu zatın hakkaniyetine ve bu kâinat Hâlık’ının en yüksek ve sadık bir memuru olduğuna şehadet ettiğini bildi.
+
+## Dokuzuncusu
+
+Madem bu sanatlı ve hikmetli masnuatıyla kendi hünerlerini ve sanatkârlığının kemalâtını teşhir etmek ve bu süslü ve ziynetli nihayetsiz mahlukatıyla kendini tanıttırmak ve sevdirmek ve bu lezzetli ve kıymetli hesapsız nimetleriyle kendine teşekkür ve hamdettirmek ve bu şefkatli ve himayetli umumî terbiye ve iaşe ile hattâ ağızların en ince zevklerini ve iştihaların her nevini tatmin edecek bir surette ihzar edilen Rabbanî it’amlar ve ziyafetlerle, kendi rububiyetine karşı minnettarane, müteşekkirane ve perestişkârane ibadet ettirmek ve mevsimlerin tebdili ve gece ve gündüzün tahvili ve ihtilafı gibi azametli ve haşmetli tasarrufat ve icraat ve dehşetli ve hikmetli faaliyet ve hallakıyet ile kendi uluhiyetini izhar ederek, o uluhiyete karşı iman ve teslim ve inkıyad ve itaat ettirmek ve her vakit iyiliği ve iyileri himaye ve fenalığı ve fenaları izale ve semavî tokatlarla zalimleri ve yalancıları imha etmek cihetiyle, hakkaniyet ve adaletini göstermek isteyen perde arkasında birisi var.
 
 Elbette ve her halde o gaybî zatın yanında en sevgili mahluku ve en doğru abdi, onun mezkûr maksatlarına tam hizmet ederek, hilkat-i kâinatın tılsımını ve muammasını hall ve keşfeden ve daima o Hâlık’ının namına hareket eden ve ondan istimdad eden ve muvaffakıyet isteyen ve onun tarafından imdada ve tevfike mazhar olan Muhammed-i Kureyşî (asm) denilen bu zat olacak.
 
@@ -1964,11 +2319,9 @@ Hem aklına dedi: Madem bu mezkûr dokuz hakikatler bu zatın sıdkına şehadet
 
 Demek, bu kâinatın bir manevî güneşi ve Hâlık’ımızın en parlak bürhanı, bu Habibullah denilen zattır ki onun şehadetini teyid ve tasdik ve imza eden, aldanmaz ve aldatmaz **üç büyük icma** var:
 
-**Birincisi:** “Eğer perde-i gayb açılsa yakînim ziyadeleşmeyecek.” diyen İmam-ı Ali (ra) ve yerde iken arş-ı a’zamı ve İsrafil’in azamet-i heykelini temaşa eden Gavs-ı A’zam (ks) gibi keskin nazar ve gaybbîn gözleri bulunan binler aktab ve evliya-i azîmeyi câmi’ ve Âl-i Muhammed aleyhissalâtü vesselâm namıyla şöhret-şiar-ı âlem olan cemaat-i nuraniyenin icma ile tasdikleridir.
-
-**İkincisi:** Bedevî bir kavim ve ümmi bir muhitte, hayat-ı içtimaiyeden ve efkâr-ı siyasiyeden hâlî ve kitapsız ve fetret asrının karanlıklarında bulunan ve pek az bir zamanda en medeni ve malûmatlı ve hayat-ı içtimaiyede ve siyasiyede en ileri olan milletlere ve hükûmetlere üstad ve rehber ve diplomat ve hâkim-i âdil olarak, şarktan garba kadar cihan-pesendane idare eden ve sahabe namıyla dünyada namdar olan cemaat-i meşhurenin ittifak ile; can ve mallarını, peder ve aşiretlerini feda ettiren bir kuvvetli iman ile tasdikleridir.
-
-**Üçüncüsü:** Her asırda binlerle efradı bulunan ve her fende dâhiyane ileri giden ve muhtelif mesleklerde çalışan ve ümmetinde yetişen hadsiz muhakkik ve mütebahhir ulemasının cemaat-i uzmasının tevafuk ile ve ilmelyakîn derecesinde tasdikleridir.
+- **Birincisi:** “Eğer perde-i gayb açılsa yakînim ziyadeleşmeyecek.” diyen İmam-ı Ali (ra) ve yerde iken arş-ı a’zamı ve İsrafil’in azamet-i heykelini temaşa eden Gavs-ı A’zam (ks) gibi keskin nazar ve gaybbîn gözleri bulunan binler aktab ve evliya-i azîmeyi câmi’ ve Âl-i Muhammed aleyhissalâtü vesselâm namıyla şöhret-şiar-ı âlem olan cemaat-i nuraniyenin icma ile tasdikleridir.
+- **İkincisi:** Bedevî bir kavim ve ümmi bir muhitte, hayat-ı içtimaiyeden ve efkâr-ı siyasiyeden hâlî ve kitapsız ve fetret asrının karanlıklarında bulunan ve pek az bir zamanda en medeni ve malûmatlı ve hayat-ı içtimaiyede ve siyasiyede en ileri olan milletlere ve hükûmetlere üstad ve rehber ve diplomat ve hâkim-i âdil olarak, şarktan garba kadar cihan-pesendane idare eden ve sahabe namıyla dünyada namdar olan cemaat-i meşhurenin ittifak ile; can ve mallarını, peder ve aşiretlerini feda ettiren bir kuvvetli iman ile tasdikleridir.
+- **Üçüncüsü:** Her asırda binlerle efradı bulunan ve her fende dâhiyane ileri giden ve muhtelif mesleklerde çalışan ve ümmetinde yetişen hadsiz muhakkik ve mütebahhir ulemasının cemaat-i uzmasının tevafuk ile ve ilmelyakîn derecesinde tasdikleridir.
 
 Demek, bu zatın vahdaniyete şehadeti şahsî ve cüz’î değil belki umumî ve küllî ve sarsılmaz ve bütün şeytanlar toplansa karşısına hiçbir cihetle çıkamaz bir şehadettir, diye hükmetti.
 
@@ -1976,7 +2329,7 @@ Demek, bu zatın vahdaniyete şehadeti şahsî ve cüz’î değil belki umumî 
 
 <p class="arabic" dir="rtl">لَا اِلٰهَ اِلَّا اللّٰهُ الْوَاجِبُ الْوُجُودِ الْوَاحِدُ الْاَحَدُ الَّذٖى دَلَّ عَلٰى وُجُوبِ وُجُودِهٖ فٖى وَحْدَتِهٖ فَخْرُ الْعَالَمِ وَ شَرَفُ نَوْعِ بَنٖى اٰدَمَ بِعَظَمَةِ سَلْطَنَةِ قُرْاٰنِهٖ وَ حِشْمَةِ وُسْعَةِ دٖينِهٖ وَ كَثْرَةِ كَمَالَاتِهٖ وَ عُلْوِيَّةِ اَخْلَاقِهٖ حَتّٰى بِتَصْدٖيقِ اَعْدَائِهٖ وَ كَذَا شَهِدَ وَ بَرْهَنَ بِقُوَّةِ مِأٰتِ الْمُعْجِزَاتِ الظَّاهِرَاتِ الْبَاهِرَاتِ الْمُصَدِّقَةِ الْمُصَدَّقَةِ وَ بِقُوَّةِ اٰلَافِ حَقَائِقِ دٖينِهِ السَّاطِعَةِ الْقَاطِعَةِ بِاِجْمَاعِ اٰلِهٖ ذَوِى الْاَنْوَارِ وَ بِاِتِّفَاقِ اَصْحَابِهٖ ذَوِى الْاَبْصَارِ وَ بِتَوَافُقِ مُحَقِّقٖى اُمَّتِهٖ ذَوِى الْبَرَاهٖينِ وَ الْبَصَائِرِ النَّوَّارَةِ</p>
 
-denilmiştir.
+^[Lâ İlâhe İllâllâhu’l-Vâcibu’l-Vücûdü’l-Vâhidu’l-Ehadu’l-Lezî Delle Alâ Vücûbi Vücûdihî fî Vahdetihî Fehru’l-Âlemi ve Şerefu Nev‘i Benî Âdeme Bi-Azameti Saltanati Kur’ânihî ve Hiçmeti Vüs‘ati Dînihî ve Kesreti Kemâlâtihî ve Ulûvviyeti Ahlâkihi.] denilmiştir.
 
 <span class="arabic" dir="rtl">اَلْبَاقٖى هُوَ الْبَاقٖى</span>
 
@@ -1984,47 +2337,32 @@ denilmiştir.
 
 ***
 
-[^Hâşiye1]: Maatteessüf niyet ettiğim gibi yazamadım. İhtiyarsız olarak nasıl kalbe geldi, öyle yazıldı. Şu taksimattaki tertibi tamamıyla müraat edemedim.
+[^hâşiye1]: Maatteessüf niyet ettiğim gibi yazamadım. İhtiyarsız olarak nasıl kalbe geldi, öyle yazıldı. Şu taksimattaki tertibi tamamıyla müraat edemedim.
 
-[^Hâşiye2]: Şu risalede “tevatür” lafzı, Türkçe “şâyia” manasındaki tevatür değil belki yakîni ifade eden, yalan ihtimali olmayan kuvvetli ihbardır.
+[^hâşiye2]: Şu risalede “tevatür” lafzı, Türkçe “şâyia” manasındaki tevatür değil belki yakîni ifade eden, yalan ihtimali olmayan kuvvetli ihbardır.
 
-[^Hâşiye3]: Zat-ı Ahmediye aleyhissalâtü vesselâma Âişe-i Sıddıka’ya karşı ziyade muhabbet ve şefkatini rencide etmemek için Vak’a-i Cemel hâdisesinde o bulunacağı kat’î gösterilmediğine delil ise Ezvac-ı Tahirat’a ferman etmiş ki: “Keşke bilseydim hanginiz o vak’ada bulunacak?” Fakat sonra, hafif bir surette bildirilmiş ki Hazret-i Ali’ye (ra) ferman etmiş: “Senin ile Âişe beyninde bir hâdise olsa <span class="arabic" dir="rtl">فَارْفَقْ وَ بَلِّغْهَا مَاْمَنَهَا</span> ”
+[^hâşiye3]: Zat-ı Ahmediye aleyhissalâtü vesselâma Âişe-i Sıddıka’ya karşı ziyade muhabbet ve şefkatini rencide etmemek için Vak’a-i Cemel hâdisesinde o bulunacağı kat’î gösterilmediğine delil ise Ezvac-ı Tahirat’a ferman etmiş ki: “Keşke bilseydim hanginiz o vak’ada bulunacak?” Fakat sonra, hafif bir surette bildirilmiş ki Hazret-i Ali’ye (ra) ferman etmiş: “Senin ile Âişe beyninde bir hâdise olsa <span class="arabic" dir="rtl">فَارْفَقْ وَ بَلِّغْهَا مَاْمَنَهَا</span> ”
 
-[^Hâşiye4]: <span class="arabic" dir="rtl">اَنَا ابْنُ الَّذٖى سَالَتْ عَلَى الْخَدِّ عَيْنُهُ § فَرُدَّتْ بِكَفِّ الْمُصْطَفٰى اَحْسَنَ الرَّدِّ<br/>فَعَادَتْ كَمَا كَانَتْ لِاَوَّلِ اَمْرِهَا § فَيَا حُسْنَ مَا عَيْنٍ وَيَا حُسْنَ مَا رَدٍّ</span>
+[^hâşiye4]: <span class="arabic" dir="rtl">اَنَا ابْنُ الَّذٖى سَالَتْ عَلَى الْخَدِّ عَيْنُهُ § فَرُدَّتْ بِكَفِّ الْمُصْطَفٰى اَحْسَنَ الرَّدِّ<br/>فَعَادَتْ كَمَا كَانَتْ لِاَوَّلِ اَمْرِهَا § فَيَا حُسْنَ مَا عَيْنٍ وَيَا حُسْنَ مَا رَدٍّ</span>
 
-[^Hâşiye5]: Evet o zat, öyle bir reis ve sultandır ki bin üç yüz elli senede ve ekser asırlardan her bir asırda lâekall üç yüz elli milyon tebaası ve raiyeti var. Kemal-i teslim ve inkıyadla evamirine itaat ederler, her gün ona selâm etmekle tecdid-i biat ederler.
+[^hâşiye5]: Evet o zat, öyle bir reis ve sultandır ki bin üç yüz elli senede ve ekser asırlardan her bir asırda lâekall üç yüz elli milyon tebaası ve raiyeti var. Kemal-i teslim ve inkıyadla evamirine itaat ederler, her gün ona selâm etmekle tecdid-i biat ederler.
 
-[^Hâşiye6]: <span class="arabic" dir="rtl">اُمَّتُهُ الْحَمَّادُونَ</span> **nin tetimmesidir:** Seyyah-ı meşhur Evliya Çelebi; Hazret-i Şem’un-u Safa’nın türbesinde, ceylan derisinde yazılı İncil-i Şerif’te, bu gelen âyeti okumuştur. Resul-i Ekrem aleyhissalâtü vesselâm hakkında nâzil olan âyet: <span class="arabic" dir="rtl">ايتون</span> Bir oğlan, <span class="arabic" dir="rtl">ازربيون</span> yani İbrahim neslinden ola, <span class="arabic" dir="rtl">پروفتون</span> Peygamber ola, <span class="arabic" dir="rtl">لوغسلين</span> yalancı olmaya, <span class="arabic" dir="rtl">بنت</span> onun <span class="arabic" dir="rtl">افزولات</span> mevlidi Mekke ola, <span class="arabic" dir="rtl">كه كالوشير</span> salihlikle gelmiş ola, <span class="arabic" dir="rtl">تونومنين</span> onun mübarek adı <span class="arabic" dir="rtl">مواميت</span> (*) Ahmed Muhammed ola. <span class="arabic" dir="rtl">اسفدوس</span> Ona uyanlar, <span class="arabic" dir="rtl">تاكرديس</span> bu cihan ıssı olalar. <span class="arabic" dir="rtl">بيست بيث</span> dahi ol cihan ıssı ola.
+[^hâşiye6]: <span class="arabic" dir="rtl">اُمَّتُهُ الْحَمَّادُونَ</span> 'nin tetimmesidir: Seyyah-ı meşhur Evliya Çelebi; Hazret-i Şem’un-u Safa’nın türbesinde, ceylan derisinde yazılı İncil-i Şerif’te, bu gelen âyeti okumuştur. Resul-i Ekrem aleyhissalâtü vesselâm hakkında nâzil olan âyet: <span class="arabic" dir="rtl">ايتون</span> Bir oğlan, <span class="arabic" dir="rtl">ازربيون</span> yani İbrahim neslinden ola, <span class="arabic" dir="rtl">پروفتون</span> Peygamber ola, <span class="arabic" dir="rtl">لوغسلين</span> yalancı olmaya, <span class="arabic" dir="rtl">بنت</span> onun <span class="arabic" dir="rtl">افزولات</span> mevlidi Mekke ola, <span class="arabic" dir="rtl">كه كالوشير</span> salihlikle gelmiş ola, <span class="arabic" dir="rtl">تونومنين</span> onun mübarek adı <span class="arabic" dir="rtl">مواميت</span> (\*) Ahmed Muhammed ola. <span class="arabic" dir="rtl">اسفدوس</span> Ona uyanlar, <span class="arabic" dir="rtl">تاكرديس</span> bu cihan ıssı olalar. <span class="arabic" dir="rtl">بيست بيث</span> dahi ol cihan ıssı ola. <br>Bu “Mevamit” kelimesi “Memed”den ve “Memed” dahi “Muhammed”den tahrif edilmiş.
 
-* Bu “Mevamit” kelimesi “Memed”den ve “Memed” dahi “Muhammed”den tahrif edilmiş.
+[^hâşiye7]: Evet Sultan-ı Levlâke Levlâk, öyle bir reistir ki bin üç yüz elli senedir saltanatı devam ediyor. Birinci asırdan sonra her bir asırda lâekall üç yüz elli milyon tebaası ve raiyeti vardır. Küre-i arzın yarısını bayrağı altına almış ve tebaası, kemal-i teslimiyetle ona her gün salât ü selâm ile tecdid-i biat ederek emirlerine itaat ederler.
 
-[^Hâşiye7]: Evet Sultan-ı Levlâke Levlâk, öyle bir reistir ki bin üç yüz elli senedir saltanatı devam ediyor. Birinci asırdan sonra her bir asırda lâekall üç yüz elli milyon tebaası ve raiyeti vardır. Küre-i arzın yarısını bayrağı altına almış ve tebaası, kemal-i teslimiyetle ona her gün salât ü selâm ile tecdid-i biat ederek emirlerine itaat ederler.
+[^hâşiye8]: Yirmi Altıncı Mektup’un ehemmiyetli Birinci Mebhası, şu cümlenin hâşiyesi ve izahıdır.
 
-[^Hâşiye8]: Yirmi Altıncı Mektup’un ehemmiyetli Birinci Mebhası, şu cümlenin hâşiyesi ve izahıdır.
+[^hâşiye9]: Yalnız gözü bulunan; kulaksız, kalpsiz tabakasına karşı vech-i i’cazı, burada gayet mücmel ve muhtasar ve nâkıs kalmıştır. Fakat bu vech-i i’cazı Yirmi Dokuzuncu ve Otuzuncu Mektuplarda (\*) gayet parlak ve nurani ve zahir ve bâhir gösterilmiştir, hattâ körler de görebilir. O vech-i i’cazı gösterecek bir Kur’an yazdırdık. İnşâallah tabedilecek, herkes de o güzel vechi görecektir.<br>Otuzuncu Mektup pek parlak tasavvur ve niyet edilmişti; fakat yerini başkasına, İşaratü’l-İ’caz’a verdi. Kendisi meydana çıkmadı.
 
-[^Hâşiye9]: Yalnız gözü bulunan; kulaksız, kalpsiz tabakasına karşı vech-i i’cazı, burada gayet mücmel ve muhtasar ve nâkıs kalmıştır. Fakat bu vech-i i’cazı Yirmi Dokuzuncu ve Otuzuncu Mektuplarda (*) gayet parlak ve nurani ve zahir ve bâhir gösterilmiştir, hattâ körler de görebilir. O vech-i i’cazı gösterecek bir Kur’an yazdırdık. İnşâallah tabedilecek, herkes de o güzel vechi görecektir.
+[^hâşiye10.1]: Hem ehl-i zikir ve münâcata karşı, Kur’an’ın ziynetli ve kafiyeli lafzı ve fesahatli, sanatlı üslubu ve nazarı kendine çevirecek belâgatın mezayası çok olmakla beraber; ulvi ciddiyeti ve İlahî huzuru ve cemiyet-i hatırı veriyor, ihlâl etmiyor. Halbuki o çeşit mezaya-yı fesahat ve sanat-ı lafziye ve nazım ve kafiye; ciddiyeti ihlâl eder, zarafeti işmam ediyor, huzuru bozar, nazarı dağıtır.<br>Hattâ münâcatın en latîfi ve en ciddîsi ve en ulvi nazımlı ve Mısır’ın kaht u galâsının sebeb-i ref’i olan İmam-ı Şafiî’nin meşhur bir münâcatını çok defa okuyordum, gördüm ki: Nazımlı, kafiyeli olduğu için münâcatın ulvi ciddiyetini ihlâl eder. Sekiz dokuz senedir virdimdir. Hakiki ciddiyeti, ondaki kafiye ve nazımla birleştiremedim. Ondan anladım ki Kur’an’ın has, fıtrî, mümtaz olan kafiyelerinde, nazım ve mezayasında bir nevi i’cazı var ki hakiki ciddiyeti ve tam huzuru muhafaza eder, ihlâl etmez. İşte ehl-i münâcat ve zikir, bu nevi i’cazı aklen fehmetmezse de kalben hisseder.
 
-* Otuzuncu Mektup pek parlak tasavvur ve niyet edilmişti; fakat yerini başkasına, İşaratü’l-İ’caz’a verdi. Kendisi meydana çıkmadı.
+[^hâşiye10.2]: Kur’an-ı Mu’cizü’l-Beyan’ın manevî bir sırr-ı i’cazı şudur ki: Kur’an, ism-i a’zama mazhar olan Resul-i Ekrem aleyhissalâtü vesselâmın pek büyük ve pek parlak derece-i imanını ifade ediyor.<br>Hem mukaddes bir harita gibi âlem-i âhiretin ve âlem-i rububiyetin yüksek hakikatlerini beyan eden, gayet büyük ve geniş ve âlî olan hak dinin mertebe-i ulviyesini fıtrî bir tarzda ifade ediyor, ders veriyor.<br>Hem Hâlık-ı kâinatın umum mevcudatın Rabb’i cihetinde, hadsiz izzet ve haşmetiyle hitabını ifade ediyor. Elbette bu suretteki ifade-i Furkan’a ve bu tarzdaki beyan-ı Kur’an’a karşı <span class="arabic" dir="rtl">قُلْ لَئِنِ اجْتَمَعَتِ الْاِنْسُ وَالْجِنُّ عَلٰٓى اَنْ يَاْتُوا بِمِثْلِ هٰذَا الْقُرْاٰنِ لَا يَاْتُونَ بِمِثْلِهٖ</span> sırrıyla bütün ukûl-ü beşeriye ittihat etse bir tek akıl olsa dahi karşısına çıkamaz, muaraza edemez. <span class="arabic" dir="rtl">اَيْنَ الثَّرَا مِنَ الثُّرَيَّا</span> Çünkü şu üç esas nokta-i nazarında, kat’iyen kabil-i taklit değildir ve tanzir edilmez!
 
-[^Hâşiye10]: **Hâşiye 10.1:** Hem ehl-i zikir ve münâcata karşı, Kur’an’ın ziynetli ve kafiyeli lafzı ve fesahatli, sanatlı üslubu ve nazarı kendine çevirecek belâgatın mezayası çok olmakla beraber; ulvi ciddiyeti ve İlahî huzuru ve cemiyet-i hatırı veriyor, ihlâl etmiyor. Halbuki o çeşit mezaya-yı fesahat ve sanat-ı lafziye ve nazım ve kafiye; ciddiyeti ihlâl eder, zarafeti işmam ediyor, huzuru bozar, nazarı dağıtır.
+[^hâşiye10.3]: Kur’an-ı Hakîm’in umum sahifeleri âhirinde âyet tamam oluyor. Güzel bir kafiye ile nihayeti hitam buluyor. Bunun sırrı şudur ki: En büyük âyet olan Müdâyene Âyeti sahifeler için Sure-i İhlas ve Kevser, satırlar için bir vâhid-i kıyasî ittihaz edildiğinden Kur’an-ı Hakîm’in bu güzel meziyeti ve i’caz alâmeti görülüyor.
 
-Hattâ münâcatın en latîfi ve en ciddîsi ve en ulvi nazımlı ve Mısır’ın kaht u galâsının sebeb-i ref’i olan İmam-ı Şafiî’nin meşhur bir münâcatını çok defa okuyordum, gördüm ki: Nazımlı, kafiyeli olduğu için münâcatın ulvi ciddiyetini ihlâl eder. Sekiz dokuz senedir virdimdir. Hakiki ciddiyeti, ondaki kafiye ve nazımla birleştiremedim. Ondan anladım ki Kur’an’ın has, fıtrî, mümtaz olan kafiyelerinde, nazım ve mezayasında bir nevi i’cazı var ki hakiki ciddiyeti ve tam huzuru muhafaza eder, ihlâl etmez. İşte ehl-i münâcat ve zikir, bu nevi i’cazı aklen fehmetmezse de kalben hisseder.
+[^hâşiye10.4]: Bu makamın bu mebhasında gayet ehemmiyetli ve haşmetli ve büyük ve Risale-i Nur’un muvaffakıyeti noktasında gayet ziynetli ve sevimli ve müşevvik kerametin pek az ve cüz’î vaziyet ve kısacık numunelerine ve küçücük emarelerine, acelelik belasıyla iktifa edilmiş.<br>Halbuki o büyük hakikat ve o sevimli keramet ise tevafuk namıyla beş altı nevileri ile Risale-i Nur’un bir silsile-i kerametini ve Kur’an’ın göze görünen bir nevi i’cazının lemaatını ve rumuzat-ı gaybiyenin bir menba-ı işaratını teşkil ediyor. Sonradan Kur’an’da “lafzullah”ın tevafukundan çıkan bir lem’a-i i’cazı gösteren yaldız ile bir Kur’an yazdırıldı. Hem Rumuzat-ı Semaniye namındaki sekiz küçük risaleler, hurufat-ı Kur’aniyenin tevafukatından çıkan münasebet-i latîfe ve işarat-ı gaybiyelerinin beyanında telif edildi. Hem Risale-i Nur’u tevafuk sırrıyla tasdik ve takdir ve tahsin eden Keramet-i Gavsiye ve üç Keramet-i Aleviye ve İşarat-ı Kur’aniye namındaki beş adet risaleler yazıldı.<br>Demek, Mu’cizat-ı Ahmediye’nin telifinde o büyük hakikat icmalen hissedilmiş; fakat maatteessüf müellif yalnız bir tırnağını görüp göstermiş, daha arkasına bakmayarak koşup gitmiş.
 
-**Hâşiye 10.2:** Kur’an-ı Mu’cizü’l-Beyan’ın manevî bir sırr-ı i’cazı şudur ki: Kur’an, ism-i a’zama mazhar olan Resul-i Ekrem aleyhissalâtü vesselâmın pek büyük ve pek parlak derece-i imanını ifade ediyor.
+[^hâşiye11]: Hüseyin-i Cisrî “Risale-i Hamîdiye”sinde yüz on dört işaratı, o kitaplardan çıkarmıştır. Tahriften sonra bu kadar bulunsa elbette daha evvel çok tasrihat varmış.
 
-Hem mukaddes bir harita gibi âlem-i âhiretin ve âlem-i rububiyetin yüksek hakikatlerini beyan eden, gayet büyük ve geniş ve âlî olan hak dinin mertebe-i ulviyesini fıtrî bir tarzda ifade ediyor, ders veriyor.
-
-Hem Hâlık-ı kâinatın umum mevcudatın Rabb’i cihetinde, hadsiz izzet ve haşmetiyle hitabını ifade ediyor. Elbette bu suretteki ifade-i Furkan’a ve bu tarzdaki beyan-ı Kur’an’a karşı <span class="arabic" dir="rtl">قُلْ لَئِنِ اجْتَمَعَتِ الْاِنْسُ وَالْجِنُّ عَلٰٓى اَنْ يَاْتُوا بِمِثْلِ هٰذَا الْقُرْاٰنِ لَا يَاْتُونَ بِمِثْلِهٖ</span> sırrıyla bütün ukûl-ü beşeriye ittihat etse bir tek akıl olsa dahi karşısına çıkamaz, muaraza edemez. <span class="arabic" dir="rtl">اَيْنَ الثَّرَا مِنَ الثُّرَيَّا</span> Çünkü şu üç esas nokta-i nazarında, kat’iyen kabil-i taklit değildir ve tanzir edilmez!
-
-**Hâşiye 10.3:** Kur’an-ı Hakîm’in umum sahifeleri âhirinde âyet tamam oluyor. Güzel bir kafiye ile nihayeti hitam buluyor. Bunun sırrı şudur ki: En büyük âyet olan Müdâyene Âyeti sahifeler için Sure-i İhlas ve Kevser, satırlar için bir vâhid-i kıyasî ittihaz edildiğinden Kur’an-ı Hakîm’in bu güzel meziyeti ve i’caz alâmeti görülüyor.
-
-**Hâşiye 10.4:** Bu makamın bu mebhasında gayet ehemmiyetli ve haşmetli ve büyük ve Risale-i Nur’un muvaffakıyeti noktasında gayet ziynetli ve sevimli ve müşevvik kerametin pek az ve cüz’î vaziyet ve kısacık numunelerine ve küçücük emarelerine, acelelik belasıyla iktifa edilmiş.
-
-Halbuki o büyük hakikat ve o sevimli keramet ise tevafuk namıyla beş altı nevileri ile Risale-i Nur’un bir silsile-i kerametini ve Kur’an’ın göze görünen bir nevi i’cazının lemaatını ve rumuzat-ı gaybiyenin bir menba-ı işaratını teşkil ediyor. Sonradan Kur’an’da “lafzullah”ın tevafukundan çıkan bir lem’a-i i’cazı gösteren yaldız ile bir Kur’an yazdırıldı. Hem Rumuzat-ı Semaniye namındaki sekiz küçük risaleler, hurufat-ı Kur’aniyenin tevafukatından çıkan münasebet-i latîfe ve işarat-ı gaybiyelerinin beyanında telif edildi. Hem Risale-i Nur’u tevafuk sırrıyla tasdik ve takdir ve tahsin eden Keramet-i Gavsiye ve üç Keramet-i Aleviye ve İşarat-ı Kur’aniye namındaki beş adet risaleler yazıldı.
-
-Demek, Mu’cizat-ı Ahmediye’nin telifinde o büyük hakikat icmalen hissedilmiş; fakat maatteessüf müellif yalnız bir tırnağını görüp göstermiş, daha arkasına bakmayarak koşup gitmiş.
-
-[^Hâşiye11]: Hüseyin-i Cisrî “Risale-i Hamîdiye”sinde yüz on dört işaratı, o kitaplardan çıkarmıştır. Tahriften sonra bu kadar bulunsa elbette daha evvel çok tasrihat varmış.
-
-[^Hâşiye12]: Yani altı defa icma suretinde, vukuuna dair altı hüccet vardır. Bu makam çok izaha lâyık iken maatteessüf kısa kalmıştır.
-
+[^hâşiye12]: Yani altı defa icma suretinde, vukuuna dair altı hüccet vardır. Bu makam çok izaha lâyık iken maatteessüf kısa kalmıştır.

@@ -17,7 +17,7 @@ Said
 
 <p class="arabic" dir="rtl">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ</p>
 
-<span class="arabic" dir="rtl">اَلَّذٖينَ اٰمَنُوا وَ عَمِلُوا الصَّالِحَاتِ</span> [^Hâşiye1]
+<span class="arabic" dir="rtl">اَلَّذٖينَ اٰمَنُوا وَ عَمِلُوا الصَّالِحَاتِ</span> [^hâşiye1]
 
 Kur’an “salihat”ı mutlak, mübhem bırakıyor. Çünkü ahlâk ve faziletler, hüsün ve hayır çoğu nisbîdirler. Neviden nev’e geçtikçe değişir. Sınıftan sınıfa nâzil oldukça ayrılır. Mahalden mahalle tebdil-i mekân ettikçe başkalaşır. Cihet muhtelif olsa muhtelif olur. Fertten cemaate, şahıstan millete çıktıkça mahiyeti değişir.
 
@@ -67,7 +67,7 @@ Bir nokta-i nazarda denilebilir: “Açlıktan ölmek yoktur.” Zira şahm vesa
 
 ***
 
-<span class="arabic" dir="rtl">وَ اِنَّ الدَّارَ الْاٰخِرَةَ لَهِىَ الْحَيَوَانُ</span> [^Hâşiye2]
+<span class="arabic" dir="rtl">وَ اِنَّ الدَّارَ الْاٰخِرَةَ لَهِىَ الْحَيَوَانُ</span> [^hâşiye2]
 
 Küremiz hayvana benziyor. Âsâr-ı hayatı gösteriyor. Acaba yumurta kadar küçülse bir nevi hayvan olmayacak mıdır? Veya bir mikrop, küre kadar büyüse ona benzemeyecek mi? Hayatı varsa ruhu da vardır.
 
@@ -88,7 +88,7 @@ Kezalik kâinata serpilmiş katarat ve lemaat-ı hayatın dahi muhassalı bir ha
 <br>
 (اَىْ وَلٰكِنَّهُمْ يَشْعُرُونَ اَنَّهُمْ اَحْيَاءٌ مَا مَاتُوا)</p>
 
-Şehit kendini hay bilir. [^Hâşiye3] Feda ettiği hayatı, sekeratı tatmadığından gayr-ı münkatı’ ve bâki görüyor. Yalnız daha nezih olarak buluyor. Başka meyyite nisbeti şuna benzer ki: İki adam rüyada lezaizin envaına câmi’ bir bahçede geziyorlar. Biri rüya olduğunu bilir, ehemmiyet vermez. Diğeri ise yakaza bilir, hakiki mütelezziz olur.
+Şehit kendini hay bilir. [^hâşiye3] Feda ettiği hayatı, sekeratı tatmadığından gayr-ı münkatı’ ve bâki görüyor. Yalnız daha nezih olarak buluyor. Başka meyyite nisbeti şuna benzer ki: İki adam rüyada lezaizin envaına câmi’ bir bahçede geziyorlar. Biri rüya olduğunu bilir, ehemmiyet vermez. Diğeri ise yakaza bilir, hakiki mütelezziz olur.
 
 Âlem-i rüya, âlem-i misalin zılli ve o da âlem-i berzahın zılli olduğundan, desatirleri mütemasildir.
 
@@ -168,7 +168,7 @@ Kudret hem basit hem nâmütenahî hem zatî, mahall-i taalluk-u kudret hem vas�
 
 ## Üçüncü Nokta
 
-<span class="arabic" dir="rtl">لَيْسَ كَمِثْلِهٖ شَىْءٌ ۞ وَ لِلّٰهِ الْمَثَلُ الْاَعْلٰى</span>
+<p class="arabic" dir="rtl">لَيْسَ كَمِثْلِهٖ شَىْءٌ ۞ وَ لِلّٰهِ الْمَثَلُ الْاَعْلٰى</p>
 Temsil, tasviri teshil ettiğinden temsilatla bu gamız noktayı tefhime çalışacağız.
 
 Mesela, şemsin feyz-i tecellisi olan timsali, deniz sathında, denizin katresinde aynı hüviyeti gösteriyor. Mesela, kâinat hâilsiz şemse müteveccih olmak şartıyla, mütefavit cam parçalarından farz edilse timsal-i şems zerrede, sath-ı arzda, umumda müzahametsiz, tecezzisiz, tenakussuz bir olur. İşte **şeffafiyet sırrı**.
@@ -276,7 +276,7 @@ Umûr-u mukarreredendir ki efkâr-ı âmmenin bir şeye verdiği mükâfat, gös
 
 Eğer cemaat-i İslâmiyenin hâcat-ı zaruriye-i diniyesi bizzat Kur’an’a müteveccih olsa idi, o Kitab-ı Mübin, milyonlarca kitaplara taksim olunan rağbetten daha şedit bir rağbete, ihtiyaç neticesi olan bir teveccühe mazhar olur. Ve bu suretle nüfus üzerinde bütün manasıyla hâkim ve nâfiz olurdu. Yalnız tilavetiyle teberrük olunan bir mübarek derecesinde kalmazdı.
 
-Bununla beraber zaruriyat-ı diniyeyi, mesail-i cüz’iye-i fer’iye-i hilafiye ile mezcedip ona tabi gibi kılmakta, büyük bir hatar vardır. Zira “musavvibe”nin [^Hâşiye4] muhalifi olan “tahtieci”lerden biri der ki: “Mezhebim haktır, hata ihtimali var. Başka mezhep hatadır, savaba ihtimali var.” Halbuki cumhur-u avam, mezhepte imtizaç etmiş olan zaruriyatı, nazariyat-ı içtihadiyeden vâzıhan temyiz etmediğinden, sehven veya vehmen tahtieyi filcümle teşmil edebilir. Bu ise hatar-ı azîmdir. Bence tahtieci, hubb-u nefisten neş’et eden “inhisar zihniyeti” illetiyle ma’luldür ve Kur’an’ın câmiiyetinden ve umum tabakat-ı beşere şümul-ü hitabından gafletle mes’uldür.
+Bununla beraber zaruriyat-ı diniyeyi, mesail-i cüz’iye-i fer’iye-i hilafiye ile mezcedip ona tabi gibi kılmakta, büyük bir hatar vardır. Zira “musavvibe”nin [^hâşiye4] muhalifi olan “tahtieci”lerden biri der ki: “Mezhebim haktır, hata ihtimali var. Başka mezhep hatadır, savaba ihtimali var.” Halbuki cumhur-u avam, mezhepte imtizaç etmiş olan zaruriyatı, nazariyat-ı içtihadiyeden vâzıhan temyiz etmediğinden, sehven veya vehmen tahtieyi filcümle teşmil edebilir. Bu ise hatar-ı azîmdir. Bence tahtieci, hubb-u nefisten neş’et eden “inhisar zihniyeti” illetiyle ma’luldür ve Kur’an’ın câmiiyetinden ve umum tabakat-ı beşere şümul-ü hitabından gafletle mes’uldür.
 
 Hem tahtiecilik fikri, sû-i zan ve tarafgirlik hissinin menbaı olduğundan, İslâm’da lâzım olan tesanüd-ü ervah, tevhid-i kulûb, tahabüb ve teavüne büyük rahneler açmıştır. Halbuki hüsn-ü zanla, muhabbet ve vahdetle memuruz.
 
@@ -288,7 +288,7 @@ Bilâhare bu rüyayı, suleha-yı ümmetten bir zata hikâye ettim. Şu suretle 
 
 <p class="arabic" dir="rtl">وَ اَمْرُهُمْ شُورٰى بَيْنَهُمْ ۞ وَ شَاوِرْهُمْ فِى الْاَمْرِ</p>
 
-[^Hâşiye5] Tarih bize gösteriyor ki İslâm ne derece dine temessük etmiş ise terakki etmiş, ne vakit dinde zaaf göstermiş ise tedenni etmiştir. Başka dinde bilakis kuvveti zamanında vahşet, zaafı zamanında temeddün hasıl olmuştur.
+[^hâşiye5] Tarih bize gösteriyor ki İslâm ne derece dine temessük etmiş ise terakki etmiş, ne vakit dinde zaaf göstermiş ise tedenni etmiştir. Başka dinde bilakis kuvveti zamanında vahşet, zaafı zamanında temeddün hasıl olmuştur.
 
 Cumhur-u enbiyanın şarkta bi’seti, kader-i ezelînin bir remzidir ki Şark’ın hissiyatına hâkim dindir. Bugün âlem-i İslâm’daki tezahürat da gösteriyor ki âlem-i İslâm’ı uyandıracak, şu mezelletten kurtaracak yine o histir.
 
@@ -361,10 +361,10 @@ Birden meclis tarafından denildi:
 Dedim:
 — Devletler, milletler muharebesi, tabakat-ı beşer muharebesine terk-i mevki ediyor. Zira beşer esir olmak istemediği gibi ecîr olmak da istemez. Galip olsa idik, hasmımız ve düşmanımız elindeki cereyan-ı müstebidaneye belki daha şedidane kapılacak idik. Halbuki o cereyan hem zalimane hem tabiat-ı âlem-i İslâm’a münafî hem ehl-i imanın ekseriyet-i mutlakasının menfaatine mübayin hem ömrü kısa, parçalanmaya namzettir. Eğer ona yapışsa idik âlem-i İslâm’ı fıtratına, tabiatına muhalif bir yola sürükleyecek idik.
 
-Şu medeniyet-i habîse ki biz ondan yalnız zarar gördük. Ve nazar-ı şeriatta merdud ve seyyiatı hasenatına galebe ettiğinden maslahat-ı beşer fetvasıyla mensuh ve intibah-ı beşerle mahkûm-u inkıraz, sefih, mütemerrid, gaddar, manen vahşi bir medeniyetin himayesini Asya’da deruhte edecektik.[^Hâşiye6]
+Şu medeniyet-i habîse ki biz ondan yalnız zarar gördük. Ve nazar-ı şeriatta merdud ve seyyiatı hasenatına galebe ettiğinden maslahat-ı beşer fetvasıyla mensuh ve intibah-ı beşerle mahkûm-u inkıraz, sefih, mütemerrid, gaddar, manen vahşi bir medeniyetin himayesini Asya’da deruhte edecektik.[^hâşiye6]
 
 Meclisten biri dedi:
-— Neden şeriat şu medeniyeti [^Hâşiye7] reddeder?
+— Neden şeriat şu medeniyeti [^hâşiye7] reddeder?
 
 Dedim:
 — Çünkü beş menfî esas üzerine teessüs etmiştir.
@@ -433,7 +433,7 @@ Dedim:
 
 Baktım meclis istihsan etti. Heyecanımdan uyandım. Terli, el pençe yatakta oturmuş kendimi buldum. Gece böyle geçti.
 
-Aynı gün pür-ümit, başka ve dünyevî bir meclise gittim. [^Hâşiye8] Dünyevîler dediler:
+Aynı gün pür-ümit, başka ve dünyevî bir meclise gittim. [^hâşiye8] Dünyevîler dediler:
 — Neden geldin geleli siyasete karışmıyorsun?
 
 Dedim: <span class="arabic" dir="rtl">اَعُوذُ بِاللّٰهِ مِنَ الشَّيْطَانِ وَ السِّيَاسَةِ</span>
@@ -545,7 +545,7 @@ Hiç böyle müebbed mi kalır zulmet-i âlem
 - Tenasüp, tesanüdün esasıdır.
 - Temasül, tezadın sebebidir.
 - Müsavatsız adalet, adalet değildir.
-- Gayr-ı meşru muhabbetin âkıbeti, mükâfatı, mahbubun gaddarane adâvetidir. [^Hâşiye9]
+- Gayr-ı meşru muhabbetin âkıbeti, mükâfatı, mahbubun gaddarane adâvetidir. [^hâşiye9]
 
 ***
 
@@ -587,7 +587,7 @@ Ey ehl-i İslâm! İşte küre-i zemin gibi ağır ve âlem-i İslâmiyet’e ç
 
 Bak âlem-i İslâm’ın şu büyük dairenin nokta-i uzmasından tut tâ en küçük dairenin –mesela medrese talebelerinin– bir ukde-i hayatiyesi vardır. Heyet-i içtimaiyenin efrad ve revabıtı birbirine istinadı gibi o ukdeler dahi birbirine merbut, müteselsilen o nokta-i uzmaya müsteniddir. Demek bütün o ukde-i hayatiyelerini –boğmak değil– belki tenebbüh ve neşv ü nema vermekle İslâm tenebbüh edip terakkiye başlayabilir.
 
-Yoksa biri Avrupa’nın mehasinini mesavîmizle ve telahuk-u efkârının semeratı, bizim bir şahsın semere-i sa’yi ile insafsızca, aldatıcı cerbeze ile muvazene etmekle [^Hâşiye10] Avrupa’ya şedit bir meftuniyet ve milletine karşı amîk bir nefret hissiyle, kendini Avrupa’nın veled-i nâmeşruu gösterdiği gibi fikr-i ihtilal ve meyl-i tahrip ve aldatıcı cerbezenin neticesi olan hicv-i âsiyane, müfteriyane, namus-şikenane ile kendi firavuniyetini ve zımnen medih ve gururiyetini ve bilmediği halde İslâm’a düşmanlığını göstermekle beraber firavuniyet, enaniyet, gurur hükmü ile milletine karşı şer’an, aklen, hikmeten mükellef olduğu hiss-i şefkat yerine hiss-i tahkir, meyl-i incizab yerine meyl-i nefret, meyelan-ı muhabbet yerine irade-i istihfaf, temayül-ü ihtiram yerine meyelan-ı techil, arzu-yu merhamet yerine arzu-yu taazzum, seciye-i fedakârî yerine temayül-ü infiradî ikame edip hamiyetsizliğini, asılsızlığını gösterdiğinden nazar-ı hakikatte öyle bir cani ve menfur olur ki mesela, birisi Paris’te sefahet âleminde bir âlüfte madamın kametinde istihsan ettiği bir libası, camide muhterem bir hocaya giydirmeye çalışmak gibi bir hareket-i ahmakane ve caniyanede bulunur. Zira hamiyet ise muhabbet, hürmet, merhametin netice-i zaruriyesidir. Onsuz olmaz ve illâ yalandır, sahtekârlıktır. Nefret, hamiyetin zıddıdır.
+Yoksa biri Avrupa’nın mehasinini mesavîmizle ve telahuk-u efkârının semeratı, bizim bir şahsın semere-i sa’yi ile insafsızca, aldatıcı cerbeze ile muvazene etmekle [^hâşiye10] Avrupa’ya şedit bir meftuniyet ve milletine karşı amîk bir nefret hissiyle, kendini Avrupa’nın veled-i nâmeşruu gösterdiği gibi fikr-i ihtilal ve meyl-i tahrip ve aldatıcı cerbezenin neticesi olan hicv-i âsiyane, müfteriyane, namus-şikenane ile kendi firavuniyetini ve zımnen medih ve gururiyetini ve bilmediği halde İslâm’a düşmanlığını göstermekle beraber firavuniyet, enaniyet, gurur hükmü ile milletine karşı şer’an, aklen, hikmeten mükellef olduğu hiss-i şefkat yerine hiss-i tahkir, meyl-i incizab yerine meyl-i nefret, meyelan-ı muhabbet yerine irade-i istihfaf, temayül-ü ihtiram yerine meyelan-ı techil, arzu-yu merhamet yerine arzu-yu taazzum, seciye-i fedakârî yerine temayül-ü infiradî ikame edip hamiyetsizliğini, asılsızlığını gösterdiğinden nazar-ı hakikatte öyle bir cani ve menfur olur ki mesela, birisi Paris’te sefahet âleminde bir âlüfte madamın kametinde istihsan ettiği bir libası, camide muhterem bir hocaya giydirmeye çalışmak gibi bir hareket-i ahmakane ve caniyanede bulunur. Zira hamiyet ise muhabbet, hürmet, merhametin netice-i zaruriyesidir. Onsuz olmaz ve illâ yalandır, sahtekârlıktır. Nefret, hamiyetin zıddıdır.
 
 Mutaassıplara hücum eden Avrupa’nın kâselisleri her biri yüz mutaassıp kadar meslek-i sakîminde mutaassıptır. Bunlardan birisi Şekspir medhinde ettiği ifratı, şayet bir hoca o ifratı Şeyh-i Geylanî medhinde etse idi tekfir olunacaktı.
 
@@ -599,7 +599,7 @@ Ben zannederim ki bu milletin perişaniyetine; fazla cehaletten ziyade, nur-u ka
 
 Ey birader, âlem-i Hristiyan’ın rüçhanına sebebiyet veren ihtiyarlaşmış olan esbaba tekabül edecek genç, dinç esbab bizde inkişafa başlamıştır. Başka kitapta tafsil etmişim. Bir hikâye:
 
-[^Hâşiye11] Bundan on sene evvel Tiflis’e gittim. Şeyh San’an Tepesi’ne çıktım, dikkatle temaşa ediyordum. Bir Rus yanıma geldi. Dedi:
+[^hâşiye11] Bundan on sene evvel Tiflis’e gittim. Şeyh San’an Tepesi’ne çıktım, dikkatle temaşa ediyordum. Bir Rus yanıma geldi. Dedi:
 
 — Niye böyle dikkat ediyorsun?
 
@@ -641,7 +641,7 @@ Yahu şu asilzade evlat, şehadetnamelerini aldıktan sonra her biri bir kıta b
 
 Neme lâzım ve nefsî nefsî dediren halet-i ruhiyeyi, bir temsil ile beyan edeceğim:
 
-Felekzede, perişan [^Hâşiye12] fakat asil bir aşiretten bir cesur adam ile tâli’i yaver, feleği müsait, diğer bir aşiretten bir korkak ile bir yerde rast gelirler. Müfahere, münazara başlar.
+Felekzede, perişan [^hâşiye12] fakat asil bir aşiretten bir cesur adam ile tâli’i yaver, feleği müsait, diğer bir aşiretten bir korkak ile bir yerde rast gelirler. Müfahere, münazara başlar.
 
 Evvelki adam başını kaldırır, aşiretinin zelil olduğunu görür, izzet-i nefsine yediremez. Başını indirir, nefsine bakar, bir derece ağır görür. Eyvah! O vakit “Neme lâzım, işte ben, işte ef’alim!” gibi şahsiyatla yaralanmış gururu feryada başlar. Veyahut o aşiretten çekilip veya asılsızlık gösterip başka aşirete intisap eder.
 
@@ -659,26 +659,26 @@ Said Nursî (rh)
 
 ***
 
-[^Hâşiye1]: Yalnız ıtlakın nüktesini beyan eder.
+[^hâşiye1]: Yalnız ıtlakın nüktesini beyan eder.
 
-[^Hâşiye2]: Hayat-ı hakikiye ancak âlem-i âhiretin hayatıdır. Hem o âlem ayn-ı hayattır. Hiçbir zerresi mevat değildir. Demek, dünyamız da bir hayvandır.
+[^hâşiye2]: Hayat-ı hakikiye ancak âlem-i âhiretin hayatıdır. Hem o âlem ayn-ı hayattır. Hiçbir zerresi mevat değildir. Demek, dünyamız da bir hayvandır.
 
-[^Hâşiye3]: Acib bir vakıa, şu manaya bana kat’î kanaat vermiştir.
+[^hâşiye3]: Acib bir vakıa, şu manaya bana kat’î kanaat vermiştir.
 
-[^Hâşiye4]: “Dört mezhep de haktır. Füruatta hak taaddüd eder.” diyenlere, ilm-i usûl ıstılahınca “musavvibe” denir.
+[^hâşiye4]: “Dört mezhep de haktır. Füruatta hak taaddüd eder.” diyenlere, ilm-i usûl ıstılahınca “musavvibe” denir.
 
-[^Hâşiye5]: Bidayet-i Hürriyet’te şu fikri Jön Türklere teklif ettim, kabul etmediler. On iki sene sonra tekrar teklif ettim, kabul ettiler. Lâkin meclis feshedildi. Şimdi âlem-i İslâm’ın mütemerkiz noktasına tekraren arz ediyorum.
+[^hâşiye5]: Bidayet-i Hürriyet’te şu fikri Jön Türklere teklif ettim, kabul etmediler. On iki sene sonra tekrar teklif ettim, kabul ettiler. Lâkin meclis feshedildi. Şimdi âlem-i İslâm’ın mütemerkiz noktasına tekraren arz ediyorum.
 
-[^Hâşiye6]: Nasıl da yedi sekiz sene sonra İngiliz’in fesadıyla edildi.
+[^hâşiye6]: Nasıl da yedi sekiz sene sonra İngiliz’in fesadıyla edildi.
 
-[^Hâşiye7]: Bizim muradımız medeniyetin mehasini ve beşere menfaati bulunan iyilikleridir. Yoksa medeniyetin günahları, seyyiatları değil ki ahmaklar o seyyiatları, o sefahetleri mehasin zannedip taklit edip malımızı harap ettiler. Medeniyetin günahları, iyiliklerine galebe edip seyyiatı hasenatına racih gelmekle, beşer iki harb-i umumî ile iki dehşetli tokat yiyip o günahkâr medeniyeti zîr ü zeber edip öyle bir kustu ki yeryüzünü kanla bulaştırdı. İnşâallah istikbaldeki İslâmiyet’in kuvveti ile medeniyetin mehasini galebe edecek, zemin yüzünü pisliklerden temizleyecek, sulh-u umumîyi de temin edecek.
+[^hâşiye7]: Bizim muradımız medeniyetin mehasini ve beşere menfaati bulunan iyilikleridir. Yoksa medeniyetin günahları, seyyiatları değil ki ahmaklar o seyyiatları, o sefahetleri mehasin zannedip taklit edip malımızı harap ettiler. Medeniyetin günahları, iyiliklerine galebe edip seyyiatı hasenatına racih gelmekle, beşer iki harb-i umumî ile iki dehşetli tokat yiyip o günahkâr medeniyeti zîr ü zeber edip öyle bir kustu ki yeryüzünü kanla bulaştırdı. İnşâallah istikbaldeki İslâmiyet’in kuvveti ile medeniyetin mehasini galebe edecek, zemin yüzünü pisliklerden temizleyecek, sulh-u umumîyi de temin edecek.
 
-[^Hâşiye8]: Bu muhavere itilafçı perdesi altında İngiliz’in ifsad siyaseti komitesinin hesabına çalışan ve şimdiki lâdinî hali ve vaziyeti ihzar eden adamlara ve onlara aldanan müptedilere karşıdır.
+[^hâşiye8]: Bu muhavere itilafçı perdesi altında İngiliz’in ifsad siyaseti komitesinin hesabına çalışan ve şimdiki lâdinî hali ve vaziyeti ihzar eden adamlara ve onlara aldanan müptedilere karşıdır.
 
-[^Hâşiye9]: Avrupa’ya muhabbetimiz gibi.
+[^hâşiye9]: Avrupa’ya muhabbetimiz gibi.
 
-[^Hâşiye10]: * Hristiyanlığın malı olmayan medeniyeti ona mal etmek, İslâmiyet’in düşmanı olan tedenniyi ona dost göstermek, feleğin ters dönmesine delildir.
+[^hâşiye10]: * Hristiyanlığın malı olmayan medeniyeti ona mal etmek, İslâmiyet’in düşmanı olan tedenniyi ona dost göstermek, feleğin ters dönmesine delildir.
 
-[^Hâşiye11]: * Bu kitabın birinci tabından yedi sene geçmiştir. Demek on sene evvel, yani Rumî 1326 senesinde.
+[^hâşiye11]: * Bu kitabın birinci tabından yedi sene geçmiştir. Demek on sene evvel, yani Rumî 1326 senesinde.
 
-[^Hâşiye12]: * Demek <span class="arabic" dir="rtl">اَلدُّنْيَا سِجْنُ الْمُؤْمِنِ وَ جَنَّةُ الْكَافِرِ</span> mecaz değilmiş.
+[^hâşiye12]: * Demek <span class="arabic" dir="rtl">اَلدُّنْيَا سِجْنُ الْمُؤْمِنِ وَ جَنَّةُ الْكَافِرِ</span> mecaz değilmiş.

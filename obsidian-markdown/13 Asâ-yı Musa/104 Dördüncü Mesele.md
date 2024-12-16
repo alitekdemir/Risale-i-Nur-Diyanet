@@ -3,7 +3,7 @@ source_name: Hizmet Vakfı & DİB asıl nüsha metni 2016
 source_url: https://www.risaleinur.hizmetvakfi.org/
 ---
 ### Dördüncü Mesele
-Yine Gençlik Rehberi’nde izahı var. Bir zaman bana hizmet eden kardeşlerim tarafından sual edildi ki: “Küre-i arzı herc ü merce getiren ve İslâm mukadderatıyla alâkadar olan bu dehşetli Harb-i Umumî’den elli gündür (şimdi yedi seneden geçti aynı hal) [^Hâşiye1] hiç sormuyorsun ve merak etmiyorsun. Halbuki bir kısım mütedeyyin ve âlim insanlar, cemaati ve camiyi bırakıp radyo dinlemeye koşuyorlar. Acaba bundan daha büyük bir hâdise mi var? Veya onunla meşgul olmanın zararı mı var?” dediler. Cevaben dedim ki:
+Yine Gençlik Rehberi’nde izahı var. Bir zaman bana hizmet eden kardeşlerim tarafından sual edildi ki: “Küre-i arzı herc ü merce getiren ve İslâm mukadderatıyla alâkadar olan bu dehşetli Harb-i Umumî’den elli gündür (şimdi yedi seneden geçti aynı hal) [^hâşiye1] hiç sormuyorsun ve merak etmiyorsun. Halbuki bir kısım mütedeyyin ve âlim insanlar, cemaati ve camiyi bırakıp radyo dinlemeye koşuyorlar. Acaba bundan daha büyük bir hâdise mi var? Veya onunla meşgul olmanın zararı mı var?” dediler. Cevaben dedim ki:
 
 Ömür sermayesi pek azdır. Lüzumlu işler pek çoktur. Birbiri içinde mütedâhil daireler gibi her insanın kalp ve mide dairesinden ve ceset ve hane dairesinden, mahalle ve şehir dairesinden ve vatan ve memleket dairesinden ve küre-i arz ve nev-i beşer dairesinden tut tâ zîhayat ve dünya dairesine kadar, birbiri içinde daireler var. Her bir dairede her bir insanın bir nevi vazifesi bulunabilir. Fakat en küçük dairede, en büyük ve ehemmiyetli ve daimî vazife var. Ve en büyük dairede en küçük ve muvakkat, ara sıra vazife bulunabilir. Bu kıyas ile küçüklük ve büyüklük makûsen mütenasip vazifeler bulunabilir.
 
@@ -23,5 +23,5 @@ Hem korkmayınız, Risale-i Nur yasak olmaz; hükûmet-i cumhuriyenin mebusları
 
 ***
 
-[^Hâşiye1]: Parantez içindeki not, 1946 senesine aittir.
+[^hâşiye1]: Parantez içindeki not, 1946 senesine aittir.
 

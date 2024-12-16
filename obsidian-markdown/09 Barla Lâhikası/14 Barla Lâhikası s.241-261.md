@@ -54,9 +54,9 @@ Bir kıbleye bağladı kulûbü
 Mevlaya muhabbeti müsellem
 Sallallahu aleyhi ve sellem.
 
-İşte ittiba-ı sünnete [^Hâşiye1] pek büyük ehemmiyet veren muhterem Üstadımız da bu asırda <span class="arabic" dir="rtl">اَلْعُلَمَاءُ وَرَثَةُ الْاَنْبِيَاءِ</span> sırrınca, içlerine saçılan nifak tohumu yüzünden, her gün biraz daha tevhidi bırakanları bir kıbleye bağlamak için Sözler ve Mektubat namındaki nurlu eserlerle ehl-i imanı irşada çalışıyor. Küffara, hattâ cin ve şeytanlara dahi mebde-i nüzulündeki gibi nusus-u Kur’aniyeyi ilan ediyor. Mahfî i’cazı izhar ediyor.
+İşte ittiba-ı sünnete [^hâşiye1] pek büyük ehemmiyet veren muhterem Üstadımız da bu asırda <span class="arabic" dir="rtl">اَلْعُلَمَاءُ وَرَثَةُ الْاَنْبِيَاءِ</span> sırrınca, içlerine saçılan nifak tohumu yüzünden, her gün biraz daha tevhidi bırakanları bir kıbleye bağlamak için Sözler ve Mektubat namındaki nurlu eserlerle ehl-i imanı irşada çalışıyor. Küffara, hattâ cin ve şeytanlara dahi mebde-i nüzulündeki gibi nusus-u Kur’aniyeyi ilan ediyor. Mahfî i’cazı izhar ediyor.
 
-Vahdetü’l-vücuda dair olan risaleyi mühim zatlara okuduktan sonra, bir sevk-i manevî ile ihtiyarsız bir yere daha gittim. Orada vahdetü’l-vücud meşrep sahibi âlim bir zatı hazır buldum. [^Hâşiye2] Vahdetü’l-vücud hakkındaki mektubu okudum. Daha doğrusu ihtiyarsız olarak okudum. Müstemi olan o mühim âlim, bidayette cüz’î itiraz parmağını uzatmak istedi. Sonuna kadar dinlemesini ihtar ettim. Tamamen okuduktan sonra o zat, hayretinden Sözler’in büyüklüğünü ve “Bu zamanda böyle büyük kelâmı, acaba kim yazabilir?” diye merakı ve suali üzerine Kur’an’ın feyzine mazhar olan Üstadımızı haber verince, o zat tamamıyla arz-ı teslimiyet eyledi.
+Vahdetü’l-vücuda dair olan risaleyi mühim zatlara okuduktan sonra, bir sevk-i manevî ile ihtiyarsız bir yere daha gittim. Orada vahdetü’l-vücud meşrep sahibi âlim bir zatı hazır buldum. [^hâşiye2] Vahdetü’l-vücud hakkındaki mektubu okudum. Daha doğrusu ihtiyarsız olarak okudum. Müstemi olan o mühim âlim, bidayette cüz’î itiraz parmağını uzatmak istedi. Sonuna kadar dinlemesini ihtar ettim. Tamamen okuduktan sonra o zat, hayretinden Sözler’in büyüklüğünü ve “Bu zamanda böyle büyük kelâmı, acaba kim yazabilir?” diye merakı ve suali üzerine Kur’an’ın feyzine mazhar olan Üstadımızı haber verince, o zat tamamıyla arz-ı teslimiyet eyledi.
 
 İşte ihtiyarım olmayarak bu acib tesadüf ve teslimiyette, kader-i İlahînin bu cilvesi, davamıza sadık bir bürhan ve tesadüf oyuncağı olmadığımıza büyük bir delildir.
 
@@ -148,7 +148,7 @@ Kardeşim, şu gurbet, esaret, yalnızlık vahşetinde Şeyh Mustafa, Hakkı Efe
 
 Gayyur, ciddi, hâlis ve muhlis âhiret kardeşim!
 
-**Evvelen:** Size Otuz İkinci Söz’ün İkinci Mevkıf’ını gönderdim [^Hâşiye3] dikkat ile okuyunuz ve güzelce yazınız. Hatalar varsa da tashih ediniz. Acele ve hazîn bir kalp ile yazıldığı için içinde müşevveşiyet bulunacaktır.
+**Evvelen:** Size Otuz İkinci Söz’ün İkinci Mevkıf’ını gönderdim [^hâşiye3] dikkat ile okuyunuz ve güzelce yazınız. Hatalar varsa da tashih ediniz. Acele ve hazîn bir kalp ile yazıldığı için içinde müşevveşiyet bulunacaktır.
 
 **Sâniyen:** Muvakkat bir fütur, bir tembellik sizde ârız olduğunu yazıyorsunuz. Baharda kanın galeyanından gelen ve gecelerin kısalmasındaki uykusuzluğundan neş’et eden ve müstemilerin kalpleri işlere teveccüh etmelerinden tevellüd eden rehavet ve füturdan başka, meyanımızdaki münasebet-i ruhiyenin rabıtasıyla, musibetin eseri olarak bendeki sarsıntının size in’ikası ve sirayet etmesi mümkündür.
 
@@ -192,7 +192,7 @@ Ben şu vazife-i kudsiyede bilmeyerek istihdam olunurdum. Siz bilerek hizmet edi
 
 **Birinci Sualiniz:** Eğer Kur’an okunurken namazın, tesbihatın tetimmesi ise kıbleye karşı duranlar vaziyetlerini bozmamak evlâdır. Yalnız müezzinin önündeki adam arkasını çevirsin yahut çekilsin. Eğer Kur’an müstakil olarak okunursa okuyana karşı teveccüh etmek evlâdır. Hem cihat-ı sitte ile mukayyed olmayan ruh kulağıyla dinleyen adam kıbleye karşı teveccüh etse ve cismanî kulağıyla dinleyen adam, okuyana karşı teveccüh etse evlâdır.
 
-**İkinci Sualiniz:** Cemaatin iştiyakına ve okuyanın niyetine göre efdaliyet tahavvül eder .[^Hâşiye4]
+**İkinci Sualiniz:** Cemaatin iştiyakına ve okuyanın niyetine göre efdaliyet tahavvül eder .[^hâşiye4]
 
 **Üçüncü Sualiniz:** Üç İhlas bir Fatiha muhtasar bir hatim hükmünde olduğundan ona vakit tahdid edilmez. Her vakitte gayet müstahsendir.
 
@@ -333,10 +333,10 @@ Râkımu’l-huruf Hâfız Hâlid sana selâm eder, duanı ister.
 
 ***
 
-[^Hâşiye1]: Hulusi’nin tekerrür etmiş min haysü lâ yeş’ur bir keramet-i ihlasiyesi şudur ki: Yeni yazılan ve daha ona gönderilmeyen risalelerin mevzuunu teşkil eden bir esası mektubunda yazar. Âdeta istiyor. Çok defa olduğu gibi şimdi de ittiba-ı sünnete dair Mirkatü’s-Sünne’ye sarîh bir surette bir hiss-i kable’l-vuku ile talep ediyor.<br>Said
+[^hâşiye1]: Hulusi’nin tekerrür etmiş min haysü lâ yeş’ur bir keramet-i ihlasiyesi şudur ki: Yeni yazılan ve daha ona gönderilmeyen risalelerin mevzuunu teşkil eden bir esası mektubunda yazar. Âdeta istiyor. Çok defa olduğu gibi şimdi de ittiba-ı sünnete dair Mirkatü’s-Sünne’ye sarîh bir surette bir hiss-i kable’l-vuku ile talep ediyor.<br>Said
 
-[^Hâşiye2]: Elazizli Hacı Şevket Hoca.
+[^hâşiye2]: Elazizli Hacı Şevket Hoca.
 
-[^Hâşiye3]: Birinci Mevkıf’ı ise ramazan hediyesidir.
+[^hâşiye3]: Birinci Mevkıf’ı ise ramazan hediyesidir.
 
-[^Hâşiye4]: İkinci Sual: Sabah ve akşam namazlarından sonra Sure-i Haşr’in sonunda <span class="arabic" dir="rtl">هُوَ اللّٰهُ الَّذٖى</span> den başlamak sünnet iken <span class="arabic" dir="rtl">لَا يَسْتَوٖى</span> den başlanması efdaliyeti terk olur mu?
+[^hâşiye4]: İkinci Sual: Sabah ve akşam namazlarından sonra Sure-i Haşr’in sonunda <span class="arabic" dir="rtl">هُوَ اللّٰهُ الَّذٖى</span> den başlamak sünnet iken <span class="arabic" dir="rtl">لَا يَسْتَوٖى</span> den başlanması efdaliyeti terk olur mu?

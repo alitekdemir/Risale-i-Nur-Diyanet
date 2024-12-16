@@ -8,7 +8,7 @@ Zühre’den gelmiş **on beş nota**dan ibarettir.
 <p class="arabic" dir="rtl">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ</p>
 
 #### Mukaddime
-Bu Lem’a’nın telifinden on iki sene evvel [^Hâşiye1] inayet-i Rabbaniye ile marifet-i İlahiyede bir hareket-i fikriye ve bir seyahat-i kalbiye ve bir inkişafat-ı ruhiyede tezahür eden bazı lemaat-ı tevhidiyeyi Arabî olarak notalar suretinde Zühre, Şule, Habbe, Şemme, Zerre, Katre gibi risalelerde kaydetmiştim. Uzun bir hakikatin yalnız bir ucunu göstermek ve parlak bir nurun yalnız bir şuâını irae etmek tarzında yazıldığından, yalnız kendi kendime birer hatıra ve birer ihtar şeklinde olduğundan, başkalarının istifadesi mahdud kalmıştı. Hususan en mümtaz ve en has kardeşlerimin kısm-ı a’zamı Arabî okumamışlar. Bunların ısrarı ve ilhahıyla o notaların, o lem’aların kısmen izahlı ve kısmen kısa bir mealini Türkçe olarak yazmaya mecbur oldum.
+Bu Lem’a’nın telifinden on iki sene evvel [^hâşiye1] inayet-i Rabbaniye ile marifet-i İlahiyede bir hareket-i fikriye ve bir seyahat-i kalbiye ve bir inkişafat-ı ruhiyede tezahür eden bazı lemaat-ı tevhidiyeyi Arabî olarak notalar suretinde Zühre, Şule, Habbe, Şemme, Zerre, Katre gibi risalelerde kaydetmiştim. Uzun bir hakikatin yalnız bir ucunu göstermek ve parlak bir nurun yalnız bir şuâını irae etmek tarzında yazıldığından, yalnız kendi kendime birer hatıra ve birer ihtar şeklinde olduğundan, başkalarının istifadesi mahdud kalmıştı. Hususan en mümtaz ve en has kardeşlerimin kısm-ı a’zamı Arabî okumamışlar. Bunların ısrarı ve ilhahıyla o notaların, o lem’aların kısmen izahlı ve kısmen kısa bir mealini Türkçe olarak yazmaya mecbur oldum.
 
 Şu notalar ve Arabî risaleler, Yeni Said’in en evvel hakikat ilminden bir derece şuhud suretinde gördüğü için tağyir edilmeden mealleri yazıldı. Onun için bazı cümleler sair Sözlerde de zikredilmekle beraber burada da zikrediliyor ve bir kısmı gayet mücmel olmakla beraber izah edilmiyor, tâ letafet-i asliyesini kaybetmesin.
 
@@ -234,7 +234,7 @@ Hem üslub-u Kur’anîde öyle bir cezalet ve selaset ve fıtrîlik var ki: Gü
 #### On İkinci Nota
 Ey bu notaları dinleyen dostlarım! Biliniz ki ben, hilaf-ı âdet olarak gizlemesi lâzım gelen Rabb’ime karşı kalbimin tazarru ve niyaz ve münâcatını bazen yazdığımın sebebi; ölüm, dilimi susturduğu zamanlarda, dilime bedel kitabımın söylemesinin kabulünü rahmet-i İlahiyeden rica etmektir. Evet kısa bir ömürde, hadsiz günahlarıma keffaret olacak, muvakkat lisanımın tövbe ve nedametleri kâfi gelmiyor. Sabit ve bir derece daim olan kitabın lisanı daha ziyade o işe yarar.
 
-İşte on üç sene [^Hâşiye2] evvel, dağdağalı bir fırtına-i ruhiye neticesinde, Eski Said’in gülmeleri, Yeni Said’in ağlamalarına inkılab edeceği hengâmda; gençliğin gaflet uykusundan ihtiyarlık sabahıyla uyandığım bir anda, şu münâcat ve niyaz Arabî yazılmıştır. Bir kısmının Türkçe meali şudur ki:
+İşte on üç sene [^hâşiye2] evvel, dağdağalı bir fırtına-i ruhiye neticesinde, Eski Said’in gülmeleri, Yeni Said’in ağlamalarına inkılab edeceği hengâmda; gençliğin gaflet uykusundan ihtiyarlık sabahıyla uyandığım bir anda, şu münâcat ve niyaz Arabî yazılmıştır. Bir kısmının Türkçe meali şudur ki:
 
 Ey Rabb-i Rahîm’im ve ey Hâlık-ı Kerîm’im!
 
@@ -379,7 +379,7 @@ Evet bu ehemmiyetsiz, zâil, fâni tavırlarda bu derece kusursuz, galatsız haf
 
 ***
 
-[^Hâşiye1]: On iki sene evvel denilen tarih; hicri 1340, miladî 1921 seneleridir.
+[^hâşiye1]: On iki sene evvel denilen tarih; hicri 1340, miladî 1921 seneleridir.
 
-[^Hâşiye2]: Bu risalenin telifinden on üç sene evvel.
+[^hâşiye2]: Bu risalenin telifinden on üç sene evvel.
 

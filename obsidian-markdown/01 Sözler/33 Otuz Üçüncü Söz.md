@@ -41,7 +41,7 @@ Ey münkir! Hiçbir cihetle kabil-i taklit olmayan şu sikkeleri ve mecmuundaki 
 
 ## Üçüncü Pencere
 
-Zeminin yüzünde dört yüz bin muhtelif taifeden [^Hâşiye1] ibaret olan bütün hayvanat ve nebatat envaının ordusu; bilmüşahede ayrı ayrı erzakları, suretleri, silahları, libasları, talimatları, terhisatları kemal-i mizan ve intizamla hiçbir şey unutulmayarak, hiçbirini şaşırmayarak bir surette tedbir ve terbiye etmek öyle bir sikkedir ki hiçbir şüphe kabul etmez, güneş gibi parlak bir sikke-i Vâhid-i Ehad’dir.
+Zeminin yüzünde dört yüz bin muhtelif taifeden [^hâşiye1] ibaret olan bütün hayvanat ve nebatat envaının ordusu; bilmüşahede ayrı ayrı erzakları, suretleri, silahları, libasları, talimatları, terhisatları kemal-i mizan ve intizamla hiçbir şey unutulmayarak, hiçbirini şaşırmayarak bir surette tedbir ve terbiye etmek öyle bir sikkedir ki hiçbir şüphe kabul etmez, güneş gibi parlak bir sikke-i Vâhid-i Ehad’dir.
 
 Hadsiz bir kudret ve muhit bir ilim ve nihayetsiz bir hikmet sahibinden başka kimin haddi var ki o hadsiz derecede hârika olan şu idareye karışsın. Çünkü şu birbiri içinde girift olan envaları, milletleri, umumunu birden idare ve terbiye edemeyen, onlardan birisine karışsa elbette karıştıracak. Halbuki <span class="arabic" dir="rtl">فَارْجِعِ الْبَصَرَ هَلْ تَرٰى مِنْ فُطُورٍ</span> sırrıyla hiçbir karışık alâmeti yoktur. Demek ki hiçbir parmak karışamıyor.
 
@@ -263,7 +263,7 @@ hazinesinde ne kadar güzel cevherler bulunduğunu göreceksin, anlayacaksın.
 
 İşte ey nankörlük içinde kendini başıboş zanneden bedbaht gafil! Bu derece hadsiz lisanlarla kendini sana tanıttıran ve bildiren ve sevdiren bir Kerîm-i Zülcemal, tanımak istenilmezse bu lisanları susturmalı. Mademki susturulmaz, dinlemeli. Gafletle kulağını kapasan kurtulamazsın. Çünkü sen kulağını kapamakla kâinat sükût etmez, mevcudat susmaz, vahdaniyet şahitleri seslerini kesmezler. Elbette seni mahkûm ederler.
 
-## Yirminci Pencere [^Hâşiye2]
+## Yirminci Pencere [^hâşiye2]
 
 <p class="arabic" dir="rtl">فَسُبْحَانَ الَّذٖى بِيَدِهٖ مَلَكُوتُ كُلِّ شَىْءٍ ۞ وَ اِنْ مِنْ شَىْءٍ اِلَّا عِنْدَنَا خَزَٓائِنُهُ وَمَا نُنَزِّلُهُٓ اِلَّا بِقَدَرٍ مَعْلُومٍ ۞ وَ اَرْسَلْنَا الرِّيَاحَ لَوَاقِحَ فَاَنْزَلْنَا مِنَ السَّمَٓاءِ مَٓاءً فَاَسْقَيْنَاكُمُوهُ وَ مَٓا اَنْتُمْ لَهُ بِخَازِنٖينَ ۞</p>
 
@@ -373,7 +373,7 @@ Nasıl ki madrub, elbette dâribe delâlet eder. Sanatlı bir eser, sanatkârı 
 
 Demek her bir mevcud, taşıdığı yüzler bu çeşit sıfatlar lisanıyla, Zat-ı Vâcibü’l-vücud’un yüzler esma-i hüsnasına şehadet ederler. Bu şehadetler kabul edilmezse mevcudatın bütün bu çeşit sıfatlarını inkâr etmek lâzım gelir.
 
-## Yirmi Altıncı Pencere [^Hâşiye3]
+## Yirmi Altıncı Pencere [^hâşiye3]
 
 Şu kâinatın mevcudatı yüzünde tazelenen ve gelip geçen cemaller ve hüsünler, bir cemal-i sermedî cilvelerinin bir nevi gölgeleri olduğunu gösterir. Evet, ırmağın yüzündeki kabarcıkların parlayıp gitmesinden sonra arkadan gelenlerin gidenler gibi parlamaları, daimî bir şemsin şuâlarının âyineleri olduklarını gösterdikleri gibi; seyyal zaman ırmağında, seyyar mevcudatın üstünde parlayan lemaat-ı cemaliye dahi bir cemal-i sermedîye işaret ederler ve onun bir nevi emareleridirler.
 
@@ -554,9 +554,9 @@ Fakat maatteessüf mühim bir sebebe binaen şu mektup gayet süratle yazıldı�
 
 ***
 
-[^Hâşiye1]: Hattâ o taifelerden bir kısım var ki bir senedeki efradı, zaman-ı Âdem’den kıyamete kadar vücuda gelen bütün insan efradından ziyadedir.
+[^hâşiye1]: Hattâ o taifelerden bir kısım var ki bir senedeki efradı, zaman-ı Âdem’den kıyamete kadar vücuda gelen bütün insan efradından ziyadedir.
 
-[^Hâşiye2]: Şu Yirminci Pencere’nin hakikati, bir zaman Arabî bir surette şöyle kalbe gelmişti:
+[^hâşiye2]: Şu Yirminci Pencere’nin hakikati, bir zaman Arabî bir surette şöyle kalbe gelmişti:
 
 <p class="arabic" dir="rtl">
 تَلَئْلُأُ الضِّيَاءِ مِنْ تَنْوٖيرِكَ تَشْهٖيرِكَ §<br>
@@ -575,4 +575,4 @@ Fakat maatteessüf mühim bir sebebe binaen şu mektup gayet süratle yazıldı�
 سُبْحَانَكَ مَا اَنْوَرَ بُرْهَانَكَ مَا اَبْهَرَ سُلْطَانَكَ
 </p>
 
-[^Hâşiye3]: Şu pencere umumî değil. Ehl-i kalp ve ehl-i muhabbete hususiyeti var.
+[^hâşiye3]: Şu pencere umumî değil. Ehl-i kalp ve ehl-i muhabbete hususiyeti var.

@@ -205,7 +205,7 @@ Evet hem zatı hem lisanı birer bürhan-ı neyyirdir. Neam, hilkat tarafından 
 
 <p class="arabic" dir="rtl">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ<br/>اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ الَّذٖى دَلَّ عَلٰى وُجُوبِ وُجُودِكَ</p>
 
-Emma ba’dü: Ey hakikatin âşığı! Eğer vicdanımı mütalaa etmekle hakikatleri rasad etmek istersen, kalp dedikleri latîfe-i Rabbaniyenin pası ve zengârı hükmünde olan arzu-yu hilaf ve iltizam-ı taraf-ı muhalif ve mazur tutulmak için kendi evhamına bir hak vermek ve bir asla ircâ etmek ve mecmuun neticesini her bir fertten istemek –ki zafiyeti sebebiyle neticenin reddine bir istidad-ı seyyie verilir [^Hâşiye1]– hem de bahaneli çocukluk tabiatı hem de mahaneli düşman seciyesi hem de yalnız ayıbı görmek şanında olan müşteri nazarı gibi emirlerden o mir’atı taskil ve tasfiye et, muvazene ve mukabele eyle. Ekser emaratın imtizacından tezahür eden hakikatin şule-i cevvalesini karine-i münevvire et, tâ ekaldeki evham-ı muzlimeyi tenvir ve def’edebilesin. Hem de munsifane ve müdakkikane ile dinle, kelâm tamam olmadan itiraz etme. Nihayete kadar bir cümledir, bir hükümdür. Tamam olduktan sonra bir vehmin kalırsa söyle.
+Emma ba’dü: Ey hakikatin âşığı! Eğer vicdanımı mütalaa etmekle hakikatleri rasad etmek istersen, kalp dedikleri latîfe-i Rabbaniyenin pası ve zengârı hükmünde olan arzu-yu hilaf ve iltizam-ı taraf-ı muhalif ve mazur tutulmak için kendi evhamına bir hak vermek ve bir asla ircâ etmek ve mecmuun neticesini her bir fertten istemek –ki zafiyeti sebebiyle neticenin reddine bir istidad-ı seyyie verilir [^hâşiye1]– hem de bahaneli çocukluk tabiatı hem de mahaneli düşman seciyesi hem de yalnız ayıbı görmek şanında olan müşteri nazarı gibi emirlerden o mir’atı taskil ve tasfiye et, muvazene ve mukabele eyle. Ekser emaratın imtizacından tezahür eden hakikatin şule-i cevvalesini karine-i münevvire et, tâ ekaldeki evham-ı muzlimeyi tenvir ve def’edebilesin. Hem de munsifane ve müdakkikane ile dinle, kelâm tamam olmadan itiraz etme. Nihayete kadar bir cümledir, bir hükümdür. Tamam olduktan sonra bir vehmin kalırsa söyle.
 
 **Tenbih:** Şu bürhanın suğrası, nübüvvet-i mutlakadır. Kübrası ise nübüvvet-i Muhammed’dir (aleyhissalâtü vesselâm). İşte başlıyoruz:
 
@@ -297,9 +297,9 @@ Evet, mecmuda bir hüküm bulunur, fertte bulunmaz.
 
 **İşaret ve Tenbih:** Görüyoruz: Bu zamanda sıdk ve kizbin mabeynleri ancak bir parmak kadar vardır. Bir çarşıda ikisi de satılır. Fakat her bir zamanın bir hükmü var. Hiçbir zamanda asr-ı saadet gibi sıdk ve kizbin ortasındaki mesafe açılmamıştır. Şöyle ki:
 
-Sıdk, kendi hüsn-ü hakikisini kemal-i haşmetle izhar ve onun ile temessük eden Muhammed’i (asm) a’lâ-yı illiyyîn-i şerefe i’lâ ve âlemde inkılab-ı azîmi îka ettiğinden şarktan garba kadar kizbden bu’d derecesini göstermekle kıymet-i âliyesini i’lâ etmek cihetiyle sûku ve metaını gayet nâfık ve râic etmiştir [^Hâşiye2].
+Sıdk, kendi hüsn-ü hakikisini kemal-i haşmetle izhar ve onun ile temessük eden Muhammed’i (asm) a’lâ-yı illiyyîn-i şerefe i’lâ ve âlemde inkılab-ı azîmi îka ettiğinden şarktan garba kadar kizbden bu’d derecesini göstermekle kıymet-i âliyesini i’lâ etmek cihetiyle sûku ve metaını gayet nâfık ve râic etmiştir [^hâşiye2].
 
-Ve kizb ise teşebbüsat-ı azîmeyi murdarların laşeleri gibi ruhsuz bıraktığı için nihayet-i kubhunu izhar ve onun ile temessük eden Müseylime ve emsali, esfel-i safilîn-i hıssete düşürdüğü cihetle, meta-ı zehr-âlûdu ve sûku gayet muattal ve kesad etmiştir [^Hâşiye3].
+Ve kizb ise teşebbüsat-ı azîmeyi murdarların laşeleri gibi ruhsuz bıraktığı için nihayet-i kubhunu izhar ve onun ile temessük eden Müseylime ve emsali, esfel-i safilîn-i hıssete düşürdüğü cihetle, meta-ı zehr-âlûdu ve sûku gayet muattal ve kesad etmiştir [^hâşiye3].
 
 İşte ehl-i izzet ve tefahur olan kavm-i Arab’ın tabiatlarındaki meylü’r-râic sâikasıyla müsabaka ederek o kâsid kizbi terk edip ve râic sıdk ile tecemmül ederek adaletlerini âleme kabul ettirmişlerdir. İşte sahabelerin aklen olan adaletleri bu sırdan neş’et eder.
 
@@ -364,7 +364,7 @@ Sahife-i müstakbelden, lâsiyyema mesele-i şeriattır. İşte dört nükteyi n
 
 **Üçüncüsü:** İkinci Mukaddime’de geçtiği gibi bir iki asır evvel hârika sayılan keşif bu zamana kadar mestûr kalsaydı, tekemmül-ü mebâdi cihetiyle bir çocuk da keşfedebildiğini nazara al. On üç asır geri git, o zamanların tesiratından kendini tecrit et, dehşet-engiz olan Ceziretü’l-Arap’ta otur, dikkatle temaşa et, görürsün ki:
 
-Ümmi, tecrübe görmemiş, zaman ve zemin yardım etmemiş tek bir adam ki yalnız zekâya değil belki gayet kesîr tecarübün mahsulü olan fünunun kavaniniyle öyle bir nizam ve adaleti tesis ediyor ki istidad-ı beşerin kameti, netaic-i efkârı teşerrübünden tekebbür ederse o şeriat dahi tevessü ederek ebede teveccüh eder. Kelâm-ı Ezelî’den geldiğini ilan etmekle beraber, iki âlemin saadetini temin eder. İnsaf edersen, bu ise yalnız o zamanın insanlarının değil belki nev-i beşerin tavkı haricinde göreceksin. Meğer evham-ı seyyie, senin şu tarafa müteveccih olan fıtratının tarfını [^Hâşiye4] çürütmüş ola…
+Ümmi, tecrübe görmemiş, zaman ve zemin yardım etmemiş tek bir adam ki yalnız zekâya değil belki gayet kesîr tecarübün mahsulü olan fünunun kavaniniyle öyle bir nizam ve adaleti tesis ediyor ki istidad-ı beşerin kameti, netaic-i efkârı teşerrübünden tekebbür ederse o şeriat dahi tevessü ederek ebede teveccüh eder. Kelâm-ı Ezelî’den geldiğini ilan etmekle beraber, iki âlemin saadetini temin eder. İnsaf edersen, bu ise yalnız o zamanın insanlarının değil belki nev-i beşerin tavkı haricinde göreceksin. Meğer evham-ı seyyie, senin şu tarafa müteveccih olan fıtratının tarfını [^hâşiye4] çürütmüş ola…
 
 **Dördüncüsü:** Onuncu Mukaddime’de geçtiği gibi hem de ikinci nokta-i itirazın cevabında da geleceği gibi şudur ki: Cumhurun istidad-ı efkârı derecesinde şeriatın irşad etmesidir. Şöyle ki:
 
@@ -471,7 +471,7 @@ Ey birader, insaf et! Acaba şu üç nokta-i itiraz, cemi’ a’sarda cemi’ i
 
 <p class="arabic" dir="rtl">وَالَّذٖى عَلَّمَ الْقُرْاٰنَ الْمُعْجِزَ اِنَّ نَظَرَ الْبَشٖيرِ النَّذٖيرِ وَ بَصٖيرَتَهُ النَّقَّادَةَ اَدَقُّ وَ اَجَلُّ وَ اَجْلٰى وَ اَنْفَذُ مِنْ اَنْ يَلْتَبِسَ اَوْ يَشْتَبِهَ عَلَيْهِ الْحَقٖيقَةُ بِالْخَيَالِ وَاِنَّ مَسْلَكَهُ الْحَقَّ اَغْنٰى وَ اَعْلٰى وَ اَنْزَهُ وَ اَرْفَعُ مِنْ اَنْ يُدَلِّسَ اَوْ يُغَالِطَ عَلَى النَّاسِ</p>
 
-[^Hâşiye5]
+[^hâşiye5]
 
 Neam, hayalin ne haddi vardır ki nur-efşan olan nazarına karşı kendini hakikat gösterebilsin. Evet, mesleği nefs-i hak ve mezhebi ayn-ı sıdktır. Hak ise tedlis ve tağlit etmekten müstağnidir.
 
@@ -501,7 +501,7 @@ Marufe ve meşhure olan havârık-ı zahire ve mu’cizat-ı mahsûsedir. Siyer 
 ##### Hâtime
 Ey benim kelâmımı mütalaa eden zevat! Geniş bir fikir ile ve müteyakkız bir nazar ile ve muvazeneli bir basîretle mecmu-u kelâmımı yani mesalik-i hamseyi muhit bir daire veya müstedir bir sur gibi nazara alınız, Muhammed aleyhissalâtü vesselâmın nübüvvetine merkez gibi temaşa ediniz. Veyahut sultanın etrafına halka tutmuş olan asakir-i müteavinenin nazarıyla bakınız! Tâ ki bir taraftan hücum eden evhamı, mütecavibe ve müteavine olan cevanib-i saire def’edebilsin.
 
-İşte şu halde Japonların suali olan [^Hâşiye6] <span class="arabic" dir="rtl">مَا الدَّلٖيلُ الْوَاضِحُ عَلٰى وُجُودِ الْاِلٰهِ الَّذٖى تَدْعُونَنَا اِلَيْهِ</span> ye karşı derim: İşte Muhammed aleyhissalâtü vesselâm…[^Hâşiye7]
+İşte şu halde Japonların suali olan [^hâşiye6] <span class="arabic" dir="rtl">مَا الدَّلٖيلُ الْوَاضِحُ عَلٰى وُجُودِ الْاِلٰهِ الَّذٖى تَدْعُونَنَا اِلَيْهِ</span> ye karşı derim: İşte Muhammed aleyhissalâtü vesselâm…[^hâşiye7]
 
 **İşaret ve İrşad ve Tenbih:** Vaktâ kâinat tarafından, hükûmet-i hilkat canibinden müstantık ve sâil sıfatıyla gönderilen fenn-i hikmet, istikbale teveccüh eden nev-i beşerin talîalarına rast gelmiş; birden fenn-i hikmet şöyle birtakım sualleri îrad etmiş ki:
 
@@ -553,17 +553,17 @@ Evet, insanın her ferdi, birer nevi gibidir. Zira nur-u fikir onun âmâline ö
 
 ***
 
-[^Hâşiye1]: Dikkat lâzımdır.
+[^hâşiye1]: Dikkat lâzımdır.
 
-[^Hâşiye2]: Şimdiki hürriyet gibi.
+[^hâşiye2]: Şimdiki hürriyet gibi.
 
-[^Hâşiye3]: Menfur casusluk gibi.
+[^hâşiye3]: Menfur casusluk gibi.
 
-[^Hâşiye4]: Dikkat lâzımdır.
+[^hâşiye4]: Dikkat lâzımdır.
 
-[^Hâşiye5]: Şu Arabiyyü’l-ibare iki mezheb-i bâtılın reddine işarettir.
+[^hâşiye5]: Şu Arabiyyü’l-ibare iki mezheb-i bâtılın reddine işarettir.
 
-[^Hâşiye6]: Mâşâallah, güzel bir cevap.
+[^hâşiye6]: Mâşâallah, güzel bir cevap.
 
-[^Hâşiye7]: Rus’u mağlup eden Japon’un başkumandanı Meşihat-ı İslâmiyeden bu suali sormuş. Eski Said bu makam-ı sâlisle cevap vermiş.
+[^hâşiye7]: Rus’u mağlup eden Japon’un başkumandanı Meşihat-ı İslâmiyeden bu suali sormuş. Eski Said bu makam-ı sâlisle cevap vermiş.
 

@@ -350,7 +350,7 @@ Amma benim bu iki sene, belki dört beş senede yazdığım mektupların suretle
 
 ***
 
-Aziz kardeşlerimiz! [^Hâşiye1]
+Aziz kardeşlerimiz! [^hâşiye1]
 
 <span>span class="arabic" dir="rtl">لَهُ الْحَمْدُ وَ الْمِنَّةُ</span> dün, Nur’un manevî bir fütuhatı, bütün azamet ve dehşetiyle İstanbul’da görüldü. Küfr-ü mutlakı dünyaya hususan âlem-i İslâm’a yerleştirmek isteyen bir cemiyet ve onun nâşir-i efkârı ve mürevvic-i âmâli olan bir iki gazete matbaası ve kütüphanesi darmadağın edilerek; dinsiz yaptık, komünist yaptık zannedilen gençlik ve mekteplilerin ağzıyla ve harekâtıyla ve fiilleriyle protesto edildi. “Kahrolsun komünistlik!” diye beddualar edildi. Bu cemiyetin binler lira maddî, milyonlar lira da manevî zararı oldu. Ve üzülen bizlere, kalbimiz ve ruhumuzla çok alâkadar bir şahs-ı manevî:
 
@@ -400,5 +400,5 @@ Umuma binler selâm ve dua ediyoruz.
 
 ***
 
-[^Hâşiye1]: İstanbul’da hâdiseyi gören Risale-i Nur talebelerinin mektubundan bir parçadır. (Naşir)
+[^hâşiye1]: İstanbul’da hâdiseyi gören Risale-i Nur talebelerinin mektubundan bir parçadır. (Naşir)
 

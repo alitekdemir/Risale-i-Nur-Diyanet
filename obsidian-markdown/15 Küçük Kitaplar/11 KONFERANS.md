@@ -80,7 +80,7 @@ Hem idam planlarının tatbik edildiği ve bir tek dinî risale neşrettirilmedi
 
 İşte arkadaşlar! Biz, böyle bir tefsir-i Kur’an arıyor ve böyle bir müfessir istiyorduk.
 
-Kıymetli kardeşlerim! Böyle dehşetli bir asırda, insanın en büyük meselesi: İmanı kurtarmak veya kaybetmek davasıdır. Umumî harpler beşere intibah vermiş, dünya hayatının fâniliğini ihtar etmiş ve bâki bir âlemde, ebedî bir saadet içinde yaşamak hissini uyandırmıştır. Elbette böyle muazzam bir davayı, şaşırtıcı ve aldatıcı bir zamanda kazanabilmek için bir dava vekili bulmakta [^Hâşiye1] çok dikkatli olmamız lâzımdır. Bunun için tetkikatımızı biraz daha genişleteceğiz. Şöyle ki:
+Kıymetli kardeşlerim! Böyle dehşetli bir asırda, insanın en büyük meselesi: İmanı kurtarmak veya kaybetmek davasıdır. Umumî harpler beşere intibah vermiş, dünya hayatının fâniliğini ihtar etmiş ve bâki bir âlemde, ebedî bir saadet içinde yaşamak hissini uyandırmıştır. Elbette böyle muazzam bir davayı, şaşırtıcı ve aldatıcı bir zamanda kazanabilmek için bir dava vekili bulmakta [^hâşiye1] çok dikkatli olmamız lâzımdır. Bunun için tetkikatımızı biraz daha genişleteceğiz. Şöyle ki:
 
 Asrımızdan evvelki, İslâmiyet’in ilm-i kelâm dâhîleri ve dinimizin hârika imamları ve Kur’an-ı Hakîm’in dâhî müfessirlerinin vücuda getirdikleri eserler, kıymet takdiri mümkün olmayacak derecede kıymettardır. O zatlar, İslâmiyet’in birer güneşidirler. Fakat bu zaman, o büyük zatların yaşadığı zaman gibi değildir.
 
@@ -1238,4 +1238,4 @@ Binaenaleyh kitaplarımızın iadesini ve beraetimi ister, hürmetlerimi sunarı
 
 ***
 
-[^Hâşiye1]: Bu zamanda, böyle bir dava vekilinin, Risale-i Nur olduğuna Risale-i Nur’la imanlarını kurtaran milyonlarca kimseler şahittir.
+[^hâşiye1]: Bu zamanda, böyle bir dava vekilinin, Risale-i Nur olduğuna Risale-i Nur’la imanlarını kurtaran milyonlarca kimseler şahittir.

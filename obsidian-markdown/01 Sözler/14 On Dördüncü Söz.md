@@ -106,7 +106,7 @@ Ey nefsim! Deme: “Zaman değişmiş, asır başkalaşmış, herkes dünyaya da
 
 Hem deme: “Ben de herkes gibiyim.” Çünkü herkes sana kabir kapısına kadar arkadaşlık eder. Herkesle musibette beraber olmak demek olan teselli ise kabrin öbür tarafında pek esassızdır. Hem kendini başıboş zannetme. Zira şu misafirhane-i dünyada nazar-ı hikmetle baksan hiçbir şeyi nizamsız, gayesiz göremezsin. Nasıl sen nizamsız, gayesiz kalabilirsin?
 
-Zelzele gibi vakıalar olan şu hâdisat-ı kevniye, tesadüf oyuncağı değiller. Mesela, zemine nebatat ve hayvanat envaından giydirilen birbiri üstünde, birbiri içinde, gayet muntazam ve gayet münakkaş gömlekler; baştan aşağıya kadar gayelerle, hikmetlerle müzeyyen, mücehhez olduklarını gördüğün ve gayet âlî gayeler içinde kemal-i intizam ile meczup mevlevî gibi devredip döndürmesini bildiğin halde, nasıl oluyor ki küre-i arzın benî-Âdem’den, bâhusus ehl-i imandan beğenmediği bir kısım etvar-ı gafletin sıklet-i maneviyesinden omuz silkmeye benzeyen zelzele gibi [^Hâşiye1] mevt-âlûd hâdisat-ı hayatiyesini; bir mülhidin neşrettiği gibi gayesiz, tesadüfî zannederek bütün musibetzedelerin elîm zayiatını bedelsiz, hebaen mensur gösterip müthiş bir yeise atarlar. Hem büyük bir hata hem büyük bir zulüm ederler.
+Zelzele gibi vakıalar olan şu hâdisat-ı kevniye, tesadüf oyuncağı değiller. Mesela, zemine nebatat ve hayvanat envaından giydirilen birbiri üstünde, birbiri içinde, gayet muntazam ve gayet münakkaş gömlekler; baştan aşağıya kadar gayelerle, hikmetlerle müzeyyen, mücehhez olduklarını gördüğün ve gayet âlî gayeler içinde kemal-i intizam ile meczup mevlevî gibi devredip döndürmesini bildiğin halde, nasıl oluyor ki küre-i arzın benî-Âdem’den, bâhusus ehl-i imandan beğenmediği bir kısım etvar-ı gafletin sıklet-i maneviyesinden omuz silkmeye benzeyen zelzele gibi [^hâşiye1] mevt-âlûd hâdisat-ı hayatiyesini; bir mülhidin neşrettiği gibi gayesiz, tesadüfî zannederek bütün musibetzedelerin elîm zayiatını bedelsiz, hebaen mensur gösterip müthiş bir yeise atarlar. Hem büyük bir hata hem büyük bir zulüm ederler.
 
 Belki öyle hâdiseler, bir Hakîm-i Rahîm’in emriyle ehl-i imanın fâni malını, sadaka hükmüne çevirip ibka etmektir ve küfran-ı nimetten gelen günahlara keffarettir. Nasıl ki bir gün gelecek, şu musahhar zemin, yüzünün ziyneti olan âsâr-ı beşeriyeyi şirk-âlûd, şükürsüz görüp çirkin bulur. Hâlık’ın emriyle büyük bir zelzele ile bütün yüzünü siler, temizler. Allah’ın emriyle ehl-i şirki cehenneme döker. Ehl-i şükre “Haydi, cennete buyurun!” der.
 
@@ -130,7 +130,7 @@ Bu büyük zelzelenin maddî musibetinden daha elîm manevî bir musibeti olarak
 
 Niçin gâvurların memleketlerinde bu semavî tokat başlarına gelmiyor, bu bîçare Müslümanlara iniyor?
 
-***Elcevap:*** Büyük hatalar ve cinayetler tehir ile büyük merkezlerde ve küçücük cinayetler tacil ile küçük merkezlerde verildiği gibi; mühim bir hikmete binaen ehl-i küfrün cinayetlerinin kısm-ı a’zamı, mahkeme-i kübra-yı haşre tehir edilerek ehl-i imanın hataları, kısmen bu dünyada cezası verilir. [^Hâşiye2]
+***Elcevap:*** Büyük hatalar ve cinayetler tehir ile büyük merkezlerde ve küçücük cinayetler tacil ile küçük merkezlerde verildiği gibi; mühim bir hikmete binaen ehl-i küfrün cinayetlerinin kısm-ı a’zamı, mahkeme-i kübra-yı haşre tehir edilerek ehl-i imanın hataları, kısmen bu dünyada cezası verilir. [^hâşiye2]
 
 ## Üçüncü Sual
 
@@ -202,6 +202,6 @@ Bu hâdise-i arziye, bu memleketin ahali-i İslâmiyesine bakması ve onları he
 
 ***
 
-[^Hâşiye1]: İzmir’in zelzelesi münasebetiyle yazılmıştır.
+[^hâşiye1]: İzmir’in zelzelesi münasebetiyle yazılmıştır.
 
-[^Hâşiye2]: Hem Rus gibi olanlar, mensuh ve tahrif edilmiş bir dini terk etmekle, hak ve ebedî ve kabil-i nesh olmayan bir dine ihanet etmek derecesinde gayretullaha dokunmadığından, zemin şimdilik onları bırakıp bunlara hiddet ediyor.
+[^hâşiye2]: Hem Rus gibi olanlar, mensuh ve tahrif edilmiş bir dini terk etmekle, hak ve ebedî ve kabil-i nesh olmayan bir dine ihanet etmek derecesinde gayretullaha dokunmadığından, zemin şimdilik onları bırakıp bunlara hiddet ediyor.

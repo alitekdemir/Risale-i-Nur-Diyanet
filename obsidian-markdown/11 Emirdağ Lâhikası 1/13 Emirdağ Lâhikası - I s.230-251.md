@@ -118,7 +118,7 @@ Kusurlu, âciz talebeniz Re’fet
 
 ***
 
-Bu şaşaalı [^Hâşiye1] baharın çiçeklerini temaşa etmek için araba ile bir iki saat geziyorum. Hiç hayatımda görmediğim bir tarzda bütün çiçekli otlar, âdetin fevkinde bir tarzda büyümüş, çiçekler açmış, tebessümkârane tesbihat edip lisan-ı hal ile Sâni’-i Zülcelallerinin sanatını takdir edip alkışlıyorlar gibi hakkalyakîn hissettiğimden; hayat-ı dünyeviyeye müştak hissiyatım ve gafil ve tahammülsüz nefsim bu halden istifade ederek, dünyadan nefret ve hastalıklı ve sıkıntılı hayattan usanmak ve berzaha gitmeye ve oradaki yüzde doksan dostlarını görmeye iştiyak cihetinde karar veren kalbime ve fânide bâki zevk arayan nefsime itiraz geldi.
+Bu şaşaalı [^hâşiye1] baharın çiçeklerini temaşa etmek için araba ile bir iki saat geziyorum. Hiç hayatımda görmediğim bir tarzda bütün çiçekli otlar, âdetin fevkinde bir tarzda büyümüş, çiçekler açmış, tebessümkârane tesbihat edip lisan-ı hal ile Sâni’-i Zülcelallerinin sanatını takdir edip alkışlıyorlar gibi hakkalyakîn hissettiğimden; hayat-ı dünyeviyeye müştak hissiyatım ve gafil ve tahammülsüz nefsim bu halden istifade ederek, dünyadan nefret ve hastalıklı ve sıkıntılı hayattan usanmak ve berzaha gitmeye ve oradaki yüzde doksan dostlarını görmeye iştiyak cihetinde karar veren kalbime ve fânide bâki zevk arayan nefsime itiraz geldi.
 
 Birden hissiyata da damarlara da sirayet eden iman nuru o itiraza karşı gösterdi ki: Madem toprak bu kadar cemal ve rahmet ve hayat ve ziynetlere maddî cihetinde mazhar olmasından hadsiz bir rahmetin perdesidir ve içine giren hiçbir şey başı boş kalmıyor. Elbette bütün bu zahirî ve maddî ziynetlerin ve güzelliklerin ve hüsün ve cemal ve rahmet ve hayatın manevî merkezlerinin ve bir kısım tezgâhlarının faal bir nev’i, toprak perdesinin altında ve arkasındadır. Elbette bu himayetli annemiz olan toprak altına girmek ve kucağına sığınmak ve o hakiki ve daimî ve manevî çiçekleri seyretmek, daha ziyade sevilir ve iştiyaka lâyıktır diye o kör hissiyatın ve dünya-perest nefsin itirazını tamamıyla izale ve def’etti. ‌<span class="arabic" dir="rtl">اَلْحَمْدُ لِلّٰهِ عَلٰى نُورِ الْاٖيمَانِ مِنْ كُلِّ وَجْهٍ</span>‌ dünya-perest nefsime de dedirtti.
 
@@ -172,7 +172,7 @@ Asâ-yı Musa ve Zülfikar-ı Mu’cizat-ı Ahmediye ve Kur’aniye mecmuaların
 
 <p class="arabic" dir="rtl">عَلٰى صَاحِبِهَا اَفْضَلُ الصَّلَاةِ وَ السَّلَامِ</p>
 
-Nur risalelerinin Medresetü’z-Zehrası, [^Hâşiye2] Ravza-i Mutahhara’nın civarındaki ulemanın şefkatine çok muhtaç manevî bir mahdumudur, bir talebesidir, şiddetli düşmanların hücumuna maruz kalmış bir şakirdidir ve âlem-i İslâm’ı daima tenvir eden sizin o büyük medresenizin küçük bir dairesi ve şubesidir. Onun için o âlîkadr üstad ve müşfik peder ve hamiyetkâr mürşid-i a’zam olan zatlar bu bîçare evladına tam manevî yardım etmesini onların ulüvv-ü himmetinden bekliyoruz. O pek büyük üstadlarımıza takdim edilen iki kitap ise bir talebe dersini ne derece anlamış diye akşam üzeri üstadına ve babasına yazıp vermesi gibi o iki dersimiz, o şefkatli allâmelerin nazar-ı müsamahalarına arz edilmiş diye bir mektup yazınız ve selâm ve ihtiramlarımı ve ellerinden öptüğümü tebliğ ediniz.
+Nur risalelerinin Medresetü’z-Zehrası, [^hâşiye2] Ravza-i Mutahhara’nın civarındaki ulemanın şefkatine çok muhtaç manevî bir mahdumudur, bir talebesidir, şiddetli düşmanların hücumuna maruz kalmış bir şakirdidir ve âlem-i İslâm’ı daima tenvir eden sizin o büyük medresenizin küçük bir dairesi ve şubesidir. Onun için o âlîkadr üstad ve müşfik peder ve hamiyetkâr mürşid-i a’zam olan zatlar bu bîçare evladına tam manevî yardım etmesini onların ulüvv-ü himmetinden bekliyoruz. O pek büyük üstadlarımıza takdim edilen iki kitap ise bir talebe dersini ne derece anlamış diye akşam üzeri üstadına ve babasına yazıp vermesi gibi o iki dersimiz, o şefkatli allâmelerin nazar-ı müsamahalarına arz edilmiş diye bir mektup yazınız ve selâm ve ihtiramlarımı ve ellerinden öptüğümü tebliğ ediniz.
 
 “Bu risalelerin müellifi Said Nursî, yirmi iki senedir inzivadadır. Tecrid-i mutlak içinde bulunduğundan halklarla görüşemez. Ancak zaruret derecesinde başkalarıyla az bir zaman sohbet edebilir. Yanında hiçbir kitap bulunmaz. Bütün yazdıkları, yüz otuz parça risalelerin menbaları, me’hazleri yalnız Kur’an’dır.” diyor.
 
@@ -302,7 +302,7 @@ Bin üç yüz altmış senede, her asırda üç yüz elli milyon şakirdi buluna
 
 **Sâniyen:** Madem Risale-i Nur, o mu’cize-i kübranın elinde bir elmas kılınç hükmünde hizmetini göstermiş ve en muannid düşmanları teslime mecbur etmiş. Hem kalbi hem ruhu hattâ hissiyatı tam tenvir edecek ve ilaçlarını verecek bir tarzda hazine-i Kur’aniyenin dellâllığını yapan ve ondan başka me’haz ve mercii olmayan bir mu’cize-i maneviyesi bulunan Risale-i Nur, o vazifeyi yapıyor. Ve aleyhinde dehşetli propagandalara ve gayet muannid zındıklara tam galebe çalmış. Ve dalaletin en kalın ve boğucu ve geniş daire-i âfakında ve fennin en geniş perdelerinde Asâ-yı Musa’daki Meyve’nin Altıncı Meselesi ve Birinci ve İkinci, Üçüncü ve Sekizinci Hüccetleriyle gayet parlak bir tarzda gafleti dağıtıp nur-u tevhidi göstermiş.
 
-Elbette bizlere lâzım ve millete elzem, şimdi resmen izin verilen din tedrisatı için hususi dershaneler açılmasına ve izin verilmesine binaen, Nur şakirdleri mümkün olduğu kadar her yerde küçücük bir dershane-i Nuriye açmak lâzımdır. Gerçi herkes kendi kendine bir derece istifade eder fakat herkes her bir meselesini tam anlamaz. Hem iman hakikatlerinin izahı olduğu için hem ilim [^Hâşiye3] hem marifet hem ibadettir.
+Elbette bizlere lâzım ve millete elzem, şimdi resmen izin verilen din tedrisatı için hususi dershaneler açılmasına ve izin verilmesine binaen, Nur şakirdleri mümkün olduğu kadar her yerde küçücük bir dershane-i Nuriye açmak lâzımdır. Gerçi herkes kendi kendine bir derece istifade eder fakat herkes her bir meselesini tam anlamaz. Hem iman hakikatlerinin izahı olduğu için hem ilim [^hâşiye3] hem marifet hem ibadettir.
 
 Eski medreselerde beş on seneye mukabil, inşâallah Nur medreseleri beş on haftada aynı neticeyi temin edecek ve yirmi senedir ediyor.
 
@@ -314,11 +314,11 @@ Said Nursî
 
 ***
 
-[^Hâşiye1]: Bu senenin emsalsiz bir rahmetli yağmuru ve ordunun başından şapkanın kısmen kalkması ve Kur’an mekteplerinin resmen açılması ve Zülfikar, Asâ-yı Musa’nın iman kurtarmak için tesirli bir surette intişar etmesi, bunun gibi çok rahmetli neticeleri vermesine delildir.
+[^hâşiye1]: Bu senenin emsalsiz bir rahmetli yağmuru ve ordunun başından şapkanın kısmen kalkması ve Kur’an mekteplerinin resmen açılması ve Zülfikar, Asâ-yı Musa’nın iman kurtarmak için tesirli bir surette intişar etmesi, bunun gibi çok rahmetli neticeleri vermesine delildir.
 
 Umum kardeşlerimize binler selâm ve dua ediyoruz.
 
-[^Hâşiye2]: Medresetü’z-Zehranın maddî tesisine çok maniler bulunduğundan şimdilik Nur şakirdlerinin heyet-i mecmuasının dairesinden ibarettir.
+[^hâşiye2]: Medresetü’z-Zehranın maddî tesisine çok maniler bulunduğundan şimdilik Nur şakirdlerinin heyet-i mecmuasının dairesinden ibarettir.
 
-[^Hâşiye3]: Şayet biri biliyor, taallüm etmeye muhtaç değilse ibadete muhtaç veya marifete müştak veya huzur ister. Onun için herkese lüzumlu bir derstir.
+[^hâşiye3]: Şayet biri biliyor, taallüm etmeye muhtaç değilse ibadete muhtaç veya marifete müştak veya huzur ister. Onun için herkese lüzumlu bir derstir.
 

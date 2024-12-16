@@ -237,7 +237,7 @@ Bu makama ait gayet mühim iki şıklı bir suale gayet muhtasar ve kuvvetli bir
 
 Amma fena ve zeval ve mevt ise Yirmi Dördüncü Mektup’ta gayet kuvvetli ve kat’î bürhanlar ile ispat edilmiş ki, onlar umumî rahmete ve ihatalı hüsne ve şümullü hayra münafî değiller, belki muktezalarıdırlar. Hattâ şeytanın dahi manevî terakkiyat-ı beşeriyenin zembereği olan müsabakaya ve mücahedeye sebep olduğundan o nev’in icadı dahi hayırdır, o cihette güzeldir. Hem hattâ kâfir, küfür ile bütün kâinatın hukukuna bir tecavüz ve şerefini tahkir ettiğinden ona cehennem azabı vermek güzeldir. Başka risalelerde bu iki nokta tamamen tafsil edildiğinden burada bir kısa işaretle iktifa ediyoruz.
 
-***Sualin ikinci şıkkı:*** [^Hâşiye1] Haydi şeytana ve kâfire ait bu cevabı umumî noktasında kabul edelim. Fakat Cemil-i Mutlak ve Rahîm-i Mutlak ve hayr-ı mutlak olan Zat-ı Ganiyy-i Ale’l-ıtlak, nasıl oluyor ki bîçare cüz’î fertleri ve şahısları musibete, şerre, çirkinliğe müptela ediyor?
+***Sualin ikinci şıkkı:*** [^hâşiye1] Haydi şeytana ve kâfire ait bu cevabı umumî noktasında kabul edelim. Fakat Cemil-i Mutlak ve Rahîm-i Mutlak ve hayr-ı mutlak olan Zat-ı Ganiyy-i Ale’l-ıtlak, nasıl oluyor ki bîçare cüz’î fertleri ve şahısları musibete, şerre, çirkinliğe müptela ediyor?
 
 ***Elcevap:*** Ne kadar iyilik ve güzellik ve nimet varsa doğrudan doğruya o Cemil ve Rahîm-i Mutlak’ın hazine-i rahmetinden ve ihsanat-ı hususiyesinden gelir. Ve musibet ve şerler ise saltanat-ı rububiyetin âdetullah namı altında ve küllî iradelerin mümessilleri olan umumî ve küllî kanunlarının çok neticelerinden tek tük cüz’î neticeleri olmasından, o kanunlar cereyanının cüz’î muktezaları olduğundan, elbette küllî maslahatlara medar olan o kanunları muhafaza ve riayet etmek için o şerli, cüz’î neticeleri dahi halk eder.
 
@@ -254,7 +254,7 @@ Evet her bir çiçek, her bir meyve, her bir yaprak, her bir nebat, her bir hayv
 
 Hattâ her bir ağacın mebdeinde ve müntehasında ve üstünde ve içinde <span class="arabic" dir="rtl">هُوَ الْاَوَّلُ وَالْاٰخِرُ وَالظَّاهِرُ وَالْبَاطِنُ</span> isimlerinin işaret ettikleri dört sikke-i tevhid var:
 
-**İsm-i Evvel** ile işaret edildiği gibi: Her bir meyvedar ağacın menşe-i aslîsi olan çekirdek [^Hâşiye2] öyle bir sandukçadır ki o ağacın programını ve fihristesini ve planını ve öyle bir tezgâhtır ki onun cihazatını ve levazımatını ve teşkilatını ve öyle bir makinedir ki onun iptidadaki incecik vâridatını ve latîfane masarifini ve tanzimatını taşıyor.
+**İsm-i Evvel** ile işaret edildiği gibi: Her bir meyvedar ağacın menşe-i aslîsi olan çekirdek [^hâşiye2] öyle bir sandukçadır ki o ağacın programını ve fihristesini ve planını ve öyle bir tezgâhtır ki onun cihazatını ve levazımatını ve teşkilatını ve öyle bir makinedir ki onun iptidadaki incecik vâridatını ve latîfane masarifini ve tanzimatını taşıyor.
 
 **Ve ism-i Âhir**’le işaret edildiği gibi: Her bir ağacın neticesi ve meyvesi öyle bir tarifenamedir ki o ağacın eşkâlini ve ahvalini ve evsafını ve öyle bir beyannamedir ki onun vazifelerini ve menfaatlerini ve hâssalarını ve öyle bir fezlekedir ki o ağacın emsalini ve ensalini ve nesl-i âtisini o meyvenin kalbinde bulunan çekirdekler ile beyan ediyor, ders veriyor.
 
@@ -324,7 +324,7 @@ Hazret-i İmam-ı Ali radıyallahu anh ve kerremallahu vechehu Kaside-i Celcelut
 
 ***
 
-[^Hâşiye1]: Bu ikinci şıkkın cevabı çok mühimdir, çok evhamı izale eder.
+[^hâşiye1]: Bu ikinci şıkkın cevabı çok mühimdir, çok evhamı izale eder.
 
-[^Hâşiye2]: Eski zamandan beri darb-ı mesel olarak umumun dilinde ve lisan-ı nâsta gezen şu “Çekirdekten yetişme” sözü bu risalenin müellifine bir işaret-i gaybiye-i örfiye denilebilir. Çünkü Risale-i Nur hâdimi olan şahıs Kur’an’ın feyziyle, çekirdek ve çiçekte tevhid için iki mi’rac-ı marifet keşfederek tabiiyyunları boğan aynı yerde âb-ı hayat bulmuş ve çekirdekten hakikate ve nur-u marifete yetişmiş ve bu iki şeyin Risale-i Nur’da ziyade tekrarları bu hikmete binaendir.
+[^hâşiye2]: Eski zamandan beri darb-ı mesel olarak umumun dilinde ve lisan-ı nâsta gezen şu “Çekirdekten yetişme” sözü bu risalenin müellifine bir işaret-i gaybiye-i örfiye denilebilir. Çünkü Risale-i Nur hâdimi olan şahıs Kur’an’ın feyziyle, çekirdek ve çiçekte tevhid için iki mi’rac-ı marifet keşfederek tabiiyyunları boğan aynı yerde âb-ı hayat bulmuş ve çekirdekten hakikate ve nur-u marifete yetişmiş ve bu iki şeyin Risale-i Nur’da ziyade tekrarları bu hikmete binaendir.
 

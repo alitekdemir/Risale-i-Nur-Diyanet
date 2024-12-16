@@ -337,7 +337,7 @@ Binaenaleyh Mâlik-i Hakiki’nin rusül vasıtasıyla böyle yüksek fakat gafi
 
 **İ’lem eyyühe’l-aziz!** İnsanın vehim, farz, hayal duygularına varıncaya kadar bütün hâssaları bilâhare rücû edip bi’l-ittifak Hakk’a iltica ettiklerini ve bâtıla hiçbir ihtimal ve imkânın kalmadığını ve kâinatın ancak ve ancak Kur’an’ın izah ettiği şekilde bulunduğunu gördüm.
 
-**İ’lem eyyühe’l-aziz!** [^Hâşiye1] Âlem-i ziya, âlem-i hararet, âlem-i hava, âlem-i kehrüba, âlem-i elektrik, âlem-i cezb, âlem-i esîr, âlem-i misal, âlem-i berzah gibi âlemler arasında müzahame ve yer darlığı yoktur. Bu âlemler, hepsi de ihtilalsiz, müsademesiz küçük bir yerde içtima ederler.
+**İ’lem eyyühe’l-aziz!** [^hâşiye1] Âlem-i ziya, âlem-i hararet, âlem-i hava, âlem-i kehrüba, âlem-i elektrik, âlem-i cezb, âlem-i esîr, âlem-i misal, âlem-i berzah gibi âlemler arasında müzahame ve yer darlığı yoktur. Bu âlemler, hepsi de ihtilalsiz, müsademesiz küçük bir yerde içtima ederler.
 
 Kezalik pek geniş gaybî âlemlerin de bu küçük arzda içtimaları mümkündür. Evet, hava, su, insanın yürüyüşüne; cam ziyanın geçmesine, şuânın röntgen vasıtasıyla kesif cisimlere bile nüfuzuna ve akıl nuruna, melek ruhuna, demirin içine hararetin akmasına, elektriğin cereyanına bir mani yoktur.
 
@@ -491,4 +491,4 @@ Eğer âlâmın lezaize, nârın nura inkılab etmesi emelinde isen evkat-ı ham
 
 ***
 
-[^Hâşiye1]: Ehemmiyetlidir.
+[^hâşiye1]: Ehemmiyetlidir.

@@ -9,7 +9,7 @@ source_url: https://www.risaleinur.hizmetvakfi.org/
 
 ## Hubab
 
-Kur’an-ı Hakîm’in ummanından [^Hâşiye4]
+Kur’an-ı Hakîm’in ummanından [^hâşiye4]
 <p class="arabic" dir="rtl">خُدَاىِ پُرْ كَرَمْ خُودْ مُلْكِ خُودْ رَا مٖى خَرَدْ اَزْ تُو بَرَاىِ تُو نِگَهْ دَارَدْ بَهَاىِ بٖى گِرَانْ دَادَه</p>
 
 Said Nursî
@@ -78,7 +78,7 @@ Ve keza nurani şeylerde vahdet ile beraber tekessür olduğuna, yani bir nurani
 
 Ve keza salavat-ı şerifeyi getiren adam, Zat-ı Peygamberîyi (asm) bir sıfatla tavsif ettiği zaman, o sıfatın nereye taalluk ettiğini düşünsün ki tekrar be-tekrar salavat getirmeye müşevviki olsun.
 
-**İ’lem ey din âlimi!** [^Hâşiye1] Ücretim az, ilmime rağbet yok diye mahzun olma. Çünkü mükâfat-ı dünyeviye ihtiyaca bakar, kıymet-i zatiyeye bakmaz. Meziyet-i zatiye ise mükâfat-ı uhreviyeye nâzırdır. Öyle ise zatî olan meziyetini mükâfat-ı uhreviyeye sakla, birkaç kuruşluk dünya metaına satma.
+**İ’lem ey din âlimi!** [^hâşiye1] Ücretim az, ilmime rağbet yok diye mahzun olma. Çünkü mükâfat-ı dünyeviye ihtiyaca bakar, kıymet-i zatiyeye bakmaz. Meziyet-i zatiye ise mükâfat-ı uhreviyeye nâzırdır. Öyle ise zatî olan meziyetini mükâfat-ı uhreviyeye sakla, birkaç kuruşluk dünya metaına satma.
 
 **İ’lem ey hitabet-i umumiye sıfatı ile gazete lisanıyla konferans veren muharrir!** Sen, kendi nefsini aşağı göstermeye ve nedamet ederek kusurlarını ilan etmeye hakkın var. Fakat şeair-i İslâmiyeye zıt ve muhalif olan herzeler ile İslâmiyet’i lekelendirmeye kat’iyen hakkın yoktur.
 
@@ -199,7 +199,7 @@ Binaenaleyh her bir nimetin bidayetinde, mü’min olan kimse Besmele’yi okusu
 
 Ancak onları mağlup edip kaçırmak çaresi, müdafaayı terk edip onlar ile uğraşmamaktır. Evet, arılar ile uğraşıldıkça onlar hücumlarını arttırırlar. Onlara karışılmadığı takdirde, insanı terk eder, giderler.
 
-Hem de o gibi vesveselerin, ne hakaik-i İlahiyeye ve ne de senin kalbine bir mazarratı yoktur. Evet, pis bir mendilin deliklerinden semanın güneş ve yıldızlarına, cennetin gül ve çiçeklerine bakılırsa o deliklerdeki pislik ne bakana ve ne de bakılana bulaşmaz. Ve fena bir tesir etmez. [^Hâşiye2]
+Hem de o gibi vesveselerin, ne hakaik-i İlahiyeye ve ne de senin kalbine bir mazarratı yoktur. Evet, pis bir mendilin deliklerinden semanın güneş ve yıldızlarına, cennetin gül ve çiçeklerine bakılırsa o deliklerdeki pislik ne bakana ve ne de bakılana bulaşmaz. Ve fena bir tesir etmez. [^hâşiye2]
 
 **İ’lem eyyühe’s-Said!** Nedir bu gurur ve nedir bu gaflet? Nedir bu haşmet, nedir bu istiğna, nedir bu azamet? Elindeki ihtiyar bir kıl kadardır ve iktidarın bir zerre kadardır. Ve hayatın söndü ancak bir şule kaldı. Ömrün geçti, şuurun söndü, bir lem’a kaldı.
 
@@ -363,7 +363,7 @@ Evet, asker neferatı arasında bir kumandanın tasarrufatı, tanzimatı ancak e
 
 Binaenaleyh Cenab-ı Hakk’ın mahlukatındaki tasarrufu, yalnız bir emir ve irade ile olur. Bizzat mübaşereti yoktur. Şemsin kâinatı tenvir ettiği gibi.
 
-**İ’lem eyyühe’l-aziz!** [^Hâşiye3] İnsan, yaşayış vaziyetince bir dağdan kopup sel içine düşen veya yüksek bir apartmandan düşüp yuvarlanan bir şahıs gibidir.
+**İ’lem eyyühe’l-aziz!** [^hâşiye3] İnsan, yaşayış vaziyetince bir dağdan kopup sel içine düşen veya yüksek bir apartmandan düşüp yuvarlanan bir şahıs gibidir.
 
 Evet, hayat apartmanı yıkılıyor. Ömür tayyaresi şimşek gibi geçiyor. Zaman da sel dolaplarını süratle çalıştırıyor. Arz sefinesi de süratle giderken <span class="arabic" dir="rtl">تَمُرُّ مَرَّ السَّحَابِ</span> âyetini okuyor. Sefine-i arz süratle yürürken, dünyanın gayr-ı meşru lezzetlerine uzatılan ellere zehirli dikenlerin batacağı düşünülsün. Binaenaleyh o zehirli dünya oklarına bakıp el uzatma. Firakın elemi, telaki lezzetinden ağırdır.
 
@@ -446,10 +446,10 @@ Ecnebilerden alınan maddî bilgiler, sanat ve terakkiyata ait ise lâzımdır. 
 
 ***
 
-[^Hâşiye1]: Ehemmiyetlidir.
+[^hâşiye1]: Ehemmiyetlidir.
 
-[^Hâşiye2]: O çirkin sözler senin kalbinin sözleri değil. Çünkü senin kalbin ondan müteessir ve müteessiftir. Belki kalbe yakın olan lümme-i şeytanîden geliyor. Mesela, sen namazda, Kâbe karşısında, huzur-u İlahîde, âyâtı tefekkürde olduğun bir halde, şu tedai-i efkâr seni tutup en uzak malayaniyat-ı rezileye sevk eder. Mesela, âyinenin içindeki yılanın timsali ısırmaz. Ateşin misali yakmaz. Ve necasetin görünmesi âyineyi telvis etmez.
+[^hâşiye2]: O çirkin sözler senin kalbinin sözleri değil. Çünkü senin kalbin ondan müteessir ve müteessiftir. Belki kalbe yakın olan lümme-i şeytanîden geliyor. Mesela, sen namazda, Kâbe karşısında, huzur-u İlahîde, âyâtı tefekkürde olduğun bir halde, şu tedai-i efkâr seni tutup en uzak malayaniyat-ı rezileye sevk eder. Mesela, âyinenin içindeki yılanın timsali ısırmaz. Ateşin misali yakmaz. Ve necasetin görünmesi âyineyi telvis etmez.
 
-[^Hâşiye3]: Ehemmiyetli.
+[^hâşiye3]: Ehemmiyetli.
 
-[^Hâşiye4]: Hâlık-ı Kerim, kendi mülkünü senden satın alıyor; Cennet gibi büyük bir fiyat veriyor. Hem o mülkü senin için güzelce muhafaza ediyor, kıymetini yükselttiriyor. Yine sana hem bâkî hem mükemmel bir surette verecektir. Bknz: [[.06 Altıncı Söz|Altıncı Söz]]
+[^hâşiye4]: Hâlık-ı Kerim, kendi mülkünü senden satın alıyor; Cennet gibi büyük bir fiyat veriyor. Hem o mülkü senin için güzelce muhafaza ediyor, kıymetini yükselttiriyor. Yine sana hem bâkî hem mükemmel bir surette verecektir. Bknz: [[.06 Altıncı Söz|Altıncı Söz]]

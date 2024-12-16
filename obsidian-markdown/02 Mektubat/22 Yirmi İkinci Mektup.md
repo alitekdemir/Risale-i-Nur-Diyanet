@@ -191,7 +191,7 @@ Hakikatli bir rüya-yı hayaliyede, Birinci Harb-i Umumî’nin beşinci senesin
 
 Rüyada demiştim:
 
-“Cenab-ı Hak, bir kısım maldan onda bir [^Hâşiye1] veya bir kısım maldan kırkta bir [^Hâşiye2], kendi verdiği malından birisini bizden istedi; tâ bize fukaraların dualarını kazandırsın ve kin ve hasedlerini men’etsin. Biz hırsımız için tama’kârlık edip vermedik. Cenab-ı Hak, müterakim zekâtını kırkta otuz, onda sekizini aldı.
+“Cenab-ı Hak, bir kısım maldan onda bir [^hâşiye1] veya bir kısım maldan kırkta bir [^hâşiye2], kendi verdiği malından birisini bizden istedi; tâ bize fukaraların dualarını kazandırsın ve kin ve hasedlerini men’etsin. Biz hırsımız için tama’kârlık edip vermedik. Cenab-ı Hak, müterakim zekâtını kırkta otuz, onda sekizini aldı.
 
 Hem her senede yalnız bir ayda yetmiş hikmetli bir açlık bizden istedi. Biz nefsimize acıdık, muvakkat ve lezzetli bir açlığı çekmedik. Cenab-ı Hak ceza olarak yetmiş cihetle belalı bir nevi orucu beş sene cebren bize tutturdu.
 
@@ -276,7 +276,7 @@ Eğer gıybet etti veyahut isteyerek dinledi; o vakit <span class="arabic" dir="
 
 ***
 
-[^Hâşiye1]: Yani her sene taze verdiği buğday gibi mallardan onda bir.
+[^hâşiye1]: Yani her sene taze verdiği buğday gibi mallardan onda bir.
 
-[^Hâşiye2]: Yani eskiden verdiği kırktan ki her senede galiben ve lâekall ribh-i ticarî ve nesl-i hayvanî cihetiyle o kırktan taze olarak on adet verir.
+[^hâşiye2]: Yani eskiden verdiği kırktan ki her senede galiben ve lâekall ribh-i ticarî ve nesl-i hayvanî cihetiyle o kırktan taze olarak on adet verir.
 

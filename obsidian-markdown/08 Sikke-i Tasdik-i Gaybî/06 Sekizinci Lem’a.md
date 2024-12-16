@@ -3,7 +3,7 @@ source_name: Hizmet Vakfı & DİB asıl nüsha metni 2016
 source_url: https://www.risaleinur.hizmetvakfi.org/
 ---
 ### Sekizinci Lem’a
-##### Gavs-ı A’zam’ın Hizbü’l-Kur’an’a dair keramet-i gaybiyesidir. [^Hâşiye1]
+##### Gavs-ı A’zam’ın Hizbü’l-Kur’an’a dair keramet-i gaybiyesidir. [^hâşiye1]
 Şu risale içindeki imzalar ile gösterildiği gibi hizmet-i Kur’aniyedeki arkadaşlarıma iştirakim var. Bir kısmı benim imzam iledir. Bir kısmı onların tasvip ve istihracıyla ve tasdikleriyle olduğundan, bana ait haddimden fazla hisseyi onların hatırı için sükût ile kabul ettim. Yoksa bu risalenin başında söylediğim gibi bunda öyle bir hisse-i şerefe hakkım yoktur. On sene mukaddem, o kaside-i gaybiyeyi gördükçe bana manevî bir ihtar gibi “Dikkat et!” diye kalbime geliyordu. O hatırayı iki cihetle dinlemiyordum:
 
 **Birincisi:** Benim gibi ehemmiyetli ömrü şan ve şeref perdesi altında hubb-u câh zehiriyle zehirlenip öldüğü için yeniden bu suretle nefs-i emmareye diğer bir şeref kapısı açmak istememekti.
@@ -266,9 +266,9 @@ Gavs, meşhur kasidesinde –sarahat derecesinde– bizlerden yani hizbü’l-Ku
 
 Hem ezcümle “Mecmuatü’l-Ahzab”ın ikinci cildinin 379’uncu sahifesinde Hazret-i Gavs’ın “Virdü’l-İşâ” namındaki münâcatında şu fıkra var:
 
-<span class="arabic" dir="rtl">فَالْوَاصِلُ</span> [^Hâşiye2] <span class="arabic" dir="rtl">اِلٰى سَاحِلِ السَّلَامَةِ هُوَ السَّعٖيدُ الْمُقَرَّبُ</span> [^Hâşiye3] <span class="arabic" dir="rtl">وَذُو الْهَلَاكِ هُوَ الشَّقِىُّ الْمُبَعَّدُ وَ الْمُعَذَّبُ</span>
+<span class="arabic" dir="rtl">فَالْوَاصِلُ</span> [^hâşiye2] <span class="arabic" dir="rtl">اِلٰى سَاحِلِ السَّلَامَةِ هُوَ السَّعٖيدُ الْمُقَرَّبُ</span> [^hâşiye3] <span class="arabic" dir="rtl">وَذُو الْهَلَاكِ هُوَ الشَّقِىُّ الْمُبَعَّدُ وَ الْمُعَذَّبُ</span>
 
-İşte Gavs’ın şu fıkrası <span class="arabic" dir="rtl">فَمِنْهُمْ شَقِىٌّ وَ سَعٖيدٌ</span> âyetinin bir nevi tefsiridir. Şu küllî âyetin bir kısım efradını, altıncı asır ve on dördüncü asırda âyetin külliyetinde dâhil bir kısım efrad-ı mahsusayı irae ettiğine müteaddid emareler var. Âyetin külliyetinde [^Hâşiye4] tevafuk sırrıyla <span class="arabic" dir="rtl">فَمِنْهُمْ شَقِىٌّ</span> kelimesinde bu zamanın en büyük şakîlerinden üçüne cifirce tevafuk etmesi, o küllî âyette bunlar dahi kasden murad olduklarına emaredir belki işarettir.
+İşte Gavs’ın şu fıkrası <span class="arabic" dir="rtl">فَمِنْهُمْ شَقِىٌّ وَ سَعٖيدٌ</span> âyetinin bir nevi tefsiridir. Şu küllî âyetin bir kısım efradını, altıncı asır ve on dördüncü asırda âyetin külliyetinde dâhil bir kısım efrad-ı mahsusayı irae ettiğine müteaddid emareler var. Âyetin külliyetinde [^hâşiye4] tevafuk sırrıyla <span class="arabic" dir="rtl">فَمِنْهُمْ شَقِىٌّ</span> kelimesinde bu zamanın en büyük şakîlerinden üçüne cifirce tevafuk etmesi, o küllî âyette bunlar dahi kasden murad olduklarına emaredir belki işarettir.
 
 İşte Hazret-i Gavs bu âyetteki bu emareden, bu zamana bakmış. Mezkûr fıkrasını küllî âyete bir nevi hususi tefsir yaparak, kasidesinde kerametkârane bahsettiği fitne-i âhir zaman içindeki şakirdlerini görüp o zamanın şakîlerinin şerrinden muhafaza edildiği ve burada münâcatında dahi o kasidenin mealine bakıyor.
 
@@ -301,7 +301,7 @@ Sergüzeşt-i hayatımda geçen ve çoğunu gizlediğim çok hârika vakıalar v
 ##### Hazret-i Gavs’ın keramet-i gaybiyesini teyid eden bir âyetin işaratındaki bir nükte-i i’caziyedir
 Kur’an’dan tereşşuh eden o Sözler ve risaleler, Kur’an-ı Hakîm’in bir nevi müstakim tefsiri ve hakaik-i imaniyenin istikametli ve kuvvetli delilleri olduğundan; o risaleler ve Sözler’e gelen şeref ve takdir ve tahsin, Kur’an’a ve hakaik-i imana aittir. Madem öyledir, bilâ-perva derim ki:
 
-<span class="arabic" dir="rtl">وَلَا رَطْبٍ وَلَا يَابِسٍ اِلَّا فٖى كِتَابٍ مُبٖينٍ</span> sırrıyla, Kur’an’da elbette bu istikametli tefsirinin istikametine işaret var. Evet, var. Kur’an o tefsirine hususi bakıyor. Çünkü âyât-ı mühimmeden Sure-i Hud’daki [^Hâşiye5] <span class="arabic" dir="rtl">فَمِنْهُمْ شَقِىٌّ وَ سَعٖيدٌ</span> âyeti bulunan sahifenin karşısında <span class="arabic" dir="rtl">فَاسْتَقِمْ كَمَٓا اُمِرْتَ</span> âyeti, fâ-yı atıf hariç olarak <span class="arabic" dir="rtl">اِسْتَقِمْ كَمَٓا اُمِرْتَ</span> makam-ı ebcedîsi bin üç yüz ikidir (1302). Demek <span class="arabic" dir="rtl">اِستَقِمْ</span> deki emr-i has içinde bulunan hitab-ı âmmın hadsiz müstakim efradları içinde, o bin üç yüz iki (1302) tarihinde bir ferdin bir cihette istikamet emrinin imtisali bir hususiyet kazanacak. Demek, on dördüncü asırda Kur’an’dan iktibas edip istikametsiz sakîm yollar içinde sırat-ı müstakimi gösterecek âsârı neşreden bir adamı, o hadsiz efrad içinde dâhil ediyor. Hem o istikametin bir hususiyeti var ki tarihiyle işaret ediyor.
+<span class="arabic" dir="rtl">وَلَا رَطْبٍ وَلَا يَابِسٍ اِلَّا فٖى كِتَابٍ مُبٖينٍ</span> sırrıyla, Kur’an’da elbette bu istikametli tefsirinin istikametine işaret var. Evet, var. Kur’an o tefsirine hususi bakıyor. Çünkü âyât-ı mühimmeden Sure-i Hud’daki [^hâşiye5] <span class="arabic" dir="rtl">فَمِنْهُمْ شَقِىٌّ وَ سَعٖيدٌ</span> âyeti bulunan sahifenin karşısında <span class="arabic" dir="rtl">فَاسْتَقِمْ كَمَٓا اُمِرْتَ</span> âyeti, fâ-yı atıf hariç olarak <span class="arabic" dir="rtl">اِسْتَقِمْ كَمَٓا اُمِرْتَ</span> makam-ı ebcedîsi bin üç yüz ikidir (1302). Demek <span class="arabic" dir="rtl">اِستَقِمْ</span> deki emr-i has içinde bulunan hitab-ı âmmın hadsiz müstakim efradları içinde, o bin üç yüz iki (1302) tarihinde bir ferdin bir cihette istikamet emrinin imtisali bir hususiyet kazanacak. Demek, on dördüncü asırda Kur’an’dan iktibas edip istikametsiz sakîm yollar içinde sırat-ı müstakimi gösterecek âsârı neşreden bir adamı, o hadsiz efrad içinde dâhil ediyor. Hem o istikametin bir hususiyeti var ki tarihiyle işaret ediyor.
 
 Halbuki o asırda şahsen istikamette mümtaz bir hususiyet kesbetmek çok uzaktır. Demek, şahsî istikamet değil. Öyle ise o adamın teşebbüsüyle neşredilen esrar-ı Kur’aniye, o asırda istikamette imtiyaz kesbedecek. O adam şahsen gayr-ı müstakim olduğu halde, müstakimler içine idhali, o imtiyaza remzeder.
 
@@ -315,7 +315,7 @@ Madem hakikat budur, ben kat’î bir surette itiraf ediyorum ki hayatım istika
 
 **Elcevap:** Evvela: Fitne-i âhir zamanın müddeti uzundur, biz bir faslındayız.
 
-Sâniyen: Yerde Allah Allah denilmeyecekten murad, Allah’a iman kalkacak demek değildir. [^Hâşiye6] Belki Allah’ın namını değiştirecekler demektir. Nasıl ki yerde Allah Allah denilmezse kıyamet-i kübra kopacak. Bir memlekette de Allah Allah denilmezse bir nevi kıyamet kopmasına işarettir [^Hâşiye7].
+Sâniyen: Yerde Allah Allah denilmeyecekten murad, Allah’a iman kalkacak demek değildir. [^hâşiye6] Belki Allah’ın namını değiştirecekler demektir. Nasıl ki yerde Allah Allah denilmezse kıyamet-i kübra kopacak. Bir memlekette de Allah Allah denilmezse bir nevi kıyamet kopmasına işarettir [^hâşiye7].
 
 <p class="arabic" dir="rtl">تَوَسَّلْ بِنَا فٖى كُلِّ هَوْلٍ وَشِدَّةٍ ۞ اَغٖيثُكَ فِى الْاَشْيَاءِ دَهْرًا بِهِمَّتٖى</p>
 
@@ -327,21 +327,21 @@ Said Nursî
 
 ***
 
-[^Hâşiye1]: Üstadımızın şahsına sarîhan işaret eden bu gibi gaybî keramet ve işaratın neşrini Üstadımız Bedîüzzaman Said Nursî Hazretleri arzu etmiyor. Fakat bizler düşündük ki bu gibi delâlet derecesinde olan gaybî işaretlerin ehl-i imanca bilinmesine, bu zamanda kat’î lüzum ve ihtiyaç var. Buna binaen neşrediyoruz.
+[^hâşiye1]: Üstadımızın şahsına sarîhan işaret eden bu gibi gaybî keramet ve işaratın neşrini Üstadımız Bedîüzzaman Said Nursî Hazretleri arzu etmiyor. Fakat bizler düşündük ki bu gibi delâlet derecesinde olan gaybî işaretlerin ehl-i imanca bilinmesine, bu zamanda kat’î lüzum ve ihtiyaç var. Buna binaen neşrediyoruz.
 
 Nâşirler
 
-[^Hâşiye2]: * <span class="arabic" dir="rtl">فَالْوَاصِلُ</span> kelimesi müteaddî olmak cihetiyle, Sözleriyle selâmete îsal edici demektir.
+[^hâşiye2]: * <span class="arabic" dir="rtl">فَالْوَاصِلُ</span> kelimesi müteaddî olmak cihetiyle, Sözleriyle selâmete îsal edici demektir.
 
-[^Hâşiye3]: ** <span class="arabic" dir="rtl">اَلْمُقَرَّبُ</span> müşedded “ra” bir sayılsa Üstadımızın lakabı olan <span class="arabic" dir="rtl">النّورسى</span> kelimesinin aynıdır. Yalnız atıf için “vav” var. Tam tevafukla, mukarrebden murad, Nurslu olduğunu gösteriyor. <span class="arabic" dir="rtl">اَلْمُقَرَّبُ</span> de şeddeli “ra” iki sayılsa “Bedîüzzaman Nursî” yâ-i muhaffefle aynıdır. Yalnız iki fark var. İki hemze-i vasl sayılsa tam tamına tevafukla <span class="arabic" dir="rtl">اَلْمُقَرَّبُ</span> doğrudan doğruya ona işaret ediyor.
+[^hâşiye3]: ** <span class="arabic" dir="rtl">اَلْمُقَرَّبُ</span> müşedded “ra” bir sayılsa Üstadımızın lakabı olan <span class="arabic" dir="rtl">النّورسى</span> kelimesinin aynıdır. Yalnız atıf için “vav” var. Tam tevafukla, mukarrebden murad, Nurslu olduğunu gösteriyor. <span class="arabic" dir="rtl">اَلْمُقَرَّبُ</span> de şeddeli “ra” iki sayılsa “Bedîüzzaman Nursî” yâ-i muhaffefle aynıdır. Yalnız iki fark var. İki hemze-i vasl sayılsa tam tamına tevafukla <span class="arabic" dir="rtl">اَلْمُقَرَّبُ</span> doğrudan doğruya ona işaret ediyor.
 
 Şamlı Tevfik, Süleyman, Ali
 
-[^Hâşiye4]: Âyetin külliyetinde saadet noktasında mazhariyetine mâsadak olmak için milyarlar dereceden yalnız bir derece murad olduğumuzu anlasak, ebede kadar şükretsek o nimetlerin hakkını eda edemeyiz. Hazret-i Gavs’ın işaretinden anlaşılıyor ki o muhit âyetin denizinden bir katre kadar hissemiz var. <span class="arabic" dir="rtl">اَلْحَمْدُ لِلّٰهِ هٰذَا مِنْ فَضْلِ رَبّٖى</span>
+[^hâşiye4]: Âyetin külliyetinde saadet noktasında mazhariyetine mâsadak olmak için milyarlar dereceden yalnız bir derece murad olduğumuzu anlasak, ebede kadar şükretsek o nimetlerin hakkını eda edemeyiz. Hazret-i Gavs’ın işaretinden anlaşılıyor ki o muhit âyetin denizinden bir katre kadar hissemiz var. <span class="arabic" dir="rtl">اَلْحَمْدُ لِلّٰهِ هٰذَا مِنْ فَضْلِ رَبّٖى</span>
 
-[^Hâşiye5]: Hattâ Resul-i Ekrem (aleyhissalâtü vesselâm) ferman etmiş ki: <span class="arabic" dir="rtl">شَيَّبَتْنٖى سُورَةُ هُودٍ</span> Yani Sure-i Hud’daki <span class="arabic" dir="rtl">فَاسْتَقِمْ كَمَٓا اُمِرْتَ</span> âyeti beni ihtiyarlattırdı. Çünkü ehemmiyeti azîmdir. İstikamet-i tammeyi emrediyor.
+[^hâşiye5]: Hattâ Resul-i Ekrem (aleyhissalâtü vesselâm) ferman etmiş ki: <span class="arabic" dir="rtl">شَيَّبَتْنٖى سُورَةُ هُودٍ</span> Yani Sure-i Hud’daki <span class="arabic" dir="rtl">فَاسْتَقِمْ كَمَٓا اُمِرْتَ</span> âyeti beni ihtiyarlattırdı. Çünkü ehemmiyeti azîmdir. İstikamet-i tammeyi emrediyor.
 
-[^Hâşiye6]: Çünkü hadîste vardır ki <span class="arabic" dir="rtl">لَا تَزَالُ طَائِفَةٌ مِنْ اُمَّتٖى ظَاهِرٖينَ عَلَى الْحَقِّ اِلٰى قِيَامِ السَّاعَةِ</span> Bu hadîs, diğer hadîsi takyid ediyor.
+[^hâşiye6]: Çünkü hadîste vardır ki <span class="arabic" dir="rtl">لَا تَزَالُ طَائِفَةٌ مِنْ اُمَّتٖى ظَاهِرٖينَ عَلَى الْحَقِّ اِلٰى قِيَامِ السَّاعَةِ</span> Bu hadîs, diğer hadîsi takyid ediyor.
 
-[^Hâşiye7]: Yedi sene evvel yazılan bu işaret-i gaybiye aynen vukua geldi. Herkes gördü. Evet bu geçen zelzele, kıyametin zelzele-i kübrasından haber verir gibi sarstı fakat akılları başlarına gelmedi.
+[^hâşiye7]: Yedi sene evvel yazılan bu işaret-i gaybiye aynen vukua geldi. Herkes gördü. Evet bu geçen zelzele, kıyametin zelzele-i kübrasından haber verir gibi sarstı fakat akılları başlarına gelmedi.
 

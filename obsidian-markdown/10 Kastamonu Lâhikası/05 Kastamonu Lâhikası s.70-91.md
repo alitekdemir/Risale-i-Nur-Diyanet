@@ -69,7 +69,7 @@ Bundan kırk elli sene evvel, büyük kardeşim Molla Abdullah rahmetullahi aley
 
 O merhum kardeşim, evliya-i azîmeden olan Hazret-i Ziyaeddin kuddise sırruhunun has müridi idi. Ehl-i tarîkatça, mürşidinin hakkında müfritane muhabbet ve hüsn-ü zan etse de makbul gördükleri için o merhum kardeşim dedi ki: “Hazret-i Ziyaeddin bütün ulûmu biliyor. Kâinatta, kutb-u a’zam gibi her şeye ıttılaı var.” Beni, onunla rabtetmek için çok hârika makamlarını beyan etti.
 
-Ben de o kardeşime dedim ki: “Sen mübalağa ediyorsun. Ben onu görsem çok meselelerde ilzam edebilirim. Hem sen, benim kadar onu hakiki sevmiyorsun. Çünkü kâinattaki ulûmları bilir bir kutb-u a’zam suretinde tahayyül ettiğin bir Ziyaeddin’i seversin yani o unvan ile bağlısın, muhabbet edersin. Eğer perde-i gayb açılsa ve hakikati görünse senin muhabbetin ya zâil olur veyahut dörtte birisine iner. Fakat ben o zat-ı mübareği, senin gibi pek ciddi severim, takdir ederim. Çünkü sünnet-i seniye dairesinde, hakikat mesleğinde, ehl-i imana hâlis ve tesirli ve ehemmiyetli bir rehberdir. Şahsî makamı ne olursa olsun, bu hizmeti için ruhumu ona feda ederim. Perde açılsa ve hakiki makamı görünse değil geri çekilmek, vazgeçmek, muhabbette noksan olmak; bilakis daha ziyade hürmet ve takdir ile bağlanacağım. Demek ben hakiki bir Ziyaeddin’i, sen de hayalî bir Ziyaeddin’i seversin.” [^Hâşiye1]
+Ben de o kardeşime dedim ki: “Sen mübalağa ediyorsun. Ben onu görsem çok meselelerde ilzam edebilirim. Hem sen, benim kadar onu hakiki sevmiyorsun. Çünkü kâinattaki ulûmları bilir bir kutb-u a’zam suretinde tahayyül ettiğin bir Ziyaeddin’i seversin yani o unvan ile bağlısın, muhabbet edersin. Eğer perde-i gayb açılsa ve hakikati görünse senin muhabbetin ya zâil olur veyahut dörtte birisine iner. Fakat ben o zat-ı mübareği, senin gibi pek ciddi severim, takdir ederim. Çünkü sünnet-i seniye dairesinde, hakikat mesleğinde, ehl-i imana hâlis ve tesirli ve ehemmiyetli bir rehberdir. Şahsî makamı ne olursa olsun, bu hizmeti için ruhumu ona feda ederim. Perde açılsa ve hakiki makamı görünse değil geri çekilmek, vazgeçmek, muhabbette noksan olmak; bilakis daha ziyade hürmet ve takdir ile bağlanacağım. Demek ben hakiki bir Ziyaeddin’i, sen de hayalî bir Ziyaeddin’i seversin.” [^hâşiye1]
 
 Benim o kardeşim insaflı ve müdakkik bir âlim olduğu için benim nokta-i nazarımı kabul edip takdir etti.
 
@@ -185,7 +185,7 @@ Risale-i Nur’un hakiki ve sadık şakirdlerinin mabeynlerindeki düstur-u esas
 
 **İkincisi:** Eski zamanda, on dört yaşında iken icazet almanın alâmeti olan üstad tarafından sarık sardırmak, bir cübbe bana giydirmek vaziyetine maniler bulundu. Yaşımın küçüklüğüyle, memleketimizde büyük hocalara mahsus kisveyi giymek yakışmadığı…
 
-Sâniyen, o zamanda büyük âlimler, bana karşı üstadlık vaziyeti değil, ya rakip veyahut teslimiyet derecesine girdikleri için bana cübbe giydirecek ve üstadlık vaziyetini alacak, kendilerine güvenenler bulunmadı. Ve evliya-yı azîmeden dört beş zatın vefat etmeleri cihetinde, elli altı senedir icazetin zahir alâmeti olan cübbeyi giymek ve bir üstadın elini öpmek, üstadlığını kabul etmek hakkımı bugünlerde, yüz senelik bir mesafede Hazret-i Mevlana Zülcenaheyn Hâlid Ziyaeddin kendi cübbesini, o cübbeye sarılan bir sarık ile pek garib bir tarzda bana giydirmek için gönderdiğini bazı emarelerle bana kanaat geldi. Ben de o mübarek ve yüz yaşında cübbeyi giyiyorum. Cenab-ı Hakk’a yüz binler şükrediyorum [^Hâşiye2].
+Sâniyen, o zamanda büyük âlimler, bana karşı üstadlık vaziyeti değil, ya rakip veyahut teslimiyet derecesine girdikleri için bana cübbe giydirecek ve üstadlık vaziyetini alacak, kendilerine güvenenler bulunmadı. Ve evliya-yı azîmeden dört beş zatın vefat etmeleri cihetinde, elli altı senedir icazetin zahir alâmeti olan cübbeyi giymek ve bir üstadın elini öpmek, üstadlığını kabul etmek hakkımı bugünlerde, yüz senelik bir mesafede Hazret-i Mevlana Zülcenaheyn Hâlid Ziyaeddin kendi cübbesini, o cübbeye sarılan bir sarık ile pek garib bir tarzda bana giydirmek için gönderdiğini bazı emarelerle bana kanaat geldi. Ben de o mübarek ve yüz yaşında cübbeyi giyiyorum. Cenab-ı Hakk’a yüz binler şükrediyorum [^hâşiye2].
 
 ***
 
@@ -221,7 +221,7 @@ Isparta’daki aziz kardeşlerimize!
 
 Ramazan-ı şerifte, beş gün savm-ı visal içinde gıda olarak, ekmeksiz muhallebi üç kaşık ve beş altı kaşık da soğuk yoğurttan; üçüncü gece, yarım kaşık muhallebi ve dördüncü gece iftarda sulu şehriyeden beş kaşık ve beş kaşık da sahurda yine o şehriyeden ve yoğurttan üç dört kaşık, su sayılmamak şartıyla şehriyeden beş dirhem, yoğurt süzülse on dirhem, muhallebi susuz altı yedi dirhem; beşinci gecede, tanesiz gibi gayet hafif şehriye beş altı kaşık, sahurda altı yedi kaşık pirinç çorbası, mecmuu otuz dirhem (96 gr.) gıda ile beş gün savm-ı visali, teravih noksan olarak sair vazifelerin yapılması, Risale-i Nur şakirdlerine ihata eden inayetin hârikalarından bir kerametini gördük.
 
-Üstadımızdan hiç görmediğimiz ikimiz yani Emin, Feyzi; Barla, Isparta Süleymanları gibi inceden inceye hastalık [^Hâşiye3] hiddetlerini tahrik etmemek için ihtiyat edemediğimizden, şiddetli hiddetini gördük. Bu hastalıkta yine eser-i rahmettir ki hiç hatır ve hayale gelmeyen aşr-ı âhirin gayet mühim gecelerinde, Üstadımızın tam îfa edemediği vazifesi yerinde bu havalide her bir şakird, kendi hususi çalışmasından başka, bir saati üstadı hesabına Risale-i Nur’un şakirdlerinin mücahede-i maneviyelerine iştirak ve onları hedef edip onların defter-i a’maline geçmeye, aynı üstad gibi çalışmaya başladılar. Demek, Üstad yerinde onun birkaç saat çalışmasına bedel, pek çok saatler aynı vazifeyi görmeye başladılar.
+Üstadımızdan hiç görmediğimiz ikimiz yani Emin, Feyzi; Barla, Isparta Süleymanları gibi inceden inceye hastalık [^hâşiye3] hiddetlerini tahrik etmemek için ihtiyat edemediğimizden, şiddetli hiddetini gördük. Bu hastalıkta yine eser-i rahmettir ki hiç hatır ve hayale gelmeyen aşr-ı âhirin gayet mühim gecelerinde, Üstadımızın tam îfa edemediği vazifesi yerinde bu havalide her bir şakird, kendi hususi çalışmasından başka, bir saati üstadı hesabına Risale-i Nur’un şakirdlerinin mücahede-i maneviyelerine iştirak ve onları hedef edip onların defter-i a’maline geçmeye, aynı üstad gibi çalışmaya başladılar. Demek, Üstad yerinde onun birkaç saat çalışmasına bedel, pek çok saatler aynı vazifeyi görmeye başladılar.
 
 Hattâ üstadımız diyordu: Ehemmiyetsizliğimle beraber Isparta havalisinde kardeşlerimizin a’mal-i uhreviyesine bir medar, bir müheyyic hükmünde benim kusurlu çalışmam kâfi gelmiyordu; Cenab-ı Hak rahmetiyle, bu hastalık vesilesiyle bir şahs-ı manevî ve kuvvetli bir medar olacak bu tedbiri ihsan etti, cüz’iyetten külliyete çıkardı.
 
@@ -319,9 +319,9 @@ Umum kardeşlerimize birer birer selâm ve dua ediyoruz.
 
 ***
 
-[^Hâşiye1]: Çünkü sen muhabbetini ona pek pahalı satıyorsun. Verdiğin fiyatın yüz defa ziyade bir mukabil düşünüyorsun. Halbuki onun hakiki makamının fiyatına, en büyük muhabbet de ucuzdur.
+[^hâşiye1]: Çünkü sen muhabbetini ona pek pahalı satıyorsun. Verdiğin fiyatın yüz defa ziyade bir mukabil düşünüyorsun. Halbuki onun hakiki makamının fiyatına, en büyük muhabbet de ucuzdur.
 
-[^Hâşiye2]: Bu mübarek emaneti, Risale-i Nur talebelerinden ve âhiret hemşirelerimizden Âsiye namında bir muhterem hanımın eliyle aldım.
+[^hâşiye2]: Bu mübarek emaneti, Risale-i Nur talebelerinden ve âhiret hemşirelerimizden Âsiye namında bir muhterem hanımın eliyle aldım.
 
-[^Hâşiye3]: Hastalık o kadar şiddetli idi ki dört gecede hemen bir saat kadar uyku geldi.
+[^hâşiye3]: Hastalık o kadar şiddetli idi ki dört gecede hemen bir saat kadar uyku geldi.
 

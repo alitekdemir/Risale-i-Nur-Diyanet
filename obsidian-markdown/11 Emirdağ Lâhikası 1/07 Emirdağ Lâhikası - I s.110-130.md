@@ -656,7 +656,7 @@ Aziz, sıddık kardeşlerim!
 
 Hadsiz şükür olsun ki Risale-i Nur yerine beni sıkıyorlar, benimle meşgul oluyorlar. Hiç merak etmeyiniz <span class="arabic" dir="rtl">عَسٰٓى اَنْ تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَكُمْ</span> sırrıyla inşâallah bu yeni hâdisede dahi bir hayır olacak.
 
-Hâdise budur: Ceylan’ı ve iki arkadaşları –ki bana hizmet ediyorlardı– yanıma gelmelerini men’ettiler. Anahtarı onlardan aldılar, bekçilere verdiler. O bekçilerden birisi geliyor, su ve ekmek gibi işlerimi görüyor. Ben bunun sebebini bilemedim. Fakat bu kasabada bir parti münazaası var. Çocuğun bir amcası [^Hâşiye1] bir taraftadır, onun muarızları yapıyor ihtimali var.
+Hâdise budur: Ceylan’ı ve iki arkadaşları –ki bana hizmet ediyorlardı– yanıma gelmelerini men’ettiler. Anahtarı onlardan aldılar, bekçilere verdiler. O bekçilerden birisi geliyor, su ve ekmek gibi işlerimi görüyor. Ben bunun sebebini bilemedim. Fakat bu kasabada bir parti münazaası var. Çocuğun bir amcası [^hâşiye1] bir taraftadır, onun muarızları yapıyor ihtimali var.
 
 Hem her tarafta Risale-i Nur’un fütuhatı ve hariçten gelen anarşistlik müdahalesi sebebiyet verdi zannederim. Ve Sandıklı’da elde edilen mektubatla, bir vasıta-i muhabere olması bahanesiyle bu sıkıntıyı verdiler.
 
@@ -694,5 +694,5 @@ Benim mektuplarımı yazan, şimdilik yanıma gerçi gelemiyor fakat şahsî hiz
 
 ***
 
-[^Hâşiye1]: Merhum Abdullah Çalışkan’dır. Demokrat Partiye, muhalefette iken intisap etmişti.
+[^hâşiye1]: Merhum Abdullah Çalışkan’dır. Demokrat Partiye, muhalefette iken intisap etmişti.
 

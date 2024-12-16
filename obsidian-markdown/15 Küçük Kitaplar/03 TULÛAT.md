@@ -22,7 +22,7 @@ Telepati nevinden, ruhumla şiddet-i alâkası olan bir şahs-ı meçhul, muhtel
 
 **S:** Âlem-i İslâm ulemasının ortasındaki müthiş ihtilafata ne dersin ve reyin nedir?
 
-**C: Evvela:** [^Hâşiye1] Âlem-i İslâm’a gayr-ı muntazam veya intizamı bozulmuş bir meclis-i mebusan ve encümen-i şûra nazarıyla bakıyorum. Şeriattan işitiyoruz ki: Rey-i cumhur budur, fetva bunun üzerinedir. İşte şu, bu meclisteki rey, ekseriyetin naziresidir. Rey-i cumhurdan maada olan akval, eğer hakikat ve mağzdan hâlî ve boş olmazsa istidadatın reylerine bırakılır. Tâ her bir istidat, terbiyesine münasip gördüğünü intihab etsin.
+**C: Evvela:** [^hâşiye1] Âlem-i İslâm’a gayr-ı muntazam veya intizamı bozulmuş bir meclis-i mebusan ve encümen-i şûra nazarıyla bakıyorum. Şeriattan işitiyoruz ki: Rey-i cumhur budur, fetva bunun üzerinedir. İşte şu, bu meclisteki rey, ekseriyetin naziresidir. Rey-i cumhurdan maada olan akval, eğer hakikat ve mağzdan hâlî ve boş olmazsa istidadatın reylerine bırakılır. Tâ her bir istidat, terbiyesine münasip gördüğünü intihab etsin.
 
 Lâkin burada **iki nokta-i mühimme** vardır:
 
@@ -58,7 +58,7 @@ Sebeb-i ihtilaf, hâkim-i zalim olan cerbezedir. Fikr-i tenkit ve bedbinliğe is
 
 S- O sâil-i meçhul, tekrar der: Cerbeze nedir?
 
-C- [^Hâşiye2] Müteferrik büyük işlerde, yalnız kusurları görmek cerbezeliktir; aldanır ve aldatır. Cerbezenin şe’ni, bir seyyieyi sümbüllendirerek hasenata galip etmektir [^Hâşiye3].
+C- [^hâşiye2] Müteferrik büyük işlerde, yalnız kusurları görmek cerbezeliktir; aldanır ve aldatır. Cerbezenin şe’ni, bir seyyieyi sümbüllendirerek hasenata galip etmektir [^hâşiye3].
 
 Mesela, bir aşiretin her bir ferdi, bir günde attığı balgamı, cerbeze ile vehmen tayy-ı mekân ederek birden bir şahısta o muhassalı temsil edip başka efradı ona kıyas ederek o nazar ile baksa…
 
@@ -102,7 +102,7 @@ Hem yine onun netaicidir ki mukteza-yı beşeriyet olan beyne’s-selef cereyan 
 
 İstanbul’u düşündükçe iki karış kadar dili uzanmış, sair azası neşv-ü nemadan mahrum kalmış, ihtiyar bir çocuğun timsali zihnime geliyor.
 
-**S-** Anadolu aleyhinde çıkmış olan fetvaya ne dersin? [^Hâşiye4]
+**S-** Anadolu aleyhinde çıkmış olan fetvaya ne dersin? [^hâşiye4]
 
 **C-** Fetva-yı mahz değil ki i’tizar edilsin. Belki kazayı tazammun eden bir fetvadır. Çünkü fetvanın kazadan farkı; mevzuu âmmdır, gayr-ı muayyendir hem mülzim değil… Kaza ise muayyen ve mülzimdir. Şu fetva ise hem muayyendir, kim nazar etse bizzarure muradı anlar. Hem mülzim olmuştur. Çünkü avam-ı Müslimîni onlar aleyhinde sevk etmekte esbabın en âhiridir.
 
@@ -149,7 +149,7 @@ Mesela, bir tabur galebe çalsa şan ve şeref kumandana verilir, taksim edilmez
 
 <p class="arabic" dir="rtl">وَ اِذَا تَكُونُ كَرٖيهَةٌ اُدْعٰى لَهَا § وَ اِذَا يُحَاسُ الْحَيْسُ يُدْعٰى جُنْدُبْ</p>
 
-[^Hâşiye5] kavl-i meşhuru, şu acib zulmün tercümanıdır.
+[^hâşiye5] kavl-i meşhuru, şu acib zulmün tercümanıdır.
 
 Hem de şu içtimaî sistemdeki damar-ı zulmün bir mecrası da şudur: Yüksek tabakada birinin öldürülmesiyle, çok seneler matem tutulur. Halbuki onun cinayetiyle tabaka-i avamda yüzer belki binler kişi telef olsa bir iki günde unutulur. Şu ise adalet-i Kur’aniyeye zıttır. Bir şah, bir gedayı öldürse şeriat kısasa hükmeder, ikisini bir görür.
 
@@ -172,7 +172,7 @@ Fıtrat-ı insan bir mezraa hükmündedir ki secaya-yı hasene temayülat-ı şe
 
 Binaenaleyh şeriat vâzı-ı esaret değildir. Belki en vahşi bir suretten, böyle tamamen hürriyete yol açacak ve geçebilecek bir surete indirmiştir, ta’dil etmiştir.
 
-Hem de dörde [^Hâşiye6] kadar taaddüd-ü zevcat, tabiata, akla, hikmete muvafakatıyla beraber şeriat bir taneden dörde çıkarmamış, belki sekizden, dokuzdan dörde indirmiştir. Bâhusus taaddüde öyle şerait koymuştur ki ona müraat etmekle, hiçbir mazarrata müeddi olmaz. Bazı noktada şer olsa da ehvenü’ş-şerdir. Ehvenü’ş-şer ise bir adalet-i izafiyedir.
+Hem de dörde [^hâşiye6] kadar taaddüd-ü zevcat, tabiata, akla, hikmete muvafakatıyla beraber şeriat bir taneden dörde çıkarmamış, belki sekizden, dokuzdan dörde indirmiştir. Bâhusus taaddüde öyle şerait koymuştur ki ona müraat etmekle, hiçbir mazarrata müeddi olmaz. Bazı noktada şer olsa da ehvenü’ş-şerdir. Ehvenü’ş-şer ise bir adalet-i izafiyedir.
 
 Heyhat! Âlemin her halinde hayr-ı mahz olamaz.
 
@@ -237,15 +237,15 @@ Lâkin şems binler âyinede temessül etse her bir timsal çendan şemsin azame
 
 ***
 
-[^Hâşiye1]: Bir zaman böyle demiştim.
+[^hâşiye1]: Bir zaman böyle demiştim.
 
-[^Hâşiye2]: Bir zaman aşiretlere böyle cevap vermiştim.
+[^hâşiye2]: Bir zaman aşiretlere böyle cevap vermiştim.
 
-[^Hâşiye3]: Çirkin emirler, çirkin şeylerle tasvir edilir. Gelecek temsillerde kusura bakma.
+[^hâşiye3]: Çirkin emirler, çirkin şeylerle tasvir edilir. Gelecek temsillerde kusura bakma.
 
-[^Hâşiye4]: Cây-ı dikkattir ki merkez-i Hilafet uleması ve Dârülhikmet ve zabıta-i ahlâkiye ile fuhuş, işret, kumar gibi kebairi izale değil, tevkif edemediler. Anadolu Hükûmeti’nin bir emri ile bütün işret, kumar gibi kebairler men’edildi. Demek desatir-i hikmet, nevamis-i hükûmetle; kavanin-i hak, revabıt-ı kuvvetle imtizaç etmezse cumhur-u avamda müsmir olamaz.
+[^hâşiye4]: Cây-ı dikkattir ki merkez-i Hilafet uleması ve Dârülhikmet ve zabıta-i ahlâkiye ile fuhuş, işret, kumar gibi kebairi izale değil, tevkif edemediler. Anadolu Hükûmeti’nin bir emri ile bütün işret, kumar gibi kebairler men’edildi. Demek desatir-i hikmet, nevamis-i hükûmetle; kavanin-i hak, revabıt-ı kuvvetle imtizaç etmezse cumhur-u avamda müsmir olamaz.
 
-[^Hâşiye5]: Musibet geldikçe bana bağırıyorlar, tatlı yendikçe Cündüb çağrılıyor.
+[^hâşiye5]: Musibet geldikçe bana bağırıyorlar, tatlı yendikçe Cündüb çağrılıyor.
 
-[^Hâşiye6]: Erkek galiben yüz yaşına kadar telkîh eder. Karı, yarı vakti hayz olduğu halde elliye kadar telakkuh eder.
+[^hâşiye6]: Erkek galiben yüz yaşına kadar telkîh eder. Karı, yarı vakti hayz olduğu halde elliye kadar telakkuh eder.
 

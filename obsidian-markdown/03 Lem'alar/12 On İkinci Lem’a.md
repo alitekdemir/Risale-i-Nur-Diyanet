@@ -53,7 +53,7 @@ Sâniyen, âyetin sarahatinde “yedi kat arz” dememiş. <span class="arabic" 
 
 **İkincisi:** ** Küre-i arz** her ne kadar semavata nisbeten çok küçüktür fakat hadsiz masnuat-ı İlahiyenin meşheri, mazharı, mahşeri, merkezi hükmünde olduğundan kalp, cesede mukabil geldiği gibi küre-i arz dahi koca hadsiz semavata karşı bir kalp ve manevî bir merkez hükmünde olarak mukabil gelir. Onun için:
 
-Zeminin küçük mikyasta eskiden beri yedi [^Hâşiye1] iklimi
+Zeminin küçük mikyasta eskiden beri yedi [^hâşiye1] iklimi
 
 hem Avrupa, Afrika, Okyanusya, iki Asya, iki Amerika namlarıyla maruf yedi kıtası
 
@@ -141,5 +141,5 @@ Evet, cin fikirli feylesofların felsefesiyle o semavat-ı Kur’aniyeye çıkı
 
 ***
 
-[^Hâşiye1]: Seb’a ile beraber yedi kelimesi yedi kere tevafuku pek güzel düşmüş.
+[^hâşiye1]: Seb’a ile beraber yedi kelimesi yedi kere tevafuku pek güzel düşmüş.
 

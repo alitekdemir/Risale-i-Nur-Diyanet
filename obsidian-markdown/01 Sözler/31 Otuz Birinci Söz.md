@@ -403,7 +403,7 @@ O sırr-ı hikmetin iktiza etmedikleri, istemedikleri ve dava-yı nübüvveti he
 
 Eğer umum onlara dahi gösterilse idi o halde ya işaret-i Ahmediyenin (asm) neticesi ve mu’cize-i nübüvvet olarak gösterilecekti; o vakit risaleti, bedahet derecesine çıkacaktı. Herkes tasdike mecbur olurdu, aklın ihtiyarı kalmazdı. İman ise aklın ihtiyarıyladır. Sırr-ı teklif zayi olurdu. Eğer sırf bir hâdise-i semaviye olarak gösterilse idi risalet-i Ahmediye (asm) ile münasebeti kesilirdi ve onunla hususiyeti kalmazdı.
 
-***Elhasıl:*** Şakk-ı kamerin imkânında şüphe kalmadı. Kat’î ispat edildi. Şimdi vukuuna delâlet eden çok bürhanlarından altısına [^Hâşiye1] işaret ederiz.
+***Elhasıl:*** Şakk-ı kamerin imkânında şüphe kalmadı. Kat’î ispat edildi. Şimdi vukuuna delâlet eden çok bürhanlarından altısına [^hâşiye1] işaret ederiz.
 
 Şöyle ki:
 	Ehl-i adalet olan sahabelerin vukuuna icmaı.
@@ -423,4 +423,4 @@ Sema-yı risaletin kamer-i müniri olan Hâtem-i Divan-ı Nübüvvet, nasıl ki 
 
 ***
 
-[^Hâşiye1]: Yani altı defa icma suretinde, vukuuna dair altı hüccet vardır. Bu makam çok izaha lâyık iken maatteessüf kısa kalmıştır.
+[^hâşiye1]: Yani altı defa icma suretinde, vukuuna dair altı hüccet vardır. Bu makam çok izaha lâyık iken maatteessüf kısa kalmıştır.

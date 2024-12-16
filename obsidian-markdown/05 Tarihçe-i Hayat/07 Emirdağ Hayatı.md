@@ -56,7 +56,7 @@ Emirdağı’ndaki hayatı şöyle hülâsa olunabilir:
 
 Daimî tarassud altındadır. Mahkemeden beraet kazanması ve eserlerinin iade edilmesine rağmen, serbest bırakılmış değildir. Eskisinden daha ziyade kontrol ve mütemadiyen pencere ve kapısından nezarete maruzdur. Mektuplarında da beyan ettiği gibi; Denizli hapsinin bir aylık sıkıntısını, bazen bir günde Emirdağı’nda çekiyordu. Üstada yapılan bed muameleler ve takınılan tavır, Emirdağ ahalisince yakından bilinmektedir. Denizli Mahkemesinin beraeti üzerine, mahkeme eliyle Nurların intişarına ve Said Nursî’nin hizmet-i imaniyesine set çekemeyen gizli dinsizlik komiteleri, bu defa başka yollardan, idarî makamları evhamlandırıp aleyhe geçirerek hattâ imhasına kadar çalışıyorlardı. Bu plan kat’î idi.
 
-Bir bekçi, kapısı önünden ayrılmazdı. Üstad ile görüşebilmek pek müşküldü. Emirdağı’nda ilk defa Üstadla yakından alâkadar olan Çalışkanlar Hanedanı, kasabalarına nefyedilen bu âlim ve fâzıl ihtiyar zata yakından dostluk göstermişler, hizmetine koşmuşlar, sırf lillah için olan bu irtibatlarını sû-i tefsir edenlerin yalan ve tezviratına aldırmayarak alâkalarını gevşetmemişlerdi. Çalışkanlarla beraber Emirdağı’nda birçok sadık mü’minler Nur’a talebe olmuşlar, Üstadın hizmet-i Nuriyesine iştirak etmişler [^Hâşiye1] Nur risalelerini okuyup yazmaya ve etrafa neşre başlamışlardı. Üstadın Emirdağı’nda ikametinden sonra, Risale-i Nur’un dersleriyle halkın mühim bir kısmının ilim, iman, ahlâk ve fazilet bakımından terakki ettiği herkesçe malûm olduğu gibi resmî zatların ikrarıyla da sabittir. [^Hâşiye2]
+Bir bekçi, kapısı önünden ayrılmazdı. Üstad ile görüşebilmek pek müşküldü. Emirdağı’nda ilk defa Üstadla yakından alâkadar olan Çalışkanlar Hanedanı, kasabalarına nefyedilen bu âlim ve fâzıl ihtiyar zata yakından dostluk göstermişler, hizmetine koşmuşlar, sırf lillah için olan bu irtibatlarını sû-i tefsir edenlerin yalan ve tezviratına aldırmayarak alâkalarını gevşetmemişlerdi. Çalışkanlarla beraber Emirdağı’nda birçok sadık mü’minler Nur’a talebe olmuşlar, Üstadın hizmet-i Nuriyesine iştirak etmişler [^hâşiye1] Nur risalelerini okuyup yazmaya ve etrafa neşre başlamışlardı. Üstadın Emirdağı’nda ikametinden sonra, Risale-i Nur’un dersleriyle halkın mühim bir kısmının ilim, iman, ahlâk ve fazilet bakımından terakki ettiği herkesçe malûm olduğu gibi resmî zatların ikrarıyla da sabittir. [^hâşiye2]
 
 ***
 
@@ -114,7 +114,7 @@ Bütün ahali, Üstadın numune-i imtisal iffet ve istikametini görerek, kendis
 
 Yine kırlarda ve yollarda rastladığı memur ve işçilere her birisine münasip ders verir, namaz kılmalarının ehemmiyetini söyler ve o zaman dünyevî meşgalelerinin âhiret hesabına geçeceğini telkin ederdi. Bilhassa bu nevi dersi “Din, terakkiye manidir.” diyenlerin fikirlerinin ancak birer hezeyan olduğunu gösterir. Bilakis hem o insan için hem vatan ve millet için iman nuruna mazhar olmak, maddî manevî saadet ve terakkiyi temin eder. Namazını kılıp istikametle hareket ettiği takdirde, dünyevî çalışma ve gayretinin âhiret hesabına geçip ebedî saadet ve nurları netice vermesi düşüncesi, ne kadar o vazifeyi iştiyakla severek yapmayı temin edeceği malûmdur.
 
-İşte bu hakikati, bütün memurlar, sanatkârlar ve esnaf, rehber ittihaz etmeli ve bu ders, umuma telkin edilmelidir. Bu zikredilen bahis, deryadan bir katre nevinden Üstadın saymakla bitmeyen millete menfaattar hizmetinden bir cüzdür. İslâmiyet’e irtica, mü’minlere mürteci diyenlere yazıklar olsun!.. [^Hâşiye3]
+İşte bu hakikati, bütün memurlar, sanatkârlar ve esnaf, rehber ittihaz etmeli ve bu ders, umuma telkin edilmelidir. Bu zikredilen bahis, deryadan bir katre nevinden Üstadın saymakla bitmeyen millete menfaattar hizmetinden bir cüzdür. İslâmiyet’e irtica, mü’minlere mürteci diyenlere yazıklar olsun!.. [^hâşiye3]
 
 ***
 
@@ -483,9 +483,9 @@ Risale-i Nur, bu mübarek vatanın manevî bir halâskârı olmak cihetiyle şim
 
 **O dehşetli beladan birisi:** Hristiyan dinini mağlup eden ve anarşiliği yetiştiren şimalde çıkan dehşetli dinsizlik cereyanının, bu vatanı manevî istilasına mukabil Risale-i Nur, sedd-i Zülkarneyn gibi bir sedd-i Kur’anî vazifesini görebilir.
 
-**İkincisi:** Âlem-i İslâm’ın bu mübarek vatanın ahalisine karşı pek şiddetli itiraz ve ittihamlarını izale etmek için matbuat lisanıyla konuşmak lâzım gelmiş diye kalbime ihtar edildi. [^Hâşiye4]
+**İkincisi:** Âlem-i İslâm’ın bu mübarek vatanın ahalisine karşı pek şiddetli itiraz ve ittihamlarını izale etmek için matbuat lisanıyla konuşmak lâzım gelmiş diye kalbime ihtar edildi. [^hâşiye4]
 
-Ben dünyanın halini bilmiyorum fakat Avrupa’da istilakârane hükmeden ve edyan-ı semaviyeye dayanmayan bu dehşetli cereyanın istilasına karşı Risale-i Nur hakikatleri bir kale olduğu gibi; âlem-i İslâm’ın ve Asya kıtasının hal-i hazırdaki itiraz ve ithamını izale ve eskideki muhabbet ve uhuvvetini iade etmeye vesile olan bir mu’cize-i Kur’aniyedir. Bu vatanın, bu milletin vatan-perver siyasîleri süratle Risale-i Nur’u tabettirerek resmî neşretmeleri lâzımdır ki bu iki belaya karşı siper olsunlar. [^Hâşiye5]
+Ben dünyanın halini bilmiyorum fakat Avrupa’da istilakârane hükmeden ve edyan-ı semaviyeye dayanmayan bu dehşetli cereyanın istilasına karşı Risale-i Nur hakikatleri bir kale olduğu gibi; âlem-i İslâm’ın ve Asya kıtasının hal-i hazırdaki itiraz ve ithamını izale ve eskideki muhabbet ve uhuvvetini iade etmeye vesile olan bir mu’cize-i Kur’aniyedir. Bu vatanın, bu milletin vatan-perver siyasîleri süratle Risale-i Nur’u tabettirerek resmî neşretmeleri lâzımdır ki bu iki belaya karşı siper olsunlar. [^hâşiye5]
 
 Said Nursî
 
@@ -689,7 +689,7 @@ Benim gibi zayıf, ihtiyar, merdüm-giriz, fakir, garib, hizmete çok muhtaç bi
 
 …
 
-**Üçüncüsü:** İki sene, iki mahkeme, ellerinde tetkik edilen bütün Risale-i Nur eczalarında kanunca bir vesile bulamayıp [^Hâşiye6] bizi ve Risale-i Nur’u beraet ettirdikten sonra zındıka komitesi, münafık bazı memurları vesile ederek, merkez-i hükûmette resmî bir plan çevirip bütün bütün hilaf-ı kanun olarak bütün dostlarımdan ve talebelerimden tecrit ve sıhhat ve hayatım noktasında en fena bir yerde, beni nefyetmek namı altında, haps-i münferid ve tecrid-i mutlak manasında beni Emirdağı’na gönderdiler. Şimdi tahakkuk etmiş ki iki maksatla bu muameleyi yapıyorlar:
+**Üçüncüsü:** İki sene, iki mahkeme, ellerinde tetkik edilen bütün Risale-i Nur eczalarında kanunca bir vesile bulamayıp [^hâşiye6] bizi ve Risale-i Nur’u beraet ettirdikten sonra zındıka komitesi, münafık bazı memurları vesile ederek, merkez-i hükûmette resmî bir plan çevirip bütün bütün hilaf-ı kanun olarak bütün dostlarımdan ve talebelerimden tecrit ve sıhhat ve hayatım noktasında en fena bir yerde, beni nefyetmek namı altında, haps-i münferid ve tecrid-i mutlak manasında beni Emirdağı’na gönderdiler. Şimdi tahakkuk etmiş ki iki maksatla bu muameleyi yapıyorlar:
 
 Birisi: Eskiden beri ihaneti kabul etmediğimden beni, o surette hiddete getirip bir mesele çıkararak mahvıma yol açmaktı. Bundan bir şey çıkaramadıkları için zehirlendirmek vasıtasıyla mahvıma çalıştılar. Fakat inayet-i İlahiye ile Nur şakirdlerinin duaları tiryak gibi panzehir gibi ve sabır ve tahammülüm tam bir ilaç gibi o planı akîm bıraktı, o maddî ve manevî zehirin tehlikesini geçirdi. Gerçi hiçbir tarihte, hiçbir hükûmette bu tarzda işkenceli zulümler, kanun namına, hükûmet namına yapılmadığı halde; damarlarıma dokunduracak tarzda mütemadiyen tarassudlarla herkesi ürkütmekle beni hiddete getiriyordu.
 
@@ -942,7 +942,7 @@ Aziz, sıddık kardeşlerim!
 
 **Sâniyen:** Bu defaki hâdisede bir habbeyi, evham yüzünden çok kubbeler yaptıklarını öğrendik. Bir emaresi de şudur:
 
-Dâhiliye Vekilinin emriyle gece içinde Afyon Valisi, Emniyet Müdürüyle buraya gelip gecede menzilimi basmak istemişler. Müddeiumumî muvafakat etmediğinden sabaha kadar bekleyip en ziyade aleyhimizde bulunan iki adamı tayin edip kilidimi kırıp füc’eten baskın vermeleri hem aynı gün [^Hâşiye7] faytonla çıktığım vakit burada emsali vuku bulmayan bir şekilde beş tayyare pek aşağıda uçup benim faytonumu bildikleri için etrafımda iki üç defa dönmeleri, ikinci gün başka bir tarafa, çok görünmeyen gizli bir dere tarafına faytonla giderken aşağıda uçan beş tayyarenin bir şey arıyor gibi döndüklerini gördük; anladık ki bizi arıyorlar. Yine aynen evvelki gün gibi o beş tayyare etrafımızda, kasaba üstünde gezip odamıza girdiğimiz zaman onların da gitmeleri kuvvetli bir emaredir ki bir habbe yüz kubbe yapılmış.
+Dâhiliye Vekilinin emriyle gece içinde Afyon Valisi, Emniyet Müdürüyle buraya gelip gecede menzilimi basmak istemişler. Müddeiumumî muvafakat etmediğinden sabaha kadar bekleyip en ziyade aleyhimizde bulunan iki adamı tayin edip kilidimi kırıp füc’eten baskın vermeleri hem aynı gün [^hâşiye7] faytonla çıktığım vakit burada emsali vuku bulmayan bir şekilde beş tayyare pek aşağıda uçup benim faytonumu bildikleri için etrafımda iki üç defa dönmeleri, ikinci gün başka bir tarafa, çok görünmeyen gizli bir dere tarafına faytonla giderken aşağıda uçan beş tayyarenin bir şey arıyor gibi döndüklerini gördük; anladık ki bizi arıyorlar. Yine aynen evvelki gün gibi o beş tayyare etrafımızda, kasaba üstünde gezip odamıza girdiğimiz zaman onların da gitmeleri kuvvetli bir emaredir ki bir habbe yüz kubbe yapılmış.
 
 Burada böyle manasız evham yüzünden bana eziyet verilmesi ve Medresetü’z-Zehranın kahramanlarına buraya nisbeten bu üç senede on dereceden yalnız bir derece eziyet verilmek cihetiyle, Isparta Hükûmetine ve adliyesine teşekkürümü ve minnettarlığımı ve onların verdiği eziyetleri de helâl ettiğimi bildirirsiniz.
 
@@ -1269,11 +1269,11 @@ Hasan Feyzi
 
 ***
 
-[^Hâşiye1]: Bugün Emirdağ halkı, umumiyetle Nurlara dost ve taraftardır. Pek çok talebesi vardır. Emirdağı’nda ve civar köylerde Nur dersleri okunmaktadır.
+[^hâşiye1]: Bugün Emirdağ halkı, umumiyetle Nurlara dost ve taraftardır. Pek çok talebesi vardır. Emirdağı’nda ve civar köylerde Nur dersleri okunmaktadır.
 
-[^Hâşiye2]: Üstad Said Nursî, Emirdağı’nı bir Dershane-i Nuriye manasında kabul ettiğini söyler. Sav, Barla, Emirdağ, Eflani gibi Nurların ekseriyetle yayılıp okunduğu kasaba ve köyleri, birer Dershane-i Nuriye unvanıyla yâd eder. Ve kendi Nurs köyü gibi sağ ve ölü umum ahalisine, masum çocuklar ve mübarek hanımlarına dua eder, manevî kazancına hissedar eder.
+[^hâşiye2]: Üstad Said Nursî, Emirdağı’nı bir Dershane-i Nuriye manasında kabul ettiğini söyler. Sav, Barla, Emirdağ, Eflani gibi Nurların ekseriyetle yayılıp okunduğu kasaba ve köyleri, birer Dershane-i Nuriye unvanıyla yâd eder. Ve kendi Nurs köyü gibi sağ ve ölü umum ahalisine, masum çocuklar ve mübarek hanımlarına dua eder, manevî kazancına hissedar eder.
 
-[^Hâşiye3]: Dinî farzlarını yerine getirmek suretiyle dünyevî çalışmaların da bir ibadet hükmüne geçtiğine dair Üstadımızın yanına gelenlere verdiği derslerden birkaç numune:
+[^hâşiye3]: Dinî farzlarını yerine getirmek suretiyle dünyevî çalışmaların da bir ibadet hükmüne geçtiğine dair Üstadımızın yanına gelenlere verdiği derslerden birkaç numune:
 
 1. Üstadımız Bedîüzzaman Hazretleri ile birlikte, bir gün Eskişehir’deki Yıldız Otelinde bulunuyorduk. Şeker Fabrikasından yanına gelen birkaç işçi ve ustabaşına kısaca dedi: “Siz, farz namazlarınızı kılsanız o zaman fabrikadaki bütün çalışmalarınız ibadet hükmüne geçer. Çünkü milletin zarurî ihtiyacını temin eden mübarek bir hizmette bulunuyorsunuz.”
 
@@ -1289,13 +1289,13 @@ Bu neviden on binler misaller var.
 
 Daimî hizmetinde bulunan talebeleri
 
-[^Hâşiye4]: İşte bu hakikat, Risale-i Nur’un –bu mektubun yazılışından on sene sonra– Ankara’da matbaalarda tabedilmesiyle tahakkuk etmiştir.
+[^hâşiye4]: İşte bu hakikat, Risale-i Nur’un –bu mektubun yazılışından on sene sonra– Ankara’da matbaalarda tabedilmesiyle tahakkuk etmiştir.
 
-[^Hâşiye5]: Bu, dünya çapındaki büyük şerefe ve en muazzam İslâmî hizmete ancak yeni hükûmet mazhar olabilmiş ve büyük bir anlayış göstererek, Risale-i Nur’un matbaalarda 1956 senesinde basılmasına sebep olmakla, millet-i İslâmiyenin büyük bir teveccühünü kazanmakla, kuvvetini çok fazla artırmak muvaffakıyetini elde etmiştir.
+[^hâşiye5]: Bu, dünya çapındaki büyük şerefe ve en muazzam İslâmî hizmete ancak yeni hükûmet mazhar olabilmiş ve büyük bir anlayış göstererek, Risale-i Nur’un matbaalarda 1956 senesinde basılmasına sebep olmakla, millet-i İslâmiyenin büyük bir teveccühünü kazanmakla, kuvvetini çok fazla artırmak muvaffakıyetini elde etmiştir.
 
-[^Hâşiye6]: Ya hiçbir cihetle hiçbir kanun hattâ onların bazı keyfî kanunları, bize ve Risale-i Nur’a ilişmiyorlar veyahut şimdiki bazı kanunlar iliştiği halde; koca adliyeler ve üç büyük mahkemeler, istikbalde gelecek şiddetli nefret ve lanetten çekinmek için Nur’un ve bizim mahkûmiyetimize cesaret edemeyip ittifakla umumumuzun beraetine ve bütün Risale-i Nur’un iadesine karar verdiler. Dağ gibi kuvvetli adliyeler çekindiği halde, muvakkat bir makamda olan gaddar şahsiyetlerin bu zulmü yapmaları elbette semavatı ve arzı kızdırıyor, daha hiddetime lüzum kalmıyor.
+[^hâşiye6]: Ya hiçbir cihetle hiçbir kanun hattâ onların bazı keyfî kanunları, bize ve Risale-i Nur’a ilişmiyorlar veyahut şimdiki bazı kanunlar iliştiği halde; koca adliyeler ve üç büyük mahkemeler, istikbalde gelecek şiddetli nefret ve lanetten çekinmek için Nur’un ve bizim mahkûmiyetimize cesaret edemeyip ittifakla umumumuzun beraetine ve bütün Risale-i Nur’un iadesine karar verdiler. Dağ gibi kuvvetli adliyeler çekindiği halde, muvakkat bir makamda olan gaddar şahsiyetlerin bu zulmü yapmaları elbette semavatı ve arzı kızdırıyor, daha hiddetime lüzum kalmıyor.
 
-[^Hâşiye7]: Evet, buradaki Nur şakirdleri namına tasdik ediyoruz, hâdise aynen vuku buldu.
+[^hâşiye7]: Evet, buradaki Nur şakirdleri namına tasdik ediyoruz, hâdise aynen vuku buldu.
 
 evet Terzi Mustafa, evet İsmail, evet Mustafa, evet Hizmetkârı Nuri, evet Hayri, evet Halil
 

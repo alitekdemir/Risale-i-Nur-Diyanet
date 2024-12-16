@@ -48,7 +48,7 @@ Eğer kader ve cüz-i ihtiyarîden bahseden adam, ehl-i gaflet ise o vakit kader
 
 ## İkinci Mebhas
 
-Ehl-i ilme mahsus [^Hâşiye1] ince bir tetkik-i ilmîdir.
+Ehl-i ilme mahsus [^hâşiye1] ince bir tetkik-i ilmîdir.
 
 ***Eğer desen:*** “Kader ile cüz-i ihtiyarî, nasıl tevfik edilebilir?”
 
@@ -74,13 +74,13 @@ Hem ezel, mazi silsilesinin bir ucu değil ki eşyanın vücudunda esas tutulup 
 
 *Elcevap:* Çünkü kader, onun ölmesini onun tüfeğiyle tayin etmiştir. Eğer onun tüfek atmamasını farz etsen o vakit kaderin adem-i taallukunu farz ediyorsun. O vakit ölmesini ne ile hükmedeceksin? Ya Cebrî gibi sebebe ayrı, müsebbebe ayrı birer kader tasavvur etsen veyahut Mutezile gibi kaderi inkâr etsen, Ehl-i Sünnet ve Cemaat’i bırakıp fırka-i dâlleye girersin. Öyle ise biz ehl-i hak deriz ki: “Tüfek atmasaydı ölmesi bizce meçhul.” Cebrî der: “Atmasaydı yine ölecekti.” Mutezile der: “Atmasaydı ölmeyecekti.”
 
-**Altıncısı:** [^Hâşiye2] Cüz-i ihtiyarînin üssü’l-esası olan meyelan, Matüridîce bir emr-i itibarîdir, abde verilebilir. Fakat Eş’arî, ona mevcud nazarıyla baktığı için abde vermemiş. Fakat o meyelandaki tasarruf, Eş’ariyece bir emr-i itibarîdir. Öyle ise o meyelan, o tasarruf, bir emr-i nisbîdir. Muhakkak bir vücud-u haricîsi yoktur. Emr-i itibarî ise illet-i tamme istemez ki illet-i tamme vücudu için lüzum ve zaruret ve vücub ortaya girip ihtiyarı ref’etsin. Belki o emr-i itibarînin illeti, bir rüçhaniyet derecesinde bir vaziyet alsa, o emr-i itibarî sübut bulabilir. Öyle ise o anda onu terk edebilir. Kur’an ona o anda diyebilir ki: “Şu şerdir, yapma.”
+**Altıncısı:** [^hâşiye2] Cüz-i ihtiyarînin üssü’l-esası olan meyelan, Matüridîce bir emr-i itibarîdir, abde verilebilir. Fakat Eş’arî, ona mevcud nazarıyla baktığı için abde vermemiş. Fakat o meyelandaki tasarruf, Eş’ariyece bir emr-i itibarîdir. Öyle ise o meyelan, o tasarruf, bir emr-i nisbîdir. Muhakkak bir vücud-u haricîsi yoktur. Emr-i itibarî ise illet-i tamme istemez ki illet-i tamme vücudu için lüzum ve zaruret ve vücub ortaya girip ihtiyarı ref’etsin. Belki o emr-i itibarînin illeti, bir rüçhaniyet derecesinde bir vaziyet alsa, o emr-i itibarî sübut bulabilir. Öyle ise o anda onu terk edebilir. Kur’an ona o anda diyebilir ki: “Şu şerdir, yapma.”
 
 Evet, eğer abd hâlık-ı ef’ali bulunsaydı ve icada iktidarı olsaydı o vakit ihtiyarı ref’ olurdu. Çünkü ilm-i usûl ve hikmette <span class="arabic" dir="rtl">مَا لَمْ يَجِبْ لَمْ يُوجَدْ</span> kaidesince mukarrerdir ki: “Bir şey vâcib olmazsa vücuda gelmez.” Yani illet-i tamme bulunacak, sonra vücuda gelebilir. İllet-i tamme ise ma’lulü, bizzarure ve bi’l-vücub iktiza ediyor. O vakit ihtiyar kalmaz.
 
 *Eğer desen:* Tercih bilâ-müreccih muhaldir. Halbuki o emr-i itibarî dediğimiz kesb-i insanî, bazen yapmak ve bazen yapmamak, eğer mûcib bir müreccih bulunmazsa tercih bilâ-müreccih lâzım gelir. Şu ise usûl-ü kelâmiyenin en mühim bir esasını hedmeder?
 
-*Elcevap:* Tereccuh bilâ-müreccih muhaldir. [^Hâşiye3] Yani müreccihsiz, sebepsiz rüçhaniyet muhaldir. Yoksa, tercih bilâ-müreccih caizdir ve vakidir. İrade bir sıfattır; onun şe’ni, böyle bir işi görmektir.
+*Elcevap:* Tereccuh bilâ-müreccih muhaldir. [^hâşiye3] Yani müreccihsiz, sebepsiz rüçhaniyet muhaldir. Yoksa, tercih bilâ-müreccih caizdir ve vakidir. İrade bir sıfattır; onun şe’ni, böyle bir işi görmektir.
 
 *Eğer desen:* Madem katli halk eden Hak’tır. Niçin bana kātil denilir?
 
@@ -194,7 +194,7 @@ Madem böyledir, hayat-ı maddiye-i nefsiyeyi bırak. Kalp ve ruh ve sırrın de
 
 **(Bu küçücük zeylin büyük bir ehemmiyeti var. Herkese menfaatlidir.)**
 
-Cenab-ı Hakk’a vâsıl olacak tarîkler pek çoktur. Bütün hak tarîkler Kur’an’dan alınmıştır. Fakat tarîkatların bazısı, bazısından daha kısa, daha selâmetli, daha umumiyetli oluyor. O tarîkler içinde, kāsır fehmimle Kur’an’dan istifade ettiğim **acz **ve** fakr **ve** şefkat **ve** tefekkür** tarîkıdır.
+Cenab-ı Hakk’a vâsıl olacak tarîkler pek çoktur. Bütün hak tarîkler Kur’an’dan alınmıştır. Fakat tarîkatların bazısı, bazısından daha kısa, daha selâmetli, daha umumiyetli oluyor. O tarîkler içinde, kāsır fehmimle Kur’an’dan istifade ettiğim **acz** ve **fakr** ve **şefkat** ve **tefekkür** tarîkıdır.
 
 Evet, acz dahi aşk gibi belki daha eslem bir tarîktir ki ubudiyet tarîkıyla mahbubiyete kadar gider.
 
@@ -249,8 +249,8 @@ Hem bu tarîk daha umumî ve cadde-i kübradır. Çünkü kâinatı ehl-i vahdet
 
 ***
 
-[^Hâşiye1]: Bu İkinci Mebhas, en derin ve en müşkül bir sırr-ı kader meselesidir. Bütün ulema-i muhakkikînce en ehemmiyetli ve münazaralı bir mesele-i akaid-i kelâmiyedir. Risale-i Nur tam halletmiş.
+[^hâşiye1]: Bu İkinci Mebhas, en derin ve en müşkül bir sırr-ı kader meselesidir. Bütün ulema-i muhakkikînce en ehemmiyetli ve münazaralı bir mesele-i akaid-i kelâmiyedir. Risale-i Nur tam halletmiş.
 
-[^Hâşiye2]: Gayet müdakkik âlimlere mahsus bir hakikattir.
+[^hâşiye2]: Gayet müdakkik âlimlere mahsus bir hakikattir.
 
-[^Hâşiye3]: Tereccuh ayrıdır, tercih ayrıdır, çok fark var.
+[^hâşiye3]: Tereccuh ayrıdır, tercih ayrıdır, çok fark var.

@@ -34,7 +34,7 @@ Elhasıl: Haşre mani hiçbir şey yoktur. Muktezî ise her şeydir. Evet, mahş
 
 Demek, ona şayeste, daimî, berkarar, zevalsiz, muhteşem bir diyar-ı âher var. Başka bâki bir memleketi vardır. Bizi onun için çalıştırır. Oraya davet eder ve oraya nakledeceğine; zahirden hakikate geçen ve kurb-u huzuruna müşerref olan bütün ervah-ı neyyire ashabı, bütün kulûb-ü münevvere aktabı, bütün ukûl-ü nuraniye erbabı şehadet ediyorlar. Ve bir mükâfat ve mücazat ihzar ettiğini müttefikan haber veriyorlar. Ve mükerreren pek kuvvetli vaad ve pek şiddetli tehdit eder, naklederler.
 
-Hulfü’l-vaad ise hem zillet hem tezellüldür. Hiçbir cihetle celal ve kudsiyetine yanaşamaz. Hulfü’l-vaîd ise ya aftan, ya aczden gelir. Halbuki küfür; cinayet-i mutlakadır, [^Hâşiye1] affa kabil değil. Kadîr-i Mutlak ise aczden münezzeh ve mukaddestir.
+Hulfü’l-vaad ise hem zillet hem tezellüldür. Hiçbir cihetle celal ve kudsiyetine yanaşamaz. Hulfü’l-vaîd ise ya aftan, ya aczden gelir. Halbuki küfür; cinayet-i mutlakadır, [^hâşiye1] affa kabil değil. Kadîr-i Mutlak ise aczden münezzeh ve mukaddestir.
 
 Şahitler, muhbirler ise mesleklerinde, meşreplerinde, mezheplerinde muhtelif oldukları halde, kemal-i ittifak ile şu meselenin esasında müttehiddirler. Kesretçe tevatür derecesindedirler, keyfiyetçe icma kuvvetindedirler. Mevkice her biri nev-i beşerin bir yıldızı, bir taifenin gözü, bir milletin azizidirler. Ehemmiyetçe şu meselede hem ehl-i ihtisas hem ehl-i ispattırlar. Halbuki bir fende veya bir sanatta iki ehl-i ihtisas, binler başkalardan müreccahtırlar ve ihbarda iki müsbit, binler nâfîlere tercih edilir. Mesela, ramazan hilâlinin sübutunu ihbar eden iki adam, binler münkirlerin inkârlarını hiçe atarlar.
 
@@ -44,7 +44,7 @@ Demek, şüphesiz dünya bir mezraadır. Mahşer ise bir beyderdir, harmandır. 
 
 ***
 
-[^Hâşiye1]: Evet küfür, mevcudatın kıymetini ıskat ve manasızlıkla ittiham ettiğinden, bütün kâinata karşı bir tahkir ve mevcudat âyinelerinde cilve-i esmayı inkâr olduğundan, bütün esma-i İlahiyeye karşı bir tezyif ve mevcudatın vahdaniyete olan şehadetlerini reddettiğinden, bütün mahlukata karşı bir tekzip olduğundan; istidad-ı insanîyi öyle ifsad eder ki salah ve hayrı kabule liyakati kalmaz. Hem bir zulm-ü azîmdir ki umum mahlukatın ve bütün esma-i İlahiyenin hukukuna bir tecavüzdür.
+[^hâşiye1]: Evet küfür, mevcudatın kıymetini ıskat ve manasızlıkla ittiham ettiğinden, bütün kâinata karşı bir tahkir ve mevcudat âyinelerinde cilve-i esmayı inkâr olduğundan, bütün esma-i İlahiyeye karşı bir tezyif ve mevcudatın vahdaniyete olan şehadetlerini reddettiğinden, bütün mahlukata karşı bir tekzip olduğundan; istidad-ı insanîyi öyle ifsad eder ki salah ve hayrı kabule liyakati kalmaz. Hem bir zulm-ü azîmdir ki umum mahlukatın ve bütün esma-i İlahiyenin hukukuna bir tecavüzdür.
 
 İşte şu hukukun muhafazası ve nefs-i kâfir hayra kabiliyetsizliği, küfrün adem-i affını iktiza eder. <span class="arabic" dir="rtl">اِنَّ الشِّرْكَ لَظُلْمٌ عَظٖيمٌ</span> şu manayı ifade eder.
 

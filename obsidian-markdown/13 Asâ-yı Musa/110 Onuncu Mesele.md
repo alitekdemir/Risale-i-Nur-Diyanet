@@ -10,7 +10,7 @@ Aziz, sıddık kardeşlerim!
 
 Gerçi bu mesele, perişan vaziyetimden müşevveş ve letafetsiz olmuş. Fakat o müşevveş ibare altında çok kıymetli bir nevi i’cazı kat’î bildim. Maatteessüf ifadeye muktedir olamadım. Her ne kadar ibaresi sönük olsa da Kur’an’a ait olmak cihetiyle hem ibadet-i tefekküriye hem kudsî, yüksek, parlak bir cevherin sadefidir. Yırtık libasına değil, elindeki elmasa bakılsın. Eğer münasip ise Onuncu Mesele yapınız, değilse sizin tebrik mektuplarınıza mukabil bir mektup kabul ediniz.
 
-Hem bunu gayet hasta ve perişan ve gıdasız, bir iki gün ramazanda, mecburiyetle gayet mücmel ve kısa ve bir cümlede pek çok hakikatleri ve müteaddid hüccetleri dercederek yazdım. Kusura bakılmasın. [^Hâşiye1]
+Hem bunu gayet hasta ve perişan ve gıdasız, bir iki gün ramazanda, mecburiyetle gayet mücmel ve kısa ve bir cümlede pek çok hakikatleri ve müteaddid hüccetleri dercederek yazdım. Kusura bakılmasın. [^hâşiye1]
 
 Aziz, sıddık kardeşlerim!
 
@@ -83,7 +83,7 @@ Evet, Kur’an’da Zat-ı Ahmediye’ye en büyük makam vermek ve dört erkân
 ***
 
 #### Bu Onuncu Meseleye Bir Hâtime Olarak İki Hâşiyedir
-**Birincisi:** Bundan [^Hâşiye2] on iki sene evvel işittim ki en dehşetli ve muannid bir zındık, Kur’an’a karşı sû-i kasdını tercümesiyle yapmaya başlamış ve demiş ki: “Kur’an tercüme edilsin, tâ ne mal olduğu bilinsin.” Yani, lüzumsuz tekraratı herkes görsün ve tercümesi onun yerinde okunsun diye dehşetli bir plan çevirmiş.
+**Birincisi:** Bundan [^hâşiye2] on iki sene evvel işittim ki en dehşetli ve muannid bir zındık, Kur’an’a karşı sû-i kasdını tercümesiyle yapmaya başlamış ve demiş ki: “Kur’an tercüme edilsin, tâ ne mal olduğu bilinsin.” Yani, lüzumsuz tekraratı herkes görsün ve tercümesi onun yerinde okunsun diye dehşetli bir plan çevirmiş.
 
 Fakat Risale-i Nur’un cerh edilmez hüccetleri kat’î ispat etmiş ki Kur’an’ın hakiki tercümesi kabil değil ve lisan-ı nahvî olan lisan-ı Arabî yerinde Kur’an’ın meziyetlerini ve nüktelerini başka lisan muhafaza edemez ve her bir harfi, on adetten bine kadar sevap veren kelimat-ı Kur’aniyenin mu’cizane ve cem’iyetli tabirleri yerinde, beşerin âdi ve cüz’î tercümeleri tutamaz, onun yerinde camilerde okunmaz diye Risale-i Nur, her tarafta intişarıyla o dehşetli planı akîm bıraktı. Fakat o zındıktan ders alan münafıklar, yine şeytan hesabına Kur’an güneşini üflemekle söndürmeye, aptal çocuklar gibi ahmakane ve divanecesine çalışmaları hikmetiyle, bana gayet sıkı ve sıkıcı ve sıkıntılı bir halette bu Onuncu Mesele yazdırıldı tahmin ediyorum. Başkalarla görüşemediğim için hakikat-i hali bilemiyorum.
 
@@ -128,7 +128,7 @@ Evet, sevgili üstadım, biz; Allah’tan, Kur’an’dan, Habib-i Zîşan’dan
 
 ***
 
-[^Hâşiye1]: Denizli Hapsinin meyvesine Onuncu Mesele olarak Emirdağı’nın ve bu ramazan-ı şerifin nurlu bir küçük çiçeğidir. Tekrarat-ı Kur’aniyenin bir hikmetini beyanla ehl-i dalaletin ufunetli ve zehirli evhamlarını izale eder.
+[^hâşiye1]: Denizli Hapsinin meyvesine Onuncu Mesele olarak Emirdağı’nın ve bu ramazan-ı şerifin nurlu bir küçük çiçeğidir. Tekrarat-ı Kur’aniyenin bir hikmetini beyanla ehl-i dalaletin ufunetli ve zehirli evhamlarını izale eder.
 
-[^Hâşiye2]: Bu risalenin telifinden on iki sene evvel.
+[^hâşiye2]: Bu risalenin telifinden on iki sene evvel.
 

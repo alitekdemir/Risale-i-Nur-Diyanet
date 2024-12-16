@@ -25,9 +25,9 @@ Mana mutabakatından başka bir emare ve karinesi budur ki: <span class="arabic"
 
 <span class="arabic" dir="rtl">اِنَّٓا اَرْسَلْنَاكَ شَاهِدًا وَ مُبَشِّرًا</span> cümlesi (şeddeler sayılmaz ve âhirde tenvin vakıftır, elif sayılır) makam-ı cifrîsi ki bin üç yüz yirmi üç (1323) tarihini gösterir. O tarihte, merkez-i hilafette dehşetli bir inkılabın mebde-i infilaki içinde, yeise düşen ehl-i imana müjde verip İslâmiyet’in hakkaniyetine ve kuvvetine kuvvetli şehadet eden ve veraset-i nübüvvet noktasında davette bulunan hakiki bir şahide işaret eder.
 
-<span class="arabic" dir="rtl">وَ نَذٖيرًا وَ دَاعِيًا اِلَى اللّٰهِ</span> cümlesi [^Hâşiye1] (tenvinler vakıf olmadığından sayılırlar) makam-ı cifrîsi, bin iki yüz elli altı (1256) tarihini göstermekle, bu asırda ve bu zamandaki İslâmiyet’in inhisafını bir asır evvel ihzar eden mukaddimatına bakarak <span class="arabic" dir="rtl">وَ دَاعِيًا اِلَى اللّٰهِ</span> kelimesi yüz doksan bir (191) ederek Risale-i Nur’un bir hakiki ismi olan Bedîüzzaman’ın makam-ı cifrîsi bulunan yüz doksan bir (191) adedine tam tamına tevafukla îma eder ki Risale-i Nur dahi o inhisaf içinde bir “dâî-i ilallah”tır.
+<span class="arabic" dir="rtl">وَ نَذٖيرًا وَ دَاعِيًا اِلَى اللّٰهِ</span> cümlesi [^hâşiye1] (tenvinler vakıf olmadığından sayılırlar) makam-ı cifrîsi, bin iki yüz elli altı (1256) tarihini göstermekle, bu asırda ve bu zamandaki İslâmiyet’in inhisafını bir asır evvel ihzar eden mukaddimatına bakarak <span class="arabic" dir="rtl">وَ دَاعِيًا اِلَى اللّٰهِ</span> kelimesi yüz doksan bir (191) ederek Risale-i Nur’un bir hakiki ismi olan Bedîüzzaman’ın makam-ı cifrîsi bulunan yüz doksan bir (191) adedine tam tamına tevafukla îma eder ki Risale-i Nur dahi o inhisaf içinde bir “dâî-i ilallah”tır.
 
-<span class="arabic" dir="rtl">بِاِذْنِهٖ وَ سِرَاجًا مُنٖيرًا</span> [^Hâşiye2] ve yalnız <span class="arabic" dir="rtl">سِرَاجًا مُنٖيرًا</span> kelimesi ise tam tamına Risale-i Nur’un bir ismi olan “Siracünnur”a lafzen ve manen ve cifren tevafukla bakar. <span class="arabic" dir="rtl">مُنٖيرًا</span> daki “mim” “ye” <span class="arabic" dir="rtl">النُّورِ</span> daki şeddeli “nun”a mukabildir. Evet, İmam-ı Ali (ra) keramet-i gaybiyesinde, Risale-i Nur’a “Siracünnur” namını vermesi, bu âyetin bu fıkrasından mülhemdir denilebilir ve çekinmeyerek deriz.
+<span class="arabic" dir="rtl">بِاِذْنِهٖ وَ سِرَاجًا مُنٖيرًا</span> [^hâşiye2] ve yalnız <span class="arabic" dir="rtl">سِرَاجًا مُنٖيرًا</span> kelimesi ise tam tamına Risale-i Nur’un bir ismi olan “Siracünnur”a lafzen ve manen ve cifren tevafukla bakar. <span class="arabic" dir="rtl">مُنٖيرًا</span> daki “mim” “ye” <span class="arabic" dir="rtl">النُّورِ</span> daki şeddeli “nun”a mukabildir. Evet, İmam-ı Ali (ra) keramet-i gaybiyesinde, Risale-i Nur’a “Siracünnur” namını vermesi, bu âyetin bu fıkrasından mülhemdir denilebilir ve çekinmeyerek deriz.
 
 <span class="arabic" dir="rtl">وَ بَشِّرِ الْمُؤْمِنٖينَ بِاَنَّ لَهُمْ مِنَ اللّٰهِ</span> cümlesi (şedde sayılmak cihetiyle) makam-ı cifrîsiyle bin üç yüz elli dokuz (1359) tarihini göstermekle, bu asrımızın tam bulunduğumuz bu senesine bakarak ehl-i imana bir büyük ihsanı var diye mana-yı remziyle haber veriyor.
 
@@ -273,7 +273,7 @@ Gıpta ederse cümle ihvanın sana, çok sezadır.
 
 Elde ettin şaheserle zuhr-i yevmi’l-mefer.
 
-Bilirim değilsin enbiyadan bir nebi [^Hâşiye3]
+Bilirim değilsin enbiyadan bir nebi [^hâşiye3]
 
 Lâkin elinde nedir bu nur-u muteber?
 
@@ -398,7 +398,7 @@ Bu hizmet-i kudsiyenin kerameti üç nevidir:
 
 **İkinci kısım:** Manileri bertaraf etmek ve muzırların şerrini def’edip onları tokatlamaktır.
 
-Bu iki kısmın hâdiseleri çoktur hem çok uzundur. [^Hâşiye4] Başka vakte ta’likan, en hafif olan üçüncü bir kısımdan bahsedeceğiz.
+Bu iki kısmın hâdiseleri çoktur hem çok uzundur. [^hâşiye4] Başka vakte ta’likan, en hafif olan üçüncü bir kısımdan bahsedeceğiz.
 
 **Üçüncü kısım şudur ki:** Hizmette hâlisen çalışanlara fütur geldiği vakit, şefkatli bir tokat yerler, intibaha gelerek yine o hizmete girerler. Bu kısmın hâdisatı, yüzden fazladır. Yalnız yirmi hâdiseden on üç on dördü şefkatli tokat yemişler, altı yedisi zecir tokadı görmüşler.
 
@@ -422,11 +422,11 @@ Ey kardeşlerim! Başıma gelen şefkat tokatlarını söyledim. Sizlerin de ba�
 
 **DÖRDÜNCÜSÜ:** Muhacir Hâfız Ahmed’dir. O kendisi söylüyor: Evet, ben itiraf ediyorum ki hizmet-i Kur’aniyede âhiretim nokta-i nazarında içtihadımda hata ettim. Hizmete fütur verecek bir arzuda bulundum. Şefkatli fakat şiddetli ve keffaretli bir tokat yedim. Şöyle ki:
 
-Üstadım yeni icadlara [^Hâşiye5] taraftar olmadığı için –benim camiim onun komşusudur; şuhur-u selâse geliyor, camiimi terk etsem hem ben çok sevap kaybediyorum hem mahalle namazsızlığa alışacak. Yeni usûl yapmazsam men’edileceğim. İşte bu içtihada göre– ruhum kadar sevdiğim Üstadımın muvakkaten başka bir köye gitmesini arzu ettim. Bilmedim ki o yerini değiştirse, başka bir memlekete gitse hizmet-i Kur’aniyeye muvakkaten fütur gelir. Tam o sıralarda ben tokat yedim. Şefkatli fakat öyle dehşetli bir tokat yedim ki üç aydır daha aklım başıma gelmedi. Fakat lillahi’l-hamd, Üstadımın kat’î ihbarıyla, ona ihtar edilmiş ki o musibetin her dakikası, bir gün ibadet hükmünde olduğunu rahmet-i İlahiyeden ümitvar olabiliriz. Çünkü o hata, bir garaza binaen değildi. Sırf âhiretimi düşünmek noktasında o arzu geldi.
+Üstadım yeni icadlara [^hâşiye5] taraftar olmadığı için –benim camiim onun komşusudur; şuhur-u selâse geliyor, camiimi terk etsem hem ben çok sevap kaybediyorum hem mahalle namazsızlığa alışacak. Yeni usûl yapmazsam men’edileceğim. İşte bu içtihada göre– ruhum kadar sevdiğim Üstadımın muvakkaten başka bir köye gitmesini arzu ettim. Bilmedim ki o yerini değiştirse, başka bir memlekete gitse hizmet-i Kur’aniyeye muvakkaten fütur gelir. Tam o sıralarda ben tokat yedim. Şefkatli fakat öyle dehşetli bir tokat yedim ki üç aydır daha aklım başıma gelmedi. Fakat lillahi’l-hamd, Üstadımın kat’î ihbarıyla, ona ihtar edilmiş ki o musibetin her dakikası, bir gün ibadet hükmünde olduğunu rahmet-i İlahiyeden ümitvar olabiliriz. Çünkü o hata, bir garaza binaen değildi. Sırf âhiretimi düşünmek noktasında o arzu geldi.
 
 **BEŞİNCİSİ:** Hakkı Efendi’dir. Şimdi burada olmadığı için Hulusi’ye vekalet ettiğim gibi ona da vekaleten derim ki: Hakkı Efendi talebelik vazifesini hakkıyla îfa ederken, ahlâksız bir kaymakam geldi. Hem Üstadına hem de kendine zarar gelmemek için yazdıklarını sakladı. Muvakkaten hizmet-i Nuriyeyi terk etti. Birden bir şefkat tokadı manasında bin lirayı vermeye mükellef olacak bir dava başına açıldı. Bir sene o tehdit altında kaldı. Tâ geldi, burada görüştük, avdetinde hizmet-i Kur’aniyeye talebelik vazifesine girdi. Şefkat tokadının hükmü kalktı, tebrie etti.
 
-Sonra Kur’an’ı yeni bir tarzda [^Hâşiye6] yazmak hususunda talebelere bir vazife açıldı. Hakkı Efendi’ye de hisse verildi. Elhak o, hissesine sahip çıktı. Bir cüzü güzel yazdı. Fakat derd-i maişet zaruretiyle kendini mecbur bilip gizli dava vekaletine teşebbüs etti. Birden bir şefkat tokadı daha yedi. Kalemi tutan parmağı, muvakkaten kırıldı. Bu parmakla hem dava vekaleti yapmak hem Kur’an’ı yazmak olmayacak diye lisan-ı mana ile ihtar edildi. Dava vekaletine teşebbüsünü bilmediğimiz için parmağına hayret ediyorduk. Sonra anlaşıldı ki: Kudsî, safi hizmet-i Kur’aniye, gayet temiz kendine mahsus parmakları başka işe karıştırmak istemiyor. Her ne ise… Hulusi Bey’i kendim gibi bildim, ona bedel konuştum. Hakkı Efendi de aynen onun gibidir. Eğer benim vekaletime razı olmazsa kendi tokadını kendi yazsın.
+Sonra Kur’an’ı yeni bir tarzda [^hâşiye6] yazmak hususunda talebelere bir vazife açıldı. Hakkı Efendi’ye de hisse verildi. Elhak o, hissesine sahip çıktı. Bir cüzü güzel yazdı. Fakat derd-i maişet zaruretiyle kendini mecbur bilip gizli dava vekaletine teşebbüs etti. Birden bir şefkat tokadı daha yedi. Kalemi tutan parmağı, muvakkaten kırıldı. Bu parmakla hem dava vekaleti yapmak hem Kur’an’ı yazmak olmayacak diye lisan-ı mana ile ihtar edildi. Dava vekaletine teşebbüsünü bilmediğimiz için parmağına hayret ediyorduk. Sonra anlaşıldı ki: Kudsî, safi hizmet-i Kur’aniye, gayet temiz kendine mahsus parmakları başka işe karıştırmak istemiyor. Her ne ise… Hulusi Bey’i kendim gibi bildim, ona bedel konuştum. Hakkı Efendi de aynen onun gibidir. Eğer benim vekaletime razı olmazsa kendi tokadını kendi yazsın.
 
 **ALTINCISI:** Bekir Efendi’dir. Şimdi hazır olmadığı için ben, kardeşim Abdülmecid’e vekalet ettiğim gibi onun itimat ve sadakatine itimadım ve Şamlı Hâfız ve Süleyman Efendi gibi bütün has dostlarımın hükümlerine (bildiklerine) istinaden diyorum ki: Bekir Efendi, Onuncu Söz’ü tabetti. İ’caz-ı Kur’an’a dair Yirmi Beşinci Söz’ü yeni huruf çıkmadan tabetmek için ona gönderdik. Onuncu Söz’ün matbaa fiyatını gönderdiğimiz gibi onu da göndereceğiz diye yazdık. Bekir Efendi, benim fakr-ı halimi düşünüp matbaa fiyatı dört yüz banknot kadar olduğunu mülahaza ederek ve kendi kesesinden vermek, belki Hoca razı olmaz diye onun nefsi onu aldattı. Tabedilmedi. Hizmet-i Kur’aniyeye mühim bir zarar oldu. İki ay sonra dokuz yüz lira hırsızların eline geçti. Şefkatli ve şiddetli bir tokat yedi. İnşâallah ziyaa giden dokuz yüz lira, sadaka hükmüne geçti.
 
@@ -492,23 +492,23 @@ Yoksa mü’min bu dünyada dahi kâfirden manen ve hakikat nokta-i nazarında �
 
 ***
 
-[^Hâşiye1]: <span class="arabic" dir="rtl">وَدَاعِيًا اِلَى اللّٰهِ</span> kelimesi, Risale-i Nur’un hakiki bir ismi olan Bedîüzzaman’ın makamına tam tamına tevafuku ve manen mutabakatı olduğu gibi yalnız <span class="arabic" dir="rtl">وَدَاعِيًا</span> kelimesi de Risale-i Nur’un tercümanı olan Said ismine üç harf ile ittihat ve üç farkla tevafuk eder. Çünkü tenvin, elif ve vav mecmuu elli yedi “sin”den üç fark var.
+[^hâşiye1]: <span class="arabic" dir="rtl">وَدَاعِيًا اِلَى اللّٰهِ</span> kelimesi, Risale-i Nur’un hakiki bir ismi olan Bedîüzzaman’ın makamına tam tamına tevafuku ve manen mutabakatı olduğu gibi yalnız <span class="arabic" dir="rtl">وَدَاعِيًا</span> kelimesi de Risale-i Nur’un tercümanı olan Said ismine üç harf ile ittihat ve üç farkla tevafuk eder. Çünkü tenvin, elif ve vav mecmuu elli yedi “sin”den üç fark var.
 
 Risale-i Nur talebelerinden Küçük Abdurrahman **Tahsin**
 
-[^Hâşiye2]: (Tenvinler elif sayılır) makamı (1330) edip Risale-i Nur’un fatihası olan İşaratü’l-İ’caz tefsirinin zuhur tarihine ve <span class="arabic" dir="rtl">سِرَاجًا مُنِيرًا</span> eğer birinci tenvin sayılsa (1380) ederek yirmi bir sene sonra Risale-i Nur, küre-i zemini ışıklandıracak bir sirac-ı münevver olacağına remzeder inşâallah.
+[^hâşiye2]: (Tenvinler elif sayılır) makamı (1330) edip Risale-i Nur’un fatihası olan İşaratü’l-İ’caz tefsirinin zuhur tarihine ve <span class="arabic" dir="rtl">سِرَاجًا مُنِيرًا</span> eğer birinci tenvin sayılsa (1380) ederek yirmi bir sene sonra Risale-i Nur, küre-i zemini ışıklandıracak bir sirac-ı münevver olacağına remzeder inşâallah.
 
 Risale-i Nur talebelerinden **Tahsin**
 
-[^Hâşiye3]: Mevlana Câmî, Mevlana Celaleddin-i Rumî hakkında demiş:
+[^hâşiye3]: Mevlana Câmî, Mevlana Celaleddin-i Rumî hakkında demiş:
 
 <p class="arabic" dir="rtl">مَن چِه گُويَمْ دَرْ وَصْفِ اٰنْ عَالٖى جَنَابْ § نٖيسْتْ پَيْغَمْبَرْ وَلٖى دَارَدْ كِتَابْ</p>
 
 Câmî’nin bu fıkrasının mealine işaret etmek istiyorum.
 
-[^Hâşiye4]: Mesela Halk Partisi, Nur talebelerine verdikleri azap ve sıkıntı ve ihanetlerden, kendileri dünyada daha ziyade cezasını çektiler, aynını gördüler.
+[^hâşiye4]: Mesela Halk Partisi, Nur talebelerine verdikleri azap ve sıkıntı ve ihanetlerden, kendileri dünyada daha ziyade cezasını çektiler, aynını gördüler.
 
-[^Hâşiye5]: Yani Türkçe ezan gibi şeair-i İslâmiyeye muhalif bid’atlardır.
+[^hâşiye5]: Yani Türkçe ezan gibi şeair-i İslâmiyeye muhalif bid’atlardır.
 
-[^Hâşiye6]: Tevafuk mu’cizesini gösterir bir surette demektir.
+[^hâşiye6]: Tevafuk mu’cizesini gösterir bir surette demektir.
 

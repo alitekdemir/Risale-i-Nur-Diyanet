@@ -255,7 +255,7 @@ Evet “Mecmuunda bir hâssa bulunur ki ondaki her fertte bulunmaz.” düsturuy
 
 İşte bu hakikate binaen böyle bir maksat için bir heyetin çıkmasına muntazır ve daima bekliyordum. O ümit, küçüklüğümden beri gaye-i hayalim iken, birden hiss-i kable’l-vuku kabîlinden kalbime bir sünuhat oldu ki:
 
-Maddî ve manevî iki zelzele-i azîme yaklaşıyordu [^Hâşiye1]. Ben de acz ve kusurumla, sözlerimdeki izahsızlık ve muğlaklık ile beraber Kur’an’ın nazmındaki i’cazın işaratını ve kalbimde tahattur eden nüktelerini kaydedip kaleme almak ve âyâtın bazı imanî hakikatlerini yazmaya şiddetli bir ihtar-ı gaybî hissettim. Halbuki harpte acib bir vaziyette olduğumdan tefsirlere müracaat etmek kabil olmadı. Kur’an’dan başka merci yoktu. Ben de yazdım. Yazdıklarım tefsirlere muvafık geldiyse güzel bir nimet ve bir muvaffakıyet, yoksa mes’uliyet benim bîçare fehmime aittir.
+Maddî ve manevî iki zelzele-i azîme yaklaşıyordu [^hâşiye1]. Ben de acz ve kusurumla, sözlerimdeki izahsızlık ve muğlaklık ile beraber Kur’an’ın nazmındaki i’cazın işaratını ve kalbimde tahattur eden nüktelerini kaydedip kaleme almak ve âyâtın bazı imanî hakikatlerini yazmaya şiddetli bir ihtar-ı gaybî hissettim. Halbuki harpte acib bir vaziyette olduğumdan tefsirlere müracaat etmek kabil olmadı. Kur’an’dan başka merci yoktu. Ben de yazdım. Yazdıklarım tefsirlere muvafık geldiyse güzel bir nimet ve bir muvaffakıyet, yoksa mes’uliyet benim bîçare fehmime aittir.
 
 Aynı zamanda zelzele-i kübra mahiyetinde olan maddî Birinci Harb-i Umumî ve o zelzele-i azîmenin âhirlerinde o mezkûr heyetin yuvalarını tahrip eden manevî zelzele-i azîme meydana çıktı ki öyle bir heyet-i âliye-i ilmiyeye ve böyle bir vazife yapmak için bütün kapılar kapandı. Ben de o noksan fehmimle Eski Harb-i Umumî’de farîza-i cihadda avcı hattında ne kadar fırsat buldumsa kalbime tulû eden nükteleri yazıyordum. Derelerde, dağlarda hücum ederken kaydederdim. Fakat o acib ayrı ayrı haletlerin tesiriyle çeşit çeşit olmasından tashih ve ıslah edilmesine çok ihtiyaç varken, benim kalbim tebdil ve tağyirine razı olmadı. Çünkü her dakika şehit olmaya hazırlandığımız için bir niyet-i hâlise ile yazılmış ki o halet her vakit bulunmuyor.
 
@@ -265,7 +265,7 @@ Said Nursî
 
 ***
 
-[^Hâşiye1]: Evet, Üstadımız mükerreren Birinci Harb-i Umumî’den evvel çok defa bize ulûm-u Arabiyeyi ders verdiği zaman bize kat’î bir tarzda “Büyük ve umumî bir zelzele yaklaşıyor, hazırlanınız. O zaman herkes benim gibi mücerredlere gıpta edecekler.” diye söylüyorlardı. Pek az zamanda, onun mükerreren verdiği haber aynen çıktı.
+[^hâşiye1]: Evet, Üstadımız mükerreren Birinci Harb-i Umumî’den evvel çok defa bize ulûm-u Arabiyeyi ders verdiği zaman bize kat’î bir tarzda “Büyük ve umumî bir zelzele yaklaşıyor, hazırlanınız. O zaman herkes benim gibi mücerredlere gıpta edecekler.” diye söylüyorlardı. Pek az zamanda, onun mükerreren verdiği haber aynen çıktı.
 
 Horhor’daki eski talebeleri namına Medresetü’l-Vaizîn mezunlarından:
 

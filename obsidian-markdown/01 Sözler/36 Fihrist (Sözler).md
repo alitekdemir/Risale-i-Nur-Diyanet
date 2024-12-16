@@ -258,7 +258,7 @@ Arabiyyü’l-ibare olarak on iki lâsiyyema kelimesiyle başlar ve gayet kuvvet
 
 <p class="arabic" dir="rtl">قُلِ الرُّوحُ مِنْ اَمْرِ رَبّٖى ۞ وَ الْمُؤْمِنُونَ يُؤْمِنُونَ بِاللّٰهِ وَ مَلٰٓئِكَتِهٖ ۞ وَ مَٓا اَمْرُ السَّاعَةِ اِلَّا كَلَمْحِ الْبَصَرِ اَوْ هُوَ اَقْرَبُ ۞ مَا خَلْقُكُمْ وَلَا بَعْثُكُمْ اِلَّا كَنَفْسٍ وَاحِدَةٍ</p>
 
-âyetlerinin mealindeki yüzer âyâtın haşir ve beka-i ruha ve melaikeye dair üç mühim hakikatini tefsir eder. Beka-i ruhu o kadar güzel ispat eder ki cesedin vücudu gibi ruhun bekasını gösterir. Ve melaikenin vücudlarını, Amerika insanlarının vücudları gibi ispat eder. Ve haşir ve kıyametin vücud ve tahakkuklarını o kadar mantıkî ve aklî bir surette ispat eder ki hiçbir feylesof, hiçbir münkir itiraza mecal bulamaz. Teslim olmazsa da mülzem olur. Hususan âhirindeki “Remizli Nüktenin Sırrı” namıyla haşr-i ekberin esbab-ı mûcibesini ve hikmetlerini öyle bir tarzda beyan eder ki tılsım-ı kâinatın üç muammasından bir muammasını gayet parlak bir surette halleder. [^Hâşiye1]
+âyetlerinin mealindeki yüzer âyâtın haşir ve beka-i ruha ve melaikeye dair üç mühim hakikatini tefsir eder. Beka-i ruhu o kadar güzel ispat eder ki cesedin vücudu gibi ruhun bekasını gösterir. Ve melaikenin vücudlarını, Amerika insanlarının vücudları gibi ispat eder. Ve haşir ve kıyametin vücud ve tahakkuklarını o kadar mantıkî ve aklî bir surette ispat eder ki hiçbir feylesof, hiçbir münkir itiraza mecal bulamaz. Teslim olmazsa da mülzem olur. Hususan âhirindeki “Remizli Nüktenin Sırrı” namıyla haşr-i ekberin esbab-ı mûcibesini ve hikmetlerini öyle bir tarzda beyan eder ki tılsım-ı kâinatın üç muammasından bir muammasını gayet parlak bir surette halleder. [^hâşiye1]
 
 ## OTUZUNCU SÖZ
 
@@ -322,4 +322,4 @@ Otuz üç âyetin birer hakikatlerini tefsir eden otuz üç penceredir. Otuz ü�
 
 ***
 
-[^Hâşiye1]: Yirmi Dokuzuncu Söz’ün göz ile görünen bir kerameti var. Ezcümle, on altı sahifesinde ihtiyarsız, tasannusuz her sahifenin satırlarının başlarında on altı elif gelmesidir. Bu tevafuku görmek isteyenler, el yazma nüshasına müracaat etsinler.
+[^hâşiye1]: Yirmi Dokuzuncu Söz’ün göz ile görünen bir kerameti var. Ezcümle, on altı sahifesinde ihtiyarsız, tasannusuz her sahifenin satırlarının başlarında on altı elif gelmesidir. Bu tevafuku görmek isteyenler, el yazma nüshasına müracaat etsinler.

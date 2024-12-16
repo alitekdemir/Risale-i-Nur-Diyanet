@@ -33,7 +33,7 @@ Hem madem gündüz bedahetle güneşi gösterdiği gibi; zemin yüzünde, mevsim
 
 Bahar kadar kudretine kolay gelen dâr-ı saadeti o mükerrem ve müşerref insanlar için açacak ve yapacak ve haşir ve kıyameti getirecek, diye **Muhyî** ve **Mümît** ve **Hay** ve **Kayyum** ve **Kadîr** ve **Alîm** isimleri, Hâlık’ımızdan sormamıza cevap veriyorlar.
 
-Evet, her baharda bütün ağaçları ve otların köklerini aynen ihya ve nebatî ve hayvanî üç yüz bin nevi haşrin ve neşrin numunelerini icad eden bir kudret, Muhammed ve Musa aleyhimessalâtü vesselâmların her birinin ümmetinin geçirdiği bin senelik zaman, karşı karşıya hayalen getirilip bakılsa haşrin ve neşrin bin misalini ve bin delilini iki bin baharda [^Hâşiye1] gösterdiği görülecek. Ve böyle bir kudretten haşr-i cismanîyi uzak görmek, bin derece körlük ve akılsızlıktır.
+Evet, her baharda bütün ağaçları ve otların köklerini aynen ihya ve nebatî ve hayvanî üç yüz bin nevi haşrin ve neşrin numunelerini icad eden bir kudret, Muhammed ve Musa aleyhimessalâtü vesselâmların her birinin ümmetinin geçirdiği bin senelik zaman, karşı karşıya hayalen getirilip bakılsa haşrin ve neşrin bin misalini ve bin delilini iki bin baharda [^hâşiye1] gösterdiği görülecek. Ve böyle bir kudretten haşr-i cismanîyi uzak görmek, bin derece körlük ve akılsızlıktır.
 
 Hem madem nev-i beşerin en meşhurları olan yüz yirmi dört bin peygamberler ittifak ile saadet-i ebediyeyi ve beka-yı uhrevîyi Cenab-ı Hakk’ın binler vaad ve ahidlerine istinaden ilan edip, mu’cizeleriyle doğru olduklarını ispat ettikleri gibi hadsiz ehl-i velayet, keşif ile ve zevk ile aynı hakikate imza basıyorlar. Elbette, o hakikat güneş gibi zahir olur, şüphe eden divane olur.
 
@@ -161,5 +161,5 @@ Ve madem Kur’an’ın dörtten birisi haşir ve âhirettir ve bin âyâtıyla 
 
 ***
 
-[^Hâşiye1]: Sâbık her bir bahar; kıyameti kopmuş, ölmüş ve karşısındaki bahar, onun haşri hükmündedir.
+[^hâşiye1]: Sâbık her bir bahar; kıyameti kopmuş, ölmüş ve karşısındaki bahar, onun haşri hükmündedir.
 

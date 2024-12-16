@@ -319,7 +319,7 @@ Evet, bir hayat ki bütün hayatlar mütemadiyen onun cilvesiyle zuhura gelir ve
 
 Evet, bir hayat ki onun bir lem’a-i cilvesi, maruz-u fena ve zeval olan eşya-yı kesîreye bir vahdet verip bekaya mazhar eder ve dağılmaktan kurtarır ve vücudunu muhafaza eder ve bir nevi bekaya mazhar eder. Yani hayat, kesrete bir vahdet verir, ibka eder. Hayat gitse dağılır, fenaya gider. Elbette öyle hadsiz lemaat-ı hayatiye bir cilvesi olan hayat-ı vâcibeye, zeval ve fena yanaşamaz.
 
-Şu hakikate şahid-i kātı’, şu kâinatın zeval ve fenasıdır. Yani mevcudat vücudlarıyla, hayatlarıyla nasıl ki o Hayy-ı Lâyemut’un hayatına ve o hayatın vücub-u vücuduna delâlet ve şehadet ederler [^Hâşiye1]. Öyle de mevtleriyle, zevalleriyle o hayatın bekasına, sermediyetine delâlet eder ve şehadet ederler. Çünkü mevcudat zevale gittikten sonra, arkalarında yine kendileri gibi hayata mazhar olup yerlerine geldiklerinden gösteriyor ki daimî bir zîhayat var ki mütemadiyen cilve-i hayatı tazelendiriyor.
+Şu hakikate şahid-i kātı’, şu kâinatın zeval ve fenasıdır. Yani mevcudat vücudlarıyla, hayatlarıyla nasıl ki o Hayy-ı Lâyemut’un hayatına ve o hayatın vücub-u vücuduna delâlet ve şehadet ederler [^hâşiye1]. Öyle de mevtleriyle, zevalleriyle o hayatın bekasına, sermediyetine delâlet eder ve şehadet ederler. Çünkü mevcudat zevale gittikten sonra, arkalarında yine kendileri gibi hayata mazhar olup yerlerine geldiklerinden gösteriyor ki daimî bir zîhayat var ki mütemadiyen cilve-i hayatı tazelendiriyor.
 
 Nasıl ki güneşe karşı cereyan eden bir nehrin yüzünde kabarcıklar parlar, gider. Gelenler aynı parlamayı gösterip taife taife arkasında parlayıp, sönüp gider. Bu sönmek, parlamak vaziyetiyle yüksek daimî bir güneşin devamına delâlet ederler. Öyle de şu mevcudat-ı seyyaredeki hayat ve mevtin değişmeleri ve münavebeleri, bir Hayy-ı Bâki’nin beka ve devamına şehadet ederler.
 
@@ -593,5 +593,5 @@ Eğer arza “Sen dur, karışma!” denilse ve o netice ve o vaziyetin istihsal
 
 ***
 
-[^Hâşiye1]: Hazret-i İbrahim aleyhisselâmın Nemrut’a karşı imate ve ihyada güneşin tulû ve gurûbuna intikali, cüz’î imate ve ihyadan küllî imate ve ihyaya intikaldir ve bir terakkidir. O delilin en parlak ve en geniş dairesini göstermektir. Yoksa bir kısım ehl-i tefsirin dedikleri gibi hafî delili bırakıp zahir delile çıkmak değildir.
+[^hâşiye1]: Hazret-i İbrahim aleyhisselâmın Nemrut’a karşı imate ve ihyada güneşin tulû ve gurûbuna intikali, cüz’î imate ve ihyadan küllî imate ve ihyaya intikaldir ve bir terakkidir. O delilin en parlak ve en geniş dairesini göstermektir. Yoksa bir kısım ehl-i tefsirin dedikleri gibi hafî delili bırakıp zahir delile çıkmak değildir.
 

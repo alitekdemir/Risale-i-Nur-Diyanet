@@ -41,7 +41,7 @@ Demek o hâdisatın önünü almak, o vakitteki hayat-ı içtimaiyeyi ve muhteli
 
 ***Eğer denilse:*** Hazret-i Ömer’in (ra) minber üstünde, bir aylık mesafede bulunan Sâriye namındaki bir kumandanına <span class="arabic" dir="rtl">يَا سَارِيَةُ اَلْجَبَلَ اَلْجَبَلَ</span> deyip Sâriye’ye işittirip sevkü’l-ceyş noktasından zaferine sebebiyet veren kerametkârane kumandası ne derece keskin nazarlı olduğunu gösterdiği halde, neden yanındaki kātili Firuz’u o keskin nazar-ı velayetiyle görmedi?
 
-***Elcevap:*** Hazret-i Yakub aleyhisselâmın verdiği cevap ile cevap veririz. [^Hâşiye1] Yani Hazret-i Yakub’dan sorulmuş ki: “Ne için Mısır’dan gelen gömleğinin kokusunu işittin de yakınında bulunan Ken’an Kuyusu’ndaki Yusuf’u görmedin?” Cevaben demiş ki: “Bizim halimiz şimşekler gibidir; bazen görünür, bazen saklanır. Bazı vakit olur ki en yüksek mevkide oturup her tarafı görüyoruz gibi oluruz. Bazı vakitte de ayağımızın üstünü göremiyoruz.”
+***Elcevap:*** Hazret-i Yakub aleyhisselâmın verdiği cevap ile cevap veririz. [^hâşiye1] Yani Hazret-i Yakub’dan sorulmuş ki: “Ne için Mısır’dan gelen gömleğinin kokusunu işittin de yakınında bulunan Ken’an Kuyusu’ndaki Yusuf’u görmedin?” Cevaben demiş ki: “Bizim halimiz şimşekler gibidir; bazen görünür, bazen saklanır. Bazı vakit olur ki en yüksek mevkide oturup her tarafı görüyoruz gibi oluruz. Bazı vakitte de ayağımızın üstünü göremiyoruz.”
 
 ***Elhasıl:*** İnsan her ne kadar fâil-i muhtar ise de fakat <span class="arabic" dir="rtl">وَمَا تَشَٓاؤُنَ اِلَّٓا اَنْ يَشَٓاءَ اللّٰهُ</span> sırrınca, meşiet-i İlahiye asıldır ve kader hâkimdir. Meşiet-i İlahiye, meşiet-i insaniyeyi geri verir.<span class="arabic" dir="rtl">اِذَا جَاءَ الْقَدَرُ عُمِىَ الْبَصَرُ</span> hükmünü icra eder. Kader söylese iktidar-ı beşer konuşmaz, ihtiyar-ı cüz’î susar.
 
@@ -175,7 +175,7 @@ Hem <span class="arabic" dir="rtl">كُلُّ شَىْءٍ هَالِكٌ اِل
 
 ***
 
-[^Hâşiye1]:
+[^hâşiye1]:
 
 <p class="arabic" dir="rtl">زِ مِصْرَشْ بُوىِ پٖيرَاهَنْ شِنٖيدٖى<br/>چِرَا دَرْ چَاهِ كَنْعَانَشْ نَدٖيدٖى<br/>بَگُفْتْ اَحْوَالِ مَا بَرْقِ جِهَانَسْتْ<br/>دَمٖى پَيْدَا وُ دٖيگَرْ دَمْ نِهَانَسْتْ<br/>گَهٖى بَرْ طَارُمِ اَعْلٰى نِشٖينَمْ<br/>گَهٖى بَرْ پُشْتِ پَاىِ خُودْ نَبٖينَمْ</p>
 

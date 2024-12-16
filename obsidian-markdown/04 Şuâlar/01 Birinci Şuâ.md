@@ -91,7 +91,7 @@ Resaili’n-Nur’un bu âyetin iltifatına liyakatini anlamak isteyen zatlar, h
 
 Makam-ı cifrîsi bin üç yüz üç (1303) ederek hem Sure-i Şûra’nın ikinci sahifesinde <span class="arabic" dir="rtl">وَاسْتَقِمْ كَمَٓا اُمِرْتَ</span> ise bin üç yüz dokuz (1309) ederek o tarihte umum muhatapları içinde birisine hususan Kur’an hesabına iltifat edip istikametle emreder ki birinci tarih ise Resaili’n-Nur müellifinin Risale-i Nur’u netice veren ulûmun tahsiline başladığı tarihtir.
 
-Ve ikinci âyetin tarihi ise o müellifin hârika bir surette pek az bir zamanda ilimce tekemmül etmesi, tahsilden tedrise başladığı ve üç ayda ve bir kış içinde on beş senede medresece okunan yüz kitaptan ziyade okuduğu ve o zamanın o muhitte en meşhur ulemasının yanında o üç ayın mahsulü on beş senesinin mahsulü kadar netice verdiği çok mükerrer imtihanlarla [^Hâşiye1] ve hangi ilimden olursa olsun sorulan her suale karşı cevab-ı savab vermekle ispat ettiği aynı tarihe, tam tamına tevafukla remzen Risale-i Nur’un istikametine bir işarettir.
+Ve ikinci âyetin tarihi ise o müellifin hârika bir surette pek az bir zamanda ilimce tekemmül etmesi, tahsilden tedrise başladığı ve üç ayda ve bir kış içinde on beş senede medresece okunan yüz kitaptan ziyade okuduğu ve o zamanın o muhitte en meşhur ulemasının yanında o üç ayın mahsulü on beş senesinin mahsulü kadar netice verdiği çok mükerrer imtihanlarla [^hâşiye1] ve hangi ilimden olursa olsun sorulan her suale karşı cevab-ı savab vermekle ispat ettiği aynı tarihe, tam tamına tevafukla remzen Risale-i Nur’un istikametine bir işarettir.
 
 ## Üçüncü Âyet-i Meşhure
 
@@ -167,7 +167,7 @@ Risaletü’n-Nur’un eczaları Sözler namıyla iştihar etmişler. Sözler is
 
 ## Sekizinci Âyet
 
-<span class="arabic" dir="rtl">قُلْ اِنَّنٖى هَدٰينٖى رَبّٖٓى اِلٰى صِرَاطٍ مُسْتَقٖيمٍ</span> dir. Şu âyet-i meşhure küllî manasının bu asırda muvafık ve münasip bir ferdi Risaletü’n-Nur olduğu gibi cifirle <span class="arabic" dir="rtl">صِرَاطٍ مُسْتَقٖيمٍ</span> kelimesi <span class="arabic" dir="rtl">صِرَاطٍ</span> deki tenvin “nun” sayılmak cihetiyle Risaletü’n-Nur adedi olan dokuz yüz doksan sekize (998) yine iki sırlı [^Hâşiye2] fark ile baktığı gibi <span class="arabic" dir="rtl">هَدٰينٖى رَبّٖٓى اِلٰى صِرَاطٍ مُسْتَقٖيمٍ</span> cümlesinin makam-ı ebcedîsi ile bin üç yüz on altı (1316) ederek Risale-i Nur müellifinin tedrisiyle istihzarat-ı Nuriyede bulunduğu en hararetli tarihi olan bin üç yüz on altı adedine tam tamına tevafuk eder.
+<span class="arabic" dir="rtl">قُلْ اِنَّنٖى هَدٰينٖى رَبّٖٓى اِلٰى صِرَاطٍ مُسْتَقٖيمٍ</span> dir. Şu âyet-i meşhure küllî manasının bu asırda muvafık ve münasip bir ferdi Risaletü’n-Nur olduğu gibi cifirle <span class="arabic" dir="rtl">صِرَاطٍ مُسْتَقٖيمٍ</span> kelimesi <span class="arabic" dir="rtl">صِرَاطٍ</span> deki tenvin “nun” sayılmak cihetiyle Risaletü’n-Nur adedi olan dokuz yüz doksan sekize (998) yine iki sırlı [^hâşiye2] fark ile baktığı gibi <span class="arabic" dir="rtl">هَدٰينٖى رَبّٖٓى اِلٰى صِرَاطٍ مُسْتَقٖيمٍ</span> cümlesinin makam-ı ebcedîsi ile bin üç yüz on altı (1316) ederek Risale-i Nur müellifinin tedrisiyle istihzarat-ı Nuriyede bulunduğu en hararetli tarihi olan bin üç yüz on altı adedine tam tamına tevafuk eder.
 
 ## Dokuzuncu Âyet
 
@@ -233,7 +233,7 @@ Bu âyetin makam-ı cifrîsi olan bin üç yüz kırk altı (1346) adedi Resaili
 
 <span class="arabic" dir="rtl">فَاِنْ تَوَلَّوْا فَقُلْ حَسْبِىَ اللّٰهُ لَٓا اِلٰهَ اِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ</span> deki <span class="arabic" dir="rtl">قُلْ حَسْبِىَ اللّٰهُ لَٓا اِلٰهَ اِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ</span> nün makam-ı cifrîsi şeddeli “lâm”lar birer “lâm” ve şeddeli “kâf” bir “kâf” sayılmak cihetiyle bin üç yüz yirmi dokuz (1329) ederek, Harb-i Umumî’nin başlangıcı zamanında Resaili’n-Nur’un başlangıcı olan İşaratü’l-İ’caz tefsirinin tarih-i telifine tam tamına tevafukla beraber, şeddeli “kâf” iki “kâf” sayılmak cihetiyle bin üç yüz kırk dokuz (1349) ederek Harb-i Umumî’nin verdiği sarsıntılar zamanında Resaili’n-Nur’un ‌<span class="arabic" dir="rtl">حَسْبِىَ اللّٰهُ</span>‌ diyerek ehl-i dünyadan hiçbir yerde himaye görmeden belki tehacüme hedef olmakla beraber çekinmeyerek yalnız başlarıyla müşkülat içinde envar-ı Kur’aniyeyi neşrettikleri aynı tarihe tam tamına tevafuku ise her cihetiyle ayn-ı şuur olan âyâtta elbette tesadüfî olamaz. Belki bu gibi âyetler, en müşkül zaman olan bu asra dahi hususi bakarlar ve o âyâtı kendilerine rehber ittihaz eden bir kısım şakirdlerine hususi iltifat edip iltifatlarıyla teşci ederler.
 
-Bu âyet, sâbık âyetler gibi münasebet-i maneviyesi gerçi zahiren görünmüyor fakat bir cihetle Resaili’n-Nur ile bir nevi münasebeti vardır. Şöyle ki: On üç senedir [^Hâşiye3] bu âyet Risaletü’n-Nur müellifinin ve sonra has şakirdlerinin mağribden sonra bir vird-i hususileridir. Hem bu âyetin manasına bu zamanda tam mazhar ve herkes onlardan çekinmesinden fütur getirmeyerek ‌<span class="arabic" dir="rtl">حَسْبِىَ اللّٰهُ</span>‌ deyip mütevekkilane müşkülat-ı azîme içinde envar-ı imaniyeyi ve esrar-ı Kur’aniyeyi neşreden, ehl-i imanı meyusiyetten kurtaran başta Risaletü’n-Nur ve şakirdleridir.
+Bu âyet, sâbık âyetler gibi münasebet-i maneviyesi gerçi zahiren görünmüyor fakat bir cihetle Resaili’n-Nur ile bir nevi münasebeti vardır. Şöyle ki: On üç senedir [^hâşiye3] bu âyet Risaletü’n-Nur müellifinin ve sonra has şakirdlerinin mağribden sonra bir vird-i hususileridir. Hem bu âyetin manasına bu zamanda tam mazhar ve herkes onlardan çekinmesinden fütur getirmeyerek ‌<span class="arabic" dir="rtl">حَسْبِىَ اللّٰهُ</span>‌ deyip mütevekkilane müşkülat-ı azîme içinde envar-ı imaniyeyi ve esrar-ı Kur’aniyeyi neşreden, ehl-i imanı meyusiyetten kurtaran başta Risaletü’n-Nur ve şakirdleridir.
 
 ## On Sekizinci Âyet
 
@@ -257,7 +257,7 @@ Ve bu duhûlüne bir emare olarak <span class="arabic" dir="rtl">مَا هُوَ
 
 <p class="arabic" dir="rtl">قُلْ اِنَّنٖى هَدٰينٖى رَبّٖٓى اِلٰى صِرَاطٍ مُسْتَقٖيمٍ ۞ وَ هَدٰيهُ اِلٰى صِرَاطٍ مُسْتَقٖيمٍ</p>
 
-Sekiz dokuz âyetlerde “sırat-ı müstakim”e nazarı çeviriyorlar. Ve bu doğru, istikametli yolu bulmak için daima Kur’an’ın nurundan her asırda o asrın zulmetlerini dağıtacak ve istikamet yolunu tenvir edecek Kur’an’dan gelen nurlar olmakla ve bu dehşetli ve fırtınalı asırda o doğru yolu şaşırtmayacak bir surette gösteren başta şimdilik Risaletü’n-Nur tezahür ettiğinden hem bu “sırat-ı müstakim” kelimesinin makam-ı cifrîsi –tenvin “nun” sayılmak cihetiyle– bin (1000) eder. Medde olmazsa dokuz yüz doksan dokuz (999) ederek yalnız bir veya iki farkla [^Hâşiye4] Risaletü’n-Nur adedi olan dokuz yüz doksan sekize (998) tevafukla, sekiz dokuz âyetlerde “sırat-ı müstakim” kelimeleri bu mezkûr iki âyet gibi Risaletü’n-Nur’u “sırat-ı müstakim”in efradına hususi idhal edip remzen ona baktırır ve istikametine işaret eder. Eğer <span class="arabic" dir="rtl">صِرَاطٍ</span> deki tenvin sayılmazsa <span class="arabic" dir="rtl">اَلنُّورِ</span> deki şeddeli “nun” bir “nun” sayılır, yine tevafuk eder.
+Sekiz dokuz âyetlerde “sırat-ı müstakim”e nazarı çeviriyorlar. Ve bu doğru, istikametli yolu bulmak için daima Kur’an’ın nurundan her asırda o asrın zulmetlerini dağıtacak ve istikamet yolunu tenvir edecek Kur’an’dan gelen nurlar olmakla ve bu dehşetli ve fırtınalı asırda o doğru yolu şaşırtmayacak bir surette gösteren başta şimdilik Risaletü’n-Nur tezahür ettiğinden hem bu “sırat-ı müstakim” kelimesinin makam-ı cifrîsi –tenvin “nun” sayılmak cihetiyle– bin (1000) eder. Medde olmazsa dokuz yüz doksan dokuz (999) ederek yalnız bir veya iki farkla [^hâşiye4] Risaletü’n-Nur adedi olan dokuz yüz doksan sekize (998) tevafukla, sekiz dokuz âyetlerde “sırat-ı müstakim” kelimeleri bu mezkûr iki âyet gibi Risaletü’n-Nur’u “sırat-ı müstakim”in efradına hususi idhal edip remzen ona baktırır ve istikametine işaret eder. Eğer <span class="arabic" dir="rtl">صِرَاطٍ</span> deki tenvin sayılmazsa <span class="arabic" dir="rtl">اَلنُّورِ</span> deki şeddeli “nun” bir “nun” sayılır, yine tevafuk eder.
 
 Hem nasıl ki bu âyet Risalei’n-Nur’a ismiyle bakıyor, öyle de onun istihzarat zamanına da bakar. Çünkü <span class="arabic" dir="rtl">هَدٰينٖى رَبّٖٓى اِلٰى صِرَاطٍ مُسْتَقٖيمٍ</span> in makam-ı cifrîsi bin üç yüz on altı (1316) ederek Risaletü’n-Nur müellifinin ihtiyarsız olarak istihzarat-ı Nuriyede bulunduğu ve umum malûmatını Kur’an’ın fehmine basamaklar yaptığı en hararetli tarihi olan bin üç yüz on altı adedine tam tamına tevafuku elbette evvelki işaratı teyid ve onunla teeyyüd ederek Risaletü’n-Nur’u daire-i harîmine remzen belki işareten dâhil ediyor.
 
@@ -375,7 +375,7 @@ Bu müjde-i Kur’aniyenin binden bir vechi bize teması, bin hazineden ziyade k
 
 “Resaili’n-Nur şakirdleri, iman ile kabre girecekler, imansız vefat etmezler.”
 
-Biz o vakit o rüyaya çok sevindik. Demek o müjde, bu müjde-i Kur’aniyenin bir müjdecisi imiş. [^Hâşiye5]
+Biz o vakit o rüyaya çok sevindik. Demek o müjde, bu müjde-i Kur’aniyenin bir müjdecisi imiş. [^hâşiye5]
 
 ## Yirmi Yedinci Âyet
 
@@ -457,12 +457,12 @@ Daha yazılacak çok gaybî işaretler var fakat izin verilmedi, şimdilik kald�
 
 ***
 
-[^Hâşiye1]: Bu beyanat-ı medhiye Said’e ait değildir. Belki Kur’an’ın bir tilmizini, bir hâdimini Said (ra) lisanıyla ve haliyle tarif eder. Tâ hizmetine itimat edilsin.
+[^hâşiye1]: Bu beyanat-ı medhiye Said’e ait değildir. Belki Kur’an’ın bir tilmizini, bir hâdimini Said (ra) lisanıyla ve haliyle tarif eder. Tâ hizmetine itimat edilsin.
 
-[^Hâşiye2]: Yani mertebesine işaret için iki fark var. Risale-i Nur vahiy değil, ilham ve istihraçtır.
+[^hâşiye2]: Yani mertebesine işaret için iki fark var. Risale-i Nur vahiy değil, ilham ve istihraçtır.
 
-[^Hâşiye3]: Telif tarihine göredir. (Nâşir)
+[^hâşiye3]: Telif tarihine göredir. (Nâşir)
 
-[^Hâşiye4]: Yani Risaletü’n-Nur’un mertebesi ikinci ve üçüncüde olduğuna işarettir. Vahiy değil ve olamaz. Belki ilham ve istihraçtır.
+[^hâşiye4]: Yani Risaletü’n-Nur’un mertebesi ikinci ve üçüncüde olduğuna işarettir. Vahiy değil ve olamaz. Belki ilham ve istihraçtır.
 
-[^Hâşiye5]: Cihan saltanatından daha ziyade kıymettar bir müjde-i Kur’aniye, bir beşaret-i semaviye bu sahifede vardır.
+[^hâşiye5]: Cihan saltanatından daha ziyade kıymettar bir müjde-i Kur’aniye, bir beşaret-i semaviye bu sahifede vardır.

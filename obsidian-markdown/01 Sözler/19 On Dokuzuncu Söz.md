@@ -34,7 +34,7 @@ Zira o <span class="arabic" dir="rtl">لَا اِلٰهَ اِلَّا اللّ�
 
 ## İkinci Reşha
 
-O nurani bürhan-ı tevhid, nasıl ki iki cenahın icma ve tevatürüyle teyid ediliyor. Öyle de Tevrat ve İncil gibi kütüb-ü semaviyenin [^Hâşiye1] yüzler işaratı ve irhasatın binler rumuzatı ve hâtiflerin meşhur beşaratı ve kâhinlerin mütevatir şehadatı ve şakk-ı kamer gibi binler mu’cizatının delâlatı ve şeriatın hakkaniyeti ile teyid ve tasdik ettikleri gibi; zatında gayet kemaldeki ahlâk-ı hamîdesini ve vazifesinde nihayet hüsnündeki secaya-yı gâliyesini ve kemal-i emniyetini ve kuvvet-i imanını ve gayet itminanını ve nihayet vüsukunu gösteren fevkalâde takvası, fevkalâde ubudiyeti, fevkalâde ciddiyeti, fevkalâde metaneti davasında nihayet derecede sadık olduğunu güneş gibi aşikâre gösteriyor.
+O nurani bürhan-ı tevhid, nasıl ki iki cenahın icma ve tevatürüyle teyid ediliyor. Öyle de Tevrat ve İncil gibi kütüb-ü semaviyenin [^hâşiye1] yüzler işaratı ve irhasatın binler rumuzatı ve hâtiflerin meşhur beşaratı ve kâhinlerin mütevatir şehadatı ve şakk-ı kamer gibi binler mu’cizatının delâlatı ve şeriatın hakkaniyeti ile teyid ve tasdik ettikleri gibi; zatında gayet kemaldeki ahlâk-ı hamîdesini ve vazifesinde nihayet hüsnündeki secaya-yı gâliyesini ve kemal-i emniyetini ve kuvvet-i imanını ve gayet itminanını ve nihayet vüsukunu gösteren fevkalâde takvası, fevkalâde ubudiyeti, fevkalâde ciddiyeti, fevkalâde metaneti davasında nihayet derecede sadık olduğunu güneş gibi aşikâre gösteriyor.
 
 ## Üçüncü Reşha
 
@@ -175,4 +175,4 @@ Hem der: <span class="arabic" dir="rtl">وَجَعَلْنَا</span> (<span cla
 
 ***
 
-[^Hâşiye1]: Hüseyin-i Cisrî “Risale-i Hamîdiye”sinde yüz on dört işaratı, o kitaplardan çıkarmıştır. Tahriften sonra bu kadar bulunsa elbette daha evvel çok tasrihat varmış.
+[^hâşiye1]: Hüseyin-i Cisrî “Risale-i Hamîdiye”sinde yüz on dört işaratı, o kitaplardan çıkarmıştır. Tahriften sonra bu kadar bulunsa elbette daha evvel çok tasrihat varmış.

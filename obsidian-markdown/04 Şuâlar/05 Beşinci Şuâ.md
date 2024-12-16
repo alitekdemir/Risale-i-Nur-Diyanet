@@ -3,7 +3,7 @@ source_name: Hizmet Vakfı & DİB asıl nüsha metni 2016
 source_url: https://www.risaleinur.hizmetvakfi.org/
 ---
 ## Beşinci Şuâ
-Otuz sene evvel yazılan matbu “Muhakemat-ı Bedîiye”de bahsedilen Sedd-i Zülkarneyn ve Ye’cüc Me’cüc ve sair eşrat-ı kıyametten yirmi mesele, o Muhakemat’a bir tetimme olarak on üç sene [^Hâşiye1] evvel bir kısım müsveddesi yazılmış idi. Aziz bir dostumun hatırı için tebyiz edildi, Beşinci Şuâ oldu.
+Otuz sene evvel yazılan matbu “Muhakemat-ı Bedîiye”de bahsedilen Sedd-i Zülkarneyn ve Ye’cüc Me’cüc ve sair eşrat-ı kıyametten yirmi mesele, o Muhakemat’a bir tetimme olarak on üç sene [^hâşiye1] evvel bir kısım müsveddesi yazılmış idi. Aziz bir dostumun hatırı için tebyiz edildi, Beşinci Şuâ oldu.
 
 Otuz Birinci Mektup’tan Otuz Birinci Lem’a’nın Beşinci Şuâ’ıdır.
 
@@ -242,5 +242,5 @@ Garibdir hem çok garibdir yedi yüz sene müddetinde İslâmiyet’in ve Kur’
 
 ***
 
-[^Hâşiye1]: Şimdi kırk seneden geçmiş.
+[^hâşiye1]: Şimdi kırk seneden geçmiş.
 

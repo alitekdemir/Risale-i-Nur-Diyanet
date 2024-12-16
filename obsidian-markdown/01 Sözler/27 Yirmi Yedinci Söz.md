@@ -66,7 +66,7 @@ Mesela bazı gafiller, hutbe gibi bazı şeair-i İslâmiyeyi, Arabîden çıkar
 
 **Birincisi:** “Tâ siyaset-i hazıra avam-ı müslimîne de o suretle tefhim edilsin.” Halbuki siyaset-i hazıra, o kadar çok yalan ve hile ve şeytanet içine girmiş ki vesvese-i şeyatîn hükmüne geçmiştir. Halbuki minber, vahy-i İlahînin tebliğ makamı olduğundan o vesvese-i siyasiyenin hakkı yoktur ki o makam-ı âlîye çıkabilsin.
 
-**İkinci sebep:** “Hutbe, bazı suver-i Kur’aniyenin nasihatleri anlaşılmak içindir.” Evet, eğer millet-i İslâm, İslâmiyet’in zaruriyatı ve müsellematı ve malûm olan ahkâmını, ekseriyet itibarıyla imtisal edip yerine getirseydi, o vakit nazariyat-ı şer’iye ve mesail-i dakika ve nasayih-i hafiyeyi anlamak için bildiği lisan ile hutbe okunması ve suver-i Kur’aniyenin –eğer mümkün olsaydı– tercümesi [^Hâşiye1] belki müstahsen olurdu.
+**İkinci sebep:** “Hutbe, bazı suver-i Kur’aniyenin nasihatleri anlaşılmak içindir.” Evet, eğer millet-i İslâm, İslâmiyet’in zaruriyatı ve müsellematı ve malûm olan ahkâmını, ekseriyet itibarıyla imtisal edip yerine getirseydi, o vakit nazariyat-ı şer’iye ve mesail-i dakika ve nasayih-i hafiyeyi anlamak için bildiği lisan ile hutbe okunması ve suver-i Kur’aniyenin –eğer mümkün olsaydı– tercümesi [^hâşiye1] belki müstahsen olurdu.
 
 Fakat namaz, zekât, orucun vücubu ve katl, zina ve şarabın haramiyeti gibi malûm olan ahkâm-ı kat’iye-i İslâmiye mühmel kalıyor. Avam-ı nâs, onların vücubunu ve haramiyetini ders almaya muhtaç değiller. Belki teşvik ve ihtar ile o ahkâm-ı kudsiyeyi hatırlatıp İslâmiyet damarını ve iman hissini tahrik etmekle imtisallerine teşvik ve tezkire ve ihtara muhtaçtırlar.
 
@@ -273,4 +273,4 @@ Heyhat! Değil bunlar gibi insan suretindeki hayvanlar, belki hakiki insanlar ve
 
 ***
 
-[^Hâşiye1]: İ’caza dair olan Yirmi Beşinci Söz, Kur’an’ın hakiki tercümesi mümkün olmadığını göstermiştir.
+[^hâşiye1]: İ’caza dair olan Yirmi Beşinci Söz, Kur’an’ın hakiki tercümesi mümkün olmadığını göstermiştir.

@@ -16,7 +16,7 @@ Aziz kardeşim ve sevgili arkadaşım!
 
 **Sâlisen:** Şeyh Mustafa’ya selâmımı tebliğ ile beraber de ki: Yazdığın Kader Sözü beni çok memnun etti. Dua ile kardeşlik hakkını eda ettiğin gibi bunun yazmasıyla talebelik hukukunu dahi kaza ettin. Allah senden razı olsun. Yazdığını Abdülmecid’e gönderiyorum. O, yüzlerce adama okutturacak, her birisinden sevap sana gelecek.
 
-**Râbian:** Kardeşimiz Abdülmecid’e bir mektupla bazı Sözler’i gönderiyorum. Sen gayet emniyetli bir tarzda postaya ver, adres: “Ergani-i Osmaniye’de esnaftan Vanlı Şahabeddin Efendi vasıtasıyla Vanlı Abdülmecid Efendi’ye” Bu adresi yeni hurufatla mektuba ve emanete yazınız. [^Hâşiye1]
+**Râbian:** Kardeşimiz Abdülmecid’e bir mektupla bazı Sözler’i gönderiyorum. Sen gayet emniyetli bir tarzda postaya ver, adres: “Ergani-i Osmaniye’de esnaftan Vanlı Şahabeddin Efendi vasıtasıyla Vanlı Abdülmecid Efendi’ye” Bu adresi yeni hurufatla mektuba ve emanete yazınız. [^hâşiye1]
 
 <span class="arabic" dir="rtl">اَلْبَاقٖى هُوَ الْبَاقٖى</span>
 
@@ -271,5 +271,5 @@ Kuleönü’nden Ali
 
 ***
 
-[^Hâşiye1]: Mektubun bundan sonraki “Hâmisen” kısmı, Mektubat’ta Üçüncü Mektup’tadır.
+[^hâşiye1]: Mektubun bundan sonraki “Hâmisen” kısmı, Mektubat’ta Üçüncü Mektup’tadır.
 

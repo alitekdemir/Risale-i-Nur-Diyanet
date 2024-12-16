@@ -243,7 +243,7 @@ Muazzez Üstadımın bu dua, bu niyaz ve himmetlerine bütün mevcudiyetimle âm
 
 “Ve ben öldüğümde sizi arkamda vâris bırakarak ferah ile kedersiz kabrime girmek rahmet-i İlahiyeden ümit ederim.” Burası beni çok düşündürdü ve hiçbir dakika üstadımın bu arzu, bu talep ve rahmet-i İlahiyeden bu ümidi, zihnimden ve fikrimden ve kuvve-i muhayyilemden hiç çıkmıyor. Binaenaleyh bu fıkraya bütün zerrat-ı mevcudiyetimle âmin dedim ve Cenab-ı Hakk’ın fazl u keremini tazarru ve niyaz ettim.
 
-Bununla beraber –ya Hazret riya değil, tasannu değil, içimden doğuyor– gönül şöyle istiyor ve arzu ediyor: Bu fakir, siz Üstadımdan evvel kabre girsin ve siz dâr-ı bekanın ilk kapısına gelinceye kadar, dâr-ı dünyada bulununuz ki bu fakir ve muhtaç olan talebenize arkasından göndereceğiniz dua ve hediyenizle mütena’im, şâd ve mesrur olsun. Ve sizin teşrifinizde –ki Erhamü’r-Râhimîn olan Rabbü’l-âlemîn’den dua ve niyazım budur– ruhum sizi istikbal etmek şerefiyle müşerref olabilmek gibi gönül arzu ve hayatı hasıl oluyor [^Hâşiye1] ve çok düşündürüyor.
+Bununla beraber –ya Hazret riya değil, tasannu değil, içimden doğuyor– gönül şöyle istiyor ve arzu ediyor: Bu fakir, siz Üstadımdan evvel kabre girsin ve siz dâr-ı bekanın ilk kapısına gelinceye kadar, dâr-ı dünyada bulununuz ki bu fakir ve muhtaç olan talebenize arkasından göndereceğiniz dua ve hediyenizle mütena’im, şâd ve mesrur olsun. Ve sizin teşrifinizde –ki Erhamü’r-Râhimîn olan Rabbü’l-âlemîn’den dua ve niyazım budur– ruhum sizi istikbal etmek şerefiyle müşerref olabilmek gibi gönül arzu ve hayatı hasıl oluyor [^hâşiye1] ve çok düşündürüyor.
 
 Ve bu arzu ve niyazımdan daha büyüğü ve şedidi şudur ki: Üstadımın dâr-ı dünyada daha pek çok zamanlar kalması, dolayısıyla vazife-i kudsiyenizin devamı ve hakikat ve hidayet nurları olan Risale-i Nur ve Mektubatü’n-Nurların teksiri ve intişarıyla, hâb-ı gaflette olanların, dalalette kalanların, ehl-i bid’a ve mülhidlerin tarîk-ı hak ve hidayete girmeleri için siz Üstadımın çok zaman daha yaşamaklığınızı ve başımızdan eksik olmamanızı ve sizin gaybubetinizle, bizlerin yetim ve öksüz kalmamaklığımızı gönül arzu ediyor.
 
@@ -265,7 +265,7 @@ Evet, değil böyle hakikat uğrunda, hattâ bir kıymetli hediyeyi ihsan eden P
 
 Hem Efendim bahçıvan-misal fidanları büyütmek üzere, hayvanat-ı muzırranın taarruzundan bir an evvel kurtarmak için aşağı dallar kesilir ki tâ yükselsin. O fidanların hiçbir cihetle hakları yoktur ki “Bizi tımar eden ve hayatımıza sebep olan, bizi bazen rencide ediyor.” diyemezler. Zira hal-i asılları ile kalsaydılar bir muzır hayvan koparacaktı ve topraktaki kökü de tefessüh edecekti, yok olacaktı.
 
-Evet Üstadım, mübalağasız, pür-kusurlukta mislim olmadığını nefsime bile bazen kabul ettirdiğim yalnız pür-zünub talebenizi; dizlerime değil, belime değil, boğaz çukuruma değil belki de boyumdan aşan ve belki dâhilimin de siyah çamurlara mezcolduğu ve tefessüh etmeye başladığı bir zamanda Hızır gibi yetişip ve misl-i Lokman, Kur’an-ı Hakîm’in şifahanesinden lemean eden mualecelerle, tedaviye başladınız. Hayat ismine lâyık bir hayat bahşına vesilesiniz. O hayatı ihsan edene ve vesile olan uğruna, o hayatı ifna etmemek [^Hâşiye2] kâr-ı akıl değildir.
+Evet Üstadım, mübalağasız, pür-kusurlukta mislim olmadığını nefsime bile bazen kabul ettirdiğim yalnız pür-zünub talebenizi; dizlerime değil, belime değil, boğaz çukuruma değil belki de boyumdan aşan ve belki dâhilimin de siyah çamurlara mezcolduğu ve tefessüh etmeye başladığı bir zamanda Hızır gibi yetişip ve misl-i Lokman, Kur’an-ı Hakîm’in şifahanesinden lemean eden mualecelerle, tedaviye başladınız. Hayat ismine lâyık bir hayat bahşına vesilesiniz. O hayatı ihsan edene ve vesile olan uğruna, o hayatı ifna etmemek [^hâşiye2] kâr-ı akıl değildir.
 
 Hem bir hasta, ameliyata muhtaç olduğunu bilmelidir. Ve hastasını gece gündüz tedavi altında bulunduran eczacıya karşı yüz binlerle teşekkür ve o eczacıya eczahaneyi teslim eden Hakîm-i Pür-kemal, Kadîr-i Bîmisal Hazretlerine nihayetsiz hamd ve şükre borçluyuz. Ve bu borcumu îfa edemediğimden pek mükedderim. Allahu Teâlâ sizden ebeden razı olsun.
 
@@ -325,11 +325,11 @@ Hulusi
 
 ***
 
-[^Hâşiye1]: Hakikaten merhumun münâcatı karin-i icabet olmuş ki aynı yıl içinde Üstadına bedel mahkemede, Üstadına zarar gelmemek için “Yâ Rabbi canımı al <span class="arabic" dir="rtl">لَا اِلٰهَ اِلَّا اللّٰهُ</span> ” diyerek mahkemede vefat edip irtihal-i dâr-ı beka etmiştir. <span class="arabic" dir="rtl">رَحْمَةُ اللهِ عَلَيْهِ رَحْمَةً وَاسِعَةً</span>‌
+[^hâşiye1]: Hakikaten merhumun münâcatı karin-i icabet olmuş ki aynı yıl içinde Üstadına bedel mahkemede, Üstadına zarar gelmemek için “Yâ Rabbi canımı al <span class="arabic" dir="rtl">لَا اِلٰهَ اِلَّا اللّٰهُ</span> ” diyerek mahkemede vefat edip irtihal-i dâr-ı beka etmiştir. <span class="arabic" dir="rtl">رَحْمَةُ اللهِ عَلَيْهِ رَحْمَةً وَاسِعَةً</span>‌
 
 Sabri
 
-[^Hâşiye2]: Benim bedelime şehit olacağını hissetmiş. Kuvvet-i ihlasının kerameti olarak haber veriyor. Haber verdiği gibi şehit oldu.
+[^hâşiye2]: Benim bedelime şehit olacağını hissetmiş. Kuvvet-i ihlasının kerameti olarak haber veriyor. Haber verdiği gibi şehit oldu.
 
 Said Nursî
 

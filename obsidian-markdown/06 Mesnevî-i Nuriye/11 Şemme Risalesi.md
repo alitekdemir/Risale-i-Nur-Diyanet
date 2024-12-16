@@ -80,7 +80,7 @@ Bunların meseli deniz kenarında durup denizin içerisindeki hayvanata ve sair 
 
 Binaenaleyh ey insan! Senin hakaretin, seni Hallak-ı âlem’in nazar-ı inayetinden setredecek bir sebep olamaz.
 
-**İ’lem eyyühe’l-aziz!** Denizlerde vukua gelen medd ve cezir gibi evliya arasında da bast-ı zaman, [^Hâşiye1] tayy-ı mekân meselesi şöhret bulmuştur. Ezcümle Kitab-ı Yevakit’in rivayetine göre, İmam-ı Şa’ranî bir günde iki buçuk defa kocaman Fütuhat-ı Mekkiye namındaki büyük mecmuayı mütalaa etmiştir.
+**İ’lem eyyühe’l-aziz!** Denizlerde vukua gelen medd ve cezir gibi evliya arasında da bast-ı zaman, [^hâşiye1] tayy-ı mekân meselesi şöhret bulmuştur. Ezcümle Kitab-ı Yevakit’in rivayetine göre, İmam-ı Şa’ranî bir günde iki buçuk defa kocaman Fütuhat-ı Mekkiye namındaki büyük mecmuayı mütalaa etmiştir.
 
 Bu gibi vukuat, istiğrab ile inkâr edilmesin. Zira bu gibi garib meseleleri tasdike yaklaştıran misaller pek çoktur. Mesela, rüyada bir saat zarfında bir senenin geçtiğini ve pek çok işler görüldüğünü görüyorsun. Eğer o saatte o işlere bedel Kur’an okumuş olsa idin, birkaç hatim okumuş olurdun.
 
@@ -134,7 +134,7 @@ Nasıl ki amellerin hayatı niyet iledir. Onun gibi niyet bir cihetle fıtrî ah
 
 ***
 
-[^Hâşiye1]: Bast-ı zaman sırrıyla çok seneler hükmünde olan birkaç dakikalık zaman-ı mi’rac, bu hakikatin vücudunu ispat eder ve bilfiil vukuunu gösteriyor. Mi’racın birkaç saat müddeti, binler seneler hükmünde vüs’ati ve ihatası ve uzunluğu vardır. Çünkü mi’rac yoluyla beka âlemine girdi. Beka âleminin birkaç dakikası, bu dünyanın binler senesini tazammun etmiştir.
+[^hâşiye1]: Bast-ı zaman sırrıyla çok seneler hükmünde olan birkaç dakikalık zaman-ı mi’rac, bu hakikatin vücudunu ispat eder ve bilfiil vukuunu gösteriyor. Mi’racın birkaç saat müddeti, binler seneler hükmünde vüs’ati ve ihatası ve uzunluğu vardır. Çünkü mi’rac yoluyla beka âlemine girdi. Beka âleminin birkaç dakikası, bu dünyanın binler senesini tazammun etmiştir.
 
 Hem bu hakikate binaen bazı evliya bir dakikada bir günlük işi görmüş. Bazıları, bir saatte bir senelik vazifesini yapmış. Bazıları, bir dakikada bir hatme-i Kur’aniyeyi okumuş oldukları gibi Risale-i Nur’un telifinde de bu bast-ı zaman hakikati çok defa vukua gelmiş.
 

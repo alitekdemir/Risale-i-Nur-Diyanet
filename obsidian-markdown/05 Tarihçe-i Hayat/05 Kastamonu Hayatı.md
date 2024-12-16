@@ -744,7 +744,7 @@ Evet <span class="arabic" dir="rtl">اَشَدُّ الْبَلَاءِ عَلَ
 
 Hem Üstadımızın hârika hâlâtı ve şâyan-ı hayret garaib-i ahvali, başta Risale-i Nur olarak pek çoktur. Evet, biz itiraf ediyoruz ki Üstadımız bizim hatırat-ı kalbimizi bizden ziyade okur, çok defa haberimiz olmadığı bir meseleden bizleri şiddetli telaşla ikaz ederler, bizi hayrette bırakırlar. Fakat günler geçtikten sonra aynen Üstadımızın ikaz ettiği şeyle karşılaşır, aklımız başımıza gelirdi. Üstadımızla dağa gittiğimiz zaman, daha şehre dönme zamanı gelmeden, birden Üstadımız kalkarlar, bize de emrederlerdi. Hikmetini sormak istediğimizde: “Acele gidelim, Risale-i Nur hizmeti için bizi bekliyorlar.” Hakikaten, şehre avdetimizde, mutlaka mühim bir Risale-i Nur şakirdi bizi bekliyor bulur veya birkaç defa gelip gittiğini komşular haber verirlerdi.
 
-Yine bir gün, Mevlana Hâlid (ks) Hazretlerinin Küçük Âşık namında bir talebesinin neslinden mübarek bir hanım, yanında [^Hâşiye1] çok senelerden beri muhafaza ettiği Mevlana Hazretlerinin cübbesini, ramazan-ı şerifte teberrüken Üstadımızın yanında kalsın diye Feyzi ile gönderir. Üstadımız hemen Emin kardeşimize yıkamak için emrederek Cenab-ı Hakk’a şükretmeye başlar. Feyzi’nin hatırına: “Bu hanım, benim ile yirmi gün için gönderdi; Üstadım neden sahip çıkıyor?” diye hayretler içinde kalır. Sonra o hanımı görür, o hanım Feyzi’ye der ki: “Üstad hediyeleri kabul etmediğinden bu suretle belki kabul eder diye öyle söylemiştim. Fakat emanet onundur, canımız dahi feda olsun.” der, o kardeşimizi hayretten kurtarır.
+Yine bir gün, Mevlana Hâlid (ks) Hazretlerinin Küçük Âşık namında bir talebesinin neslinden mübarek bir hanım, yanında [^hâşiye1] çok senelerden beri muhafaza ettiği Mevlana Hazretlerinin cübbesini, ramazan-ı şerifte teberrüken Üstadımızın yanında kalsın diye Feyzi ile gönderir. Üstadımız hemen Emin kardeşimize yıkamak için emrederek Cenab-ı Hakk’a şükretmeye başlar. Feyzi’nin hatırına: “Bu hanım, benim ile yirmi gün için gönderdi; Üstadım neden sahip çıkıyor?” diye hayretler içinde kalır. Sonra o hanımı görür, o hanım Feyzi’ye der ki: “Üstad hediyeleri kabul etmediğinden bu suretle belki kabul eder diye öyle söylemiştim. Fakat emanet onundur, canımız dahi feda olsun.” der, o kardeşimizi hayretten kurtarır.
 
 Evet, mübarek Üstadımızın o cübbeyi kabulü, Mevlana Hâlid’den sonra vazife-i teceddüd-ü dinin kendilerine intikaline bir alâmet telakki etmesindendir, derler. Hem de öyle olmak lâzım. Çünkü hadîs-i sahihte: <span class="arabic" dir="rtl">اِنَّ اللّٰهَ يَبْعَثُ لِهٰذِهِ الْاُمَّةِ عَلٰى رَاْسِ كُلِّ مِاَةِ سَنَةٍ مَنْ يُجَدِّدُ لَهَا دٖينَهَا</span> buyurulmuş. Mevlana Hazretlerinin veladeti 1193, Üstadımız Hazretlerinin ise 1293’tür. Bu hadîsin tam izahı Risale-i Gavsiye’de vardır.
 
@@ -841,7 +841,7 @@ Evet hiçten, birden hârika bir gürültü ile cevvi konuşturmak ve fevkalâde
 
 <p class="arabic" dir="rtl">لَا اِلٰهَ اِلَّا اللّٰهُ الْوَاجِبُ الْوُجُودِ الَّذٖى دَلَّ عَلٰى وُجُوبِ وُجُودِهِ الْجَوُّ بِجَمٖيعِ مَا فٖيهِ بِشَهَادَةِ عَظَمَةِ اِحَاطَةِ حَقٖيقَةِ التَّسْخٖيرِ وَ التَّصْرٖيفِ وَ التَّنْزٖيلِ وَ التَّدْبٖيرِ الْوَاسِعَةِ الْمُكَمَّلَةِ بِالْمُشَاهَدَةِ</p>
 
-fıkrası, bu yolcunun cevve dair mezkûr müşahedatını ifade eder. [^Hâşiye2]
+fıkrası, bu yolcunun cevve dair mezkûr müşahedatını ifade eder. [^hâşiye2]
 
 Sonra o seyahat-i fikriyeye alışan o mütefekkir misafire, **küre-i arz** lisan-ı haliyle diyor ki: “Gökte, fezada, havada ne geziyorsun? Gel, ben sana aradığını tanıttıracağım. Gördüğüm vazifelerime bak ve sahifelerimi oku!” O da bakar görür ki:
 
@@ -1499,7 +1499,7 @@ Said Nursî
 
 ***
 
-[^Hâşiye1]: O hanım “Âsiye”dir.
+[^hâşiye1]: O hanım “Âsiye”dir.
 
-[^Hâşiye2]: İhtar: Birinci Makam’da geçen otuz üç mertebe-i tevhidi bir parça izah etmek isterdim. Fakat şimdiki vaziyetim ve halimin müsaadesizliği cihetiyle, yalnız gayet muhtasar bürhanlarına ve mealinin tercümesine iktifaya mecbur oldum. Risale-i Nur’un otuz, belki yüz risalelerinde bu otuz üç mertebe, delilleriyle, ayrı ayrı tarzlarda, her bir risalede bir kısım mertebeler beyan edildiğinden tafsili onlara havale edilmiş.
+[^hâşiye2]: İhtar: Birinci Makam’da geçen otuz üç mertebe-i tevhidi bir parça izah etmek isterdim. Fakat şimdiki vaziyetim ve halimin müsaadesizliği cihetiyle, yalnız gayet muhtasar bürhanlarına ve mealinin tercümesine iktifaya mecbur oldum. Risale-i Nur’un otuz, belki yüz risalelerinde bu otuz üç mertebe, delilleriyle, ayrı ayrı tarzlarda, her bir risalede bir kısım mertebeler beyan edildiğinden tafsili onlara havale edilmiş.
 

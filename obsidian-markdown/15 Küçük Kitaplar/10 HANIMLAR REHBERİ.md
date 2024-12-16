@@ -182,7 +182,7 @@ dediği gibi ruhumun hanesi olan cismimin de her gün bir taşı düşmekle yıp
 
 Dil bekası, Hak fenası istedi mülk-ü tenim
 
-Bir devasız derde düştüm, âh ki Lokman bîhaber [^Hâşiye1]
+Bir devasız derde düştüm, âh ki Lokman bîhaber [^hâşiye1]
 
 O vakit birden merhamet-i İlahiyenin lisanı, misali, timsali, dellâlı, mümessili olan Peygamber-i Zîşan aleyhissalâtü vesselâmın nuru ve şefaati ve beşere getirdiği hediye-i hidayeti; o dermansız, hadsiz zannettiğim yaraya güzel bir merhem ve tiryak oldu. Karanlıklı yeisimi, nurlu bir ricaya çevirdi.
 
@@ -224,7 +224,7 @@ diyerek bir teselli, bir nur, bir rica kapısını aradım. Birden, âhirete ima
 
 Evet, ey benim gibi ihtiyar kardeşler ve ihtiyare hemşireler! Madem âhiret var ve madem bâkidir ve madem dünyadan daha güzeldir ve madem bizi yaratan zat hem Hakîm hem Rahîm’dir, ihtiyarlıktan şekva ve teessüf etmemeliyiz. Bilakis ihtiyarlık, iman ile ibadet içinde sinn-i kemale gelip vazife-i hayattan terhis ve âlem-i rahmete istirahat için gitmeye bir alâmet olduğu cihetle ondan memnun olmalıyız.
 
-Evet, nass-ı hadîs ile nev-i beşerin en mümtaz şahsiyetleri olan yüz yirmi dört bin enbiyanın icma ve tevatür ile kısmen şuhuda ve kısmen hakkalyakîne istinaden, müttefikan âhiretin vücudundan ve insanların oraya sevk edileceğinden ve bu kâinatın Hâlık’ının kat’î vaad ettiği âhireti getireceğinden haber verdikleri gibi onların verdikleri haberi keşif ve şuhud ile ilmelyakîn suretinde tasdik eden yüz yirmi dört milyon evliyanın o âhiretin vücuduna şehadetleriyle ve bu kâinatın Sâni’-i Hakîm’inin bütün esması bu dünyada gösterdikleri cilveleriyle, bir âlem-i bekayı bilbedahe iktiza ettiklerinden yine âhiretin vücuduna delâletiyle; ve her sene baharda, rûy-i zeminde ayakta duran hadd ü hesaba gelmez ölmüş ağaçların cenazelerini “Emr-i kün feyekûn” ile ihya edip ba’sü ba’de’l-mevte mazhar eden ve haşir ve neşrin yüz binler numunesi olarak nebatat taifelerinden ve hayvanat milletlerinden üç yüz bin nevileri haşir ve neşreden hadsiz bir kudret-i ezeliye ve hesapsız ve israfsız bir hikmet-i ebediye ve rızka muhtaç bütün zîruhları kemal-i şefkatle gayet hârika bir tarzda iaşe ettiren ve her baharda az bir zamanda hadd ü hesaba gelmez enva-ı ziynet ve mehasini gösteren bir rahmet-i bâkiye ve bir inayet-i daimenin bilbedahe âhiretin vücudunu istilzam ile ve şu kâinatın en mükemmel meyvesi ve Hâlık-ı kâinat’ın en sevdiği masnuu ve kâinatın mevcudatıyla en ziyade alâkadar olan insandaki şedit, sarsılmaz, daimî olan aşk-ı beka ve şevk-i ebediyet ve âmâl-i sermediyet, bilbedahe işaret ve delâletiyle bu âlem-i fâniden sonra bir âlem-i bâki ve bir dâr-ı âhiret ve bir dâr-ı saadet bulunduğunu o derece kat’î bir surette ispat ederler ki dünyanın vücudu kadar, bilbedahe âhiretin vücudunu kabul etmeyi istilzam ederler [^Hâşiye2].
+Evet, nass-ı hadîs ile nev-i beşerin en mümtaz şahsiyetleri olan yüz yirmi dört bin enbiyanın icma ve tevatür ile kısmen şuhuda ve kısmen hakkalyakîne istinaden, müttefikan âhiretin vücudundan ve insanların oraya sevk edileceğinden ve bu kâinatın Hâlık’ının kat’î vaad ettiği âhireti getireceğinden haber verdikleri gibi onların verdikleri haberi keşif ve şuhud ile ilmelyakîn suretinde tasdik eden yüz yirmi dört milyon evliyanın o âhiretin vücuduna şehadetleriyle ve bu kâinatın Sâni’-i Hakîm’inin bütün esması bu dünyada gösterdikleri cilveleriyle, bir âlem-i bekayı bilbedahe iktiza ettiklerinden yine âhiretin vücuduna delâletiyle; ve her sene baharda, rûy-i zeminde ayakta duran hadd ü hesaba gelmez ölmüş ağaçların cenazelerini “Emr-i kün feyekûn” ile ihya edip ba’sü ba’de’l-mevte mazhar eden ve haşir ve neşrin yüz binler numunesi olarak nebatat taifelerinden ve hayvanat milletlerinden üç yüz bin nevileri haşir ve neşreden hadsiz bir kudret-i ezeliye ve hesapsız ve israfsız bir hikmet-i ebediye ve rızka muhtaç bütün zîruhları kemal-i şefkatle gayet hârika bir tarzda iaşe ettiren ve her baharda az bir zamanda hadd ü hesaba gelmez enva-ı ziynet ve mehasini gösteren bir rahmet-i bâkiye ve bir inayet-i daimenin bilbedahe âhiretin vücudunu istilzam ile ve şu kâinatın en mükemmel meyvesi ve Hâlık-ı kâinat’ın en sevdiği masnuu ve kâinatın mevcudatıyla en ziyade alâkadar olan insandaki şedit, sarsılmaz, daimî olan aşk-ı beka ve şevk-i ebediyet ve âmâl-i sermediyet, bilbedahe işaret ve delâletiyle bu âlem-i fâniden sonra bir âlem-i bâki ve bir dâr-ı âhiret ve bir dâr-ı saadet bulunduğunu o derece kat’î bir surette ispat ederler ki dünyanın vücudu kadar, bilbedahe âhiretin vücudunu kabul etmeyi istilzam ederler [^hâşiye2].
 
 Madem Kur’an-ı Hakîm’in bize verdiği en mühim bir ders, “iman-ı bi’l-âhiret”tir ve o iman da bu derece kuvvetlidir. Ve o imanda öyle bir rica ve bir teselli var ki yüz bin ihtiyarlık bir tek şahsa gelse bu imandan gelen teselli mukabil gelebilir. Biz ihtiyarlar <span class="arabic" dir="rtl">اَلْحَمْدُ لِلّٰهِ عَلٰى كَمَالِ الْاٖيمَانِ</span> deyip ihtiyarlığımıza sevinmeliyiz.
 
@@ -240,7 +240,7 @@ Evet, ey ihtiyar ve ihtiyareler! Madem Rahîm bir Hâlık’ımız var, bizim i�
 Evet, bu kâinatın mevcudatı adedince ve bu büyük kitab-ı âlemin harfleri sayısınca vücuduna şehadet eden ve zîruhların medar-ı şefkat ve rahmet ve inayet olabilen cihazatı ve mat’umatı ve nimetleri adedince rahmetini gösteren deliller, şahitler, bize Rahîm, Kerîm, Enîs, Vedud olan Hâlık’ımızın, Sâni’imizin, Hâmi’mizin dergâhını gösteriyorlar. O dergâhta en makbul bir şefaatçi, acz ve zaaftır. Ve acz ve zaafın tam zamanı da ihtiyarlıktır. Böyle bir dergâha makbul bir şefaatçi olan ihtiyarlıktan küsmek değil, sevmek lâzımdır.
 
 #### Yedinci Rica
-Bir zaman ihtiyarlığımın başlangıcında, Eski Said’in gülmeleri Yeni Said’in ağlamalarına inkılab ettiği hengâmda, Ankara’daki ehl-i dünya, beni Eski Said zannedip oraya istediler; gittim. Güz mevsiminin âhirlerinde Ankara’nın benden çok ziyade ihtiyarlanmış, yıpranmış, eskimiş kalesinin başına çıktım. O kale, tahaccür etmiş hâdisat-ı tarihiye suretinde bana göründü. Senenin ihtiyarlık mevsimiyle benim ihtiyarlığım, kalenin ihtiyarlığı, beşerin ihtiyarlığı, şanlı Osmanlı Devleti’nin ihtiyarlığı ve Hilafet saltanatının vefatı ve dünyanın ihtiyarlığı; bana gayet hazîn ve rikkatli ve firkatli bir halet içinde, o yüksek kalede geçmiş zamanın derelerine ve gelecek zamanın dağlarına baktırdı ve baktım. Birbiri içinde beni ihata eden dört beş ihtiyarlık karanlıkları içinde, Ankara’da en kara bir halet-i ruhiye hissettiğimden [^Hâşiye3] bir nur, bir teselli, bir rica aradım.
+Bir zaman ihtiyarlığımın başlangıcında, Eski Said’in gülmeleri Yeni Said’in ağlamalarına inkılab ettiği hengâmda, Ankara’daki ehl-i dünya, beni Eski Said zannedip oraya istediler; gittim. Güz mevsiminin âhirlerinde Ankara’nın benden çok ziyade ihtiyarlanmış, yıpranmış, eskimiş kalesinin başına çıktım. O kale, tahaccür etmiş hâdisat-ı tarihiye suretinde bana göründü. Senenin ihtiyarlık mevsimiyle benim ihtiyarlığım, kalenin ihtiyarlığı, beşerin ihtiyarlığı, şanlı Osmanlı Devleti’nin ihtiyarlığı ve Hilafet saltanatının vefatı ve dünyanın ihtiyarlığı; bana gayet hazîn ve rikkatli ve firkatli bir halet içinde, o yüksek kalede geçmiş zamanın derelerine ve gelecek zamanın dağlarına baktırdı ve baktım. Birbiri içinde beni ihata eden dört beş ihtiyarlık karanlıkları içinde, Ankara’da en kara bir halet-i ruhiye hissettiğimden [^hâşiye3] bir nur, bir teselli, bir rica aradım.
 
 Sağa, yani mazi olan geçmiş zamana bakıp teselli ararken bana mazi, pederimin ve ecdadımın ve nevimin bir mezar-ı ekberi suretinde göründü, teselli yerine vahşet verdi.
 
@@ -291,7 +291,7 @@ On Beşinci Nota’nın İkinci ve Üçüncü Meseleleri iken ehemmiyetine binae
 
 <p class="arabic" dir="rtl">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ<br/>يَا اَيُّهَا النَّبِىُّ قُلْ لِاَزْوَاجِكَ وَبَنَاتِكَ وَنِسَٓاءِ الْمُؤْمِنٖينَ يُدْنٖينَ عَلَيْهِنَّ مِنْ جَلَابٖيبِهِنَّ … اِلٰى اٰخِرِ</p>
 
-âyeti, tesettürü emrediyor. Medeniyet-i sefihe ise Kur’an’ın bu hükmüne karşı muhalif gidiyor. Tesettürü fıtrî görmüyor “Bir esarettir.” diyor. [^Hâşiye4]
+âyeti, tesettürü emrediyor. Medeniyet-i sefihe ise Kur’an’ın bu hükmüne karşı muhalif gidiyor. Tesettürü fıtrî görmüyor “Bir esarettir.” diyor. [^hâşiye4]
 
 Elcevap: Kur’an-ı Hakîm’in bu hükmü tam fıtrî olduğuna ve muhalifi gayr-ı fıtrî olduğuna delâlet eden çok hikmetlerinden yalnız **dört hikmet**ini beyan ederiz.
 
@@ -516,7 +516,7 @@ Elhasıl: Dünyayı ve ondaki mahlukatı mana-yı harfiyle sev. Mana-yı ismiyle
 
 İşte bütün ta’dad ettiğimiz muhabbetler, eğer bu suretle olsa hem elemsiz bir lezzet verir hem bir cihette zevalsiz bir visaldir. Hem muhabbet-i İlahiyeyi ziyadeleştirir. Hem meşru bir muhabbettir. Hem ayn-ı lezzet bir şükürdür. Hem ayn-ı muhabbet bir fikirdir.
 
-Mesela, nasıl ki bir padişah-ı âlî, [^Hâşiye5] sana bir elmayı ihsan etse o elmaya iki muhabbet ve onda iki lezzet var:
+Mesela, nasıl ki bir padişah-ı âlî, [^hâşiye5] sana bir elmayı ihsan etse o elmaya iki muhabbet ve onda iki lezzet var:
 
 Biri; elma, elma olduğu için sevilir ve elmaya mahsus ve elma kadar bir lezzet var. Şu muhabbet padişaha ait değil. Belki huzurunda o elmayı ağzına atıp yiyen adam, padişahı değil, elmayı sever ve nefsine muhabbet eder. Bazen olur ki padişah o nefis-perverane olan muhabbeti beğenmez, ondan nefret eder. Hem elma lezzeti dahi cüz’îdir. Hem zeval bulur; elmayı yedikten sonra o lezzet dahi gider, bir teessüf kalır.
 
@@ -566,7 +566,7 @@ Peder ve valideye karşı muhabbetin, Cenab-ı Hak hesabına olduğu için hem b
 
 Evladına muhabbet ise: Cenab-ı Hakk’ın senin nezaretine ve terbiyene emanet ettiği sevimli, ünsiyetli o mahluklara muhabbet ise saadetli bir muhabbet, bir nimettir. Ne musibetleriyle fazla elem çekersin, ne de ölümleriyle meyusane feryat edersin. Sâbıkan geçtiği gibi onların Hâlıkları hem Hakîm hem Rahîm olduğundan onlar hakkında o mevt bir saadettir, dersin. Senin hakkında da onları sana veren zatın rahmetini düşünürsün, firak eleminden kurtulursun.
 
-Ahbaplara muhabbetin ise: Madem lillah içindir. O ahbapların firakları, hattâ ölümleri, sohbetinize ve uhuvvetinize mani olmadığı için o manevî muhabbet ve ruhanî irtibattan istifade edersin. Ve mülakat lezzeti daimî olur. Lillah için olmazsa bir günlük mülakat lezzeti, yüz günlük firak elemini netice verir. [^Hâşiye6]
+Ahbaplara muhabbetin ise: Madem lillah içindir. O ahbapların firakları, hattâ ölümleri, sohbetinize ve uhuvvetinize mani olmadığı için o manevî muhabbet ve ruhanî irtibattan istifade edersin. Ve mülakat lezzeti daimî olur. Lillah için olmazsa bir günlük mülakat lezzeti, yüz günlük firak elemini netice verir. [^hâşiye6]
 
 Enbiya ve evliyaya muhabbetin ise: Ehl-i gaflete karanlıklı bir vahşetgâh görünen âlem-i berzah, o nuranilerin vücudlarıyla tenevvür etmiş menzilgâhları suretinde sana göründüğü için o âleme gitmeye tevahhuş, tedehhüş değil belki bilakis temayül ve iştiyak hissini verir, hayat-ı dünyeviyenin lezzetini kaçırmaz. Yoksa onların muhabbeti, ehl-i medeniyetin meşahir-i insaniyeye muhabbeti nevinden olsa o kâmil insanların fena ve zevallerini ve mazi denilen mezar-ı ekberinde çürümelerini düşünmekle, elemli hayatına bir keder daha ilâve eder. Yani “Öyle kâmilleri çürüten bir mezara, ben de gideceğim.” diye düşünür; mezaristana endişeli bir nazarla bakar, “Âh!” çeker. Evvelki nazarda ise cisim libasını mazide bırakıp kendileri istikbal salonu olan berzah âleminde kemal-i rahatla ikametlerini düşünür, mezaristana ünsiyetkârane bakar.
 
@@ -628,7 +628,7 @@ Sual: O kadar büyük ve hâlî bir cennet neye yarar?
 
 Elcevap: Nasıl ki eğer mümkün olsa idi hayal süratiyle zeminin aktarını ve yıldızların ekserisini gezsen “Bütün âlem benimdir.” diyebilirsin. Melaike ve insan ve hayvanların iştirakleri, senin o hükmünü bozmaz. Öyle de o cennet dahi dolu olsa “O cennet benimdir.” diyebilirsin. Hadîste bazı ehl-i cennete verilen beş yüz senelik bir cennet sırrı, Yirmi Sekizinci Söz’de ve İhlas Lem’ası’nda beyan edilmiştir.
 
-Dokuzuncu İşaret: İman ve muhabbetullahın neticesi: Ehl-i keşif ve tahkikin ittifakıyla; dünyanın bin sene hayat-ı mesudanesi, bir saatine değmeyen cennet hayatı ve cennet hayatının dahi bin senesi, bir saat müşahedesine değmeyen bir kudsî, münezzeh cemal ve kemal sahibi olan Zat-ı Zülcelal’in müşahedesi, rü’yetidir ki [^Hâşiye7] hadîs-i kat’î ile ve Kur’an’ın nassıyla sabittir.
+Dokuzuncu İşaret: İman ve muhabbetullahın neticesi: Ehl-i keşif ve tahkikin ittifakıyla; dünyanın bin sene hayat-ı mesudanesi, bir saatine değmeyen cennet hayatı ve cennet hayatının dahi bin senesi, bir saat müşahedesine değmeyen bir kudsî, münezzeh cemal ve kemal sahibi olan Zat-ı Zülcelal’in müşahedesi, rü’yetidir ki [^hâşiye7] hadîs-i kat’î ile ve Kur’an’ın nassıyla sabittir.
 
 Hazret-i Süleyman aleyhisselâm gibi muhteşem bir kemal ile meşhur bir zatın rü’yetine iştiyaklı bir merak, Hazret-i Yusuf aleyhisselâm gibi bir cemal ile mümtaz bir zatın şuhuduna meraklı bir iştiyak; herkes vicdanen hisseder. Acaba dünyanın bütün mehasin ve kemalâtından binler derece yüksek olan cennetin bütün mehasin ve kemalâtı, bir cilve-i cemali ve kemali olan bir zatın rü’yeti, ne kadar mergub ve merak-âver ve şuhudu ne derece matlub ve iştiyak-aver olduğunu kıyas edebilirsen et.
 
@@ -713,7 +713,7 @@ On Yedinci Lem’a’nın bir parçasıdır.
 #### On İkinci Nota
 Ey bu notaları dinleyen dostlarım! Biliniz ki ben, hilaf-ı âdet olarak gizlemesi lâzım gelen Rabb’ime karşı kalbimin tazarru ve niyaz ve münâcatını bazen yazdığımın sebebi; ölüm, dilimi susturduğu zamanlarda, dilime bedel kitabımın söylemesinin kabulünü rahmet-i İlahiyeden rica etmektir. Evet kısa bir ömürde, hadsiz günahlarıma keffaret olacak, muvakkat lisanımın tövbe ve nedametleri kâfi gelmiyor. Sabit ve bir derece daim olan kitabın lisanı daha ziyade o işe yarar.
 
-İşte on üç sene [^Hâşiye8] evvel, dağdağalı bir fırtına-i ruhiye neticesinde, Eski Said’in gülmeleri, Yeni Said’in ağlamalarına inkılab edeceği hengâmda; gençliğin gaflet uykusundan ihtiyarlık sabahıyla uyandığım bir anda, şu münâcat ve niyaz Arabî yazılmıştır. Bir kısmının Türkçe meali şudur ki:
+İşte on üç sene [^hâşiye8] evvel, dağdağalı bir fırtına-i ruhiye neticesinde, Eski Said’in gülmeleri, Yeni Said’in ağlamalarına inkılab edeceği hengâmda; gençliğin gaflet uykusundan ihtiyarlık sabahıyla uyandığım bir anda, şu münâcat ve niyaz Arabî yazılmıştır. Bir kısmının Türkçe meali şudur ki:
 
 Ey Rabb-i Rahîm’im ve ey Hâlık-ı Kerîm’im!
 
@@ -1047,7 +1047,7 @@ Hayrünnisa, Seyyide, Emine, Fatma
 
 ***
 
-Nurcuların Kasidesi [^Hâşiye9]
+Nurcuların Kasidesi [^hâşiye9]
 
 Annem beni yetiştirdi, bu hizmete yolladı
 
@@ -1125,27 +1125,27 @@ Konya Nur talebesi hanımların mektubu
 
 Nurcuların Kasidesi
 
-[^Hâşiye1]: Yani benim kalbim bütün kuvvetiyle beka istediği halde hikmet-i İlahiye, cesedimin harabiyetini iktiza ediyor. Hekim-i Lokman da çaresini bulamadığı dermansız bir derde düştüm.
+[^hâşiye1]: Yani benim kalbim bütün kuvvetiyle beka istediği halde hikmet-i İlahiye, cesedimin harabiyetini iktiza ediyor. Hekim-i Lokman da çaresini bulamadığı dermansız bir derde düştüm.
 
-[^Hâşiye2]: Evet, sübutî bir emri ihbar etmenin kolaylığı ve inkâr ve nefyetmenin gayet müşkül olduğu, bu temsilden görünür. Şöyle ki: Biri dese “Meyveleri süt konserveleri olan gayet hârika bir bahçe, küre-i arz üzerinde vardır.” Diğeri dese “Yoktur.” İspat eden, yalnız onun yerini veyahut bazı meyvelerini göstermekle kolayca davasını ispat eder. İnkâr eden adam, nefyini ispat etmek için bütün küre-i arzı görmek ve göstermekle davasını ispat edebilir.
+[^hâşiye2]: Evet, sübutî bir emri ihbar etmenin kolaylığı ve inkâr ve nefyetmenin gayet müşkül olduğu, bu temsilden görünür. Şöyle ki: Biri dese “Meyveleri süt konserveleri olan gayet hârika bir bahçe, küre-i arz üzerinde vardır.” Diğeri dese “Yoktur.” İspat eden, yalnız onun yerini veyahut bazı meyvelerini göstermekle kolayca davasını ispat eder. İnkâr eden adam, nefyini ispat etmek için bütün küre-i arzı görmek ve göstermekle davasını ispat edebilir.
 
 Aynen öyle de cenneti ihbar edenler, yüz binler tereşşuhatını, meyvelerini, âsârını gösterdiklerinden kat’-ı nazar, iki şahid-i sadıkın sübutuna şehadetleri kâfi gelirken onu inkâr eden, hadsiz bir kâinatı, hadsiz ebedî zamanı temaşa etmek ve görmek ve eledikten sonra inkârını ispat edebilir, ademini gösterebilir.
 
 İşte ey ihtiyar kardeşler! İman-ı âhiretin ne kadar kuvvetli olduğunu anlayınız.
 
-[^Hâşiye3]: O zaman bu halet-i ruhiye Farisî bir münâcat suretinde kalbe geldi, yazdım. Ankara’da Hubab Risalesi’nde tabedilmiştir.
+[^hâşiye3]: O zaman bu halet-i ruhiye Farisî bir münâcat suretinde kalbe geldi, yazdım. Ankara’da Hubab Risalesi’nde tabedilmiştir.
 
-[^Hâşiye4]: Mahkemeye karşı ve mahkemeyi susturan lâyiha-i Temyizin müdafaatından bir parça:
+[^hâşiye4]: Mahkemeye karşı ve mahkemeyi susturan lâyiha-i Temyizin müdafaatından bir parça:
 
 “Ben de adliyenin mahkemesine derim ki: Bin üç yüz elli senede ve her asırda üç yüz elli milyon insanların hayat-ı içtimaiyesinde en kudsî ve hakiki ve hakikatli bir düstur-u İlahîyi, üç yüz elli bin tefsirin tasdiklerine ve ittifaklarına istinaden ve bin üç yüz elli sene zarfında geçmiş ecdadımızın itikadlarına iktidaen tefsir eden bir adamı mahkûm eden haksız bir kararı, elbette rûy-i zeminde adalet varsa o kararı red ve bu hükmü nakzedecektir!”
 
-[^Hâşiye5]: Bir zaman iki aşiret reisi, bir padişahın huzuruna girmişler, yazılan aynı vaziyette bulunmuşlar.
+[^hâşiye5]: Bir zaman iki aşiret reisi, bir padişahın huzuruna girmişler, yazılan aynı vaziyette bulunmuşlar.
 
-[^Hâşiye6]: Lillah için bir saniye mülakat, bir senedir. Dünya için olsa bir sene, bir saniyedir.
+[^hâşiye6]: Lillah için bir saniye mülakat, bir senedir. Dünya için olsa bir sene, bir saniyedir.
 
-[^Hâşiye7]: Hadîsin nassıyla “O şuhud, bütün lezaiz-i cennetin o derece fevkindedir ki onları unutturur. Ve şuhuddan sonra ehl-i şuhudun hüsn-ü cemali o derece fazlalaşır ki döndükleri vakit, saraylarındaki aileleri çok dikkat ile zor ile onları tanıyabilirler.” hadîste vârid olmuştur.
+[^hâşiye7]: Hadîsin nassıyla “O şuhud, bütün lezaiz-i cennetin o derece fevkindedir ki onları unutturur. Ve şuhuddan sonra ehl-i şuhudun hüsn-ü cemali o derece fazlalaşır ki döndükleri vakit, saraylarındaki aileleri çok dikkat ile zor ile onları tanıyabilirler.” hadîste vârid olmuştur.
 
-[^Hâşiye8]: Telif tarihine göredir.
+[^hâşiye8]: Telif tarihine göredir.
 
-[^Hâşiye9]: Askerlerin “Annem beni yetiştirdi, bu vatana yolladı.” marşına bir nazire olarak yazılan bu kaside, o makamda ve Gazalî Hazretlerinin “Ey risalet tahtının hurşid-i mâh-ı enveri” naat-ı şerifi makamında okunabilir.
+[^hâşiye9]: Askerlerin “Annem beni yetiştirdi, bu vatana yolladı.” marşına bir nazire olarak yazılan bu kaside, o makamda ve Gazalî Hazretlerinin “Ey risalet tahtının hurşid-i mâh-ı enveri” naat-ı şerifi makamında okunabilir.
 

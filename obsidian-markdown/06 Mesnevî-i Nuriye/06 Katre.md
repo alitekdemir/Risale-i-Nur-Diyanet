@@ -271,9 +271,9 @@ Arkadaş! Bildiğimiz, gördüğümüz dünya bir iken insanlar adedince dünyal
 
 **Üçüncü Hakikat:** Şu gördüğün dünyayı, bütün lezaiziyle, sefahetleriyle, safalarıyla pek ağır ve büyük bir yük gördüm. Ruhu fâsid, kalbi hasta olanlardan başka kimse o ağır yükün altına giremez. Çünkü bütün kâinatla alâkadar olmaktansa ve her şeyin minnetine girmektense ve bütün esbab ve vesaite el açıp arz-ı ihtiyaç etmektense bir Rabb-i Vâhid, Semî’ ve Basîr’e iltica etmek daha rahat ve daha kârlı değil midir?
 
-**Dördüncü Hakikat: **Ey nefis! [^Hâşiye1] Kâinatın uzak çöllerine gidip Sâni’in ispatına deliller toplamaya ihtiyaç yoktur. Bir kulübecik hükmünde bulunan içerisinde oturduğun cisim kafesine bak! Senin o kulübenin duvarlarına asılan icad silsilelerinden, hilkatin mu’cizelerinden ve hârika sanatlarından, kulübeden harice uzatılan ihtiyaç ellerinden ve pencerelerinden yükselen “Âh! Oh!” ve enînler lisan-ı haliyle istenilen yardımlarından anlaşılır ki o kulübeyi müştemilatıyla beraber yaratan Hâlık’ın o âh u enînleri işitir, şefkat ve merhamete gelir, hâcat ve âmâlin ne varsa taht-ı taahhüde alır. Zira sineğin kafasındaki o küçük küçük hüceyratın nidalarına “Lebbeyk” söyleyen o Sâni’-i Semî’ ve Basîr’in, senin dualarını işitmemesi ve o dualara müsbet cevaplar vermemesi imkân ve ihtimali var mıdır?
+**Dördüncü Hakikat: **Ey nefis! [^hâşiye1] Kâinatın uzak çöllerine gidip Sâni’in ispatına deliller toplamaya ihtiyaç yoktur. Bir kulübecik hükmünde bulunan içerisinde oturduğun cisim kafesine bak! Senin o kulübenin duvarlarına asılan icad silsilelerinden, hilkatin mu’cizelerinden ve hârika sanatlarından, kulübeden harice uzatılan ihtiyaç ellerinden ve pencerelerinden yükselen “Âh! Oh!” ve enînler lisan-ı haliyle istenilen yardımlarından anlaşılır ki o kulübeyi müştemilatıyla beraber yaratan Hâlık’ın o âh u enînleri işitir, şefkat ve merhamete gelir, hâcat ve âmâlin ne varsa taht-ı taahhüde alır. Zira sineğin kafasındaki o küçük küçük hüceyratın nidalarına “Lebbeyk” söyleyen o Sâni’-i Semî’ ve Basîr’in, senin dualarını işitmemesi ve o dualara müsbet cevaplar vermemesi imkân ve ihtimali var mıdır?
 
-Binaenaleyh ey bu küçük hüceyrelerden mürekkeb ve “ene” ile tabir edilen hüceyre-i kübra! O kulübeciğin küçüklüğüyle beraber, dolu olduğu hârika icadlarını gör, imana gel! Ve “Yâ İlahî! Yâ Rabbî! Yâ Hâlıkî! Yâ Musavvirî! Yâ Mâlikî ve yâ men lehü’l-mülkü ve’l-hamd! Senin mülkün ve emanetin ve vedian olan şu kulübecikte misafirim, mâlik değilim.” de, o bâtıl temellük davasından vazgeç! Çünkü o temellük davası, insanı pek elîm elemlere maruz bırakır. [^Hâşiye2]
+Binaenaleyh ey bu küçük hüceyrelerden mürekkeb ve “ene” ile tabir edilen hüceyre-i kübra! O kulübeciğin küçüklüğüyle beraber, dolu olduğu hârika icadlarını gör, imana gel! Ve “Yâ İlahî! Yâ Rabbî! Yâ Hâlıkî! Yâ Musavvirî! Yâ Mâlikî ve yâ men lehü’l-mülkü ve’l-hamd! Senin mülkün ve emanetin ve vedian olan şu kulübecikte misafirim, mâlik değilim.” de, o bâtıl temellük davasından vazgeç! Çünkü o temellük davası, insanı pek elîm elemlere maruz bırakır. [^hâşiye2]
 
 ##### Nükte
 Arkadaş! İman bütün eşya arasında hakiki bir uhuvveti, irtibatı, ittisali ve ittihat rabıtalarını tesis eder. Küfür ise bürudet gibi bütün eşyayı birbirinden ayrı gösterir ve birbirine ecnebi nazarıyla baktırır.
@@ -498,7 +498,7 @@ Manevî asansör hükmünde olan murakabeler ile mâü’l-hayatı bulmak pek m�
 
 Vesaite lüzum gösteren ehl-i nazar ise etraf-ı âlemi arşa kadar gezmeleri lâzımdır. Ve o uzun mesafede hücum eden vesveselere, vehimlere, şeytanlara mağlup olup caddeden çıkmamak için pek çok bürhanlar, alâmetler, nişanlar lâzımdır ki yolu şaşırtmasınlar.
 
-Kur’an ise bize asâ-yı Musa gibi bir hakikat vermiştir ki nerede olsam, hattâ taş üzerinde de bulunsam asâyı vuruyorum; mâü’l-hayat fışkırıyor. Âlemin haricine giderek uzun seferlere ve su borularının kırılmaması ve parçalanmaması için muhafazaya muhtaç olmuyorum. Evet <span class="arabic" dir="rtl">وَ فٖى كُلِّ شَىْءٍ لَهُ اٰيَةٌ تَدُلُّ عَلٰى اَنَّهُ وَاحِدٌ</span> beytiyle bu hakikat, hakikatiyle tebarüz eder. [^Hâşiye3]
+Kur’an ise bize asâ-yı Musa gibi bir hakikat vermiştir ki nerede olsam, hattâ taş üzerinde de bulunsam asâyı vuruyorum; mâü’l-hayat fışkırıyor. Âlemin haricine giderek uzun seferlere ve su borularının kırılmaması ve parçalanmaması için muhafazaya muhtaç olmuyorum. Evet <span class="arabic" dir="rtl">وَ فٖى كُلِّ شَىْءٍ لَهُ اٰيَةٌ تَدُلُّ عَلٰى اَنَّهُ وَاحِدٌ</span> beytiyle bu hakikat, hakikatiyle tebarüz eder. [^hâşiye3]
 
 ##### Remiz
 Arkadaş! Nefsin vücudunda bir körlük vardır. O körlük vücudunda zerre-miskal kaldıkça hakikat güneşinin görünmesine mani bir hicab olur. Evet, müşahedemle sabittir ki kat’î, yakînî bürhanlar ile deliller dolu olan büyük bir kalede, küçük bir taşta bir zafiyet görünürse o kör olası nefis o kaleyi tamamen inkâr eder. Altını üstüne çevirir. İşte nefsin cehaleti, hamakati, bu gibi insafsızca tahribattan anlaşılır.
@@ -511,9 +511,9 @@ Ey şan ve şerefi, nam ve şöhreti isteyen adam! Gel, o dersi benden al. Şöh
 
 ***
 
-[^Hâşiye1]: (Müellif-i muhterem, kendi nefsine tasrihen, başkalara da ta’rizen söylüyor.)
+[^hâşiye1]: (Müellif-i muhterem, kendi nefsine tasrihen, başkalara da ta’rizen söylüyor.)
 
-[^Hâşiye2]: (Mütercimin bir i’tizarı)
+[^hâşiye2]: (Mütercimin bir i’tizarı)
 
 Mesnevî-i Nuriye’nin Arabî asıl nüshasında bulunan ve yeri burası olan Sübhanallah, Elhamdülillah ve Allahu ekber’e dair çok kıymetli ve ehemmiyetli bir kısmı, üslubunu ve fesahatini muhafaza edememek ve evrad makamında okunabilen o hakikatleri Türkçeye çevirmekle, kıymet-i asliyesini haleldar etmek endişesiyle tercüme etmedim. Kārilerden özür diler, rahmet ve hayır dualarını beklerim.
 
@@ -521,5 +521,5 @@ Mütercim
 
 Abdülmecid
 
-[^Hâşiye3]: İhtar: Kur’an’ın delâletiyle bulduğum yola gitmek isteyen için ve ona o yolu güzelce tarif etmek için Risale-i Nur Külliyatı güzel bir tarifçidir.
+[^hâşiye3]: İhtar: Kur’an’ın delâletiyle bulduğum yola gitmek isteyen için ve ona o yolu güzelce tarif etmek için Risale-i Nur Külliyatı güzel bir tarifçidir.
 

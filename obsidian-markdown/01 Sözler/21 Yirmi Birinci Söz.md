@@ -75,7 +75,7 @@ Bununla beraber meşâgil-i dünyeviye dediğin, çoğu sana ait olmayan ve fuzu
 
 Aynen onun gibi sen şu bağında, nafakan için işliyorsun. Eğer farz namazı terk etsen bütün sa’yin semeresi, yalnız dünyevî ve ehemmiyetsiz ve bereketsiz bir nafakaya münhasır kalır. Eğer sen istirahat ve teneffüs vaktini, ruhun rahatına, kalbin teneffüsüne medar olan namaza sarf etsen o vakit, bereketli nafaka-i dünyeviye ile beraber, senin nafaka-i uhreviyene ve zâd-ı âhiretine ehemmiyetli bir menba olan, iki maden-i manevî bulursun:
 
-**Birinci maden:** Bütün bağındaki [^Hâşiye1] yetiştirdiğin –çiçekli olsun, meyveli olsun– her nebatın, her ağacın tesbihatından, güzel bir niyet ile bir hisse alıyorsun.
+**Birinci maden:** Bütün bağındaki [^hâşiye1] yetiştirdiğin –çiçekli olsun, meyveli olsun– her nebatın, her ağacın tesbihatından, güzel bir niyet ile bir hisse alıyorsun.
 
 **İkinci maden:** Hem bu bağdan çıkan mahsulattan kim yese –hayvan olsun, insan olsun; inek olsun, sinek olsun; müşteri olsun, hırsız olsun– sana bir sadaka hükmüne geçer. Fakat o şart ile ki sen, Rezzak-ı Hakiki namına ve izni dairesinde tasarruf etsen ve onun malını, onun mahlukatına veren bir tevziat memuru nazarıyla kendine baksan…
 
@@ -163,4 +163,4 @@ Tahayyül-ü küfür, küfür olmadığı gibi tevehhüm-ü küfür dahi küfür
 
 ***
 
-[^Hâşiye1]: Bu makam, bir bağda bir zata bir derstir ki bu tarz ile beyan edilmiş.
+[^hâşiye1]: Bu makam, bir bağda bir zata bir derstir ki bu tarz ile beyan edilmiş.

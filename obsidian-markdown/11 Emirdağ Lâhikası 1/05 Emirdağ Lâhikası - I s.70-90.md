@@ -64,7 +64,7 @@ Evet her vakit, hususan bu zamanda ve bilhassa dalaletten gelen gaflet-i umumiye
 
 Hattâ bu defa bana beş vecihle kanunsuz, bayramda, düşmanlarımın planıyla bana ihanet eden o malûm adama şimdilik bir bela gelmesin diye telaş ettim. Çünkü mesele şaşaalandığı için doğrudan doğruya avam-ı nâs bana makam verip hârika bir keramet sayabilirler diye dedim: “Yâ Rabbi, bunu ıslah et veya cezasını ver. Fakat böyle kerametvari bir surette olmasın.” Bu münasebetle bir şeyi beyan edeceğim. Şöyle ki:
 
-Bu defa mahkemeden bana teslim olunan talebelerin mektupları içinde, çok imzalar üstünde bulunan bir mektup gördüm belki Lâhika’ya girmiş. Risale-i Nur’un şakirdlerinin maişet cihetindeki bereketine ve bazıların tokatlarına dairdi. Burada, aynen Kastamonu’daki tokat yiyenler gibi şüphe kalmamış; beş adam, aynen burada da tokat yediler. [^Hâşiye1]
+Bu defa mahkemeden bana teslim olunan talebelerin mektupları içinde, çok imzalar üstünde bulunan bir mektup gördüm belki Lâhika’ya girmiş. Risale-i Nur’un şakirdlerinin maişet cihetindeki bereketine ve bazıların tokatlarına dairdi. Burada, aynen Kastamonu’daki tokat yiyenler gibi şüphe kalmamış; beş adam, aynen burada da tokat yediler. [^hâşiye1]
 
 **Risale-i Nur’un bir kâtibi dedi ki:** “Neden dostların kusuratına tokat gelir. Hücum eden düşmanlara bu tarzda gelmiyor?”
 
@@ -207,7 +207,7 @@ Umum kardeşlerime birer birer selâm ve selâmetlerine dua ederiz. Cenab-ı Hak
 
 Aziz, sıddık kardeşlerim!
 
-Bu defa şehit merhum Hâfız Ali’nin ehemmiyetli bir vârisi ve Denizli talebelerinin yüksek bir mümessili ve Denizli şehrinin Risale-i Nur’a karşı fevkalâde teveccühünün bir tercümanı kardeşimiz Hasan Feyzi’nin edibane, Risale-i Nur hakkında fevkalâde senakârane pek uzun bir mektubunu aldım. [^Hâşiye2]
+Bu defa şehit merhum Hâfız Ali’nin ehemmiyetli bir vârisi ve Denizli talebelerinin yüksek bir mümessili ve Denizli şehrinin Risale-i Nur’a karşı fevkalâde teveccühünün bir tercümanı kardeşimiz Hasan Feyzi’nin edibane, Risale-i Nur hakkında fevkalâde senakârane pek uzun bir mektubunu aldım. [^hâşiye2]
 
 Risale-i Nur’un bana teslim olması münasebetiyle, kardeşimiz Hâfız Mustafa’nın çalışması hakkında yazdığım mektubun içinde Risale-i Nur’un çok ehemmiyetli kıymetini muhtasar bir surette beyanatıma ve hiss-i kable’l-vuku mektuplarımdaki ehemmiyetli davalarıma bu uzun mektup tam bir izah ve Denizli şehrinin Risale-i Nur lehinde bir kuvvetli şehadeti ve bir şahidi olmak cihetiyle hem bu zat mektep fenlerinde çok zaman alâkadar olup kıdemli bir muallim ve âlim olması haysiyetiyle, Risale-i Nur hakkındaki bu parlak şehadeti çok ehemmiyetli gördüm. Yalnız, bana bakan kısımları ya tayy veya ta’dil etmeyi münasip gördüm. Bir, iki, üç yerde de herkese göstermek münasip görmediğimden, çizgi altına aldım ve sizlere de Yirmi Yedinci Mektup’un veya Lâhikasının bir zeyli olarak gönderdim. Bu parça mektubumu, onun mektubunun başında yazabilirsiniz. Hasan Feyzi kardeşimiz, onun bazı cümlelerini tayyetmemden gücenmesin. Çünkü umum talebelere o tayyolunan kısım lâzım değil, hususi bazılarda kalabilir.
 
@@ -303,7 +303,7 @@ Birden o mübarek hanım demiş ki: “Gerçi çok muhtacız ve âhirette de ço
 
 İşte hapisten sonra yazılan bir kısım mektuplarımız hem makbul hem çok ehemmiyetli hem bu zamanda halk onlara çok muhtaç olduğuna bir emare olarak, yazdığımız zaman –hilaf-ı âdet bir tarzda– serçe kuşunun ve kuddüs kuşunun ve güvercinlerin garib bir tarzda odama gelmeleri ve birbirine tevafuk etmesi ve Milas’ta ehemmiyetli bir kardeşimiz Halil İbrahim’in, kuddüs kuşu bahsi bulunan mektubu aldıkları zaman aynen, hilaf-ı âdet, kilitli bir odasını açarken kuddüs kuşu oda içerisinde uçmaya çalışması hem içinde bulunan mektubu hem bizim kuşlarımıza tevafuku ve Medrese-i Nuriye’deki şakirdlerin o mektuplarımızı okumak zamanında iki çekirge mektubun başına gelip dinlemeleri, sâbık kuşlarda tevafukatına bu küçük kuşlar dahi hem tasdik hem tevafuk ettikleri gibi; İnebolu’daki sadık kardeşlerimizin imzalarıyla yine mektubumuzu gecede okudukları zaman gayet heyecanlı bir tarzda bir gece kuşu onları korkutup pencereye el atıp iki kanadı ile pencereyi döverek lisan-ı hal ile ben de o mektupla alâkadarım, bizi alâkasız zannetmeyiniz diye yine sâbık aynı meseleye ve sâbık kuşların alâkadarlıklarına, büyük kuş da tam tevafuk ve tasdik ediyor.
 
-Aynı meseleye bu kadar tevafukat [^Hâşiye3] hem mektuplardaki mücmelen bahsedilen hakikatlerin çok ehemmiyetli olmasından ve nev-i beşerin bu asırdaki vaziyetine bakması noktasında, acaba kâinat kitabının hâdisat ve meseleleri birbiriyle münasebettarlığını düşünen ve hayali geniş bir ehl-i kalp ve fikir böyle dese hakkı yok mu ki:
+Aynı meseleye bu kadar tevafukat [^hâşiye3] hem mektuplardaki mücmelen bahsedilen hakikatlerin çok ehemmiyetli olmasından ve nev-i beşerin bu asırdaki vaziyetine bakması noktasında, acaba kâinat kitabının hâdisat ve meseleleri birbiriyle münasebettarlığını düşünen ve hayali geniş bir ehl-i kalp ve fikir böyle dese hakkı yok mu ki:
 
 Güya beşer gayet kesretli tayyareleriyle ve insan kuşlarıyla, kuşların âlemi olan cevv-i havadaki kuşları hem korkutup hem kuşlar âleminde acib bir heyecanla nev-i beşerin gidişatına karşı kuşlar dahi ciddi alâkadarlık gösterip insanların bu zalim, tahribatçı canavar kuşlarına karşı kimler mukabele edip onları zulümden, tahripten vazgeçirip beşerin menfaatinde ve saadetinde çalıştırmasına çalışan kimlerdir diye Risale-i Nur meselelerine alâkadarlık gösteriyorlar denilse yeri yok mu? İhtimal verilmez mi? Manasız bir hayal denilebilir mi?
 
@@ -325,15 +325,15 @@ Umum kardeşlerime birer birer selâm ve dua ediyoruz.
 
 ***
 
-[^Hâşiye1]: Evet biz gözümüzle gördük, hiç şüphemiz kalmadı.
+[^hâşiye1]: Evet biz gözümüzle gördük, hiç şüphemiz kalmadı.
 
 Buranın talebeleri namına
 
 Ceylan, İbrahim
 
-[^Hâşiye2]: Bu uzun mektubun tamamı, Konferans isimli kitapta neşredilmiştir.
+[^hâşiye2]: Bu uzun mektubun tamamı, Konferans isimli kitapta neşredilmiştir.
 
-[^Hâşiye3]: Bu mektubu Üstadımızdan yeni almıştık. Ben yani Hüsrev okuyordum, arkadaşım Tahirî yazıyordu. Gül kahraman kuşu odamızın penceresine konup Hüsrev’in başını görmekle bırakıp gitti.
+[^hâşiye3]: Bu mektubu Üstadımızdan yeni almıştık. Ben yani Hüsrev okuyordum, arkadaşım Tahirî yazıyordu. Gül kahraman kuşu odamızın penceresine konup Hüsrev’in başını görmekle bırakıp gitti.
 
 Hüsrev, Tahirî
 

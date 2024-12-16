@@ -91,7 +91,7 @@ Küçüklüğümden beri halkların malını kabul etmemek –velev zekât dahi 
 
 Bereket ve ikram-ı İlahî ile yaşıyorum. Nefsim çendan her hakarete, her ihanete müstahak ise de fakat Kur’an hizmetinin kerameti olarak, erzak hususunda ikram-ı İlahî olan berekete mazhar oluyorum. <span class="arabic" dir="rtl">وَ اَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ</span> sırrıyla, Cenab-ı Hakk’ın bana ettiği ihsanatı yâd edip bir şükr-ü manevî nevinde birkaç numunesini söyleyeceğim. Bir şükr-ü manevî olmakla beraber, korkuyorum ki bir riya ve gururu ihsas ederek o mübarek bereket kesilsin. Çünkü müftehirane gizli bereketi izhar etmek, kesilmesine sebep olur. Fakat ne çare, söylemeye mecbur oldum.
 
-**İşte birisi:** Şu altı aydır otuz altı ekmekten ibaret bir kile buğday bana kâfi geldi. Daha var, bitmemiş. Ne miktar kifayet [^Hâşiye1] edecek, bilmiyorum.
+**İşte birisi:** Şu altı aydır otuz altı ekmekten ibaret bir kile buğday bana kâfi geldi. Daha var, bitmemiş. Ne miktar kifayet [^hâşiye1] edecek, bilmiyorum.
 
 **İkincisi:** Şu mübarek ramazanda, yalnız iki haneden bana yemek geldi, ikisi de beni hasta etti. Anladım ki başkasının yemeğini yemekten memnûum. Mütebâkisi, bütün ramazanda benim idareme bakan mübarek bir hanenin ve sadık bir arkadaşım olan o hane sahibi Abdullah Çavuş’un ihbarı ve şehadetiyle; üç ekmek, bir kıyye (kilo demek) pirinç bana kâfi gelmiştir. Hattâ o pirinç, on beş gün ramazandan sonra bitmiştir.
 
@@ -150,7 +150,7 @@ Hey efendiler! Ben imanın cereyanındayım. Karşımda imansızlık cereyanı v
 
 **Beşinci Mesele:** Dünya madem fânidir. Hem madem ömür kısadır. Hem madem gayet lüzumlu vazifeler çoktur. Hem madem hayat-ı ebediye burada kazanılacaktır. Hem madem dünya sahipsiz değil. Hem madem şu misafirhane-i dünyanın gayet Hakîm ve Kerîm bir Müdebbiri var. Hem madem ne iyilik ve ne fenalık, cezasız kalmayacaktır. Hem madem <span class="arabic" dir="rtl">لَا يُكَلِّفُ اللّٰهُ نَفْسًا اِلَّا وُسْعَهَا</span> sırrınca teklif-i mâlâyutak yoktur. Hem madem zararsız yol, zararlı yola müreccahtır. Hem madem dünyevî dostlar ve rütbeler, kabir kapısına kadardır.
 
-Elbette en bahtiyar odur ki: Dünya için âhireti unutmasın, âhiretini dünyaya feda etmesin, hayat-ı ebediyesini hayat-ı dünyeviye için bozmasın, malayani şeylerle ömrünü telef etmesin, kendini misafir telakki edip misafirhane sahibinin emirlerine göre hareket etsin, selâmetle kabir kapısını açıp saadet-i ebediyeye girsin. [^Hâşiye2]
+Elbette en bahtiyar odur ki: Dünya için âhireti unutmasın, âhiretini dünyaya feda etmesin, hayat-ı ebediyesini hayat-ı dünyeviye için bozmasın, malayani şeylerle ömrünü telef etmesin, kendini misafir telakki edip misafirhane sahibinin emirlerine göre hareket etsin, selâmetle kabir kapısını açıp saadet-i ebediyeye girsin. [^hâşiye2]
 
 ***
 
@@ -239,7 +239,7 @@ Hey bedbahtlar! Ben size ne yaptım ve ne yapıyorum? İmanınızın kurtulması
 
 ***
 
-[^Hâşiye1]: Bir sene devam etti.
+[^hâşiye1]: Bir sene devam etti.
 
-[^Hâşiye2]: Bu mademler içindir ki şahsıma karşı olan zulümlere, sıkıntılara aldırmıyorum ve ehemmiyet vermiyorum. “Meraka değmiyor.” diyorum ve dünyaya karışmıyorum.
+[^hâşiye2]: Bu mademler içindir ki şahsıma karşı olan zulümlere, sıkıntılara aldırmıyorum ve ehemmiyet vermiyorum. “Meraka değmiyor.” diyorum ve dünyaya karışmıyorum.
 

@@ -33,14 +33,14 @@ Bu iki hadîs-i şeriften alınan bir ilhamla, Risale-i Nur’u yazmanın dünye
 
 2. Bütün şakirdlerin manevî kazançlarına, Nur dairesindeki şirket-i maneviye sırrıyla, umum onların hasenatlarına hissedar olmaktır.
 
-Hem bu talebesizlik zamanında, melaikelerin hürmetine mazhar olan [^Hâşiye1] talebe-i ulûm-u diniye sınıfına dâhil olup âlem-i berzahta –tâli’i varsa tam muvaffak olmuşsa– Hâfız Ali ve “Meyve”de bahsi geçen meşhur talebe gibi şüheda hayatına mazhar olmaktır.
+Hem bu talebesizlik zamanında, melaikelerin hürmetine mazhar olan [^hâşiye1] talebe-i ulûm-u diniye sınıfına dâhil olup âlem-i berzahta –tâli’i varsa tam muvaffak olmuşsa– Hâfız Ali ve “Meyve”de bahsi geçen meşhur talebe gibi şüheda hayatına mazhar olmaktır.
 
 ***
 
 ##### Makine ile çıkan mecmuaların başında yazılacak fıkra şudur
 “Risale-i Nur’un bütün eczalarını iki sene hem Ankara hem Denizli mahkemeleri ve ehl-i vukufu tetkikten sonra hem beraetimize hem umum Risale-i Nur eczalarını bana teslime müttefikan karar vermelerine binaen, neşirlerine bir mani yoktur. Bana verilen Risale-i Nur’dan birisi, bu mecmuanın eczalarıdır.”
 
-Isparta’da hem mekteplerde hem camilerde din lehindeki icraatlar, Zülfikar’ın manevî fütuhatı sayılabilir. İnşâallah Isparta nasıl Nurların medresesi olmuş, başka vilayetlere de ders veriyor, inşâallah şeair-i İslâmiyede de birinci hüsn-ü misal ve numune-i imtisal olacak. [^Hâşiye2]
+Isparta’da hem mekteplerde hem camilerde din lehindeki icraatlar, Zülfikar’ın manevî fütuhatı sayılabilir. İnşâallah Isparta nasıl Nurların medresesi olmuş, başka vilayetlere de ders veriyor, inşâallah şeair-i İslâmiyede de birinci hüsn-ü misal ve numune-i imtisal olacak. [^hâşiye2]
 
 ***
 
@@ -70,7 +70,7 @@ Ben de “Tevekkeltü alallah ecel birdir, tagayyür etmez.” dedim.
 
 **İkincisi:** Belki tahattur edersin, Ankara’da divan-ı riyasetinde Mustafa Kemal’le münakaşa zamanında, ona karşı dedim: “Namaz kılmayan haindir, hainin hükmü merduddur.” Yüzüne şiddetli mukabele ettiğim halde bana karşı ihanet ve hakarete cesaret edemediği halde burada küçük bir zabit ve bir çavuş, o ihaneti ve hakareti yaptılar. Maksatları, beni hiddete getirip bir mesele çıkarmak olmasından, hıfz ve inayet-i İlahiye bana sabır ve tahammül verdi.
 
-**Üçüncüsü:** İki sene, iki mahkeme, ellerinde tetkik edilen bütün Risale-i Nur eczalarında kanunca bir vesile bulamayıp [^Hâşiye3] bizi ve Risale-i Nur’u beraet ettirdikten sonra; zındıka komitesi, münafık bazı memurları vesile ederek merkez-i hükûmette resmî bir plan çevirip beni bütün bütün hilaf-ı kanun olarak bütün dostlarımdan ve talebelerimden tecrit ve sıhhat ve hayatım noktasında en fena bir yerde, beni nefyetmek namı altında, haps-i münferid ve tecrid-i mutlak manasında beni Emirdağı’na gönderdiler. Şimdi tahakkuk etmiş ki **iki maksat**la bu muameleyi yapıyorlar:
+**Üçüncüsü:** İki sene, iki mahkeme, ellerinde tetkik edilen bütün Risale-i Nur eczalarında kanunca bir vesile bulamayıp [^hâşiye3] bizi ve Risale-i Nur’u beraet ettirdikten sonra; zındıka komitesi, münafık bazı memurları vesile ederek merkez-i hükûmette resmî bir plan çevirip beni bütün bütün hilaf-ı kanun olarak bütün dostlarımdan ve talebelerimden tecrit ve sıhhat ve hayatım noktasında en fena bir yerde, beni nefyetmek namı altında, haps-i münferid ve tecrid-i mutlak manasında beni Emirdağı’na gönderdiler. Şimdi tahakkuk etmiş ki **iki maksat**la bu muameleyi yapıyorlar:
 
 Birisi: Eskiden beri ihaneti kabul etmediğimden, beni o surette hiddete getirip bir mesele çıkararak mahvıma yol açmaktı. Bundan bir şey çıkaramadıkları için zehirlendirmek vasıtasıyla mahvıma çalıştılar. Fakat inayet-i İlahiye ile Nur şakirdlerinin duaları tiryak gibi, panzehir gibi ve sabır ve tahammülüm tam bir ilaç gibi o planı akîm bıraktı, o maddî ve manevî zehirin tehlikesini geçirdi. Gerçi hiçbir tarihte, hiçbir hükûmette bu tarzda işkenceli zulümler, kanun namına, hükûmet namına yapılmadığı halde; damarlarıma dokunduracak tarzda mütemadiyen tarassudlarla herkesi ürkütmekle beni hiddete getiriyordu.
 
@@ -286,9 +286,9 @@ Haricî ve büyük bir düşmanın hücumu zamanında, dâhilî küçük düşma
 
 ***
 
-[^Hâşiye1]: Bazı ehl-i keşfin kat’î müşahedesiyle sabittir.
+[^hâşiye1]: Bazı ehl-i keşfin kat’î müşahedesiyle sabittir.
 
-[^Hâşiye2]: Ehl-i siyasete hiç bakmadığım halde, bugün tesadüfen kulağıma girdi ki bazı camileri kaldırmak için bir mecliste, bir kısım dinsiz mebuslar çalışmışlar. Aynı vakitte beni tesmim (zehirlendirmesi) ve Hasan Feyzi’nin ölüm hastalığı tesadüfe benzemiyor. Bu üç sû-i kasd aynı zamanda birbiriyle alâkadar görünüyor. İkisi şimdilik akîm kaldı, birisi bir kahramanı aldı.
+[^hâşiye2]: Ehl-i siyasete hiç bakmadığım halde, bugün tesadüfen kulağıma girdi ki bazı camileri kaldırmak için bir mecliste, bir kısım dinsiz mebuslar çalışmışlar. Aynı vakitte beni tesmim (zehirlendirmesi) ve Hasan Feyzi’nin ölüm hastalığı tesadüfe benzemiyor. Bu üç sû-i kasd aynı zamanda birbiriyle alâkadar görünüyor. İkisi şimdilik akîm kaldı, birisi bir kahramanı aldı.
 
-[^Hâşiye3]: Ya hiçbir cihetle hiçbir kanun hattâ onların bazı keyfî kanunları bize ve Risale-i Nur’a ilişmiyorlar veyahut şimdiki bazı kanunları iliştiği halde; koca adliyeler ve üç büyük mahkemeler, istikbalde gelecek şiddetli nefret ve lanetten çekinmek için Nur’un ve bizim mahkûmiyetimize cesaret edemeyip ittifakla umumumuzun beraetine ve bütün Risale-i Nur’un iadesine karar verdikleri ve ellerindeki kanun onlara siper olabilir, dağ gibi kuvvetli adliyeler çekindiği halde, muvakkat bir makam alan gaddar şahsiyetler bu zulmü yapmaları, elbette semavatı ve arzı kızdırıyor, daha hiddetime lüzum kalmıyor.
+[^hâşiye3]: Ya hiçbir cihetle hiçbir kanun hattâ onların bazı keyfî kanunları bize ve Risale-i Nur’a ilişmiyorlar veyahut şimdiki bazı kanunları iliştiği halde; koca adliyeler ve üç büyük mahkemeler, istikbalde gelecek şiddetli nefret ve lanetten çekinmek için Nur’un ve bizim mahkûmiyetimize cesaret edemeyip ittifakla umumumuzun beraetine ve bütün Risale-i Nur’un iadesine karar verdikleri ve ellerindeki kanun onlara siper olabilir, dağ gibi kuvvetli adliyeler çekindiği halde, muvakkat bir makam alan gaddar şahsiyetler bu zulmü yapmaları, elbette semavatı ve arzı kızdırıyor, daha hiddetime lüzum kalmıyor.
 

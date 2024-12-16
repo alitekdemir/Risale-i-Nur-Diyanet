@@ -120,7 +120,7 @@ Bu nükteleri aklına koyduktan sonra, şu gelen fezlekeye dikkat et:
 
 Evet tehzibü’r-ruh, riyazetü’l-kalp, terbiyetü’l-vicdan, tedbirü’l-ceset, tedvirü’l-menzil, siyasetü’l-medeniye, nizamatü’l-âlem, hukuk, muamelat, âdab-ı içtimaiye vesaire vesaire gibi ulûm ve fünunun ihtiva ettikleri esasatın fihristesi, şeriat-ı İslâmiyedir. Ve aynı zamanda, lüzum görülen meselelerde, ihtiyaca göre izahatta bulunmuştur. Lüzumlu olmayan yerlerde veya zihinlerin istidadı olmayan meselelerde veyahut zamanın kabiliyeti olmayan noktalarda, bir fezleke ile icmal etmiştir. Yani esasları vaz’etmiş fakat o esaslardan alınacak hükümleri veya esasata bina edilecek füruatı akılların meşveretine havale etmiştir. Böyle bir şeriatın ihtiva ettiği fenlerin üçte biri bile şu zaman-ı terakkide en medeni yerlerde en zeki bir insanda bulunamaz. Binaenaleyh vicdanı insaf ile müzeyyen olan zat, bu şeriatın hakikatinin bütün zamanlarda, bilhassa eski zamanda, tâkat-i beşeriyeden hariç bir hakikat olduğunu tasdik eder.
 
-Evet, zahiren İslâmiyet dairesine girmeyen düşman feylesofları bile bu hakikati tasdik etmişlerdir. Ezcümle, Amerikalı feylesof Carlyle –Alman edib-i şehîri Goethe’den naklen– Kur’an’ın hakaikine dikkat ettikten sonra “Acaba İslâmiyet içinde âlem-i medeniyetin tekemmülü mümkün müdür?” diye sormuştur. Yine bu suale cevaben demiştir ki: “Evet muhakkikler, şimdi o daireden istifade ediyorlar.” Yine Carlyle demiştir ki: “Hakaik-i Kur’aniye, tulû ettiği zaman ateş gibi bütün dinleri yuttu. Zaten bu onun hakkı idi. Çünkü Nasâra ve Yahudilerin hurafelerinden bir şey çıkmadı.” İşte bu feylesof <span class="arabic" dir="rtl">فَاْتُوا بِسُورَةٍ مِنْ مِثْلِهٖ … فَاِنْ لَمْ تَفْعَلُوا وَلَنْ تَفْعَلُوا فَاتَّقُوا النَّارَ … الخ</span> olan âyet-i kerîmenin mealini tasdik etmiştir. [^Hâşiye1]
+Evet, zahiren İslâmiyet dairesine girmeyen düşman feylesofları bile bu hakikati tasdik etmişlerdir. Ezcümle, Amerikalı feylesof Carlyle –Alman edib-i şehîri Goethe’den naklen– Kur’an’ın hakaikine dikkat ettikten sonra “Acaba İslâmiyet içinde âlem-i medeniyetin tekemmülü mümkün müdür?” diye sormuştur. Yine bu suale cevaben demiştir ki: “Evet muhakkikler, şimdi o daireden istifade ediyorlar.” Yine Carlyle demiştir ki: “Hakaik-i Kur’aniye, tulû ettiği zaman ateş gibi bütün dinleri yuttu. Zaten bu onun hakkı idi. Çünkü Nasâra ve Yahudilerin hurafelerinden bir şey çıkmadı.” İşte bu feylesof <span class="arabic" dir="rtl">فَاْتُوا بِسُورَةٍ مِنْ مِثْلِهٖ … فَاِنْ لَمْ تَفْعَلُوا وَلَنْ تَفْعَلُوا فَاتَّقُوا النَّارَ … الخ</span> olan âyet-i kerîmenin mealini tasdik etmiştir. [^hâşiye1]
 
 Sual: Gerek Kur’an-ı Kerîm olsun, gerek tefsiri olan hadîs-i şerif olsun; her fenden her ilimden birer fezleke almışlardır. Bir kitap veya bir şahsın yalnız fezlekeleri ihata etmekle hârika olması lâzım gelmez. Bir şahıs, pek çok fezlekeleri ihata edebilir?
 
@@ -194,13 +194,13 @@ Yaradılışta ve maddiyata dair meselelerde Kur’an mübhem geçmiştir dedikl
 
 Buna binaen bundan on asır evvel gelen insanlara fünun-u hazırayı ders vermek veya garib meselelerden bahsetmek; onların zihinlerini şaşırtmaktan ve o insanları safsatalara atmaktan gayrı bir fayda vermezdi.
 
-Mesela, Kur’an-ı Kerîm “Ey insanlar! Şemsin sükûnuna, arzın hareketine [^Hâşiye2] ve bir katre su içinde binlerce hayvanatın bulunduğuna dikkat ediniz ki azamet-i İlahiyeyi anlayasınız.” demiş olsaydı, bütün o zamanların insanlarını tekzibe sevk etmiş olurdu. Çünkü hiss-i zahirîye muhaliftir. Maahâzâ on asırdan beri gelip geçen insanları şaşırtmak, yalnız fünun-u cedidenin zuhurundan sonra gelen insanları memnun etmek, makam-ı irşada muhalif olduğu gibi ruh-u belâgatla da kabil-i telif değildir.
+Mesela, Kur’an-ı Kerîm “Ey insanlar! Şemsin sükûnuna, arzın hareketine [^hâşiye2] ve bir katre su içinde binlerce hayvanatın bulunduğuna dikkat ediniz ki azamet-i İlahiyeyi anlayasınız.” demiş olsaydı, bütün o zamanların insanlarını tekzibe sevk etmiş olurdu. Çünkü hiss-i zahirîye muhaliftir. Maahâzâ on asırdan beri gelip geçen insanları şaşırtmak, yalnız fünun-u cedidenin zuhurundan sonra gelen insanları memnun etmek, makam-ı irşada muhalif olduğu gibi ruh-u belâgatla da kabil-i telif değildir.
 
 Sual: “Keşfiyat-ı fenniye ve fünun-u hazıra eski insanlara meçhul ve gayr-ı me’luf olduğundan, onları onlara ders vermek hatadır.” diyorsun. Bilhassa âhirete ait ahval gibi müstakbeldeki nazariyat da böyle değil midir? Onlar da bize meçhul ve gayr-ı me’lufturlar. Onlardan bahsetmek ne için hata olmuyor?
 
 Cevap: Müstakbeldeki nazariyat, bilhassa âhirete ait ahvale hiçbir cihetle hiss-i zahirî taalluk etmemiştir ki o hissin hilafını söylemek şaşırtma olsun. Binaenaleyh o gibi şeyler, daire-i imkândadırlar. Öyle ise onlara itikad ve onlar ile itminan peyda etmek mümkündür. Öyle ise o gibi şeylerin hakk-ı sarîhi, onları tasrih etmektir. Lâkin keşfiyat-ı fenniye; eski insanlara göre, imkân ve ihtimal dairesinden çıkıp muhal ve imtina derecesine girmişlerdir. Çünkü gözleriyle gördükleri şeyler, onlarca bedahet derecesine girmekle, onun hilafı onlarca muhaldir. Öyle ise onların hissiyatına hürmeten, o gibi meselelerde belâgatın iktizası, ibham ve ıtlaktır ki onlara bir şaşırtma olmasın.
 
-Fakat Kur’an-ı Kerîm, irşadını noksan bırakmamıştır. Bu zamanın fencilerini de istifadeden mahrum etmemek üzere, çok karine ve emarelerin vaz’ıyla, hakikatlere işaretler yapmıştır. [^Hâşiye3]
+Fakat Kur’an-ı Kerîm, irşadını noksan bırakmamıştır. Bu zamanın fencilerini de istifadeden mahrum etmemek üzere, çok karine ve emarelerin vaz’ıyla, hakikatlere işaretler yapmıştır. [^hâşiye3]
 
 Ey insafsız! Seni insafa davet ediyorum. Bir kere <span class="arabic" dir="rtl">كَلِّمِ النَّاسَ عَلٰى قَدَرِ عُقُولِهِمْ</span> olan meşhur düsturu nazara almakla, zamanlarıyla muhitlerinin müsaadesizliğini düşünerek, telahuk eden binlerce efkârın neticelerinden doğan şu keşfiyat-ı fenniyeyi o zamanlardaki insanların kafa mideleri alıp hazmedemediklerine dikkat edersen anlayacaksın ki Kur’an-ı Kerîm’in o gibi meselelerde ihtiyar ettiği ibham ve ıtlak yolu, ayn-ı belâgat olduğu gibi yüksek i’cazını da ispata aşikâr bir delil olduğunu gözün kör değilse göreceksin.
 
@@ -228,7 +228,7 @@ Evet, Peygamber aleyhissalâtü vesselâmın zahirî hârikalarının her birisi
 
 Sual: İnşikak-ı kamer bütün insanlarca kesb-i şöhret etmesi lâzım bir mu’cize iken âlemce o kadar şöhret bulmamıştır. Esbabı nedir?
 
-Cevap: Matla’ların ihtilafı ve havanın bulutlu olmasının ihtimali ve o zamanda rasathanelerin bulunmaması ve vaktin uyku gibi gaflet zamanı olması ve inşikakın âni olması gibi esbabdan dolayı, herkesçe o vak’anın görünmesi ve malûm olması lâzım gelmez. Maahâzâ Hicaz matlaıyla matla’ları bir olan yerlerde, o gece yollarda bulunan kervan ve kafilelerden naklen, inşikakın vukua geldiği hakkında çok rivayetler vardır. [^Hâşiye4]
+Cevap: Matla’ların ihtilafı ve havanın bulutlu olmasının ihtimali ve o zamanda rasathanelerin bulunmaması ve vaktin uyku gibi gaflet zamanı olması ve inşikakın âni olması gibi esbabdan dolayı, herkesçe o vak’anın görünmesi ve malûm olması lâzım gelmez. Maahâzâ Hicaz matlaıyla matla’ları bir olan yerlerde, o gece yollarda bulunan kervan ve kafilelerden naklen, inşikakın vukua geldiği hakkında çok rivayetler vardır. [^hâşiye4]
 
 Üçüncü nevi mu’cizelerin reisi ve en büyüğü, Kur’an-ı Azîmüşşan’dır ki yedi vecihle mu’cize olduğuna mezkûr âyetle işaret edilmiştir.
 
@@ -480,9 +480,9 @@ Cevap: Evet, Kur’an-ı Kerîm’in takip ettiği usûl, ale’l-ekser âyetler
 
 ***
 
-[^Hâşiye1]: Kırk sene sonra neşrolan Risale-i Nur’da Carlyle, Goethe ve Bismark gibi kırk meşhur feylesofların tasdikleri beyan edilmiş. İnşâallah bu kitabın zeylinde dahi yazılacak.
+[^hâşiye1]: Kırk sene sonra neşrolan Risale-i Nur’da Carlyle, Goethe ve Bismark gibi kırk meşhur feylesofların tasdikleri beyan edilmiş. İnşâallah bu kitabın zeylinde dahi yazılacak.
 
-[^Hâşiye2]: Hasta halimde, nevm ile yakaza arasında ihtar edilen bir nüktedir:
+[^hâşiye2]: Hasta halimde, nevm ile yakaza arasında ihtar edilen bir nüktedir:
 
 Şemsin yerinde mevlevîvari yaptığı semavî hareketi, kuvve-i cazibeyi tevlid etmek içindir. Kuvve-i cazibe de manzume-i şemsiye ile anılan güneşe bağlı yıldızları düşmek tehlikesinden kurtarmak içindir. Demek, şemsin mihverinde dairevari cereyan ve hareketi olmasa yıldızlar düşerler.
 
@@ -496,11 +496,11 @@ Eğer sükûnuyla sükûnet eylese cezbe kaçar, ağlar fezada muntazam meczupla
 
 Mütercim
 
-[^Hâşiye3]: Mu’cizat-ı Kur’aniye risale-i nuriyesi tamamıyla bu hakikati ispat etmiş.
+[^hâşiye3]: Mu’cizat-ı Kur’aniye risale-i nuriyesi tamamıyla bu hakikati ispat etmiş.
 
 Mütercim
 
-[^Hâşiye4]: *
+[^hâşiye4]: *
 
 <img="https://risaleinur.hizmetvakfi.org//wp-content/uploads/2016/02/iicaz_murekkeb.png"/>
 

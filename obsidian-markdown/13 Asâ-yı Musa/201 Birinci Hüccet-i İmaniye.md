@@ -46,7 +46,7 @@ Evet hiçten, birden hârika bir gürültü ile cevvi konuşturmak ve fevkalâde
 
 <p class="arabic" dir="rtl">لَا اِلٰهَ اِلَّا اللّٰهُ الْوَاجِبُ الْوُجُودِ الَّذٖى دَلَّ عَلٰى وُجُوبِ وُجُودِهِ الْجَوُّ بِجَمٖيعِ مَا فٖيهِ بِشَهَادَةِ عَظَمَةِ اِحَاطَةِ حَقٖيقَةِ التَّسْخٖيرِ وَ التَّصْرٖيفِ وَ التَّنْزٖيلِ وَ التَّدْبٖيرِ الْوَاسِعَةِ الْمُكَمَّلَةِ بِالْمُشَاهَدَةِ</p>
 
-fıkrası, bu yolcunun cevve dair mezkûr müşahedatını ifade eder. [^Hâşiye1]
+fıkrası, bu yolcunun cevve dair mezkûr müşahedatını ifade eder. [^hâşiye1]
 
 Sonra o seyahat-i fikriyeye alışan o mütefekkir misafire, **küre-i arz** lisan-ı haliyle diyor ki: “Gökte, fezada, havada ne geziyorsun? Gel, ben sana aradığını tanıttıracağım. Gördüğüm vazifelerime bak ve sahifelerimi oku!” O da bakar görür ki:
 
@@ -470,5 +470,5 @@ denilmiştir.
 
 ***
 
-[^Hâşiye1]: İhtar: Birinci Makam’da geçen otuz üç mertebe-i tevhidi bir parça izah etmek isterdim. Fakat şimdiki vaziyetim ve halimin müsaadesizliği cihetiyle, yalnız gayet muhtasar bürhanlarına ve mealinin tercümesine iktifaya mecbur oldum. Risale-i Nur’un otuz, belki yüz risalelerinde bu otuz üç mertebe, delilleriyle, ayrı ayrı tarzlarda, her bir risalede bir kısım mertebeler beyan edildiğinden tafsili onlara havale edilmiş.
+[^hâşiye1]: İhtar: Birinci Makam’da geçen otuz üç mertebe-i tevhidi bir parça izah etmek isterdim. Fakat şimdiki vaziyetim ve halimin müsaadesizliği cihetiyle, yalnız gayet muhtasar bürhanlarına ve mealinin tercümesine iktifaya mecbur oldum. Risale-i Nur’un otuz, belki yüz risalelerinde bu otuz üç mertebe, delilleriyle, ayrı ayrı tarzlarda, her bir risalede bir kısım mertebeler beyan edildiğinden tafsili onlara havale edilmiş.
 
