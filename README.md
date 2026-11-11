@@ -15,3 +15,8 @@ Türkiye Cumhuriyeti Diyanet İşleri Başkanlığı tarafından hazırlanan tas
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Lisansı" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />Bu eser <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"> Creative Commons Atıf-Türetilemez 4.0 Uluslararası Lisansı</a> ile lisanslanmıştır.
+
+---
+
+### Katkı ve Sürdürülebilirlik
+Bu arşiv, dijital metin araştırmalarına ve açık kaynak çalışmalara nitelikli bir kaynak sunmak amacıyla hazırlanmıştır. Metinlerdeki olası dizgi/aktarım hatalarını **Issue** veya **Pull Request** açarak bildirebilir, açık kaynak çalışmaların sürekliliğine [GitHub Sponsors](https://github.com/sponsors/alitekdemir) üzerinden katkıda bulunabilirsiniz.
